@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Financial News — Lane Deep-Dive</title>
+<style>
+  :root{
+    color-scheme: light;
+    --surface-1:#fcfcfb; --surface-2:#ffffff; --line:#e6e5e1;
+    --text-primary:#0b0b0b; --text-secondary:#52514e; --text-muted:#8a887f;
+    --series-1:#2a78d6;
+    --st-good:#0ca30c; --st-warn:#fab219; --st-serious:#ec835a; --st-critical:#d03b3b;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:where(:not([data-theme="light"])){
+      color-scheme: dark;
+      --surface-1:#1a1a19; --surface-2:#232322; --line:#3a3936;
+      --text-primary:#ffffff; --text-secondary:#c3c2b7; --text-muted:#8a887f;
+      --series-1:#3987e5;
+    }
+  }
+  *{box-sizing:border-box;margin:0}
+  body{font:14px/1.5 -apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       background:var(--surface-1);color:var(--text-primary);padding:34px 40px;max-width:1060px;margin:0 auto}
+  .crumbs{font-size:12px;color:var(--text-muted);margin-bottom:14px}
+  .crumbs a{color:var(--series-1);text-decoration:none}
+  header h1{font-size:23px;letter-spacing:-.02em}
+  header .sub{color:var(--text-secondary);margin-top:4px;font-size:13.5px}
+  .date{color:var(--text-muted);font-size:11.5px;float:right;text-align:right}
+  .tiles{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:22px 0}
+  @media(max-width:860px){.tiles{grid-template-columns:repeat(3,1fr)}}
+  .tile{background:var(--surface-2);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+  .tile b{display:block;font-size:21px;letter-spacing:-.02em}
+  .tile span{font-size:10.5px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.05em}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:860px){.grid2{grid-template-columns:1fr}}
+  .card{background:var(--surface-2);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin-bottom:14px}
+  .card h2{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--text-secondary);margin-bottom:12px}
+  .hbar{display:grid;grid-template-columns:160px 1fr 48px;gap:8px;align-items:center;margin:6px 0;font-size:12.5px}
+  .hbar .lbl{color:var(--text-secondary);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .hbar .track{display:block;height:13px;position:relative}
+  .hbar .fill{display:block;height:13px;border-radius:0 4px 4px 0;background:var(--series-1)}
+  .hbar .val{font-variant-numeric:tabular-nums;font-weight:600;font-size:12px}
+  .rank .fill{background:var(--w)}
+  .rank .lbl b{margin-right:5px;color:var(--w)}
+  .rank .wt{color:var(--text-muted);font-size:10.5px;margin-left:5px}
+  .cols{display:flex;align-items:flex-end;gap:8px;margin-top:6px}
+  .cols .c{flex:1;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;gap:4px}
+  .cols .bar{width:100%;background:var(--series-1);border-radius:4px 4px 0 0;min-height:3px}
+  .cols .v{font-size:11px;font-weight:600;font-variant-numeric:tabular-nums}
+  .cols .d{font-size:10px;color:var(--text-muted)}
+  .note{font-size:11px;color:var(--text-muted);margin-top:8px}
+  ul.why{list-style:none}
+  ul.why li{padding:5px 0 5px 22px;position:relative;font-size:13px}
+  ul.why li::before{content:"✓";position:absolute;left:2px;color:var(--st-good);font-weight:700}
+  ul.no li::before{content:"✕";color:var(--st-critical)}
+  .story{border-left:3px solid var(--st-critical);padding:8px 0 8px 12px;margin:9px 0;background:var(--surface-1);border-radius:0 8px 8px 0}
+  .story b{font-size:13px}
+  .story .m{font-size:11px;color:var(--text-muted);margin-top:3px}
+  table.src{width:100%;border-collapse:collapse;font-size:12px}
+  table.src td{padding:2.5px 0;color:var(--text-secondary)}
+  table.src td:last-child{text-align:right;font-weight:600;color:var(--text-primary);font-variant-numeric:tabular-nums}
+  .two{display:grid;grid-template-columns:1fr 1fr;gap:0 26px;align-items:start}
+  @media(max-width:860px){.two{grid-template-columns:1fr}}
+  .foot{color:var(--text-muted);font-size:11px;border-top:1px solid var(--line);padding-top:12px;margin-top:6px;display:flex;gap:18px;flex-wrap:wrap}
+</style>
+</head>
+<body>
+
+<div class="crumbs"><a href="PRODUCT_OVERVIEW.html">← Product overview</a> · <a href="OVERVIEW_REGULATORY.html">🏛️ Regulatory lane</a> · 📰 Financial News lane</div>
+
+<header>
+  <div class="date">As of Aug 6, 2026<br>Data: live production database</div>
+  <h1>📰 Financial News — Lane Deep-Dive</h1>
+  <div class="sub"><b>25 verified wires worldwide</b>, up to 50 stories each per day, ranked by what actually moves
+    obligor credit risk — not by recency. Copyright-safe by construction: headline + publisher summary + link, never the article body.</div>
+</header>
+
+<div class="tiles">
+  <div class="tile"><b>603</b><span>stories collected</span></div>
+  <div class="tile"><b>25</b><span>verified wires</span></div>
+  <div class="tile"><b>165</b><span>stories today</span></div>
+  <div class="tile"><b>50</b><span>daily cap per source</span></div>
+  <div class="tile"><b>4</b><span>regions covered</span></div>
+  <div class="tile"><b>0</b><span>articles scraped</span></div>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h2>The credit-analyst ranking lens</h2>
+    <div class="hbar rank" style="--w:var(--st-critical)"><span class="lbl"><b>⬤</b>Ratings &amp; credit events</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">50</span></div>
+    <div class="hbar rank" style="--w:var(--st-serious)"><span class="lbl"><b>⬤</b>Central banks &amp; rates</span><span class="track"><span class="fill" style="width:80%"></span></span><span class="val">40</span></div>
+    <div class="hbar rank" style="--w:var(--st-warn)"><span class="lbl"><b>⬤</b>Banking &amp; financials</span><span class="track"><span class="fill" style="width:60%"></span></span><span class="val">30</span></div>
+    <div class="hbar rank" style="--w:var(--series-1)"><span class="lbl"><b>⬤</b>Economy &amp; macro</span><span class="track"><span class="fill" style="width:44%"></span></span><span class="val">22</span></div>
+    <div class="hbar rank" style="--w:var(--series-1)"><span class="lbl"><b>⬤</b>Deals &amp; capital markets</span><span class="track"><span class="fill" style="width:36%"></span></span><span class="val">18</span></div>
+    <div class="hbar rank" style="--w:var(--series-1)"><span class="lbl"><b>⬤</b>Energy &amp; commodities</span><span class="track"><span class="fill" style="width:28%"></span></span><span class="val">14</span></div>
+    <div class="hbar rank" style="--w:var(--text-muted)"><span class="lbl"><b>⬤</b>Markets</span><span class="track"><span class="fill" style="width:16%"></span></span><span class="val">8</span></div>
+    <div class="note">Base weight, plus keyword density, plus a home-market bonus (Canada +6, US +3). A defaulting borrower beats a market rally every time — and the story carries its reason string, so the ranking is auditable, not a black box.</div>
+  </div>
+
+  <div class="card">
+    <h2>What the lens surfaced today</h2>
+    <div class="story"><b>Meal-kit company Goodfood granted creditor protection, may sell business</b>
+      <div class="m">BNN Bloomberg · Canada · rank 76 — <i>ratings &amp; credit events +50; 2 signal terms; CA market</i></div></div>
+    <div class="story" style="border-color:var(--st-serious)"><b>Fed’s Daly supported rate decision, warns of inflation risks</b>
+      <div class="m">Financial Post · Canada · rank 70 — <i>central banks &amp; rates +40; 3 signal terms</i></div></div>
+    <div class="story" style="border-color:var(--st-warn)"><b>Philippine bond slump to extend on inflation worry, analysts say</b>
+      <div class="m">Financial Post · rank 64 — <i>central banks &amp; rates +40; 2 signal terms</i></div></div>
+    <div class="note">Out of 165 stories today, a Canadian borrower entering creditor protection ranked #1 — the exact triage a credit analyst does by hand each morning, done before they open the dashboard.</div>
+  </div>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h2>Daily volume — lane ramp-up</h2>
+    <div class="cols">
+      <div class="c"><span class="v">5</span><span class="bar" style="height:2px"></span><span class="d">Aug 1</span></div>
+      <div class="c"><span class="v">19</span><span class="bar" style="height:6px"></span><span class="d">Aug 2</span></div>
+      <div class="c"><span class="v">46</span><span class="bar" style="height:14px"></span><span class="d">Aug 3</span></div>
+      <div class="c"><span class="v">139</span><span class="bar" style="height:43px"></span><span class="d">Aug 4</span></div>
+      <div class="c"><span class="v">229</span><span class="bar" style="height:70px"></span><span class="d">Aug 5</span></div>
+      <div class="c"><span class="v">165</span><span class="bar" style="height:50px"></span><span class="d">Aug 6</span></div>
+    </div>
+    <div class="note">Steady state is roughly 150–250 stories/day across the wires. The dashboard keeps every prior day browsable, so “what was the market saying when this deal was underwritten?” is a click, not an archive request.</div>
+    <h2 style="margin-top:18px">Coverage by region — 603 stories</h2>
+    <div class="hbar"><span class="lbl">United States</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">245</span></div>
+    <div class="hbar"><span class="lbl">World / APAC</span><span class="track"><span class="fill" style="width:60%"></span></span><span class="val">148</span></div>
+    <div class="hbar"><span class="lbl">Canada</span><span class="track"><span class="fill" style="width:46%"></span></span><span class="val">112</span></div>
+    <div class="hbar"><span class="lbl">UK &amp; EU</span><span class="track"><span class="fill" style="width:40%"></span></span><span class="val">98</span></div>
+  </div>
+
+  <div class="card">
+    <h2>The 25 wires — stories collected to date</h2>
+    <div class="two"><table class="src"><tr><td>WSJ — Markets</td><td>50</td></tr><tr><td>NYT — Business</td><td>50</td></tr><tr><td>Globe &amp; Mail — ROB</td><td>50</td></tr><tr><td>Economic Times — Markets</td><td>50</td></tr><tr><td>Nikkei Asia</td><td>50</td></tr><tr><td>BNN Bloomberg</td><td>50</td></tr><tr><td>SCMP — Business</td><td>44</td></tr><tr><td>Guardian — Business</td><td>40</td></tr><tr><td>BBC News — Business</td><td>37</td></tr><tr><td>Yahoo Finance</td><td>36</td></tr><tr><td>CBS MoneyWatch</td><td>30</td></tr><tr><td>Forbes — Business</td><td>25</td></tr><tr><td>CNBC — Finance</td><td>14</td></tr></table><table class="src"><tr><td>MarketWatch</td><td>10</td></tr><tr><td>Fortune</td><td>10</td></tr><tr><td>Financial Post</td><td>10</td></tr><tr><td>Business Insider — Markets</td><td>10</td></tr><tr><td>American Banker</td><td>10</td></tr><tr><td>Sky News — Business</td><td>9</td></tr><tr><td>Financial Times</td><td>9</td></tr><tr><td>The Economist — Finance</td><td>3</td></tr><tr><td>Deutsche Welle — Business</td><td>3</td></tr><tr><td>CBC News Business</td><td>2</td></tr><tr><td>France 24 — Business</td><td>1</td></tr><tr><td>Al Jazeera — Economy</td><td>0</td></tr></table></div>
+    <div class="note">Volume differences are editorial, not technical — high-frequency wires hit the 50-story cap daily; weeklies like The Economist publish a handful. All 25 passed live verification.</div>
+  </div>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h2>Copyright &amp; ToS posture — deliberate, not incidental</h2>
+    <ul class="why">
+      <li><b>We store</b> the headline, the publisher’s own feed summary, the link, and the timestamp.</li>
+      <li><b>Enforced in code</b> — the news pipeline has no article-fetch path at all; an automated test fails the build if one is ever introduced.</li>
+      <li><b>Attribution on every record</b> — each story links back to the publisher, who keeps the reader and the full text.</li>
+    </ul>
+    <ul class="why no" style="margin-top:6px">
+      <li><b>We never</b> fetch, store, or republish article bodies — including from paywalled sources.</li>
+    </ul>
+  </div>
+
+  <div class="card">
+    <h2>Where licensed feeds plug in</h2>
+    <div style="font-size:12.5px;color:var(--text-secondary);line-height:1.55">
+      Bloomberg, Reuters/LSEG, and the ratings agencies (S&amp;P, Moody’s, Fitch) retired their public feeds — their content is licensed. The lane was built to receive them: a licensed feed is <b>a config file, not a code change</b>, and full-text rights would simply widen what we may store.
+      <br><br>For first-hand ratings actions — the single highest-value addition for a credit desk — an agency subscription is the procurement step; the platform side is already done.
+    </div>
+    <div class="note">Today the credit-events bucket is populated by second-hand coverage (BNN, Globe, WSJ). It works, but a direct ratings feed would make it authoritative.</div>
+  </div>
+</div>
+
+<div class="foot">
+  <span>Dashboard: /api/regagg/ui#news</span>
+  <span>Day navigation · topic &amp; region filters · full-text search · per-source panel</span>
+  <span><a href="OVERVIEW_REGULATORY.html" style="color:var(--series-1)">← Regulatory lane</a></span>
+</div>
+
+</body>
+</html>
