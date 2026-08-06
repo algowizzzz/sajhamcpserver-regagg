@@ -131,3 +131,44 @@ def test_news_dashboard_ranks_credit_events_first(session, storage):
     assert d["stories"][1]["topic"] == "markets"
     assert d["stories"][0]["rank"] > d["stories"][1]["rank"]
     assert "credit" in d["stories"][0]["why"] or "signal" in d["stories"][0]["why"]
+
+
+def test_exec_payloads_feed_the_three_pages(session, storage):
+    """Home + both lane pages are pure functions of the database."""
+    from sajha.regagg import queries_ui as q
+    _seed_news(session)
+    session.add(Regulator(regulator_id="osfi", name="OSFI", jurisdiction="CA",
+                          connector="sitemap_diff", config={}))
+    session.commit()
+    cfg, opener = _news_cfg(feed_items=4)
+    run_regulator(session, storage, cfg, opener, ExplodingFetcher(),
+                  run_id="2026-08-05_bbc_business_t4",
+                  logical_date="2026-08-05", now=NOW)
+
+    s = q.exec_summary(session)
+    assert s["tiles"]["news_sources"] == 1 and s["tiles"]["regulators"] == 1
+    assert {r["region"] for r in s["regions"]} == {"Financial News"}
+    assert s["lanes"]["news"]["documents"] == 4
+
+    n = q.exec_news(session, storage=storage)
+    assert n["tiles"]["stories"] == 4 and n["tiles"]["scraped"] == 0
+    # the lens is ordered by credit impact, heaviest first
+    weights = [x["weight"] for x in n["lens"]]
+    assert weights == sorted(weights, reverse=True) and n["lens"][0]["key"] == "credit"
+    assert len(n["sources"]) == 1 and n["volume"]
+
+    r = q.exec_regulatory(session)
+    assert r["tiles"]["sources"] == 1          # news never leaks into the reg lane
+    assert all(x["regulator_id"] == "osfi" for x in r["league"])
+
+
+def test_news_sources_are_reachable_by_region_filter(session, storage):
+    """The 'Financial News' deep-link from the lane page must actually filter."""
+    from sajha.regagg.queries_ui import corpus_browse
+    _seed_news(session)
+    cfg, opener = _news_cfg(feed_items=3)
+    run_regulator(session, storage, cfg, opener, ExplodingFetcher(),
+                  run_id="2026-08-05_bbc_business_t5",
+                  logical_date="2026-08-05", now=NOW)
+    assert corpus_browse(session, region="Financial News")["total"] == 3
+    assert corpus_browse(session, region="EU & UK")["total"] == 0   # not by jurisdiction

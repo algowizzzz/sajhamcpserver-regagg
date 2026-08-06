@@ -26,6 +26,14 @@ REGION_ORDER = ["Canada", "United States", "EU & UK", "APAC", "International",
                 "Financial News"]   # news category = its own top-level section
 
 
+def region_of(reg) -> str:
+    """The single region rule: news sources form their own section; everything
+    else maps by jurisdiction. Used by the tree, corpus browse and exec pages."""
+    if getattr(reg, "category", "regulatory") == "news":
+        return "Financial News"
+    return REGION_OF.get(reg.jurisdiction, "International")
+
+
 def _tzaware(dt: Optional[datetime]) -> Optional[datetime]:
     if dt is not None and dt.tzinfo is None:
         return dt.replace(tzinfo=timezone.utc)
@@ -67,8 +75,7 @@ def coverage_tree(session, days: int = 7, now: Optional[datetime] = None) -> dic
 
     regions: Dict[str, dict] = {r: {"region": r, "institutions": []} for r in REGION_ORDER}
     for rid, reg in sorted(regs.items()):
-        region = ("Financial News" if getattr(reg, "category", "regulatory") == "news"
-                  else REGION_OF.get(reg.jurisdiction, "International"))
+        region = region_of(reg)
         run = last_runs.get(rid)
         li = _tzaware(last_docs.get(rid))
         stale_days = (now - li).days if li else None
@@ -212,7 +219,7 @@ def corpus_browse(session, storage=None, *, region: Optional[str] = None,
     allowed: Optional[set] = set(regulator_ids) if regulator_ids else None
     if region:
         in_region = {r.regulator_id for r in session.scalars(select(Regulator)).all()
-                     if REGION_OF.get(r.jurisdiction, "International") == region}
+                     if region_of(r) == region}
         allowed = (allowed & in_region) if allowed is not None else in_region
 
     def _scope(stmt):
@@ -293,7 +300,7 @@ def changes(session, days: int = 7, now: Optional[datetime] = None,
     allowed: Optional[set] = set(regulator_ids) if regulator_ids else None
     if region:
         in_region = {r.regulator_id for r in session.scalars(select(Regulator)).all()
-                     if REGION_OF.get(r.jurisdiction, "International") == region}
+                     if region_of(r) == region}
         allowed = (allowed & in_region) if allowed is not None else in_region
 
     out: List[dict] = []
@@ -688,4 +695,181 @@ def news_dashboard(session, storage=None, day: Optional[str] = None,
                             "count": c} for rid, c in source_counts.items()),
                           key=lambda s: -s["count"]),
         "regions": sorted({s["region"] for s in stories}),
+    }
+
+
+# ── executive pages (home + the two lane deep-dives) ────────────────────────
+# Every section of those pages is one key in these payloads — the HTML holds no
+# numbers of its own, so the pages are always as current as the database.
+
+def _lane_ids(session):
+    regs = list(session.scalars(select(Regulator)).all())
+    news = {r.regulator_id for r in regs if getattr(r, "category", "regulatory") == "news"}
+    return regs, news, {r.regulator_id for r in regs} - news
+
+
+def _band_counts(session, ids) -> dict:
+    rows = session.execute(
+        select(Document.materiality_band, func.count())
+        .where(Document.regulator_id.in_(ids or [""]))
+        .group_by(Document.materiality_band)).all()
+    return {b: c for b, c in rows}
+
+
+def _collecting(session, ids) -> int:
+    rows = session.execute(
+        select(Document.regulator_id, func.count())
+        .where(Document.regulator_id.in_(ids or [""]))
+        .group_by(Document.regulator_id)).all()
+    return sum(1 for _, c in rows if c)
+
+
+def exec_summary(session, days: int = 1) -> dict:
+    """Home page: the whole product in six tiles and three charts."""
+    regs, news_ids, reg_ids = _lane_ids(session)
+    by_name = {r.regulator_id: r for r in regs}
+    docs = session.scalar(select(func.count()).select_from(Document)) or 0
+    pdfs = session.scalar(select(func.count()).select_from(Document)
+                          .where(Document.source_kind == "policy_pdf")) or 0
+    versions = session.scalar(select(func.count()).select_from(DocumentVersion)) or 0
+    archived = session.scalar(select(func.count()).select_from(DocumentVersion)
+                              .where(DocumentVersion.state == "archived")) or 0
+    runs = session.scalar(select(func.count()).select_from(Run)) or 0
+    ok_runs = session.scalar(select(func.count()).select_from(Run)
+                             .where(Run.status.like("success%"))) or 0
+
+    region_rows = session.execute(
+        select(Document.regulator_id, func.count()).group_by(Document.regulator_id)).all()
+    regions: Dict[str, int] = defaultdict(int)
+    for rid, c in region_rows:
+        if rid in by_name:
+            regions[region_of(by_name[rid])] += c
+    order = [r for r in REGION_ORDER if regions.get(r)]
+
+    cutoff = datetime.now(timezone.utc) - timedelta(days=days)
+    new_docs = session.scalar(select(func.count()).select_from(Document)
+                              .where(Document.ingested_at >= cutoff)) or 0
+    return {
+        "tiles": {"documents": docs, "sources": len(regs),
+                  "regulators": len(reg_ids), "news_sources": len(news_ids),
+                  "policy_pdfs": pdfs, "versions": versions, "archived": archived,
+                  "critical": _band_counts(session, reg_ids).get("Critical", 0),
+                  "runs": runs,
+                  "pass_rate": round(100 * ok_runs / runs) if runs else 0,
+                  "new": new_docs, "days": days},
+        "regions": [{"region": r, "count": regions[r]} for r in order],
+        "bands": _band_counts(session, reg_ids),
+        "news_volume": news_daily_volume(session, news_ids),
+        "lanes": {
+            "regulatory": {"sources": len(reg_ids),
+                           "collecting": _collecting(session, reg_ids),
+                           "documents": sum(c for rid, c in region_rows if rid in reg_ids)},
+            "news": {"sources": len(news_ids),
+                     "collecting": _collecting(session, news_ids),
+                     "documents": sum(c for rid, c in region_rows if rid in news_ids)},
+        },
+    }
+
+
+def news_daily_volume(session, news_ids=None, limit: int = 14) -> List[dict]:
+    if news_ids is None:
+        _, news_ids, _ = _lane_ids(session)
+    day_col = func.coalesce(Document.published_date, func.date(Document.ingested_at))
+    rows = session.execute(
+        select(day_col, func.count()).where(Document.regulator_id.in_(news_ids or [""]))
+        .group_by(day_col).order_by(day_col.desc()).limit(limit)).all()
+    return [{"day": str(d), "count": c} for d, c in reversed(rows) if d]
+
+
+def exec_regulatory(session, top: int = 10) -> dict:
+    """Regulatory lane deep-dive: league table, mix, bands, top holdings."""
+    regs, _, reg_ids = _lane_ids(session)
+    by_id = {r.regulator_id: r for r in regs}
+
+    league_rows = session.execute(
+        select(Document.regulator_id, func.count(),
+               func.sum(func.iif(Document.source_kind == "policy_pdf", 1, 0)))
+        .where(Document.regulator_id.in_(reg_ids or [""]))
+        .group_by(Document.regulator_id).order_by(func.count().desc())).all()
+    league = [{"regulator_id": rid,
+               "name": by_id[rid].name if rid in by_id else rid,
+               "jurisdiction": by_id[rid].jurisdiction if rid in by_id else "",
+               "documents": c, "policy_pdfs": int(p or 0)}
+              for rid, c, p in league_rows]
+
+    types = [{"doc_type": dt, "count": c} for dt, c in session.execute(
+        select(Document.doc_type, func.count())
+        .where(Document.regulator_id.in_(reg_ids or [""]))
+        .group_by(Document.doc_type).order_by(func.count().desc())).all()]
+
+    top_docs = [{"regulator_id": d.regulator_id, "doc_id": d.doc_id, "title": d.title,
+                 "score": d.materiality_score, "band": d.materiality_band,
+                 "reason": d.materiality_reason, "doc_type": d.doc_type}
+                for d in session.scalars(
+                    select(Document).where(Document.regulator_id.in_(reg_ids or [""]),
+                                           Document.materiality_band == "Critical")
+                    .order_by(Document.materiality_score.desc(),
+                              Document.ingested_at.desc()).limit(5)).all()]
+
+    arch_rows = session.execute(
+        select(DocumentVersion.regulator_id, func.count())
+        .where(DocumentVersion.state == "archived")
+        .group_by(DocumentVersion.regulator_id)
+        .order_by(func.count().desc()).limit(6)).all()
+
+    versions = session.scalar(select(func.count()).select_from(DocumentVersion)
+                              .where(DocumentVersion.regulator_id.in_(reg_ids or [""]))) or 0
+    archived = sum(c for _, c in arch_rows)
+    return {
+        "tiles": {"documents": sum(x["documents"] for x in league),
+                  "sources": len(reg_ids), "collecting": _collecting(session, reg_ids),
+                  "policy_pdfs": sum(x["policy_pdfs"] for x in league),
+                  "versions": versions, "archived": archived},
+        "league": league[:top], "league_rest": len(league) - min(top, len(league)),
+        "doc_types": types, "bands": _band_counts(session, reg_ids),
+        "top_docs": top_docs,
+        "archived_by": [{"regulator_id": rid,
+                         "name": by_id[rid].name if rid in by_id else rid,
+                         "count": c} for rid, c in arch_rows],
+    }
+
+
+def exec_news(session, storage=None) -> dict:
+    """News lane deep-dive: the ranking lens, volume, reach, today's proof."""
+    regs, news_ids, _ = _lane_ids(session)
+    by_id = {r.regulator_id: r for r in regs}
+    caps = {r.regulator_id for r in regs}
+
+    rows = session.execute(
+        select(Document.regulator_id, func.count())
+        .where(Document.regulator_id.in_(news_ids or [""]))
+        .group_by(Document.regulator_id)).all()
+    counts = {rid: c for rid, c in rows}
+    sources = sorted(({"regulator_id": rid,
+                       "name": by_id[rid].name if rid in by_id else rid,
+                       "jurisdiction": by_id[rid].jurisdiction if rid in by_id else "",
+                       "count": counts.get(rid, 0)} for rid in news_ids),
+                     key=lambda s: (-s["count"], s["name"]))
+
+    regions: Dict[str, int] = defaultdict(int)
+    for rid, c in rows:
+        j = by_id[rid].jurisdiction if rid in by_id else ""
+        regions[{"Canada": "Canada", "US": "United States",
+                 "UK": "UK & EU", "EU": "UK & EU"}.get(j, "World / APAC")] += c
+
+    today = news_dashboard(session, storage=storage)
+    topic_counts = {t["key"]: t["count"] for t in today.get("topics", [])}
+    lens = [{"key": k, "label": label, "weight": w, "count": topic_counts.get(k, 0)}
+            for k, label, w, _ in NEWS_TOPICS]
+    return {
+        "tiles": {"stories": sum(counts.values()), "sources": len(news_ids),
+                  "today": len(today.get("stories", [])),
+                  "reporting_today": len(today.get("sources", [])),
+                  "cap": 50, "regions": len(regions), "scraped": 0},
+        "day": today.get("day"), "lens": lens,
+        "volume": news_daily_volume(session, news_ids),
+        "regions": sorted(({"region": r, "count": c} for r, c in regions.items()),
+                          key=lambda x: -x["count"]),
+        "sources": sources,
+        "proof": today.get("stories", [])[:3],
     }

@@ -285,6 +285,75 @@
   .volbar>div{flex:1;background:var(--blue);opacity:.75;border-radius:2px 2px 0 0;min-height:2px;cursor:pointer}
   .volbar>div.sel{opacity:1;outline:2px solid var(--blue)}
   .daynav{display:flex;gap:6px;align-items:center}
+
+  /* ── executive pages: home + the two lane deep-dives ── */
+  .xhero{margin:22px 0 6px;font-size:22px;font-weight:700;letter-spacing:-.02em}
+  .xsub{color:var(--muted);font-size:13px;margin-bottom:20px;max-width:820px;line-height:1.55}
+  .xdate{float:right;color:var(--muted);font-size:11px;text-align:right;line-height:1.45}
+  .xtiles{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:0 0 16px}
+  @media(max-width:900px){.xtiles{grid-template-columns:repeat(3,1fr)}}
+  .xcard{background:var(--surface);border:1px solid var(--line);border-radius:12px;
+    padding:15px 17px;margin-bottom:14px;box-shadow:var(--shadow)}
+  .xcard h3{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);
+    margin-bottom:11px;font-weight:600}
+  .xcard h3 .plain{text-transform:none;letter-spacing:0;font-weight:400}
+  .xgrid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:900px){.xgrid{grid-template-columns:1fr}}
+  .xbar{display:grid;grid-template-columns:var(--lw,140px) 1fr 56px;gap:8px;align-items:center;
+    margin:6px 0;font-size:12.5px}
+  .xbar .lbl{color:var(--ink2);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .xbar .lbl b{margin-right:5px;color:var(--c)}
+  .xbar .track{display:block;height:13px}
+  .xbar .fill{display:block;position:relative;height:13px;border-radius:0 4px 4px 0;
+    background:var(--c,var(--blue))}
+  .xbar .sub{position:absolute;right:0;top:0;height:13px;background:var(--muted);
+    border-radius:0 4px 4px 0;box-shadow:-2px 0 0 var(--surface)}
+  .xbar .val{font-variant-numeric:tabular-nums;font-weight:650;font-size:12px}
+  .xbar.clickable{cursor:pointer}
+  .xbar.clickable:hover .lbl{color:var(--blue)}
+  .xlegend{font-size:11px;color:var(--muted);display:flex;gap:14px;margin-bottom:7px}
+  .xlegend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;
+    vertical-align:-1px;font-style:normal}
+  .xcols{display:flex;align-items:flex-end;gap:7px;margin-top:4px}
+  .xcols .c{flex:1;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;
+    gap:3px;cursor:pointer}
+  .xcols .c:hover .bar{opacity:.75}
+  .xcols .bar{width:100%;background:var(--blue);border-radius:4px 4px 0 0;min-height:3px}
+  .xcols .v{font-size:11px;font-weight:650;font-variant-numeric:tabular-nums}
+  .xcols .d{font-size:9.5px;color:var(--muted)}
+  .xnote{font-size:11px;color:var(--muted);margin-top:9px;line-height:1.5}
+  .xlist{list-style:none}
+  .xlist li{padding:6px 0;border-bottom:1px solid var(--line);font-size:12.5px;cursor:pointer}
+  .xlist li:last-child{border-bottom:0}
+  .xlist li:hover b{color:var(--blue)}
+  .xlist .sc{float:right;font-weight:700;color:var(--red);font-variant-numeric:tabular-nums}
+  .xlist .rz{display:block;color:var(--muted);font-size:11px;margin-top:2px}
+  .xstory{border-left:3px solid var(--c,var(--red));padding:7px 0 7px 11px;margin:8px 0;
+    background:var(--surface2);border-radius:0 8px 8px 0;cursor:pointer}
+  .xstory:hover b{color:var(--blue)}
+  .xstory b{font-size:12.5px}
+  .xstory .m{font-size:10.5px;color:var(--muted);margin-top:3px}
+  /* the two lane cards on home */
+  .lanes{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px}
+  @media(max-width:900px){.lanes{grid-template-columns:1fr}}
+  .lane{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px;
+    cursor:pointer;transition:box-shadow .15s,transform .15s;position:relative;box-shadow:var(--shadow)}
+  .lane:hover{box-shadow:0 6px 22px rgba(15,40,80,.10);transform:translateY(-2px);border-color:var(--blue)}
+  .lane .ic{font-size:24px}
+  .lane h2{margin:9px 0 4px;font-size:16.5px}
+  .lane p{color:var(--muted);font-size:12.5px;margin:0 0 13px;line-height:1.5}
+  .lane .st{display:flex;gap:20px;flex-wrap:wrap}
+  .lane .st b{display:block;font-size:18px;letter-spacing:-.02em}
+  .lane .st span{font-size:10.5px;color:var(--muted)}
+  .lane .go{position:absolute;top:18px;right:18px;color:var(--blue);font-weight:600;font-size:12.5px}
+  /* "where to go next" launchers */
+  .jump{display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));gap:9px}
+  .jump a{display:block;border:1px solid var(--line);border-radius:10px;padding:11px 13px;
+    background:var(--surface2);cursor:pointer;color:var(--ink)}
+  .jump a:hover{border-color:var(--blue);background:var(--blue-soft)}
+  .jump a b{display:block;font-size:12.5px;margin-bottom:2px}
+  .jump a span{font-size:11px;color:var(--muted);line-height:1.4;display:block}
+  .navsep{width:1px;height:20px;background:var(--line);margin:0 4px;align-self:center}
 </style>
 </head>
 <body>
@@ -292,13 +361,15 @@
   <div class="brand"><div class="logo">R</div>Regulatory Intelligence</div>
   <div class="nav">
     <button class="on" id="nHome" onclick="show('home')">Home</button>
-    <button id="nOvw" onclick="show('ovw')">Regulatory</button>
-    <button id="nNews" onclick="show('news')">News</button>
+    <button id="nOvw" onclick="show('ovw')">🏛️ Regulatory</button>
+    <button id="nNews" onclick="show('news')">📰 News</button>
+    <span class="navsep"></span>
+    <button id="nFeed" onclick="show('feed')">Story feed</button>
     <button id="nCov" onclick="show('cov')">Coverage</button>
     <button id="nBrw" onclick="show('brw')">Corpus</button>
-    <button id="nExp" onclick="show('exp')">Explorer</button>
     <button id="nChg" onclick="show('chg')">Changes</button>
-    <button id="nRun" onclick="show('run')">Collection runs</button>
+    <button id="nRun" onclick="show('run')">Runs</button>
+    <button id="nExp" onclick="show('exp')">Explorer</button>
   </div>
   <div class="spacer"></div>
   <label style="color:var(--muted);font-size:12px">Window
@@ -311,29 +382,70 @@
 
 <div class="page">
   <div class="view on" id="v-home">
-    <div class="home-hero">Market &amp; Regulatory Intelligence</div>
-    <div class="home-sub">One place to watch what regulators publish and what the market is saying — built for credit &amp; risk analysts.</div>
-    <div class="mcards">
-      <div class="mcard" onclick="show('ovw')">
-        <span class="go">Open →</span>
-        <div class="mic">🏛️</div>
-        <h2>Regulatory Intelligence</h2>
-        <p>Binding rules, guidance, consultations and enforcement from 30 regulators across Canada, the US, EU &amp; UK, APAC and the standard-setters — versioned, diffed and ranked by materiality.</p>
-        <div class="mstats" id="hmRegStats"><div><b>…</b><span>documents</span></div></div>
-      </div>
-      <div class="mcard" onclick="show('news')">
-        <span class="go">Open →</span>
-        <div class="mic">📰</div>
-        <h2>Financial News</h2>
-        <p>Top stories from 25 verified financial news wires worldwide, refreshed daily and ranked through a credit-analyst lens — credit events and central banks first, noise last.</p>
-        <div class="mstats" id="hmNewsStats"><div><b>…</b><span>stories today</span></div></div>
-      </div>
+    <div class="xdate" id="xhDate">live production data</div>
+    <div class="xhero">Market &amp; Regulatory Intelligence</div>
+    <div class="xsub">One platform, two lanes — what regulators publish and what the market is saying,
+      collected daily, versioned, and ranked through a <b>credit-analyst lens</b>.
+      No LLM in the scoring path: every number below is deterministic, explainable, and live from the database.</div>
+    <div class="xtiles" id="xhTiles"></div>
+    <div class="lanes" id="xhLanes"></div>
+    <div class="xgrid">
+      <div class="xcard"><h3 id="xhRegionsHead">Corpus by coverage area</h3>
+        <div id="xhRegions" class="empty">loading…</div>
+        <div class="xnote">Click any area to browse its documents.</div></div>
+      <div class="xcard"><h3>Regulatory materiality — deterministic score</h3>
+        <div id="xhBands" class="empty">loading…</div>
+        <div class="xnote">score = doc-type base × regulator tier + topic + deadline proximity +
+          revision size. Click a band to see those documents.</div></div>
+    </div>
+    <div class="xgrid">
+      <div class="xcard"><h3>Financial news — daily volume</h3>
+        <div class="xcols" id="xhVol"></div>
+        <div class="xnote">Click a day to open that day's ranked story feed.</div></div>
+      <div class="xcard"><h3>Operational footprint</h3>
+        <div id="xhOps"></div></div>
     </div>
   </div>
 
   <div class="view" id="v-ovw">
-    <div id="ovwHead" class="headline">loading…</div>
-    <div class="tiles" id="ovwTiles"></div>
+    <div class="xdate" id="xrDate">live production data</div>
+    <div class="xhero">🏛️ Regulatory Intelligence</div>
+    <div class="xsub">Binding rules, guidance, consultations and enforcement from
+      <b id="xrCount">30 regulators</b> — versioned in an append-only archive, diffed
+      line-by-line, and ranked by materiality.</div>
+    <div class="xtiles" id="xrTiles"></div>
+    <div class="xgrid">
+      <div class="xcard"><h3>Deepest holdings <span class="plain" id="xrLeagueSub"></span></h3>
+        <div class="xlegend"><span><i style="background:var(--blue)"></i>documents</span>
+          <span><i style="background:var(--muted)"></i>of which policy PDFs</span></div>
+        <div id="xrLeague" class="empty">loading…</div>
+        <div class="xnote" id="xrLeagueNote"></div></div>
+      <div class="xcard"><h3>What the corpus contains — by document type</h3>
+        <div id="xrTypes" class="empty">loading…</div>
+        <div class="xnote">Typing is conservative: a page is labelled “final rule” only when its
+          URL pattern proves it. Click a type to browse it.</div>
+        <h3 style="margin-top:16px">Materiality bands</h3>
+        <div id="xrBands"></div></div>
+    </div>
+    <div class="xgrid">
+      <div class="xcard"><h3>Highest-materiality holdings right now</h3>
+        <ul class="xlist" id="xrTop"></ul></div>
+      <div class="xcard"><h3>Change tracking — the audit trail</h3>
+        <div id="xrArchived"></div>
+        <div class="xnote">When a rule page changes, the prior text is archived first, then diffed —
+          nothing is overwritten. Click a regulator to see its changes.</div></div>
+    </div>
+    <div class="xcard"><h3>Where to go next</h3>
+      <div class="jump">
+        <a onclick="show('cov')"><b>Coverage tree →</b><span>Every regulator by region, with freshness and per-source run controls</span></a>
+        <a onclick="jumpCorpus('')"><b>Browse the corpus →</b><span>Filter 5,969 documents by region, institution, type, band and date</span></a>
+        <a onclick="show('chg')"><b>Changes feed →</b><span>What was published or revised, priority-ranked</span></a>
+        <a onclick="show('run')"><b>Collection runs →</b><span>Daily run health, pass rate, live progress</span></a>
+        <a onclick="show('exp')"><b>File explorer →</b><span>The raw archive as a nested folder tree</span></a>
+        <a onclick="openAddDoc()"><b>Add a document →</b><span>Manually file a PDF or URL into the corpus</span></a>
+      </div></div>
+    <div id="ovwHead" class="headline" style="display:none"></div>
+    <div class="tiles" id="ovwTiles" style="display:none"></div>
     <div id="ovwPriority"></div>
     <div class="simple-card">
       <div class="simple-head"><b>Sources</b>
@@ -344,7 +456,44 @@
     </div>
   </div>
 
-  <div class="view" id="v-news">
+  <div class="view" id="v-newslane">
+    <div class="xdate" id="xnDate">live production data</div>
+    <div class="xhero">📰 Financial News</div>
+    <div class="xsub"><b id="xnCount">25 verified wires</b> worldwide, up to 50 stories each per day,
+      ranked by what actually moves obligor credit risk — not by recency. Copyright-safe by construction:
+      headline + publisher summary + link, never the article body.</div>
+    <div class="xtiles" id="xnTiles"></div>
+    <div class="xgrid">
+      <div class="xcard"><h3>The credit-analyst ranking lens</h3>
+        <div id="xnLens" class="empty">loading…</div>
+        <div class="xnote">Bars are the topic weight; the count is today's stories in that bucket.
+          Plus keyword density and a home-market bonus (Canada +6, US +3). Click a topic to open it.</div></div>
+      <div class="xcard"><h3>What the lens surfaced <span class="plain" id="xnDay"></span></h3>
+        <div id="xnProof"></div>
+        <div class="xnote">Top-ranked stories today, each with the reason it scored where it did.</div></div>
+    </div>
+    <div class="xgrid">
+      <div class="xcard"><h3>Daily volume</h3>
+        <div class="xcols" id="xnVol"></div>
+        <div class="xnote">Click a day to open that day's feed — “what was the market saying when this
+          deal was underwritten?” is a click, not an archive request.</div>
+        <h3 style="margin-top:16px">Coverage by region</h3>
+        <div id="xnRegions"></div></div>
+      <div class="xcard"><h3>The wires <span class="plain" id="xnSrcSub"></span></h3>
+        <div id="xnSources" style="max-height:290px;overflow:auto"></div>
+        <div class="xnote">Volume differences are editorial, not technical — high-frequency wires hit the
+          50-story cap daily; weeklies publish a handful. Click a wire to browse its stories.</div></div>
+    </div>
+    <div class="xcard"><h3>Where to go next</h3>
+      <div class="jump">
+        <a onclick="show('feed')"><b>Today's story feed →</b><span>All stories ranked, with topic/region filters, search and day navigation</span></a>
+        <a onclick="jumpCorpus('Financial News')"><b>Browse news corpus →</b><span>Every story ever collected, filterable by wire and date</span></a>
+        <a onclick="show('cov')"><b>Wire coverage →</b><span>All 25 sources with counts, freshness and per-wire run controls</span></a>
+        <a onclick="show('run')"><b>Collection runs →</b><span>Daily ingestion health across the wires</span></a>
+      </div></div>
+  </div>
+
+  <div class="view" id="v-feed">
     <div class="fbar">
       <div class="daynav">
         <button class="btn sm" onclick="newsDay(-1)">◀</button>
@@ -390,6 +539,12 @@
         <option value="">All doc types</option></select>
       <select id="bStatus" onchange="loadCorpus(true)">
         <option value="">All statuses</option></select>
+      <select id="bBand" onchange="loadCorpus(true)">
+        <option value="">All priorities</option>
+        <option value="Critical">Critical</option>
+        <option value="High">High</option>
+        <option value="Medium">Medium</option>
+        <option value="Low">Low</option></select>
       <input id="bQ" placeholder="Search title / reference…" style="flex:1;min-width:160px;
         font:inherit;color:var(--ink);background:var(--surface2);border:1px solid var(--line);
         border-radius:7px;padding:4px 9px" onkeydown="if(event.key==='Enter')loadCorpus(true)">
@@ -502,14 +657,164 @@ async function j(u){const r=await fetch(API+u);if(!r.ok)throw new Error(u+" -> "
 let _t;function toast(m){const t=$("toast");t.textContent=m;t.classList.add("show");
   clearTimeout(_t);_t=setTimeout(()=>t.classList.remove("show"),2600)}
 function show(which,push=true){
-  for(const [v,n] of [["home","nHome"],["ovw","nOvw"],["news","nNews"],["cov","nCov"],
-                      ["brw","nBrw"],["exp","nExp"],["chg","nChg"],["run","nRun"]]){
+  for(const [v,n] of [["home","nHome"],["ovw","nOvw"],["newslane","nNews"],["feed","nFeed"],
+                      ["cov","nCov"],["brw","nBrw"],["exp","nExp"],["chg","nChg"],["run","nRun"]]){
     $("v-"+v).classList.toggle("on",v===which);$(n).classList.toggle("on",v===which);}
   if(push)location.hash=which==="home"?"":which;
-  if(which==="news"&&!window._newsLoaded){window._newsLoaded=1;loadNews();}
+  window.scrollTo(0,0);
+  if(which==="newslane"&&!window._newsLaneLoaded){window._newsLaneLoaded=1;loadNewsLane();}
+  if(which==="ovw"&&!window._regLaneLoaded){window._regLaneLoaded=1;loadRegLane();}
+  if(which==="feed"&&!window._newsLoaded){window._newsLoaded=1;loadNews();}
   if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
   if(which==="exp"&&!window._expLoaded){window._expLoaded=1;loadExplorer();}
 }
+
+/* ── executive pages: every section bound to /exec/* ──────── */
+const BAND_C={Critical:"var(--red)",High:"#ec835a",Medium:"var(--amber)",Low:"var(--green)"};
+const TOPIC_C={credit:"var(--red)",rates:"#ec835a",banking:"var(--amber)",economy:"var(--blue)",
+               deals:"var(--blue)",energy:"var(--blue)",markets:"var(--muted)",general:"var(--muted)"};
+function xtile(v,l,cls=""){return `<div class="tile"><b class="${cls}">${v}</b><span>${l}</span></div>`}
+function xbars(rows,{color,labelWidth=140,click}={}){
+  const max=Math.max(...rows.map(r=>r.value),1);
+  return rows.map((r,i)=>{
+    const c=color?(typeof color==="function"?color(r,i):color):"var(--blue)";
+    const sub=r.sub?`<span class="sub" style="width:${(r.sub/r.value*100).toFixed(1)}%"></span>`:"";
+    return `<div class="xbar${click?" clickable":""}" style="--c:${c};--lw:${labelWidth}px"
+      ${click?`onclick="${click(r).replace(/"/g,"&quot;")}"`:""} title="${esc(r.title||r.label)}">
+      <span class="lbl">${r.dot?"<b>⬤</b>":""}${esc(r.label)}</span>
+      <span class="track"><span class="fill" style="width:${Math.max(1.5,r.value/max*100).toFixed(1)}%">${sub}</span></span>
+      <span class="val">${fmt(r.value)}</span></div>`}).join("");
+}
+function xcolumns(days,onclick){
+  const max=Math.max(...days.map(d=>d.count),1);
+  return days.map(d=>`<div class="c" onclick="${onclick(d)}" title="${d.day}: ${d.count} stories">
+    <span class="v">${d.count}</span>
+    <span class="bar" style="height:${Math.max(3,Math.round(d.count/max*70))}px"></span>
+    <span class="d">${d.day.slice(5)}</span></div>`).join("");
+}
+function jumpCorpus(region,extra={}){
+  // claim the lazy-load flag FIRST: show() would otherwise fire its own
+  // unfiltered fetch whose late response clobbers the filtered one.
+  window._corpusLoaded=1;
+  show("brw");
+  const set=(id,v)=>{const el=$(id);if(el){el.value=v||"";}};
+  set("bRegion",region);
+  if(typeof fillBInsts==="function")fillBInsts();
+  set("bInst",extra.inst);set("bType",extra.doc_type);set("bKind",extra.kind);
+  set("bBand",extra.band);
+  if($("bQ"))$("bQ").value="";
+  loadCorpus(true);
+}
+function jumpBand(band){jumpCorpus("",{band});}
+
+async function loadHomeExec(){
+  const d=await j(`/exec/summary?days=1`);const T=d.tiles;
+  $("xhDate").innerHTML=`as of ${new Date().toISOString().slice(0,10)}<br>live production database`;
+  $("xhTiles").innerHTML=
+    xtile(fmt(T.documents),"documents held")+
+    xtile(`${T.regulators} + ${T.news_sources}`,"regulators + news wires")+
+    xtile(fmt(T.policy_pdfs),"policy PDFs parsed")+
+    xtile(fmt(T.critical),"critical-band rules")+
+    xtile(fmt(T.archived),"archived versions (audit)")+
+    xtile(`${T.pass_rate}%`,"collection pass rate",T.pass_rate>=90?"up":"warn");
+  const L=d.lanes;
+  $("xhLanes").innerHTML=`
+    <div class="lane" onclick="show('ovw')"><span class="go">Open →</span><div class="ic">🏛️</div>
+      <h2>Regulatory Intelligence</h2>
+      <p>Binding rules, guidance, consultations and enforcement from ${L.regulatory.sources} regulators across
+         Canada, the US, EU &amp; UK, APAC and the standard-setters — versioned, diffed and ranked by materiality.</p>
+      <div class="st"><div><b>${fmt(L.regulatory.documents)}</b><span>documents</span></div>
+        <div><b>${L.regulatory.collecting}/${L.regulatory.sources}</b><span>sources collecting</span></div>
+        <div><b>${fmt(d.bands.Critical||0)}</b><span>critical band</span></div></div></div>
+    <div class="lane" onclick="show('newslane')"><span class="go">Open →</span><div class="ic">📰</div>
+      <h2>Financial News</h2>
+      <p>Top stories from ${L.news.sources} verified financial news wires worldwide, refreshed daily and ranked
+         through a credit-analyst lens — credit events and central banks first, noise last.</p>
+      <div class="st"><div><b>${fmt(L.news.documents)}</b><span>stories</span></div>
+        <div><b>${L.news.collecting}/${L.news.sources}</b><span>wires collecting</span></div>
+        <div><b>${fmt((d.news_volume.slice(-1)[0]||{}).count||0)}</b><span>latest day</span></div></div></div>`;
+  $("xhRegionsHead").innerHTML=`Corpus by coverage area <span class="plain">— ${fmt(T.documents)} documents</span>`;
+  $("xhRegions").className="";
+  $("xhRegions").innerHTML=xbars(d.regions.map(r=>({label:r.region,value:r.count})),
+    {click:r=>`jumpCorpus('${r.label}')`});
+  $("xhBands").innerHTML=xbars(["Critical","High","Medium","Low"].filter(b=>d.bands[b])
+    .map(b=>({label:b,value:d.bands[b],dot:1})),
+    {color:r=>BAND_C[r.label],labelWidth:96,click:r=>`jumpBand('${r.label}')`});
+  $("xhVol").innerHTML=xcolumns(d.news_volume,dd=>`loadNews('${dd.day}');show('feed')`);
+  $("xhOps").innerHTML=xbars([
+    {label:"Documents",value:T.documents},{label:"Versions on file",value:T.versions},
+    {label:"Archived versions",value:T.archived},{label:"Collection runs",value:T.runs},
+  ],{labelWidth:130})+
+    `<div class="xnote">${T.pass_rate}% of ${fmt(T.runs)} runs succeeded ·
+      +${fmt(T.new)} documents in the last ${T.days} day${T.days===1?"":"s"} ·
+      every document carries its source URL and version history.</div>`;
+}
+
+async function loadRegLane(){
+  const d=await j(`/exec/regulatory`);const T=d.tiles;
+  $("xrDate").innerHTML=`as of ${new Date().toISOString().slice(0,10)}<br>live production database`;
+  $("xrCount").textContent=`${T.sources} regulators`;
+  $("xrTiles").innerHTML=
+    xtile(fmt(T.documents),"documents held")+
+    xtile(`${T.collecting}/${T.sources}`,"regulators collecting")+
+    xtile(fmt(T.policy_pdfs),"policy PDFs parsed")+
+    xtile(fmt(T.versions),"versions on file")+
+    xtile(fmt(T.archived),"rule changes archived")+
+    xtile(fmt(d.bands.Critical||0),"critical band","bad");
+  $("xrLeagueSub").textContent=`— top ${d.league.length} of ${d.league.length+d.league_rest}`;
+  $("xrLeague").className="";
+  $("xrLeague").innerHTML=xbars(d.league.map(r=>({
+      label:r.regulator_id.toUpperCase(),title:`${r.name} (${r.jurisdiction})`,
+      value:r.documents,sub:r.policy_pdfs})),
+    {labelWidth:110,click:r=>`jumpCorpus('',{inst:'${r.label.toLowerCase()}'})`});
+  $("xrLeagueNote").textContent=`+ ${d.league_rest} more regulators. Click a bar to browse that regulator's documents.`;
+  $("xrTypes").className="";
+  $("xrTypes").innerHTML=xbars(d.doc_types.map(x=>({label:x.doc_type.replace(/_/g," "),value:x.count})),
+    {labelWidth:120,click:r=>`jumpCorpus('',{doc_type:'${r.label.replace(/ /g,"_")}'})`});
+  $("xrBands").innerHTML=xbars(["Critical","High","Medium","Low"].filter(b=>d.bands[b])
+    .map(b=>({label:b,value:d.bands[b],dot:1})),
+    {color:r=>BAND_C[r.label],labelWidth:96,click:r=>`jumpBand('${r.label}')`});
+  $("xrTop").innerHTML=d.top_docs.map(x=>
+    `<li onclick="openDoc('${x.regulator_id}','${x.doc_id}')"><span class="sc">${x.score}</span>
+      <b>${esc(x.title||"")}</b>
+      <span class="rz">${esc(x.regulator_id)} · ${esc(x.reason||"")}</span></li>`).join("")
+    ||'<li class="empty">no critical-band documents</li>';
+  $("xrArchived").innerHTML=xbars(d.archived_by.map(x=>({label:x.regulator_id.toUpperCase(),
+      title:x.name,value:x.count})),{labelWidth:110,click:r=>`show('chg')`})
+    ||'<div class="empty">no archived versions yet</div>';
+}
+
+async function loadNewsLane(){
+  const d=await j(`/exec/news`);const T=d.tiles;
+  $("xnDate").innerHTML=`as of ${d.day||"—"}<br>live production database`;
+  $("xnCount").textContent=`${T.sources} verified wires`;
+  $("xnDay").textContent=d.day?`— ${d.day}`:"";
+  $("xnTiles").innerHTML=
+    xtile(fmt(T.stories),"stories collected")+
+    xtile(T.sources,"verified wires")+
+    xtile(fmt(T.today),"stories today")+
+    xtile(`${T.reporting_today}/${T.sources}`,"wires reporting today")+
+    xtile(T.cap,"daily cap per wire")+
+    xtile(T.scraped,"articles scraped","up");
+  $("xnLens").className="";
+  $("xnLens").innerHTML=xbars(d.lens.map(x=>({
+      label:`${x.label}${x.count?`  ·  ${x.count} today`:""}`,value:x.weight,dot:1,
+      key:x.key,title:`${x.label}: weight ${x.weight}; ${x.count} stories today`})),
+    {color:r=>TOPIC_C[r.key],labelWidth:196,click:r=>`openTopic('${r.key}')`});
+  $("xnProof").innerHTML=d.proof.length?d.proof.map(s=>
+    `<div class="xstory" style="--c:${TOPIC_C[s.topic]||"var(--muted)"}"
+       onclick="openDoc('${s.regulator_id}','${s.doc_id}')">
+      <b>${esc(s.title||"")}</b>
+      <div class="m">${esc(s.source)} · ${esc(s.region)} · rank ${s.rank} — <i>${esc(s.why)}</i></div>
+    </div>`).join(""):'<div class="empty">no stories yet today</div>';
+  $("xnVol").innerHTML=xcolumns(d.volume,dd=>`loadNews('${dd.day}');show('feed')`);
+  $("xnRegions").innerHTML=xbars(d.regions.map(r=>({label:r.region,value:r.count})),{labelWidth:120});
+  const rep=d.sources.filter(s=>s.count);
+  $("xnSrcSub").textContent=`— ${rep.length} of ${d.sources.length} have delivered stories`;
+  $("xnSources").innerHTML=xbars(d.sources.map(s=>({label:s.name,value:s.count,title:s.name})),
+    {labelWidth:170,click:r=>`jumpCorpus('Financial News')`});
+}
+function openTopic(key){show("feed");nwTopic=key;if(NW)renderNews();}
 
 /* ── financial news (credit-analyst lens) ─────────────────── */
 let NW=null,nwRegion="",nwTopic="";
@@ -563,20 +868,7 @@ function renderNews(){
   $("nwSources").innerHTML=NW.sources.map(s=>
     `<div class="srcrow"><span>${esc(s.name)}</span><b>${s.count}</b></div>`).join("");
 }
-async function loadHome(){
-  try{
-    const o=await j(`/overview?days=1`),t=o.totals;
-    $("hmRegStats").innerHTML=
-      `<div><b>${fmt(t.documents)}</b><span>documents</span></div>
-       <div><b>${t.regulators_tracking}/${t.regulators_total}</b><span>regulators</span></div>
-       <div><b>${fmt(items_len(o))}</b><span>high-priority (7d)</span></div>`;
-    const n=await j(`/news`);
-    $("hmNewsStats").innerHTML=
-      `<div><b>${fmt(n.stories.length)}</b><span>stories ${n.day||"today"}</span></div>
-       <div><b>${(n.sources||[]).length}/${t.news_total??20}</b><span>sources reporting</span></div>
-       <div><b>${fmt((n.topics.find(x=>x.key==="credit")||{}).count||0)}</b><span>credit events</span></div>`;
-  }catch(e){}
-}
+
 
 /* ── file explorer (nested corpus tree) ───────────────────── */
 const fmtSize=b=>b==null?"":b<1024?b+" B":b<1048576?(b/1024).toFixed(0)+" KB":(b/1048576).toFixed(1)+" MB";
@@ -820,6 +1112,7 @@ function _corpusParams(){
   if($("bKind").value)p.set("kind",$("bKind").value);
   if($("bType").value)p.set("doc_type",$("bType").value);
   if($("bStatus").value)p.set("status",$("bStatus").value);
+  if($("bBand")&&$("bBand").value)p.set("band",$("bBand").value);
   if($("bQ").value)p.set("q",$("bQ").value);
   if($("bFrom").value)p.set("date_from",$("bFrom").value);
   if($("bTo").value)p.set("date_to",$("bTo").value);
@@ -858,7 +1151,7 @@ async function loadCorpus(reset=false){
     +`</table>`;
 }
 function pageCorpus(dir){_bOffset=Math.max(0,_bOffset+dir*_bLimit);loadCorpus();}
-function clearCorpus(){["bRegion","bInst","bKind","bType","bStatus","bQ","bFrom","bTo"]
+function clearCorpus(){["bRegion","bInst","bKind","bType","bStatus","bBand","bQ","bFrom","bTo"]
   .forEach(i=>$(i).value="");fillBInsts();loadCorpus(true);}
 
 /* ── changes ─────────────────────────────────────────────── */
@@ -1120,13 +1413,14 @@ async function loadAll(){
     $("integrity").textContent=ig.ok?"✓ integrity clean":"✗ integrity issues";
     $("integrity").className="pill "+(ig.ok?"ok":"failed");
   }catch(e){$("integrity").textContent="integrity ?";}
-  loadOverview();loadTree();loadChanges();loadRuns();loadHome();
+  loadHomeExec();loadOverview();loadTree();loadChanges();loadRuns();
 }
 loadAll();
 // hash routing: /ui#corpus, #chg, #run are deep-linkable pages
 const h=location.hash.replace("#","");
-if(["ovw","news","cov","brw","chg","run","corpus","exp"].includes(h))
-  show(h==="corpus"?"brw":h,false);
+const ALIAS={corpus:"brw",news:"newslane",reg:"ovw",regulatory:"ovw"};
+if(["ovw","news","newslane","feed","cov","brw","chg","run","corpus","exp","reg","regulatory"].includes(h))
+  show(ALIAS[h]||h,false);
 </script>
 </body>
 </html>

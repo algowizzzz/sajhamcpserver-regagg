@@ -208,6 +208,23 @@ def create_admin_router() -> APIRouter:
         return queries.reg_read(runtime.get_session(), runtime.get_storage(),
                                 doc_id, mode=mode, regulator_id=regulator_id)
 
+    @router.get("/exec/summary")
+    def exec_summary(days: int = 1):
+        """Home page payload — every tile/chart on it comes from here."""
+        from sajha.regagg import queries_ui
+        return queries_ui.exec_summary(runtime.get_session(), days=days)
+
+    @router.get("/exec/regulatory")
+    def exec_regulatory():
+        from sajha.regagg import queries_ui
+        return queries_ui.exec_regulatory(runtime.get_session())
+
+    @router.get("/exec/news")
+    def exec_news():
+        from sajha.regagg import queries_ui
+        return queries_ui.exec_news(runtime.get_session(),
+                                    storage=runtime.get_storage())
+
     @router.get("/news")
     def news(day: Optional[str] = None):
         """Financial-news dashboard: one day ranked for a credit analyst."""
