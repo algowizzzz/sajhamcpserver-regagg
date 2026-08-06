@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.alphavantage_tools.AVCashFlowTool",
   "description": "Get cash flow from Alpha Vantage \u2014 operating, investing, financing",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

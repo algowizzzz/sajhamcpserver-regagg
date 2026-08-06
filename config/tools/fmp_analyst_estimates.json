@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPAnalystEstimatesTool",
   "description": "Get analyst consensus estimates from FMP \u2014 estimated revenue, EPS, EBITDA, net income, and SGA for upcoming periods",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

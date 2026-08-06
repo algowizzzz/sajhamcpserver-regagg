@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.coingecko_tools.CGCoinMarketChartTool",
   "description": "Get crypto price chart from CoinGecko \u2014 historical prices, volumes, market caps",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fred_tools.FREDCustomSeriesTool",
   "description": "Get 10-Year Real Interest Rate from FRED (series: REAINTRATREARAT10Y)",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

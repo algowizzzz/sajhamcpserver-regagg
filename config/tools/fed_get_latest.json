@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fed_reserve_tool_refactored.FedGetLatestTool",
   "description": "Retrieve the most recent observation for a FRED economic data series. Perfect for getting current values of key economic indicators.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -14,12 +14,33 @@
       "indicator": {
         "type": "string",
         "description": "Common indicator shorthand name",
-        "enum": ["gdp", "unemployment", "inflation", "fed_rate", "treasury_10y", "treasury_2y", "sp500", "housing", "retail", "industrial", "m2", "pce"]
+        "enum": [
+          "gdp",
+          "unemployment",
+          "inflation",
+          "fed_rate",
+          "treasury_10y",
+          "treasury_2y",
+          "sp500",
+          "housing",
+          "retail",
+          "industrial",
+          "m2",
+          "pce"
+        ]
       }
     },
     "oneOf": [
-      {"required": ["series_id"]},
-      {"required": ["indicator"]}
+      {
+        "required": [
+          "series_id"
+        ]
+      },
+      {
+        "required": [
+          "indicator"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -46,7 +67,10 @@
         "description": "Date of latest observation"
       },
       "value": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Latest observation value"
       },
       "last_updated": {
@@ -54,12 +78,23 @@
         "description": "When the series was last updated"
       }
     },
-    "required": ["series_id", "title", "date", "value"]
+    "required": [
+      "series_id",
+      "title",
+      "date",
+      "value"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["fred", "federal reserve", "economic data", "latest", "current data"],
+    "tags": [
+      "fred",
+      "federal reserve",
+      "economic data",
+      "latest",
+      "current data"
+    ],
     "rateLimit": 120,
     "cacheTTL": 1800,
     "note": "Quick access to the most recent value of any FRED series. Ideal for dashboards and real-time monitoring.",

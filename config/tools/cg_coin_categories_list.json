@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.coingecko_tools.CGCoinCategoriesListTool",
   "description": "Get cryptocurrency category list from CoinGecko \u2014 DeFi, Gaming, Meme, Layer1, etc.",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {},

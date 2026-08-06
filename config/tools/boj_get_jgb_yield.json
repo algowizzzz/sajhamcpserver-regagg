@@ -3,14 +3,19 @@
   "implementation": "sajha.tools.impl.japan_central_bank.BoJGetJGBYieldTool",
   "description": "Retrieve Japanese Government Bond (JGB) yields for various maturities (2Y, 5Y, 10Y, 30Y) with historical data.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
       "bond_term": {
         "type": "string",
         "description": "JGB maturity term",
-        "enum": ["2y", "5y", "10y", "30y"],
+        "enum": [
+          "2y",
+          "5y",
+          "10y",
+          "30y"
+        ],
         "default": "10y"
       },
       "start_date": {
@@ -29,7 +34,9 @@
         "default": 10
       }
     },
-    "required": ["bond_term"]
+    "required": [
+      "bond_term"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -65,20 +72,37 @@
               "description": "Date of yield observation (YYYY-MM-DD format)"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "JGB yield percentage (null if not available)"
             }
           },
-          "required": ["date", "value"]
+          "required": [
+            "date",
+            "value"
+          ]
         }
       }
     },
-    "required": ["series_code", "label", "observations"]
+    "required": [
+      "series_code",
+      "label",
+      "observations"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["bonds", "yields", "jgb", "japan", "fixed income", "government bonds"],
+    "tags": [
+      "bonds",
+      "yields",
+      "jgb",
+      "japan",
+      "fixed income",
+      "government bonds"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Japanese Government Bond yields across the yield curve. Critical for understanding Japanese monetary policy and global fixed income markets.",

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.world_bank_tool.WBGetLendingTypesTool",
   "description": "Retrieve World Bank lending type classifications and metadata. Get information about different lending categories for countries.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -42,7 +42,10 @@
               "description": "Full name of lending type"
             }
           },
-          "required": ["id", "value"]
+          "required": [
+            "id",
+            "value"
+          ]
         }
       },
       "descriptions": {
@@ -72,12 +75,22 @@
         "description": "Timestamp when data was retrieved (ISO format)"
       }
     },
-    "required": ["total_types", "lending_types"]
+    "required": [
+      "total_types",
+      "lending_types"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["world bank", "lending types", "classification", "metadata", "IBRD", "IDA"],
+    "tags": [
+      "world bank",
+      "lending types",
+      "classification",
+      "metadata",
+      "IBRD",
+      "IDA"
+    ],
     "rateLimit": 120,
     "cacheTTL": 86400,
     "note": "Lending type classifications indicate how countries access World Bank financing. IBD=IBRD only, IDB=Blend, IDX=IDA only, LNX=Not classified.",

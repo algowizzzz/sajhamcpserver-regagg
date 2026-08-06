@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.world_bank_tool.WBCompareCountriesTool",
   "description": "Compare multiple countries side-by-side for a specific indicator. Get comparative analysis across selected countries.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -21,17 +21,45 @@
         "type": "string",
         "description": "Common indicator shorthand",
         "enum": [
-          "gdp", "gdp_per_capita", "gdp_growth", "gdp_ppp",
-          "population", "population_growth", "urban_population",
-          "life_expectancy", "birth_rate", "death_rate",
-          "poverty_rate", "gini_index", "income_share_lowest_20",
-          "literacy_rate", "primary_enrollment", "secondary_enrollment", "tertiary_enrollment",
-          "infant_mortality", "maternal_mortality", "health_expenditure", "hospital_beds",
-          "unemployment", "labor_force", "female_labor_force",
-          "exports", "imports", "trade_gdp", "fdi_inflow", "external_debt",
-          "co2_emissions", "co2_per_capita", "renewable_energy", "electricity_access", "forest_area",
-          "internet_users", "mobile_subscriptions", "roads_paved",
-          "inflation", "food_price_inflation"
+          "gdp",
+          "gdp_per_capita",
+          "gdp_growth",
+          "gdp_ppp",
+          "population",
+          "population_growth",
+          "urban_population",
+          "life_expectancy",
+          "birth_rate",
+          "death_rate",
+          "poverty_rate",
+          "gini_index",
+          "income_share_lowest_20",
+          "literacy_rate",
+          "primary_enrollment",
+          "secondary_enrollment",
+          "tertiary_enrollment",
+          "infant_mortality",
+          "maternal_mortality",
+          "health_expenditure",
+          "hospital_beds",
+          "unemployment",
+          "labor_force",
+          "female_labor_force",
+          "exports",
+          "imports",
+          "trade_gdp",
+          "fdi_inflow",
+          "external_debt",
+          "co2_emissions",
+          "co2_per_capita",
+          "renewable_energy",
+          "electricity_access",
+          "forest_area",
+          "internet_users",
+          "mobile_subscriptions",
+          "roads_paved",
+          "inflation",
+          "food_price_inflation"
         ]
       },
       "indicator_code": {
@@ -56,10 +84,22 @@
         "default": false
       }
     },
-    "required": ["country_codes"],
+    "required": [
+      "country_codes"
+    ],
     "oneOf": [
-      {"required": ["country_codes", "indicator"]},
-      {"required": ["country_codes", "indicator_code"]}
+      {
+        "required": [
+          "country_codes",
+          "indicator"
+        ]
+      },
+      {
+        "required": [
+          "country_codes",
+          "indicator_code"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -69,16 +109,24 @@
         "type": "object",
         "description": "Indicator information",
         "properties": {
-          "id": {"type": "string"},
-          "name": {"type": "string"}
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          }
         }
       },
       "year_range": {
         "type": "object",
         "description": "Time period covered",
         "properties": {
-          "start": {"type": "integer"},
-          "end": {"type": "integer"}
+          "start": {
+            "type": "integer"
+          },
+          "end": {
+            "type": "integer"
+          }
         }
       },
       "countries": {
@@ -90,8 +138,12 @@
             "country": {
               "type": "object",
               "properties": {
-                "id": {"type": "string"},
-                "name": {"type": "string"}
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
               }
             },
             "data": {
@@ -100,13 +152,23 @@
               "items": {
                 "type": "object",
                 "properties": {
-                  "year": {"type": "integer"},
-                  "value": {"type": ["number", "null"]}
+                  "year": {
+                    "type": "integer"
+                  },
+                  "value": {
+                    "type": [
+                      "number",
+                      "null"
+                    ]
+                  }
                 }
               }
             },
             "latest_value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Most recent available value"
             },
             "latest_year": {
@@ -114,19 +176,31 @@
               "description": "Year of most recent value"
             },
             "average": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Average value over the period"
             },
             "min": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Minimum value in period"
             },
             "max": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Maximum value in period"
             }
           },
-          "required": ["country", "data"]
+          "required": [
+            "country",
+            "data"
+          ]
         }
       },
       "summary": {
@@ -142,7 +216,10 @@
             "description": "Country with lowest value"
           },
           "average_across_countries": {
-            "type": ["number", "null"],
+            "type": [
+              "number",
+              "null"
+            ],
             "description": "Average value across all countries"
           }
         }
@@ -152,12 +229,21 @@
         "description": "Timestamp when data was retrieved (ISO format)"
       }
     },
-    "required": ["indicator", "countries"]
+    "required": [
+      "indicator",
+      "countries"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["world bank", "comparison", "countries", "benchmarking", "analysis"],
+    "tags": [
+      "world bank",
+      "comparison",
+      "countries",
+      "benchmarking",
+      "analysis"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Compare development indicators across multiple countries with summary statistics. Ideal for benchmarking and comparative analysis.",
@@ -165,7 +251,11 @@
       {
         "description": "Compare GDP per capita of US, China, and India",
         "input": {
-          "country_codes": ["US", "CHN", "IND"],
+          "country_codes": [
+            "US",
+            "CHN",
+            "IND"
+          ],
           "indicator": "gdp_per_capita",
           "start_year": 2010,
           "end_year": 2023
@@ -174,7 +264,15 @@
       {
         "description": "Compare life expectancy in G7 countries",
         "input": {
-          "country_codes": ["US", "CA", "GB", "FR", "DE", "IT", "JP"],
+          "country_codes": [
+            "US",
+            "CA",
+            "GB",
+            "FR",
+            "DE",
+            "IT",
+            "JP"
+          ],
           "indicator": "life_expectancy",
           "start_year": 2000,
           "end_year": 2023
@@ -183,7 +281,12 @@
       {
         "description": "Compare latest CO2 emissions",
         "input": {
-          "country_codes": ["US", "CHN", "IND", "BR"],
+          "country_codes": [
+            "US",
+            "CHN",
+            "IND",
+            "BR"
+          ],
           "indicator": "co2_emissions",
           "most_recent_year": true
         }

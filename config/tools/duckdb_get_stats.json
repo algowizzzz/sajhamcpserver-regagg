@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.duckdb_olap_tools_refactored.DuckDbGetStatsTool",
   "description": "Get statistical summary for numeric columns in a table (count, mean, std, min, max, percentiles)",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "data_directory": "${data.duckdb.dir:./data/duckdb}",
   "inputSchema": {
     "type": "object",
@@ -26,7 +26,9 @@
         "default": true
       }
     },
-    "required": ["table_name"]
+    "required": [
+      "table_name"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -62,11 +64,17 @@
               "description": "Standard deviation (numeric columns only)"
             },
             "min": {
-              "type": ["number", "string"],
+              "type": [
+                "number",
+                "string"
+              ],
               "description": "Minimum value"
             },
             "max": {
-              "type": ["number", "string"],
+              "type": [
+                "number",
+                "string"
+              ],
               "description": "Maximum value"
             },
             "percentile_25": {
@@ -93,12 +101,21 @@
         }
       }
     },
-    "required": ["table_name", "total_rows", "column_statistics"]
+    "required": [
+      "table_name",
+      "total_rows",
+      "column_statistics"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Data Analytics",
-    "tags": ["duckdb", "statistics", "summary", "analytics"],
+    "tags": [
+      "duckdb",
+      "statistics",
+      "summary",
+      "analytics"
+    ],
     "rateLimit": 60,
     "cacheTTL": 60,
     "note": "Provides comprehensive statistical summary similar to pandas describe()",
@@ -113,7 +130,11 @@
         "description": "Get stats for specific columns",
         "input": {
           "table_name": "orders",
-          "columns": ["order_amount", "quantity", "discount"]
+          "columns": [
+            "order_amount",
+            "quantity",
+            "discount"
+          ]
         }
       },
       {

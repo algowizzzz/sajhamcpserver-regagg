@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.openbb_tools.OpenBBGenericTool",
   "description": "Get short-term interest rates via OpenBB by country",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

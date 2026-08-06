@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.imf_tool_refactored.IMFGetDatabasesTool",
   "description": "List all available IMF databases including IFS, WEO, BOP, and more. Use this to discover what data sources are available.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {}
@@ -16,18 +16,29 @@
         "items": {
           "type": "object",
           "properties": {
-            "code": {"type": "string"},
-            "name": {"type": "string"}
+            "code": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            }
           }
         }
       },
-      "count": {"type": "integer"}
+      "count": {
+        "type": "integer"
+      }
     }
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["imf", "databases", "discovery", "international"],
+    "tags": [
+      "imf",
+      "databases",
+      "discovery",
+      "international"
+    ],
     "rateLimit": 60,
     "cacheTTL": 86400,
     "note": "Discover IMF databases including IFS, WEO, BOP, FSI, and more.",

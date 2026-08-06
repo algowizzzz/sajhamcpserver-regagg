@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.webcrawler_tool_refactored.ExtractLinksTool",
   "description": "Extract all hyperlinks from a web page with options to normalize URLs and filter by internal/external",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -22,7 +22,9 @@
         "default": false
       }
     },
-    "required": ["url"]
+    "required": [
+      "url"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -69,12 +71,23 @@
         "description": "Extraction timestamp (ISO format)"
       }
     },
-    "required": ["url", "links", "link_count", "extracted_at"]
+    "required": [
+      "url",
+      "links",
+      "link_count",
+      "extracted_at"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Web Scraping",
-    "tags": ["links", "hyperlinks", "extraction", "url", "navigation"],
+    "tags": [
+      "links",
+      "hyperlinks",
+      "extraction",
+      "url",
+      "navigation"
+    ],
     "rateLimit": 60,
     "cacheTTL": 1800,
     "note": "Extracts all <a href> links from HTML. Useful for navigation analysis, broken link checking, and understanding site structure.",

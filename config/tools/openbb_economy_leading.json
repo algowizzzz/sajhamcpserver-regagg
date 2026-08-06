@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.openbb_tools.OpenBBGenericTool",
   "description": "Get Composite Leading Indicator via OpenBB \u2014 economic outlook signal",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

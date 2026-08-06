@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.wikipedia_tool.WikiSearchTool",
   "description": "Search Wikipedia articles by keyword or phrase. Returns a list of matching article titles with brief descriptions.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -27,7 +27,9 @@
         "default": "en"
       }
     },
-    "required": ["query"]
+    "required": [
+      "query"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -75,11 +77,18 @@
               "description": "Approximate word count of the article"
             }
           },
-          "required": ["title", "page_id", "url"]
+          "required": [
+            "title",
+            "page_id",
+            "url"
+          ]
         }
       },
       "suggestion": {
-        "type": ["string", "null"],
+        "type": [
+          "string",
+          "null"
+        ],
         "description": "Alternative search suggestion if no exact matches found"
       },
       "last_updated": {
@@ -87,12 +96,21 @@
         "description": "Timestamp when search was performed (ISO format)"
       }
     },
-    "required": ["query", "results"]
+    "required": [
+      "query",
+      "results"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Information Retrieval",
-    "tags": ["wikipedia", "search", "knowledge", "articles", "encyclopedia"],
+    "tags": [
+      "wikipedia",
+      "search",
+      "knowledge",
+      "articles",
+      "encyclopedia"
+    ],
     "rateLimit": 100,
     "cacheTTL": 3600,
     "note": "Search Wikipedia's vast knowledge base. Returns article titles and snippets matching the search query. Use wiki_get_page or wiki_get_summary to retrieve full article content.",
@@ -113,7 +131,7 @@
       {
         "description": "Search Spanish Wikipedia",
         "input": {
-          "query": "revolución francesa",
+          "query": "revoluci\u00f3n francesa",
           "language": "es",
           "limit": 5
         }

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.united_nations_tool_refactored.UNGetSDGDataTool",
   "description": "Retrieve historical time series data for a specific SDG indicator, optionally filtered by country and date range",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -28,7 +28,9 @@
         "maximum": 2030
       }
     },
-    "required": ["indicator_code"]
+    "required": [
+      "indicator_code"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -60,7 +62,10 @@
               "description": "Year of observation"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Indicator value (null if not available)"
             },
             "unit": {
@@ -68,7 +73,10 @@
               "description": "Unit of measurement (e.g., '%', 'per 1,000 live births')"
             }
           },
-          "required": ["year", "value"]
+          "required": [
+            "year",
+            "value"
+          ]
         }
       },
       "count": {
@@ -76,12 +84,22 @@
         "description": "Number of data points returned"
       }
     },
-    "required": ["indicator_code", "data", "count"]
+    "required": [
+      "indicator_code",
+      "data",
+      "count"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Global Statistics",
-    "tags": ["un", "sdg", "time series", "historical data", "country data"],
+    "tags": [
+      "un",
+      "sdg",
+      "time series",
+      "historical data",
+      "country data"
+    ],
     "rateLimit": 60,
     "cacheTTL": 3600,
     "note": "Retrieves actual measurement data for SDG indicators. Data availability varies by country and indicator. Some indicators are updated annually, others less frequently.",

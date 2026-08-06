@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.webcrawler_tool_refactored.ExtractMetadataTool",
   "description": "Extract SEO and structural metadata including title, meta tags, headings, and content metrics from a web page",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -12,7 +12,9 @@
         "description": "URL of the page to extract metadata from"
       }
     },
-    "required": ["url"]
+    "required": [
+      "url"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -47,17 +49,23 @@
         "properties": {
           "h1": {
             "type": "array",
-            "items": {"type": "string"},
+            "items": {
+              "type": "string"
+            },
             "description": "H1 headings (should typically be only 1 per page)"
           },
           "h2": {
             "type": "array",
-            "items": {"type": "string"},
+            "items": {
+              "type": "string"
+            },
             "description": "H2 headings (main sections)"
           },
           "h3": {
             "type": "array",
-            "items": {"type": "string"},
+            "items": {
+              "type": "string"
+            },
             "description": "H3 headings (subsections)"
           }
         }
@@ -71,12 +79,23 @@
         "description": "Extraction timestamp (ISO format)"
       }
     },
-    "required": ["url", "status_code", "extracted_at"]
+    "required": [
+      "url",
+      "status_code",
+      "extracted_at"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Web Scraping",
-    "tags": ["metadata", "seo", "meta tags", "headings", "title", "description"],
+    "tags": [
+      "metadata",
+      "seo",
+      "meta tags",
+      "headings",
+      "title",
+      "description"
+    ],
     "rateLimit": 60,
     "cacheTTL": 3600,
     "note": "Extracts SEO-critical metadata and structural information. Essential for SEO audits, content strategy, and understanding page optimization.",

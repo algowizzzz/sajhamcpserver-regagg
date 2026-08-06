@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fbi_tool_refactored.FBIGetAgencyDetailsTool",
   "description": "Retrieve detailed information about a specific law enforcement agency",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -13,7 +13,9 @@
         "pattern": "^[A-Z]{2}[0-9]{7}$"
       }
     },
-    "required": ["ori"]
+    "required": [
+      "ori"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -103,12 +105,23 @@
         }
       }
     },
-    "required": ["ori", "agency_name", "agency_type", "location"]
+    "required": [
+      "ori",
+      "agency_name",
+      "agency_type",
+      "location"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Crime Statistics",
-    "tags": ["crime", "fbi", "agency", "details", "information"],
+    "tags": [
+      "crime",
+      "fbi",
+      "agency",
+      "details",
+      "information"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Get comprehensive agency information including jurisdiction, personnel, and reporting status",

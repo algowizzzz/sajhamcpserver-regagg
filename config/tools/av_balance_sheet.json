@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.alphavantage_tools.AVBalanceSheetTool",
   "description": "Get balance sheet from Alpha Vantage \u2014 assets, liabilities, equity",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

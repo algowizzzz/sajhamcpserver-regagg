@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.united_nations_tool_refactored.UNGetSDGsTool",
   "description": "Retrieve list of all 17 UN Sustainable Development Goals with their titles, colors, and URIs",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -51,12 +51,21 @@
         "description": "Total number of SDGs (17)"
       }
     },
-    "required": ["sdgs", "count"]
+    "required": [
+      "sdgs",
+      "count"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Global Statistics",
-    "tags": ["un", "sdg", "sustainable development", "goals", "global"],
+    "tags": [
+      "un",
+      "sdg",
+      "sustainable development",
+      "goals",
+      "global"
+    ],
     "rateLimit": 60,
     "cacheTTL": 86400,
     "note": "Returns all 17 UN Sustainable Development Goals. Data is relatively static and can be cached for long periods.",

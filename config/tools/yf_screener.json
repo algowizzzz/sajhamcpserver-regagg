@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yfinance_tools.YFScreenerTool",
   "description": "Screen stocks using Yahoo Finance \u2014 gainers, losers, most active, undervalued, growth",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

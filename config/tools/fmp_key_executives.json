@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPGenericTool",
   "description": "Get key executives from FMP \u2014 CEO, CFO, CTO with titles and pay",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

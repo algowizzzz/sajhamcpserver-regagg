@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPGenericTool",
   "description": "Get Piotroski F-Score from FMP \u2014 financial health score 0-9",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

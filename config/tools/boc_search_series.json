@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.bank_of_canada_tool_refactored.BoCSearchSeriesTool",
   "description": "Search and discover available Bank of Canada economic data series organized by category. Helps users find the right data series for their needs.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -46,7 +46,11 @@
                 "description": "Human-readable description of the data series"
               }
             },
-            "required": ["indicator", "series_name", "description"]
+            "required": [
+              "indicator",
+              "series_name",
+              "description"
+            ]
           }
         }
       },
@@ -55,12 +59,21 @@
         "description": "Total number of available series across all returned categories"
       }
     },
-    "required": ["categories", "total_series"]
+    "required": [
+      "categories",
+      "total_series"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["search", "discovery", "catalog", "metadata", "directory"],
+    "tags": [
+      "search",
+      "discovery",
+      "catalog",
+      "metadata",
+      "directory"
+    ],
     "rateLimit": 120,
     "cacheTTL": 86400,
     "note": "This tool returns metadata about available series. No actual economic data is retrieved. Results are static and can be heavily cached.",
@@ -77,9 +90,15 @@
                 "description": "US Dollar to Canadian Dollar Exchange Rate"
               }
             ],
-            "Interest Rates": ["..."],
-            "Bond Yields": ["..."],
-            "Economic Indicators": ["..."]
+            "Interest Rates": [
+              "..."
+            ],
+            "Bond Yields": [
+              "..."
+            ],
+            "Economic Indicators": [
+              "..."
+            ]
           },
           "total_series": 15
         }
@@ -147,22 +166,41 @@
       "Exchange Rates": {
         "description": "Foreign exchange rates between CAD and major currencies",
         "seriesCount": 5,
-        "indicators": ["usd_cad", "eur_cad", "gbp_cad", "jpy_cad", "cny_cad"]
+        "indicators": [
+          "usd_cad",
+          "eur_cad",
+          "gbp_cad",
+          "jpy_cad",
+          "cny_cad"
+        ]
       },
       "Interest Rates": {
         "description": "Bank of Canada policy and market interest rates",
         "seriesCount": 3,
-        "indicators": ["policy_rate", "overnight_rate", "prime_rate"]
+        "indicators": [
+          "policy_rate",
+          "overnight_rate",
+          "prime_rate"
+        ]
       },
       "Bond Yields": {
         "description": "Government of Canada benchmark bond yields",
         "seriesCount": 4,
-        "indicators": ["bond_2y", "bond_5y", "bond_10y", "bond_30y"]
+        "indicators": [
+          "bond_2y",
+          "bond_5y",
+          "bond_10y",
+          "bond_30y"
+        ]
       },
       "Economic Indicators": {
         "description": "Key Canadian economic indicators",
         "seriesCount": 3,
-        "indicators": ["cpi", "core_cpi", "gdp"]
+        "indicators": [
+          "cpi",
+          "core_cpi",
+          "gdp"
+        ]
       }
     }
   }

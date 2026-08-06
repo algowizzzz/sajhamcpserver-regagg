@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fed_reserve_tool_refactored.FedGetSeriesTool",
   "description": "Retrieve time series economic data from Federal Reserve Economic Data (FRED) database. Access thousands of US and international economic indicators including GDP, unemployment, inflation, interest rates, and more.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -14,7 +14,20 @@
       "indicator": {
         "type": "string",
         "description": "Common indicator shorthand name for convenience",
-        "enum": ["gdp", "unemployment", "inflation", "fed_rate", "treasury_10y", "treasury_2y", "sp500", "housing", "retail", "industrial", "m2", "pce"]
+        "enum": [
+          "gdp",
+          "unemployment",
+          "inflation",
+          "fed_rate",
+          "treasury_10y",
+          "treasury_2y",
+          "sp500",
+          "housing",
+          "retail",
+          "industrial",
+          "m2",
+          "pce"
+        ]
       },
       "start_date": {
         "type": "string",
@@ -33,8 +46,16 @@
       }
     },
     "oneOf": [
-      {"required": ["series_id"]},
-      {"required": ["indicator"]}
+      {
+        "required": [
+          "series_id"
+        ]
+      },
+      {
+        "required": [
+          "indicator"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -75,20 +96,36 @@
               "description": "Observation date (YYYY-MM-DD)"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Observation value (null if not available)"
             }
           },
-          "required": ["date", "value"]
+          "required": [
+            "date",
+            "value"
+          ]
         }
       }
     },
-    "required": ["series_id", "title", "observations"]
+    "required": [
+      "series_id",
+      "title",
+      "observations"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["fred", "federal reserve", "economic data", "us economy", "time series"],
+    "tags": [
+      "fred",
+      "federal reserve",
+      "economic data",
+      "us economy",
+      "time series"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Access to Federal Reserve Economic Data (FRED) - the premier source for US economic data. Requires FRED API key for production use.",

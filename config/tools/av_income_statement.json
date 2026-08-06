@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.alphavantage_tools.AVIncomeStatementTool",
   "description": "Get income statement from Alpha Vantage \u2014 revenue, expenses, net income",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

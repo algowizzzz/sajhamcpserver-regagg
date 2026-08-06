@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPGenericTool",
   "description": "Get SMA technical indicator from FMP for a stock",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

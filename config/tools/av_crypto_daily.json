@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.alphavantage_tools.AVCryptoDailyTool",
   "description": "Get daily crypto prices from Alpha Vantage \u2014 BTC, ETH, etc.",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

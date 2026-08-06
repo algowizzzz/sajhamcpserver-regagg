@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.webcrawler_tool_refactored.CrawlSitemapTool",
   "description": "Crawl and extract all URLs from a website's sitemap.xml file for complete site structure overview",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -12,7 +12,9 @@
         "description": "Base website URL or direct sitemap URL. Examples: 'https://example.com' or 'https://example.com/sitemap.xml'"
       }
     },
-    "required": ["url"]
+    "required": [
+      "url"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -47,14 +49,23 @@
       "attempted_urls": {
         "type": "array",
         "description": "List of sitemap URLs that were attempted (if primary sitemap not found)",
-        "items": {"type": "string"}
+        "items": {
+          "type": "string"
+        }
       }
     }
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Web Scraping",
-    "tags": ["sitemap", "xml", "urls", "site structure", "crawling", "discovery"],
+    "tags": [
+      "sitemap",
+      "xml",
+      "urls",
+      "site structure",
+      "crawling",
+      "discovery"
+    ],
     "rateLimit": 60,
     "cacheTTL": 3600,
     "note": "Automatically tries common sitemap locations: /sitemap.xml, /sitemap_index.xml, /sitemap1.xml. Sitemaps provide the complete, official list of URLs a site wants crawled. Much faster than recursive crawling.",

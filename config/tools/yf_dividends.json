@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yfinance_tools.YFDividendsTool",
   "description": "Get dividend history from Yahoo Finance \u2014 all historical dividend payments with dates and amounts",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

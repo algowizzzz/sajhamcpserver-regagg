@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.duckdb_olap_tools_refactored.DuckDbAggregateTool",
   "description": "Perform aggregation operations on tables with grouping (SUM, AVG, COUNT, MIN, MAX)",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "data_directory": "${data.duckdb.dir:./data/duckdb}",
   "inputSchema": {
     "type": "object",
@@ -18,7 +18,14 @@
         "description": "Aggregation functions to apply. Format: {'column_name': 'function'} where function is one of: sum, avg, count, min, max",
         "additionalProperties": {
           "type": "string",
-          "enum": ["sum", "avg", "count", "min", "max", "count_distinct"]
+          "enum": [
+            "sum",
+            "avg",
+            "count",
+            "min",
+            "max",
+            "count_distinct"
+          ]
         },
         "minProperties": 1
       },
@@ -44,7 +51,10 @@
             },
             "direction": {
               "type": "string",
-              "enum": ["asc", "desc"],
+              "enum": [
+                "asc",
+                "desc"
+              ],
               "default": "asc"
             }
           }
@@ -58,7 +68,10 @@
         "default": 100
       }
     },
-    "required": ["table_name", "aggregations"]
+    "required": [
+      "table_name",
+      "aggregations"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -95,12 +108,22 @@
         "description": "Query execution time in milliseconds"
       }
     },
-    "required": ["table_name", "aggregations_applied", "results", "row_count"]
+    "required": [
+      "table_name",
+      "aggregations_applied",
+      "results",
+      "row_count"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Data Analytics",
-    "tags": ["duckdb", "aggregation", "group by", "analytics"],
+    "tags": [
+      "duckdb",
+      "aggregation",
+      "group by",
+      "analytics"
+    ],
     "rateLimit": 60,
     "cacheTTL": 60,
     "note": "Simplified interface for common aggregation operations without writing SQL",
@@ -112,7 +135,9 @@
           "aggregations": {
             "revenue": "sum"
           },
-          "group_by": ["region"]
+          "group_by": [
+            "region"
+          ]
         }
       },
       {
@@ -123,9 +148,15 @@
             "order_amount": "sum",
             "order_id": "count"
           },
-          "group_by": ["customer_id", "order_date"],
+          "group_by": [
+            "customer_id",
+            "order_date"
+          ],
           "order_by": [
-            {"column": "sum_order_amount", "direction": "desc"}
+            {
+              "column": "sum_order_amount",
+              "direction": "desc"
+            }
           ],
           "limit": 50
         }
@@ -138,7 +169,9 @@
             "amount": "avg",
             "transaction_id": "count"
           },
-          "group_by": ["merchant"],
+          "group_by": [
+            "merchant"
+          ],
           "having": "count_transaction_id > 100"
         }
       }

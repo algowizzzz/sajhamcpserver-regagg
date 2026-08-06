@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.bank_of_canada_tool_refactored.BoCGetLatestTool",
   "description": "Retrieve the most recent observation for any Bank of Canada data series. Optimized for single-value queries with minimal response payload.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -34,8 +34,16 @@
       }
     },
     "oneOf": [
-      {"required": ["series_name"]},
-      {"required": ["indicator"]}
+      {
+        "required": [
+          "series_name"
+        ]
+      },
+      {
+        "required": [
+          "indicator"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -59,16 +67,30 @@
         "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
       },
       "value": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Latest observation value (null if not available)"
       }
     },
-    "required": ["series_name", "label", "date", "value"]
+    "required": [
+      "series_name",
+      "label",
+      "date",
+      "value"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["current", "latest", "real-time", "bank of canada", "snapshot"],
+    "tags": [
+      "current",
+      "latest",
+      "real-time",
+      "bank of canada",
+      "snapshot"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Optimized for dashboard and real-time displays. Returns only the most recent value with minimal payload size.",
@@ -94,7 +116,7 @@
           "series_name": "POLICY_RATE",
           "label": "Bank of Canada policy interest rate",
           "date": "2024-10-23",
-          "value": 4.50
+          "value": 4.5
         }
       },
       {

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.european_central_bank_tool_refactored.ECBGetExchangeRateTool",
   "description": "Retrieve foreign exchange rates for Euro against major currencies. Specialized tool for FX traders and international business.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -14,7 +14,13 @@
       "indicator": {
         "type": "string",
         "description": "Pre-defined currency pair shorthand",
-        "enum": ["eur_usd", "eur_gbp", "eur_jpy", "eur_cny", "eur_chf"]
+        "enum": [
+          "eur_usd",
+          "eur_gbp",
+          "eur_jpy",
+          "eur_cny",
+          "eur_chf"
+        ]
       },
       "start_date": {
         "type": "string",
@@ -33,8 +39,16 @@
       }
     },
     "oneOf": [
-      {"required": ["currency_pair"]},
-      {"required": ["indicator"]}
+      {
+        "required": [
+          "currency_pair"
+        ]
+      },
+      {
+        "required": [
+          "indicator"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -71,7 +85,10 @@
               "description": "Date of exchange rate"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Exchange rate value (units of foreign currency per EUR)"
             }
           }
@@ -82,7 +99,14 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["forex", "exchange rates", "currency", "ecb", "eurozone", "fx"],
+    "tags": [
+      "forex",
+      "exchange rates",
+      "currency",
+      "ecb",
+      "eurozone",
+      "fx"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "examples": [

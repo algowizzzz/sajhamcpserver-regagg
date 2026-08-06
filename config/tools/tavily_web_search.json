@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.tavily_tool_refactored.TavilyWebSearchTool",
   "description": "Perform general web search using Tavily AI-powered search engine for finding information across the internet",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "api_key": "${tavily.api.key}",
   "inputSchema": {
     "type": "object",
@@ -15,7 +15,10 @@
       "search_depth": {
         "type": "string",
         "description": "Depth of search - 'basic' for quick results, 'advanced' for comprehensive search",
-        "enum": ["basic", "advanced"],
+        "enum": [
+          "basic",
+          "advanced"
+        ],
         "default": "basic"
       },
       "max_results": {
@@ -36,7 +39,9 @@
         "default": false
       }
     },
-    "required": ["query"]
+    "required": [
+      "query"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -106,13 +111,23 @@
         }
       }
     },
-    "required": ["query", "results_count", "results"]
+    "required": [
+      "query",
+      "results_count",
+      "results"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "email": "ajsinha@gmail.com",
     "category": "Web Search",
-    "tags": ["search", "tavily", "ai", "web", "information retrieval"],
+    "tags": [
+      "search",
+      "tavily",
+      "ai",
+      "web",
+      "information retrieval"
+    ],
     "rateLimit": 100,
     "cacheTTL": 3600,
     "note": "Requires Tavily API key for production use. Get your API key at https://tavily.com. Demo mode available without API key.",

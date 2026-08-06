@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.united_nations_tool_refactored.UNGetSDGProgressTool",
   "description": "Track a country's progress towards Sustainable Development Goals with latest indicator values",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -14,10 +14,30 @@
       "sdg_code": {
         "type": "string",
         "description": "Specific SDG code for detailed progress (optional, omit for overview of all SDGs)",
-        "enum": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"]
+        "enum": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17"
+        ]
       }
     },
-    "required": ["country_code"]
+    "required": [
+      "country_code"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -56,15 +76,29 @@
               "type": "object",
               "description": "Most recent data point",
               "properties": {
-                "year": {"type": "integer"},
-                "value": {"type": ["number", "null"]},
-                "unit": {"type": "string"}
+                "year": {
+                  "type": "integer"
+                },
+                "value": {
+                  "type": [
+                    "number",
+                    "null"
+                  ]
+                },
+                "unit": {
+                  "type": "string"
+                }
               }
             },
             "trend": {
               "type": "string",
               "description": "Progress trend (improving/declining/stable)",
-              "enum": ["improving", "declining", "stable", "insufficient_data"]
+              "enum": [
+                "improving",
+                "declining",
+                "stable",
+                "insufficient_data"
+              ]
             }
           }
         }
@@ -74,12 +108,20 @@
         "description": "Overall progress assessment (if specific SDG requested)"
       }
     },
-    "required": ["country_code"]
+    "required": [
+      "country_code"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Global Statistics",
-    "tags": ["un", "sdg", "progress tracking", "country monitoring", "development"],
+    "tags": [
+      "un",
+      "sdg",
+      "progress tracking",
+      "country monitoring",
+      "development"
+    ],
     "rateLimit": 60,
     "cacheTTL": 3600,
     "note": "Track country-level progress on SDG indicators. Shows latest available data and trends. When no specific SDG is requested, returns overview of all 17 goals. Data availability varies by country and indicator.",

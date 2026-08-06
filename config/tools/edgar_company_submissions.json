@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARCompanySubmissionsTool",
   "description": "Retrieve comprehensive company information and all SEC filing submissions for a company",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -17,7 +17,9 @@
         "default": false
       }
     },
-    "required": ["cik"]
+    "required": [
+      "cik"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -90,7 +92,15 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "filings", "submissions", "company info", "10-K", "10-Q"],
+    "tags": [
+      "sec",
+      "edgar",
+      "filings",
+      "submissions",
+      "company info",
+      "10-K",
+      "10-Q"
+    ],
     "rateLimit": 10,
     "cacheTTL": 1800,
     "note": "Primary endpoint for company information and filing history. Returns all recent submissions including 10-K, 10-Q, 8-K, and other forms.",

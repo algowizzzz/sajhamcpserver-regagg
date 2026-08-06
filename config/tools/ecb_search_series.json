@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.european_central_bank_tool_refactored.ECBSearchSeriesTool",
   "description": "Search and discover available European Central Bank data series organized by category. Helps users find the right data series for their needs.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -64,7 +64,14 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["search", "discovery", "catalog", "metadata", "directory", "ecb"],
+    "tags": [
+      "search",
+      "discovery",
+      "catalog",
+      "metadata",
+      "directory",
+      "ecb"
+    ],
     "rateLimit": 120,
     "cacheTTL": 86400,
     "note": "This tool returns metadata about available series. No actual economic data is retrieved. Results are static and can be heavily cached (24h).",
@@ -124,7 +131,10 @@
       "Economic Indicators": {
         "description": "Key Euro Area economic indicators",
         "seriesCount": 2,
-        "flows": ["MNA", "LFSI"]
+        "flows": [
+          "MNA",
+          "LFSI"
+        ]
       },
       "Money Supply": {
         "description": "Monetary aggregates M1, M2, M3",

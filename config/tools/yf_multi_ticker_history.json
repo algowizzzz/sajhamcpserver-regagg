@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yfinance_tools.YFMultiTickerHistoryTool",
   "description": "Get price history for multiple stocks at once from Yahoo Finance \u2014 compare up to 10 tickers",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

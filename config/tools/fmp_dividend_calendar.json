@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPDividendCalendarTool",
   "description": "Get upcoming dividend payments from FMP \u2014 ex-date, payment date, record date, dividend amount, yield",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

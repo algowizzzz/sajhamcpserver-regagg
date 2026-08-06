@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fred_tools.FREDCustomSeriesTool",
   "description": "Get ICE BofA High Yield Spread from FRED (series: BAMLH0A0HYM2)",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

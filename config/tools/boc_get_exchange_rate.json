@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.bank_of_canada_tool_refactored.BoCGetExchangeRateTool",
   "description": "Retrieve foreign exchange rates between Canadian Dollar and other currencies. Supports major currency pairs with historical data.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -14,7 +14,13 @@
       "indicator": {
         "type": "string",
         "description": "Pre-defined currency pair shorthand",
-        "enum": ["usd_cad", "eur_cad", "gbp_cad", "jpy_cad", "cny_cad"]
+        "enum": [
+          "usd_cad",
+          "eur_cad",
+          "gbp_cad",
+          "jpy_cad",
+          "cny_cad"
+        ]
       },
       "start_date": {
         "type": "string",
@@ -33,8 +39,16 @@
       }
     },
     "oneOf": [
-      {"required": ["currency_pair"]},
-      {"required": ["indicator"]}
+      {
+        "required": [
+          "currency_pair"
+        ]
+      },
+      {
+        "required": [
+          "indicator"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -71,7 +85,10 @@
               "description": "Date of exchange rate"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Exchange rate value (CAD per unit of foreign currency)"
             }
           }
@@ -82,7 +99,13 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["forex", "exchange rates", "currency", "bank of canada", "canada"],
+    "tags": [
+      "forex",
+      "exchange rates",
+      "currency",
+      "bank of canada",
+      "canada"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "examples": [

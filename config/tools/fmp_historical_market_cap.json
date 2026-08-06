@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPGenericTool",
   "description": "Get historical market cap data from FMP",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

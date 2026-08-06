@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPIPOCalendarTool",
   "description": "Get upcoming and recent IPOs from FMP \u2014 company name, expected date, price range, shares offered, exchange",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

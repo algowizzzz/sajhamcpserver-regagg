@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sqlselect_tool_refactored.SqlSelectListSourcesTool",
   "description": "List all available data sources with their metadata and file information",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "data_directory": "${data.sqlselect.dir:./data/sqlselect}",
   "data_sources": {
     "customers": {
@@ -73,16 +73,29 @@
         "description": "ISO timestamp of response"
       }
     },
-    "required": ["success", "sources", "count", "timestamp"]
+    "required": [
+      "success",
+      "sources",
+      "count",
+      "timestamp"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "email": "ajsinha@gmail.com",
     "category": "Data Query",
-    "tags": ["sql", "data sources", "catalog", "metadata", "duckdb"],
+    "tags": [
+      "sql",
+      "data sources",
+      "catalog",
+      "metadata",
+      "duckdb"
+    ],
     "rateLimit": 100,
     "cacheTTL": 3600,
-    "dependencies": ["duckdb"],
+    "dependencies": [
+      "duckdb"
+    ],
     "note": "Requires DuckDB library: pip install duckdb",
     "examples": [
       {

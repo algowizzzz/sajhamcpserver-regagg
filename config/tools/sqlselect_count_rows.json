@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sqlselect_tool_refactored.SqlSelectCountRowsTool",
   "description": "Count rows in a data source with optional WHERE clause filtering for data profiling and validation",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "data_directory": "${data.sqlselect.dir:./data/sqlselect}",
   "data_sources": {
     "customers": {
@@ -39,7 +39,9 @@
         "description": "Optional WHERE clause for filtering (without 'WHERE' keyword)"
       }
     },
-    "required": ["source_name"]
+    "required": [
+      "source_name"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -57,7 +59,10 @@
         "description": "Number of rows"
       },
       "where_clause": {
-        "type": ["string", "null"],
+        "type": [
+          "string",
+          "null"
+        ],
         "description": "Applied filter clause"
       },
       "timestamp": {
@@ -65,16 +70,29 @@
         "description": "ISO timestamp"
       }
     },
-    "required": ["success", "source_name", "row_count"]
+    "required": [
+      "success",
+      "source_name",
+      "row_count"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "email": "ajsinha@gmail.com",
     "category": "Data Query",
-    "tags": ["sql", "count", "aggregate", "filter", "statistics", "duckdb"],
+    "tags": [
+      "sql",
+      "count",
+      "aggregate",
+      "filter",
+      "statistics",
+      "duckdb"
+    ],
     "rateLimit": 100,
     "cacheTTL": 300,
-    "dependencies": ["duckdb"],
+    "dependencies": [
+      "duckdb"
+    ],
     "note": "Fast row counting with optional filtering. Useful for data profiling and validation.",
     "examples": [
       {

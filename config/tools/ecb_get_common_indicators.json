@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.european_central_bank_tool_refactored.ECBGetCommonIndicatorsTool",
   "description": "Retrieve a dashboard of key Euro Area economic indicators with their latest values in a single API call. Optimized for economic overview displays.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -13,12 +13,20 @@
         "items": {
           "type": "string",
           "enum": [
-            "eur_usd", "eur_gbp",
-            "main_refinancing_rate", "deposit_facility_rate",
-            "bond_2y", "bond_5y", "bond_10y",
-            "hicp_overall", "hicp_core",
-            "gdp", "unemployment_rate",
-            "m1", "m2", "m3"
+            "eur_usd",
+            "eur_gbp",
+            "main_refinancing_rate",
+            "deposit_facility_rate",
+            "bond_2y",
+            "bond_5y",
+            "bond_10y",
+            "hicp_overall",
+            "hicp_core",
+            "gdp",
+            "unemployment_rate",
+            "m1",
+            "m2",
+            "m3"
           ]
         },
         "minItems": 1,
@@ -49,7 +57,10 @@
               "description": "Indicator description"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Latest value of the indicator"
             },
             "date": {
@@ -73,7 +84,16 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["dashboard", "summary", "indicators", "overview", "batch", "snapshot", "ecb", "eurozone"],
+    "tags": [
+      "dashboard",
+      "summary",
+      "indicators",
+      "overview",
+      "batch",
+      "snapshot",
+      "ecb",
+      "eurozone"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Batch operation that retrieves multiple indicators in one call. More efficient than calling ecb_get_latest multiple times. All values share the same retrieval timestamp.",
@@ -85,25 +105,38 @@
       {
         "description": "Custom FX dashboard (multiple currencies)",
         "input": {
-          "indicators": ["eur_usd", "eur_gbp"]
+          "indicators": [
+            "eur_usd",
+            "eur_gbp"
+          ]
         }
       },
       {
         "description": "ECB policy rates overview",
         "input": {
-          "indicators": ["main_refinancing_rate", "deposit_facility_rate"]
+          "indicators": [
+            "main_refinancing_rate",
+            "deposit_facility_rate"
+          ]
         }
       },
       {
         "description": "Yield curve snapshot",
         "input": {
-          "indicators": ["bond_2y", "bond_5y", "bond_10y"]
+          "indicators": [
+            "bond_2y",
+            "bond_5y",
+            "bond_10y"
+          ]
         }
       },
       {
         "description": "Inflation analysis",
         "input": {
-          "indicators": ["hicp_overall", "hicp_core"]
+          "indicators": [
+            "hicp_overall",
+            "hicp_core"
+          ]
         }
       },
       {

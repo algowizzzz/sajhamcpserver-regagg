@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.calc_tools.CalcNPVTool",
   "description": "Calculate Net Present Value (NPV) of cash flows at a discount rate",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

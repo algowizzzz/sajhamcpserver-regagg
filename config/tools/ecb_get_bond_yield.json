@@ -3,14 +3,18 @@
   "implementation": "sajha.tools.impl.european_central_bank_tool_refactored.ECBGetBondYieldTool",
   "description": "Retrieve Euro Area government bond yields for various maturities (2Y, 5Y, 10Y) with historical data.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
       "bond_term": {
         "type": "string",
         "description": "Bond maturity term",
-        "enum": ["2y", "5y", "10y"]
+        "enum": [
+          "2y",
+          "5y",
+          "10y"
+        ]
       },
       "start_date": {
         "type": "string",
@@ -28,7 +32,9 @@
         "default": 10
       }
     },
-    "required": ["bond_term"]
+    "required": [
+      "bond_term"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -64,7 +70,10 @@
               "description": "Date of yield observation"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Bond yield percentage"
             }
           }
@@ -75,7 +84,14 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["bonds", "yields", "government bonds", "eurozone", "fixed income", "yield curve"],
+    "tags": [
+      "bonds",
+      "yields",
+      "government bonds",
+      "eurozone",
+      "fixed income",
+      "yield curve"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Euro Area government bond yields are average yields weighted by GDP. Useful for yield curve analysis and fixed income trading.",

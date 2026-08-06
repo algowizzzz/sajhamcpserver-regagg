@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.world_bank_tool.WBGetIncomeLevelsTool",
   "description": "Retrieve World Bank income level classifications and metadata. Get information about income groupings (High, Upper Middle, Lower Middle, Low).",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -42,7 +42,10 @@
               "description": "Full name of income level"
             }
           },
-          "required": ["id", "value"]
+          "required": [
+            "id",
+            "value"
+          ]
         }
       },
       "descriptions": {
@@ -72,12 +75,20 @@
         "description": "Timestamp when data was retrieved (ISO format)"
       }
     },
-    "required": ["total_levels", "income_levels"]
+    "required": [
+      "total_levels",
+      "income_levels"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["world bank", "income levels", "classification", "metadata"],
+    "tags": [
+      "world bank",
+      "income levels",
+      "classification",
+      "metadata"
+    ],
     "rateLimit": 120,
     "cacheTTL": 86400,
     "note": "Income level classifications help categorize countries by GNI per capita. HIC=High Income, UMC=Upper Middle Income, LMC=Lower Middle Income, LIC=Low Income.",

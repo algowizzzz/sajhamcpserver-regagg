@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sqlselect_tool_refactored.SqlSelectSampleDataTool",
   "description": "Retrieve sample rows from a data source for quick preview and data exploration",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "data_directory": "${data.sqlselect.dir:./data/sqlselect}",
   "data_sources": {
     "customers": {
@@ -42,7 +42,9 @@
         "maximum": 1000
       }
     },
-    "required": ["source_name"]
+    "required": [
+      "source_name"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -78,16 +80,30 @@
         "description": "ISO timestamp"
       }
     },
-    "required": ["success", "source_name", "columns", "rows", "row_count"]
+    "required": [
+      "success",
+      "source_name",
+      "columns",
+      "rows",
+      "row_count"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "email": "ajsinha@gmail.com",
     "category": "Data Query",
-    "tags": ["sql", "sample", "preview", "exploration", "duckdb"],
+    "tags": [
+      "sql",
+      "sample",
+      "preview",
+      "exploration",
+      "duckdb"
+    ],
     "rateLimit": 100,
     "cacheTTL": 300,
-    "dependencies": ["duckdb"],
+    "dependencies": [
+      "duckdb"
+    ],
     "note": "Quick way to preview data without writing SQL queries. Ideal for data exploration.",
     "examples": [
       {

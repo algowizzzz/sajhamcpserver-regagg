@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.openbb_tools.OpenBBGenericTool",
   "description": "Get share statistics via OpenBB \u2014 float, outstanding, insider ownership",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

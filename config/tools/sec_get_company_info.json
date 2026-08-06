@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sec_edgar_tool_refactored.SECGetCompanyInfoTool",
   "description": "Retrieve detailed company information including business address, SIC code, and fiscal year end",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -17,8 +17,16 @@
       }
     },
     "oneOf": [
-      {"required": ["cik"]},
-      {"required": ["ticker"]}
+      {
+        "required": [
+          "cik"
+        ]
+      },
+      {
+        "required": [
+          "ticker"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -35,7 +43,9 @@
       "tickers": {
         "type": "array",
         "description": "Stock ticker symbols",
-        "items": {"type": "string"}
+        "items": {
+          "type": "string"
+        }
       },
       "sic": {
         "type": "string",
@@ -61,11 +71,21 @@
         "type": "object",
         "description": "Business address",
         "properties": {
-          "street1": {"type": "string"},
-          "street2": {"type": "string"},
-          "city": {"type": "string"},
-          "stateOrCountry": {"type": "string"},
-          "zipCode": {"type": "string"}
+          "street1": {
+            "type": "string"
+          },
+          "street2": {
+            "type": "string"
+          },
+          "city": {
+            "type": "string"
+          },
+          "stateOrCountry": {
+            "type": "string"
+          },
+          "zipCode": {
+            "type": "string"
+          }
         }
       },
       "mailing_address": {
@@ -83,7 +103,9 @@
       "exchanges": {
         "type": "array",
         "description": "Stock exchanges",
-        "items": {"type": "string"}
+        "items": {
+          "type": "string"
+        }
       },
       "website": {
         "type": "string",
@@ -94,12 +116,22 @@
         "description": "Investor relations website URL"
       }
     },
-    "required": ["cik", "name"]
+    "required": [
+      "cik",
+      "name"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Financial Data",
-    "tags": ["sec", "edgar", "company", "information", "profile", "sic"],
+    "tags": [
+      "sec",
+      "edgar",
+      "company",
+      "information",
+      "profile",
+      "sic"
+    ],
     "rateLimit": 10,
     "cacheTTL": 3600,
     "note": "Retrieve comprehensive company profile information from SEC EDGAR including addresses, SIC codes, and contact details.",

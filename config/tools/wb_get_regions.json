@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.world_bank_tool.WBGetRegionsTool",
   "description": "Retrieve World Bank geographic region classifications and metadata. Get information about regional groupings of countries.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -46,7 +46,10 @@
               "description": "Alternative region code"
             }
           },
-          "required": ["id", "value"]
+          "required": [
+            "id",
+            "value"
+          ]
         }
       },
       "descriptions": {
@@ -92,12 +95,21 @@
         "description": "Timestamp when data was retrieved (ISO format)"
       }
     },
-    "required": ["total_regions", "regions"]
+    "required": [
+      "total_regions",
+      "regions"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["world bank", "regions", "geography", "classification", "metadata"],
+    "tags": [
+      "world bank",
+      "regions",
+      "geography",
+      "classification",
+      "metadata"
+    ],
     "rateLimit": 120,
     "cacheTTL": 86400,
     "note": "Geographic region classifications help group countries by location. Useful for regional analysis and comparisons.",

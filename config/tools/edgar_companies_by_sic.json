@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARCompaniesBySICTool",
   "description": "Search companies by Standard Industrial Classification (SIC) code for industry and sector analysis",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -19,7 +19,9 @@
         "default": 50
       }
     },
-    "required": ["sic_code"]
+    "required": [
+      "sic_code"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -38,11 +40,21 @@
         "items": {
           "type": "object",
           "properties": {
-            "cik": {"type": "string"},
-            "name": {"type": "string"},
-            "sic": {"type": "string"},
-            "sicDescription": {"type": "string"},
-            "fiscalYearEnd": {"type": "string"}
+            "cik": {
+              "type": "string"
+            },
+            "name": {
+              "type": "string"
+            },
+            "sic": {
+              "type": "string"
+            },
+            "sicDescription": {
+              "type": "string"
+            },
+            "fiscalYearEnd": {
+              "type": "string"
+            }
           }
         }
       }
@@ -51,22 +63,37 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "sic", "industry", "sector", "classification"],
+    "tags": [
+      "sec",
+      "edgar",
+      "sic",
+      "industry",
+      "sector",
+      "classification"
+    ],
     "rateLimit": 10,
     "cacheTTL": 7200,
     "note": "SIC codes classify companies by industry. Useful for peer analysis and sector research.",
     "examples": [
       {
         "description": "Find all software companies",
-        "input": {"sic_code": "7372", "limit": 100}
+        "input": {
+          "sic_code": "7372",
+          "limit": 100
+        }
       },
       {
         "description": "Find semiconductor companies",
-        "input": {"sic_code": "3674"}
+        "input": {
+          "sic_code": "3674"
+        }
       },
       {
         "description": "Find commercial banks",
-        "input": {"sic_code": "6022", "limit": 50}
+        "input": {
+          "sic_code": "6022",
+          "limit": 50
+        }
       }
     ],
     "useCases": [

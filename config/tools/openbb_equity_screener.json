@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.openbb_tools.OpenBBEquityScreenerTool",
   "description": "Screen stocks via OpenBB \u2014 filter by market cap, sector, industry, region from Yahoo Finance or FMP",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

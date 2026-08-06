@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARInsiderTransactionsTool",
   "description": "Retrieve insider trading transactions (Form 4 filings) showing buy/sell activities by company officers, directors, and 10% owners",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -19,7 +19,9 @@
         "default": 20
       }
     },
-    "required": ["cik"]
+    "required": [
+      "cik"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -70,7 +72,16 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "insider trading", "form 4", "beneficial ownership", "stock transactions", "officers", "directors"],
+    "tags": [
+      "sec",
+      "edgar",
+      "insider trading",
+      "form 4",
+      "beneficial ownership",
+      "stock transactions",
+      "officers",
+      "directors"
+    ],
     "rateLimit": 10,
     "cacheTTL": 900,
     "note": "Form 4 reports insider buy/sell transactions. Must be filed within 2 business days of transaction. Useful for tracking management sentiment and potential conflicts.",

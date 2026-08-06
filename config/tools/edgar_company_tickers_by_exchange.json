@@ -3,14 +3,20 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARCompanyTickersByExchangeTool",
   "description": "Get all public companies listed on a specific stock exchange (NYSE, NASDAQ, AMEX, etc.)",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
       "exchange": {
         "type": "string",
         "description": "Stock exchange code",
-        "enum": ["Nasdaq", "NYSE", "AMEX", "BATS", "OTC"]
+        "enum": [
+          "Nasdaq",
+          "NYSE",
+          "AMEX",
+          "BATS",
+          "OTC"
+        ]
       },
       "limit": {
         "type": "integer",
@@ -20,7 +26,9 @@
         "default": 100
       }
     },
-    "required": ["exchange"]
+    "required": [
+      "exchange"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -39,9 +47,15 @@
         "items": {
           "type": "object",
           "properties": {
-            "cik": {"type": "string"},
-            "ticker": {"type": "string"},
-            "title": {"type": "string"}
+            "cik": {
+              "type": "string"
+            },
+            "ticker": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            }
           }
         }
       }
@@ -50,19 +64,35 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "exchange", "nyse", "nasdaq", "listings"],
+    "tags": [
+      "sec",
+      "edgar",
+      "exchange",
+      "nyse",
+      "nasdaq",
+      "listings"
+    ],
     "rateLimit": 10,
     "cacheTTL": 7200,
     "examples": [
       {
         "description": "Get all NYSE companies",
-        "input": {"exchange": "NYSE", "limit": 500}
+        "input": {
+          "exchange": "NYSE",
+          "limit": 500
+        }
       },
       {
         "description": "Get NASDAQ listings",
-        "input": {"exchange": "Nasdaq"}
+        "input": {
+          "exchange": "Nasdaq"
+        }
       }
     ],
-    "useCases": ["Exchange-specific company screening", "Market analysis by exchange", "Building exchange indices"]
+    "useCases": [
+      "Exchange-specific company screening",
+      "Market analysis by exchange",
+      "Building exchange indices"
+    ]
   }
 }

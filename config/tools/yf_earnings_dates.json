@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yfinance_tools.YFEarningsDatesTool",
   "description": "Get earnings dates from Yahoo Finance \u2014 past and upcoming earnings announcement dates",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.imf_tool_refactored.IMFGetBOPDataTool",
   "description": "Retrieve Balance of Payments (BOP) data including current account, capital account, trade balance, and financial flows.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -27,36 +27,65 @@
       },
       "frequency": {
         "type": "string",
-        "enum": ["A", "Q"],
+        "enum": [
+          "A",
+          "Q"
+        ],
         "default": "A"
       }
     },
-    "required": ["country_code", "indicator_code"]
+    "required": [
+      "country_code",
+      "indicator_code"
+    ]
   },
   "outputSchema": {
     "type": "object",
     "properties": {
-      "database": {"type": "string"},
-      "country_code": {"type": "string"},
-      "indicator_code": {"type": "string"},
-      "frequency": {"type": "string"},
+      "database": {
+        "type": "string"
+      },
+      "country_code": {
+        "type": "string"
+      },
+      "indicator_code": {
+        "type": "string"
+      },
+      "frequency": {
+        "type": "string"
+      },
       "data": {
         "type": "array",
         "items": {
           "type": "object",
           "properties": {
-            "period": {"type": "string"},
-            "value": {"type": ["number", "null"]}
+            "period": {
+              "type": "string"
+            },
+            "value": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
           }
         }
       },
-      "count": {"type": "integer"}
+      "count": {
+        "type": "integer"
+      }
     }
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["imf", "bop", "balance of payments", "trade", "current account"],
+    "tags": [
+      "imf",
+      "bop",
+      "balance of payments",
+      "trade",
+      "current account"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Balance of Payments data provides comprehensive information on international transactions.",

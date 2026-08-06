@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPGenericTool",
   "description": "Get full list of all tradeable stocks from FMP",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

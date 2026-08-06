@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fred_tools.FREDGDPGrowthTool",
   "description": "Get US GDP Growth Rate from FRED \u2014 quarterly annualized",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

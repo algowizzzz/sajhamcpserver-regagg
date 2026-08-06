@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPCompanyPeersTool",
   "description": "Get peer companies from FMP \u2014 stocks in the same sector with similar market cap for competitive analysis",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

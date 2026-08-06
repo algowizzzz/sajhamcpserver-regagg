@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fred_tools.FRED10YTreasuryTool",
   "description": "Get 10-Year Treasury Yield (DGS10) from FRED",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

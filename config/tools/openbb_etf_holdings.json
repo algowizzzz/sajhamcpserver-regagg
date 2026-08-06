@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.openbb_tools.OpenBBETFHoldingsTool",
   "description": "Get ETF holdings breakdown via OpenBB \u2014 top holdings, portfolio weights, sectors for SPY, QQQ, VTI, and other ETFs",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yfinance_tools.YFNewsTool",
   "description": "Get latest news from Yahoo Finance for a specific stock \u2014 headlines, links, publisher",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

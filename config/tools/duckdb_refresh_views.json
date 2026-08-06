@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.duckdb_olap_tools_refactored.DuckDbRefreshViewsTool",
   "description": "Refresh materialized views or reload external data files into DuckDB",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "data_directory": "${data.duckdb.dir:./data/duckdb}",
   "inputSchema": {
     "type": "object",
@@ -35,7 +35,11 @@
             "status": {
               "type": "string",
               "description": "Refresh status",
-              "enum": ["success", "failed", "skipped"]
+              "enum": [
+                "success",
+                "failed",
+                "skipped"
+              ]
             },
             "row_count": {
               "type": "integer",
@@ -61,12 +65,20 @@
         "description": "Whether external files were reloaded"
       }
     },
-    "required": ["refreshed_views", "total_refreshed"]
+    "required": [
+      "refreshed_views",
+      "total_refreshed"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Data Analytics",
-    "tags": ["duckdb", "views", "refresh", "reload"],
+    "tags": [
+      "duckdb",
+      "views",
+      "refresh",
+      "reload"
+    ],
     "rateLimit": 60,
     "cacheTTL": 60,
     "note": "Refresh materialized views and reload external data sources",

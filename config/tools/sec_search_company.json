@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sec_edgar_tool_refactored.SECSearchCompanyTool",
   "description": "Search for companies by name or ticker symbol in SEC EDGAR database",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -19,7 +19,9 @@
         "maximum": 100
       }
     },
-    "required": ["search_term"]
+    "required": [
+      "search_term"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -55,16 +57,30 @@
               "description": "Stock exchange (e.g., 'Nasdaq', 'NYSE')"
             }
           },
-          "required": ["cik", "name"]
+          "required": [
+            "cik",
+            "name"
+          ]
         }
       }
     },
-    "required": ["search_term", "result_count", "companies"]
+    "required": [
+      "search_term",
+      "result_count",
+      "companies"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Financial Data",
-    "tags": ["sec", "edgar", "search", "companies", "ticker", "cik"],
+    "tags": [
+      "sec",
+      "edgar",
+      "search",
+      "companies",
+      "ticker",
+      "cik"
+    ],
     "rateLimit": 10,
     "cacheTTL": 3600,
     "note": "Search SEC EDGAR database for company information. Returns CIK numbers which can be used with other SEC tools.",

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fred_tools.FREDContinuingClaimsTool",
   "description": "Get Continuing Jobless Claims from FRED",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

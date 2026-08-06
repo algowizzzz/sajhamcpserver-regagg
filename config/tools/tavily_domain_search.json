@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.tavily_tool_refactored.TavilyDomainSearchTool",
   "description": "Search within specific domains or exclude domains using Tavily for targeted information retrieval from trusted or preferred sources",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "api_key": "${tavily.api.key}",
   "inputSchema": {
     "type": "object",
@@ -39,13 +39,19 @@
         "default": true
       }
     },
-    "required": ["query"],
+    "required": [
+      "query"
+    ],
     "oneOf": [
       {
-        "required": ["include_domains"]
+        "required": [
+          "include_domains"
+        ]
       },
       {
-        "required": ["exclude_domains"]
+        "required": [
+          "exclude_domains"
+        ]
       }
     ]
   },
@@ -104,13 +110,23 @@
         "description": "AI-generated answer"
       }
     },
-    "required": ["query", "results_count", "results"]
+    "required": [
+      "query",
+      "results_count",
+      "results"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "email": "ajsinha@gmail.com",
     "category": "Targeted Search",
-    "tags": ["domain filter", "site search", "targeted search", "source control", "tavily"],
+    "tags": [
+      "domain filter",
+      "site search",
+      "targeted search",
+      "source control",
+      "tavily"
+    ],
     "rateLimit": 100,
     "cacheTTL": 3600,
     "note": "Filter search results by including or excluding specific domains. Useful for searching trusted sources or avoiding low-quality content. Requires Tavily API key.",
@@ -119,7 +135,11 @@
         "description": "Search only technical documentation sites",
         "input": {
           "query": "React hooks best practices",
-          "include_domains": ["react.dev", "github.com", "stackoverflow.com"],
+          "include_domains": [
+            "react.dev",
+            "github.com",
+            "stackoverflow.com"
+          ],
           "max_results": 10
         }
       },
@@ -127,7 +147,11 @@
         "description": "Search academic sources for research",
         "input": {
           "query": "quantum entanglement experiments",
-          "include_domains": ["arxiv.org", "nature.com", "science.org"],
+          "include_domains": [
+            "arxiv.org",
+            "nature.com",
+            "science.org"
+          ],
           "max_results": 15,
           "include_answer": true
         }
@@ -136,7 +160,11 @@
         "description": "Exclude social media and aggregators",
         "input": {
           "query": "healthy meal prep ideas",
-          "exclude_domains": ["pinterest.com", "facebook.com", "reddit.com"],
+          "exclude_domains": [
+            "pinterest.com",
+            "facebook.com",
+            "reddit.com"
+          ],
           "max_results": 5
         }
       },
@@ -144,7 +172,9 @@
         "description": "Search official documentation only",
         "input": {
           "query": "PostgreSQL transaction isolation",
-          "include_domains": ["postgresql.org"],
+          "include_domains": [
+            "postgresql.org"
+          ],
           "max_results": 5,
           "include_answer": true
         }

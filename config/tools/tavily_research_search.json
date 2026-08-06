@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.tavily_tool_refactored.TavilyResearchSearchTool",
   "description": "Perform comprehensive research search with advanced depth, analysis, and higher result counts for academic and professional research",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "api_key": "${tavily.api.key}",
   "inputSchema": {
     "type": "object",
@@ -15,7 +15,11 @@
       "topic": {
         "type": "string",
         "description": "Research topic category for optimized results",
-        "enum": ["general", "science", "finance"],
+        "enum": [
+          "general",
+          "science",
+          "finance"
+        ],
         "default": "general"
       },
       "max_results": {
@@ -31,7 +35,9 @@
         "default": false
       }
     },
-    "required": ["query"]
+    "required": [
+      "query"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -90,13 +96,26 @@
         "description": "AI-generated comprehensive research summary"
       }
     },
-    "required": ["query", "results_count", "results", "answer"]
+    "required": [
+      "query",
+      "results_count",
+      "results",
+      "answer"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "email": "ajsinha@gmail.com",
     "category": "Research",
-    "tags": ["research", "academic", "analysis", "deep search", "comprehensive", "science", "finance"],
+    "tags": [
+      "research",
+      "academic",
+      "analysis",
+      "deep search",
+      "comprehensive",
+      "science",
+      "finance"
+    ],
     "rateLimit": 50,
     "cacheTTL": 7200,
     "note": "Uses advanced search depth for comprehensive results. Best for academic research, market analysis, and in-depth investigations. Requires Tavily API key.",

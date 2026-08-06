@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sqlselect_tool_refactored.SqlSelectGetSchemaTool",
   "description": "Get detailed schema information for a data source including column names, types, nullability, and constraints",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "data_directory": "${data.sqlselect.dir:./data/sqlselect}",
   "data_sources": {
     "customers": {
@@ -35,7 +35,9 @@
         "description": "Name of the data source"
       }
     },
-    "required": ["source_name"]
+    "required": [
+      "source_name"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -67,7 +69,10 @@
               "description": "Nullable status"
             },
             "key": {
-              "type": ["string", "null"],
+              "type": [
+                "string",
+                "null"
+              ],
               "description": "Key constraint"
             }
           }
@@ -82,16 +87,31 @@
         "description": "ISO timestamp"
       }
     },
-    "required": ["success", "source_name", "schema", "column_count"]
+    "required": [
+      "success",
+      "source_name",
+      "schema",
+      "column_count"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "email": "ajsinha@gmail.com",
     "category": "Data Query",
-    "tags": ["sql", "schema", "ddl", "metadata", "columns", "types", "duckdb"],
+    "tags": [
+      "sql",
+      "schema",
+      "ddl",
+      "metadata",
+      "columns",
+      "types",
+      "duckdb"
+    ],
     "rateLimit": 100,
     "cacheTTL": 3600,
-    "dependencies": ["duckdb"],
+    "dependencies": [
+      "duckdb"
+    ],
     "note": "Provides detailed schema information for understanding data structure and building queries",
     "examples": [
       {

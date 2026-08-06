@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yahoo_finance_tool.YahooSearchSymbolsTool",
   "description": "Search for stock symbols and companies by name, ticker, or keyword. Returns matching securities with their symbols and basic info.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -23,11 +23,20 @@
       "exchange": {
         "type": "string",
         "description": "Filter by exchange (optional)",
-        "enum": ["NYSE", "NASDAQ", "AMEX", "LSE", "TSX", "all"],
+        "enum": [
+          "NYSE",
+          "NASDAQ",
+          "AMEX",
+          "LSE",
+          "TSX",
+          "all"
+        ],
         "default": "all"
       }
     },
-    "required": ["query"]
+    "required": [
+      "query"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -61,26 +70,49 @@
             "type": {
               "type": "string",
               "description": "Security type",
-              "enum": ["EQUITY", "ETF", "INDEX", "MUTUALFUND", "CRYPTOCURRENCY", "FUTURE", "CURRENCY"]
+              "enum": [
+                "EQUITY",
+                "ETF",
+                "INDEX",
+                "MUTUALFUND",
+                "CRYPTOCURRENCY",
+                "FUTURE",
+                "CURRENCY"
+              ]
             },
             "sector": {
-              "type": ["string", "null"],
+              "type": [
+                "string",
+                "null"
+              ],
               "description": "Industry sector"
             },
             "industry": {
-              "type": ["string", "null"],
+              "type": [
+                "string",
+                "null"
+              ],
               "description": "Specific industry"
             },
             "market_cap": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Market capitalization"
             },
             "description": {
-              "type": ["string", "null"],
+              "type": [
+                "string",
+                "null"
+              ],
               "description": "Brief company description"
             }
           },
-          "required": ["symbol", "name"]
+          "required": [
+            "symbol",
+            "name"
+          ]
         }
       },
       "last_updated": {
@@ -88,12 +120,22 @@
         "description": "Timestamp when search was performed (ISO format)"
       }
     },
-    "required": ["query", "results"]
+    "required": [
+      "query",
+      "results"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Financial Data",
-    "tags": ["finance", "stocks", "search", "symbols", "tickers", "discovery"],
+    "tags": [
+      "finance",
+      "stocks",
+      "search",
+      "symbols",
+      "tickers",
+      "discovery"
+    ],
     "rateLimit": 60,
     "cacheTTL": 3600,
     "note": "Search Yahoo Finance for stock symbols, ETFs, and other securities. Useful for discovering ticker symbols from company names.",

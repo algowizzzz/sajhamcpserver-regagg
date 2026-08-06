@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARInstitutionalHoldingsTool",
   "description": "Retrieve institutional investment manager holdings (Form 13F-HR) showing quarterly portfolio positions of hedge funds, mutual funds, and other institutions",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -19,7 +19,9 @@
         "default": 10
       }
     },
-    "required": ["cik"]
+    "required": [
+      "cik"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -70,7 +72,16 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "13F", "institutional holdings", "portfolio", "hedge funds", "mutual funds", "investments"],
+    "tags": [
+      "sec",
+      "edgar",
+      "13F",
+      "institutional holdings",
+      "portfolio",
+      "hedge funds",
+      "mutual funds",
+      "investments"
+    ],
     "rateLimit": 10,
     "cacheTTL": 1800,
     "note": "Form 13F-HR discloses institutional holdings. Required for managers with $100M+ in 13(f) securities. Filed quarterly within 45 days of quarter end. Use institutional manager CIK, not company CIK.",

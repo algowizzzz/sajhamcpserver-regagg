@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yfinance_tools.YFForexHistoryTool",
   "description": "Get forex pair history from Yahoo Finance \u2014 EURUSD, GBPJPY, USDINR, etc.",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

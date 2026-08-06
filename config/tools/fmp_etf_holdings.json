@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPETFHoldingsTool",
   "description": "Get ETF holdings from FMP \u2014 constituent stocks, weights, shares held for any ETF (SPY, QQQ, IWM, etc.)",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

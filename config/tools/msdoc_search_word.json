@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.msdoc_tools_tool_refactored.MsDocSearchWordTool",
   "description": "Search for specific text within Word documents and return matching paragraphs",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -16,31 +16,49 @@
         "description": "Text to search for (case-insensitive)"
       }
     },
-    "required": ["filename", "search_term"]
+    "required": [
+      "filename",
+      "search_term"
+    ]
   },
   "outputSchema": {
     "type": "object",
     "properties": {
-      "filename": {"type": "string"},
-      "search_term": {"type": "string"},
+      "filename": {
+        "type": "string"
+      },
+      "search_term": {
+        "type": "string"
+      },
       "matches": {
         "type": "array",
         "description": "Paragraphs containing the search term",
         "items": {
           "type": "object",
           "properties": {
-            "paragraph_index": {"type": "integer"},
-            "text": {"type": "string"}
+            "paragraph_index": {
+              "type": "integer"
+            },
+            "text": {
+              "type": "string"
+            }
           }
         }
       },
-      "match_count": {"type": "integer"}
+      "match_count": {
+        "type": "integer"
+      }
     }
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Document Processing",
-    "tags": ["word", "search", "find", "text"],
+    "tags": [
+      "word",
+      "search",
+      "find",
+      "text"
+    ],
     "rateLimit": 60,
     "cacheTTL": 300,
     "examples": [

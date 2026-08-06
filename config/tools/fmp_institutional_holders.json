@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPInstitutionalHoldersTool",
   "description": "Get institutional holders from FMP \u2014 major fund holders, shares held, portfolio weight, change in holdings",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

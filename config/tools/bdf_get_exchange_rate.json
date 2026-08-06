@@ -3,11 +3,16 @@
   "implementation": "sajha.tools.impl.france_central_bank.BdFGetExchangeRateTool",
   "description": "Retrieve Euro exchange rates against major currencies",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["france", "ecb", "eurozone", "economic data"],
+    "tags": [
+      "france",
+      "ecb",
+      "eurozone",
+      "economic data"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600
   }

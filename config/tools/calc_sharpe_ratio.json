@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.calc_tools.CalcSharpeRatioTool",
   "description": "Calculate Sharpe Ratio \u2014 risk-adjusted return measure",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

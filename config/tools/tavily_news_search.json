@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.tavily_tool_refactored.TavilyNewsSearchTool",
   "description": "Search for recent news articles using Tavily with news-optimized results and recency prioritization",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "api_key": "${tavily.api.key}",
   "inputSchema": {
     "type": "object",
@@ -25,7 +25,9 @@
         "default": true
       }
     },
-    "required": ["query"]
+    "required": [
+      "query"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -72,13 +74,24 @@
         "description": "AI-generated news summary"
       }
     },
-    "required": ["query", "results_count", "results"]
+    "required": [
+      "query",
+      "results_count",
+      "results"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "email": "ajsinha@gmail.com",
     "category": "News Search",
-    "tags": ["news", "articles", "current events", "journalism", "media", "tavily"],
+    "tags": [
+      "news",
+      "articles",
+      "current events",
+      "journalism",
+      "media",
+      "tavily"
+    ],
     "rateLimit": 100,
     "cacheTTL": 1800,
     "note": "Optimized for news articles with recency weighting. Requires Tavily API key for production use.",

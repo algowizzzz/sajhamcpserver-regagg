@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fbi_tool_refactored.FBIGetAgencyStatisticsTool",
   "description": "Retrieve crime statistics for a specific law enforcement agency using ORI code",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -40,7 +40,10 @@
         "default": false
       }
     },
-    "required": ["ori", "offense_type"]
+    "required": [
+      "ori",
+      "offense_type"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -104,12 +107,24 @@
         }
       }
     },
-    "required": ["ori", "agency_name", "offense_type", "year", "agency_data"]
+    "required": [
+      "ori",
+      "agency_name",
+      "offense_type",
+      "year",
+      "agency_data"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Crime Statistics",
-    "tags": ["crime", "fbi", "agency", "police", "ucr"],
+    "tags": [
+      "crime",
+      "fbi",
+      "agency",
+      "police",
+      "ucr"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Retrieves agency-specific crime statistics with state and national comparison",

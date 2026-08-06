@@ -3,14 +3,17 @@
   "implementation": "sajha.tools.impl.japan_central_bank.BoJGetPolicyRateTool",
   "description": "Retrieve Bank of Japan policy interest rate and discount rate with historical data.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
       "rate_type": {
         "type": "string",
         "description": "Type of policy rate",
-        "enum": ["policy_rate", "discount_rate"],
+        "enum": [
+          "policy_rate",
+          "discount_rate"
+        ],
         "default": "policy_rate"
       },
       "start_date": {
@@ -29,21 +32,36 @@
         "default": 10
       }
     },
-    "required": ["rate_type"]
+    "required": [
+      "rate_type"
+    ]
   },
   "outputSchema": {
     "type": "object",
     "properties": {
-      "series_code": {"type": "string"},
-      "label": {"type": "string"},
-      "observation_count": {"type": "integer"},
+      "series_code": {
+        "type": "string"
+      },
+      "label": {
+        "type": "string"
+      },
+      "observation_count": {
+        "type": "integer"
+      },
       "observations": {
         "type": "array",
         "items": {
           "type": "object",
           "properties": {
-            "date": {"type": "string"},
-            "value": {"type": ["number", "null"]}
+            "date": {
+              "type": "string"
+            },
+            "value": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
           }
         }
       }
@@ -52,7 +70,13 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Monetary Policy",
-    "tags": ["interest rates", "policy rate", "japan", "boj", "monetary policy"],
+    "tags": [
+      "interest rates",
+      "policy rate",
+      "japan",
+      "boj",
+      "monetary policy"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600
   }

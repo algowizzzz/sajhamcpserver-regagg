@@ -3,11 +3,15 @@
   "implementation": "sajha.tools.impl.india_central_bank.RBIGetInflationTool",
   "description": "Retrieve Indian inflation data including CPI and WPI",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["india", "rbi", "economic data"],
+    "tags": [
+      "india",
+      "rbi",
+      "economic data"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600
   }

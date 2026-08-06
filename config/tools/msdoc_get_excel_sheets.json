@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.msdoc_tools_tool_refactored.MsDocGetExcelSheetsTool",
   "description": "List all worksheets in an Excel workbook",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -12,36 +12,56 @@
         "description": "Name of the Excel file"
       }
     },
-    "required": ["filename"]
+    "required": [
+      "filename"
+    ]
   },
   "outputSchema": {
     "type": "object",
     "properties": {
-      "filename": {"type": "string"},
+      "filename": {
+        "type": "string"
+      },
       "sheets": {
         "type": "array",
         "description": "List of worksheets",
         "items": {
           "type": "object",
           "properties": {
-            "index": {"type": "integer", "description": "0-based sheet index"},
-            "name": {"type": "string", "description": "Sheet name"}
+            "index": {
+              "type": "integer",
+              "description": "0-based sheet index"
+            },
+            "name": {
+              "type": "string",
+              "description": "Sheet name"
+            }
           }
         }
       },
-      "count": {"type": "integer", "description": "Total number of sheets"}
+      "count": {
+        "type": "integer",
+        "description": "Total number of sheets"
+      }
     }
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Document Processing",
-    "tags": ["excel", "worksheets", "sheets", "list"],
+    "tags": [
+      "excel",
+      "worksheets",
+      "sheets",
+      "list"
+    ],
     "rateLimit": 60,
     "cacheTTL": 3600,
     "examples": [
       {
         "description": "List all sheets in workbook",
-        "input": {"filename": "quarterly_report.xlsx"}
+        "input": {
+          "filename": "quarterly_report.xlsx"
+        }
       }
     ],
     "useCases": [

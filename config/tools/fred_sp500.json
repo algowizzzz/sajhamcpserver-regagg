@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fred_tools.FREDSP500Tool",
   "description": "Get S&P 500 Index from FRED",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

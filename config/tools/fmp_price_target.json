@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPPriceTargetTool",
   "description": "Get analyst price targets from FMP \u2014 target price, analyst name, firm, published date for a stock",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPSenateTradingTool",
   "description": "Get US Senate stock trading disclosures from FMP \u2014 senator name, transaction type, amount, asset, date",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

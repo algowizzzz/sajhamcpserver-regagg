@@ -3,14 +3,19 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARFrameDataTool",
   "description": "Retrieve aggregated XBRL frame data across ALL companies for a specific financial concept and time period - useful for market-wide analysis and benchmarking",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
       "taxonomy": {
         "type": "string",
         "description": "XBRL taxonomy standard",
-        "enum": ["us-gaap", "ifrs-full", "dei", "srt"],
+        "enum": [
+          "us-gaap",
+          "ifrs-full",
+          "dei",
+          "srt"
+        ],
         "default": "us-gaap"
       },
       "concept": {
@@ -20,7 +25,11 @@
       "unit": {
         "type": "string",
         "description": "Unit of measure for the concept",
-        "enum": ["USD", "shares", "pure"],
+        "enum": [
+          "USD",
+          "shares",
+          "pure"
+        ],
         "default": "USD"
       },
       "year": {
@@ -32,11 +41,20 @@
       "quarter": {
         "type": "string",
         "description": "Fiscal period: Q1, Q2, Q3, Q4 for quarters, or CY for full calendar year",
-        "enum": ["Q1", "Q2", "Q3", "Q4", "CY"],
+        "enum": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4",
+          "CY"
+        ],
         "default": "CY"
       }
     },
-    "required": ["concept", "year"]
+    "required": [
+      "concept",
+      "year"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -103,7 +121,16 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "xbrl", "frame", "aggregated data", "market analysis", "benchmarking", "peer comparison"],
+    "tags": [
+      "sec",
+      "edgar",
+      "xbrl",
+      "frame",
+      "aggregated data",
+      "market analysis",
+      "benchmarking",
+      "peer comparison"
+    ],
     "rateLimit": 10,
     "cacheTTL": 7200,
     "note": "Aggregated view across ALL public companies for a specific metric and time period. Excellent for industry analysis, peer comparisons, and market-wide trends. Response can be large with thousands of companies.",
@@ -171,7 +198,11 @@
         "use": "Analyze profit margins and performance"
       },
       "financial_health": {
-        "concepts": ["Assets", "Liabilities", "StockholdersEquity"],
+        "concepts": [
+          "Assets",
+          "Liabilities",
+          "StockholdersEquity"
+        ],
         "use": "Assess balance sheet strength"
       },
       "cash_position": {
@@ -179,7 +210,10 @@
         "use": "Evaluate liquidity across market"
       },
       "valuation": {
-        "concepts": ["EarningsPerShareBasic", "CommonStockSharesOutstanding"],
+        "concepts": [
+          "EarningsPerShareBasic",
+          "CommonStockSharesOutstanding"
+        ],
         "use": "Calculate market-wide valuation metrics"
       }
     }

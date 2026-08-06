@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.world_bank_tool.WBSearchIndicatorsTool",
   "description": "Search World Bank indicators by keyword or topic. Find relevant indicators by searching through names and descriptions.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -33,7 +33,9 @@
         "default": 1
       }
     },
-    "required": ["search_term"]
+    "required": [
+      "search_term"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -82,8 +84,12 @@
               "items": {
                 "type": "object",
                 "properties": {
-                  "id": {"type": "string"},
-                  "value": {"type": "string"}
+                  "id": {
+                    "type": "string"
+                  },
+                  "value": {
+                    "type": "string"
+                  }
                 }
               }
             },
@@ -92,7 +98,10 @@
               "description": "Search relevance score (0-1)"
             }
           },
-          "required": ["id", "name"]
+          "required": [
+            "id",
+            "name"
+          ]
         }
       },
       "last_updated": {
@@ -100,12 +109,21 @@
         "description": "Timestamp when search was performed (ISO format)"
       }
     },
-    "required": ["search_term", "results"]
+    "required": [
+      "search_term",
+      "results"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["world bank", "search", "indicators", "discovery", "keywords"],
+    "tags": [
+      "world bank",
+      "search",
+      "indicators",
+      "discovery",
+      "keywords"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Search through World Bank's indicator catalog to find relevant development indicators by keyword. Useful for discovering appropriate indicators for research.",

@@ -3,27 +3,38 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARXBRLFramesMultiConceptTool",
   "description": "Retrieve multiple XBRL concepts in a single frame query for efficient batch analysis across all companies",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
       "taxonomy": {
         "type": "string",
         "description": "XBRL taxonomy",
-        "enum": ["us-gaap", "ifrs-full", "dei", "srt"],
+        "enum": [
+          "us-gaap",
+          "ifrs-full",
+          "dei",
+          "srt"
+        ],
         "default": "us-gaap"
       },
       "concepts": {
         "type": "array",
         "description": "List of XBRL concepts to retrieve (e.g., ['Revenue', 'Assets', 'NetIncomeLoss'])",
-        "items": {"type": "string"},
+        "items": {
+          "type": "string"
+        },
         "minItems": 1,
         "maxItems": 10
       },
       "unit": {
         "type": "string",
         "description": "Unit of measure",
-        "enum": ["USD", "shares", "pure"],
+        "enum": [
+          "USD",
+          "shares",
+          "pure"
+        ],
         "default": "USD"
       },
       "year": {
@@ -35,27 +46,51 @@
       "quarter": {
         "type": "string",
         "description": "Fiscal period",
-        "enum": ["Q1", "Q2", "Q3", "Q4", "CY"],
+        "enum": [
+          "Q1",
+          "Q2",
+          "Q3",
+          "Q4",
+          "CY"
+        ],
         "default": "CY"
       }
     },
-    "required": ["concepts", "year"]
+    "required": [
+      "concepts",
+      "year"
+    ]
   },
   "outputSchema": {
     "type": "object",
     "properties": {
-      "frame": {"type": "string", "description": "Frame identifier (e.g., 'CY2023')"},
-      "concepts_retrieved": {"type": "integer", "description": "Number of concepts successfully retrieved"},
+      "frame": {
+        "type": "string",
+        "description": "Frame identifier (e.g., 'CY2023')"
+      },
+      "concepts_retrieved": {
+        "type": "integer",
+        "description": "Number of concepts successfully retrieved"
+      },
       "data_by_concept": {
         "type": "object",
         "description": "Data organized by concept name",
         "additionalProperties": {
           "type": "object",
           "properties": {
-            "tag": {"type": "string"},
-            "label": {"type": "string"},
-            "units_count": {"type": "integer"},
-            "data": {"type": "array", "description": "Company data points"}
+            "tag": {
+              "type": "string"
+            },
+            "label": {
+              "type": "string"
+            },
+            "units_count": {
+              "type": "integer"
+            },
+            "data": {
+              "type": "array",
+              "description": "Company data points"
+            }
           }
         }
       }
@@ -64,7 +99,15 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "xbrl", "frames", "batch", "multiple concepts", "market data"],
+    "tags": [
+      "sec",
+      "edgar",
+      "xbrl",
+      "frames",
+      "batch",
+      "multiple concepts",
+      "market data"
+    ],
     "rateLimit": 10,
     "cacheTTL": 7200,
     "note": "Efficiently retrieves multiple related metrics in one call. More efficient than separate frame queries for each concept.",
@@ -72,7 +115,10 @@
       {
         "description": "Get revenue and net income for all companies in 2023",
         "input": {
-          "concepts": ["Revenues", "NetIncomeLoss"],
+          "concepts": [
+            "Revenues",
+            "NetIncomeLoss"
+          ],
           "year": 2023,
           "quarter": "CY"
         }
@@ -80,7 +126,11 @@
       {
         "description": "Get balance sheet metrics for Q4 2023",
         "input": {
-          "concepts": ["Assets", "Liabilities", "StockholdersEquity"],
+          "concepts": [
+            "Assets",
+            "Liabilities",
+            "StockholdersEquity"
+          ],
           "year": 2023,
           "quarter": "Q4"
         }
@@ -88,7 +138,12 @@
       {
         "description": "Analyze profitability metrics market-wide",
         "input": {
-          "concepts": ["Revenues", "GrossProfit", "OperatingIncomeLoss", "NetIncomeLoss"],
+          "concepts": [
+            "Revenues",
+            "GrossProfit",
+            "OperatingIncomeLoss",
+            "NetIncomeLoss"
+          ],
           "year": 2024,
           "quarter": "Q1"
         }

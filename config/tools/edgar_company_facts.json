@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARCompanyFactsTool",
   "description": "Retrieve all structured financial facts and XBRL data reported by a company across all filings",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -12,7 +12,9 @@
         "description": "Central Index Key (CIK) - 10 digit identifier or shorter format"
       }
     },
-    "required": ["cik"]
+    "required": [
+      "cik"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -49,7 +51,15 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "xbrl", "financial data", "facts", "gaap", "financial statements"],
+    "tags": [
+      "sec",
+      "edgar",
+      "xbrl",
+      "financial data",
+      "facts",
+      "gaap",
+      "financial statements"
+    ],
     "rateLimit": 10,
     "cacheTTL": 3600,
     "note": "Returns ALL structured financial data from XBRL filings. Includes income statement, balance sheet, cash flow, and custom metrics. Large response size (can be several MB).",

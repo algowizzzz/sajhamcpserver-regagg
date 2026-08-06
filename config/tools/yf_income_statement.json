@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yfinance_tools.YFIncomeStatementTool",
   "description": "Get income statement from Yahoo Finance \u2014 revenue, net income, EPS (annual or quarterly)",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

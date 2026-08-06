@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fbi_tool_refactored.FBIGetOffenseDataTool",
   "description": "Retrieve detailed offense breakdown and subcategories for major crime types",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -40,7 +40,9 @@
         "default": true
       }
     },
-    "required": ["offense_type"]
+    "required": [
+      "offense_type"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -56,7 +58,10 @@
       "scope": {
         "type": "string",
         "description": "Geographic scope (national or state)",
-        "enum": ["national", "state"]
+        "enum": [
+          "national",
+          "state"
+        ]
       },
       "state": {
         "type": "string",
@@ -106,12 +111,23 @@
         }
       }
     },
-    "required": ["offense_type", "year", "scope", "total_offenses"]
+    "required": [
+      "offense_type",
+      "year",
+      "scope",
+      "total_offenses"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Crime Statistics",
-    "tags": ["crime", "fbi", "offense", "detailed", "ucr"],
+    "tags": [
+      "crime",
+      "fbi",
+      "offense",
+      "detailed",
+      "ucr"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Provides detailed offense breakdowns with subcategories and demographics",

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.alphavantage_tools.AVStockIntradayTool",
   "description": "Get intraday stock prices from Alpha Vantage \u2014 1min, 5min, 15min, 30min, 60min intervals",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

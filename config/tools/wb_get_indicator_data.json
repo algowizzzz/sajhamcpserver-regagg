@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.world_bank_tool.WBGetIndicatorDataTool",
   "description": "Retrieve a specific indicator across all countries for comparison. Get cross-country data for any World Bank indicator in a single query.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -11,17 +11,45 @@
         "type": "string",
         "description": "Common indicator shorthand",
         "enum": [
-          "gdp", "gdp_per_capita", "gdp_growth", "gdp_ppp",
-          "population", "population_growth", "urban_population",
-          "life_expectancy", "birth_rate", "death_rate",
-          "poverty_rate", "gini_index", "income_share_lowest_20",
-          "literacy_rate", "primary_enrollment", "secondary_enrollment", "tertiary_enrollment",
-          "infant_mortality", "maternal_mortality", "health_expenditure", "hospital_beds",
-          "unemployment", "labor_force", "female_labor_force",
-          "exports", "imports", "trade_gdp", "fdi_inflow", "external_debt",
-          "co2_emissions", "co2_per_capita", "renewable_energy", "electricity_access", "forest_area",
-          "internet_users", "mobile_subscriptions", "roads_paved",
-          "inflation", "food_price_inflation"
+          "gdp",
+          "gdp_per_capita",
+          "gdp_growth",
+          "gdp_ppp",
+          "population",
+          "population_growth",
+          "urban_population",
+          "life_expectancy",
+          "birth_rate",
+          "death_rate",
+          "poverty_rate",
+          "gini_index",
+          "income_share_lowest_20",
+          "literacy_rate",
+          "primary_enrollment",
+          "secondary_enrollment",
+          "tertiary_enrollment",
+          "infant_mortality",
+          "maternal_mortality",
+          "health_expenditure",
+          "hospital_beds",
+          "unemployment",
+          "labor_force",
+          "female_labor_force",
+          "exports",
+          "imports",
+          "trade_gdp",
+          "fdi_inflow",
+          "external_debt",
+          "co2_emissions",
+          "co2_per_capita",
+          "renewable_energy",
+          "electricity_access",
+          "forest_area",
+          "internet_users",
+          "mobile_subscriptions",
+          "roads_paved",
+          "inflation",
+          "food_price_inflation"
         ]
       },
       "indicator_code": {
@@ -49,12 +77,25 @@
       "income_level": {
         "type": "string",
         "description": "Filter by income level",
-        "enum": ["HIC", "UMC", "LMC", "LIC"]
+        "enum": [
+          "HIC",
+          "UMC",
+          "LMC",
+          "LIC"
+        ]
       },
       "region": {
         "type": "string",
         "description": "Filter by region",
-        "enum": ["EAS", "ECS", "LCN", "MEA", "NAC", "SAS", "SSF"]
+        "enum": [
+          "EAS",
+          "ECS",
+          "LCN",
+          "MEA",
+          "NAC",
+          "SAS",
+          "SSF"
+        ]
       },
       "per_page": {
         "type": "integer",
@@ -65,8 +106,16 @@
       }
     },
     "oneOf": [
-      {"required": ["indicator"]},
-      {"required": ["indicator_code"]}
+      {
+        "required": [
+          "indicator"
+        ]
+      },
+      {
+        "required": [
+          "indicator_code"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -76,20 +125,38 @@
         "type": "object",
         "description": "Indicator information",
         "properties": {
-          "id": {"type": "string"},
-          "name": {"type": "string"}
+          "id": {
+            "type": "string"
+          },
+          "name": {
+            "type": "string"
+          }
         }
       },
       "year_filter": {
-        "type": ["integer", "object", "null"],
+        "type": [
+          "integer",
+          "object",
+          "null"
+        ],
         "description": "Year or year range applied"
       },
       "filters_applied": {
         "type": "object",
         "description": "Additional filters used",
         "properties": {
-          "income_level": {"type": ["string", "null"]},
-          "region": {"type": ["string", "null"]}
+          "income_level": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "region": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
         }
       },
       "country_count": {
@@ -105,8 +172,12 @@
             "country": {
               "type": "object",
               "properties": {
-                "id": {"type": "string"},
-                "name": {"type": "string"}
+                "id": {
+                  "type": "string"
+                },
+                "name": {
+                  "type": "string"
+                }
               }
             },
             "year": {
@@ -114,7 +185,10 @@
               "description": "Year of observation"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Indicator value"
             },
             "unit": {
@@ -122,7 +196,11 @@
               "description": "Unit of measurement"
             }
           },
-          "required": ["country", "year", "value"]
+          "required": [
+            "country",
+            "year",
+            "value"
+          ]
         }
       },
       "last_updated": {
@@ -130,12 +208,21 @@
         "description": "Timestamp when data was retrieved (ISO format)"
       }
     },
-    "required": ["indicator", "data"]
+    "required": [
+      "indicator",
+      "data"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["world bank", "cross-country", "comparison", "rankings", "indicators"],
+    "tags": [
+      "world bank",
+      "cross-country",
+      "comparison",
+      "rankings",
+      "indicators"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Retrieve indicator data across all countries for comparative analysis and rankings. Filter by region, income level, or year.",

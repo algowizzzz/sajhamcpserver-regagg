@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fred_tools.FREDTradeBalanceTool",
   "description": "Get US Trade Balance (Goods & Services) from FRED",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

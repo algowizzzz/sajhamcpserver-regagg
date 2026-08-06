@@ -3,14 +3,18 @@
   "implementation": "sajha.tools.impl.japan_central_bank.BoJGetInflationTool",
   "description": "Retrieve Japanese price indices including CPI and PPI with historical data.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
       "index_type": {
         "type": "string",
         "description": "Type of price index",
-        "enum": ["cpi", "core_cpi", "ppi"],
+        "enum": [
+          "cpi",
+          "core_cpi",
+          "ppi"
+        ],
         "default": "cpi"
       },
       "start_date": {
@@ -29,21 +33,36 @@
         "default": 10
       }
     },
-    "required": ["index_type"]
+    "required": [
+      "index_type"
+    ]
   },
   "outputSchema": {
     "type": "object",
     "properties": {
-      "series_code": {"type": "string"},
-      "label": {"type": "string"},
-      "observation_count": {"type": "integer"},
+      "series_code": {
+        "type": "string"
+      },
+      "label": {
+        "type": "string"
+      },
+      "observation_count": {
+        "type": "integer"
+      },
       "observations": {
         "type": "array",
         "items": {
           "type": "object",
           "properties": {
-            "date": {"type": "string"},
-            "value": {"type": ["number", "null"]}
+            "date": {
+              "type": "string"
+            },
+            "value": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
           }
         }
       }
@@ -52,7 +71,13 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Inflation Data",
-    "tags": ["cpi", "ppi", "inflation", "japan", "price index"],
+    "tags": [
+      "cpi",
+      "ppi",
+      "inflation",
+      "japan",
+      "price index"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600
   }

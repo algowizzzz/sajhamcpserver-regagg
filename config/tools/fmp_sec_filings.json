@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fmp_tools.FMPSECFilingsTool",
   "description": "Get SEC filings from FMP \u2014 10-K, 10-Q, 8-K, S-1 and other regulatory filings with links and dates",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

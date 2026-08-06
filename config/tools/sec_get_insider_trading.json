@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sec_edgar_tool_refactored.SECGetInsiderTradingTool",
   "description": "Retrieve insider trading reports (Form 4) for company insiders and executives",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -24,8 +24,16 @@
       }
     },
     "oneOf": [
-      {"required": ["cik"]},
-      {"required": ["ticker"]}
+      {
+        "required": [
+          "cik"
+        ]
+      },
+      {
+        "required": [
+          "ticker"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -74,16 +82,33 @@
               "description": "Filing description"
             }
           },
-          "required": ["accession_number", "filing_date", "form"]
+          "required": [
+            "accession_number",
+            "filing_date",
+            "form"
+          ]
         }
       }
     },
-    "required": ["cik", "name", "filing_count", "filings"]
+    "required": [
+      "cik",
+      "name",
+      "filing_count",
+      "filings"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Financial Data",
-    "tags": ["sec", "edgar", "insider trading", "form 4", "executives", "officers", "directors"],
+    "tags": [
+      "sec",
+      "edgar",
+      "insider trading",
+      "form 4",
+      "executives",
+      "officers",
+      "directors"
+    ],
     "rateLimit": 10,
     "cacheTTL": 1800,
     "note": "Form 4 reports insider transactions (purchases, sales) by company officers, directors, and beneficial owners.",

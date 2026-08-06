@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.webcrawler_tool_refactored.CrawlURLTool",
   "description": "Recursively crawl a website starting from a URL, following links up to a specified depth (max 3 levels). Extract page metadata, links, images, and text content.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -60,7 +60,9 @@
         "maximum": 30
       }
     },
-    "required": ["url"]
+    "required": [
+      "url"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -118,7 +120,9 @@
             "images": {
               "type": "array",
               "description": "Sample image URLs (up to 10)",
-              "items": {"type": "string"}
+              "items": {
+                "type": "string"
+              }
             },
             "text_preview": {
               "type": "string",
@@ -148,12 +152,24 @@
         "description": "Timestamp when crawl completed"
       }
     },
-    "required": ["start_url", "pages_crawled", "pages", "completed_at"]
+    "required": [
+      "start_url",
+      "pages_crawled",
+      "pages",
+      "completed_at"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Web Scraping",
-    "tags": ["crawler", "scraper", "website", "recursive", "links", "sitemap"],
+    "tags": [
+      "crawler",
+      "scraper",
+      "website",
+      "recursive",
+      "links",
+      "sitemap"
+    ],
     "rateLimit": 30,
     "cacheTTL": 1800,
     "note": "Performs breadth-first crawling up to 3 levels deep. Always respects politeness with configurable delays. Maximum 100 pages per crawl session. Check robots.txt before large crawls.",

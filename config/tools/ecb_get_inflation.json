@@ -3,14 +3,18 @@
   "implementation": "sajha.tools.impl.european_central_bank_tool_refactored.ECBGetInflationTool",
   "description": "Retrieve HICP (Harmonised Index of Consumer Prices) inflation measures for the Euro Area including overall, core, and energy inflation.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
       "inflation_type": {
         "type": "string",
         "description": "Type of inflation measure",
-        "enum": ["overall", "core", "energy"],
+        "enum": [
+          "overall",
+          "core",
+          "energy"
+        ],
         "default": "overall"
       },
       "start_date": {
@@ -29,7 +33,9 @@
         "default": 12
       }
     },
-    "required": ["inflation_type"]
+    "required": [
+      "inflation_type"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -65,7 +71,10 @@
               "description": "Date of inflation reading (YYYY-MM format for monthly)"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Annual inflation rate (%)"
             }
           }
@@ -76,7 +85,15 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["inflation", "hicp", "prices", "ecb", "eurozone", "consumer prices", "core inflation"],
+    "tags": [
+      "inflation",
+      "hicp",
+      "prices",
+      "ecb",
+      "eurozone",
+      "consumer prices",
+      "core inflation"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "HICP (Harmonised Index of Consumer Prices) is the official inflation measure for the Euro Area. Core inflation excludes energy and food. ECB targets 2% inflation.",

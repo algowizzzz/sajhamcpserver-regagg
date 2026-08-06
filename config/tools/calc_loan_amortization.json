@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.calc_tools.CalcLoanAmortizationTool",
   "description": "Calculate loan amortization \u2014 monthly payment, total interest, total paid",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

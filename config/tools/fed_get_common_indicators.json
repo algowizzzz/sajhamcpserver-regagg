@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fed_reserve_tool_refactored.FedGetCommonIndicatorsTool",
   "description": "Retrieve a dashboard of key US economic indicators with their latest values. Get a comprehensive snapshot of the US economy in a single call.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -12,7 +12,20 @@
         "description": "Specific indicators to retrieve (optional, defaults to all key indicators)",
         "items": {
           "type": "string",
-          "enum": ["gdp", "unemployment", "inflation", "fed_rate", "treasury_10y", "treasury_2y", "sp500", "housing", "retail", "industrial", "m2", "pce"]
+          "enum": [
+            "gdp",
+            "unemployment",
+            "inflation",
+            "fed_rate",
+            "treasury_10y",
+            "treasury_2y",
+            "sp500",
+            "housing",
+            "retail",
+            "industrial",
+            "m2",
+            "pce"
+          ]
         }
       }
     }
@@ -35,7 +48,10 @@
               "description": "Indicator name"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Latest value"
             },
             "date": {
@@ -58,12 +74,21 @@
         "description": "Timestamp when this data was retrieved (ISO format)"
       }
     },
-    "required": ["indicators", "last_updated"]
+    "required": [
+      "indicators",
+      "last_updated"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["fred", "dashboard", "economic indicators", "summary", "overview"],
+    "tags": [
+      "fred",
+      "dashboard",
+      "economic indicators",
+      "summary",
+      "overview"
+    ],
     "rateLimit": 60,
     "cacheTTL": 3600,
     "note": "Get a comprehensive economic dashboard with key US indicators. Ideal for getting a quick snapshot of economic conditions.",
@@ -75,13 +100,22 @@
       {
         "description": "Get specific financial indicators",
         "input": {
-          "indicators": ["fed_rate", "treasury_10y", "sp500", "m2"]
+          "indicators": [
+            "fed_rate",
+            "treasury_10y",
+            "sp500",
+            "m2"
+          ]
         }
       },
       {
         "description": "Get labor and growth indicators",
         "input": {
-          "indicators": ["gdp", "unemployment", "inflation"]
+          "indicators": [
+            "gdp",
+            "unemployment",
+            "inflation"
+          ]
         }
       }
     ],

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.wikipedia_tool.WikiGetSummaryTool",
   "description": "Retrieve a concise summary of a Wikipedia article. Returns the lead section/introduction without the full article content. Ideal for quick overviews.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -43,8 +43,16 @@
       }
     },
     "oneOf": [
-      {"required": ["query"]},
-      {"required": ["page_id"]}
+      {
+        "required": [
+          "query"
+        ]
+      },
+      {
+        "required": [
+          "page_id"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -79,7 +87,10 @@
         "description": "HTML formatted extract"
       },
       "thumbnail": {
-        "type": ["object", "null"],
+        "type": [
+          "object",
+          "null"
+        ],
         "description": "Main article image/thumbnail",
         "properties": {
           "url": {
@@ -97,20 +108,36 @@
         }
       },
       "original_image": {
-        "type": ["object", "null"],
+        "type": [
+          "object",
+          "null"
+        ],
         "description": "Original full-size image",
         "properties": {
-          "url": {"type": "string"},
-          "width": {"type": "integer"},
-          "height": {"type": "integer"}
+          "url": {
+            "type": "string"
+          },
+          "width": {
+            "type": "integer"
+          },
+          "height": {
+            "type": "integer"
+          }
         }
       },
       "coordinates": {
-        "type": ["object", "null"],
+        "type": [
+          "object",
+          "null"
+        ],
         "description": "Geographic coordinates if applicable",
         "properties": {
-          "latitude": {"type": "number"},
-          "longitude": {"type": "number"}
+          "latitude": {
+            "type": "number"
+          },
+          "longitude": {
+            "type": "number"
+          }
         }
       },
       "last_modified": {
@@ -130,12 +157,24 @@
         "description": "Timestamp when data was retrieved (ISO format)"
       }
     },
-    "required": ["title", "page_id", "url", "summary"]
+    "required": [
+      "title",
+      "page_id",
+      "url",
+      "summary"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Information Retrieval",
-    "tags": ["wikipedia", "summary", "overview", "quick reference", "encyclopedia", "extract"],
+    "tags": [
+      "wikipedia",
+      "summary",
+      "overview",
+      "quick reference",
+      "encyclopedia",
+      "extract"
+    ],
     "rateLimit": 100,
     "cacheTTL": 3600,
     "note": "Get quick, concise summaries of Wikipedia articles. Returns only the lead section without full article content. Perfect for rapid information lookup and overviews.",

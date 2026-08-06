@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sqlselect_tool_refactored.SqlSelectDescribeSourceTool",
   "description": "Get detailed information about a specific data source including columns, types, row count, and metadata",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "data_directory": "${data.sqlselect.dir:./data/sqlselect}",
   "data_sources": {
     "customers": {
@@ -35,7 +35,9 @@
         "description": "Name of the data source to describe"
       }
     },
-    "required": ["source_name"]
+    "required": [
+      "source_name"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -80,7 +82,10 @@
               "type": "string"
             },
             "key": {
-              "type": ["string", "null"]
+              "type": [
+                "string",
+                "null"
+              ]
             }
           }
         }
@@ -90,16 +95,30 @@
         "description": "ISO timestamp"
       }
     },
-    "required": ["success", "source_name", "row_count", "columns"]
+    "required": [
+      "success",
+      "source_name",
+      "row_count",
+      "columns"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "email": "ajsinha@gmail.com",
     "category": "Data Query",
-    "tags": ["sql", "schema", "describe", "metadata", "columns", "duckdb"],
+    "tags": [
+      "sql",
+      "schema",
+      "describe",
+      "metadata",
+      "columns",
+      "duckdb"
+    ],
     "rateLimit": 100,
     "cacheTTL": 1800,
-    "dependencies": ["duckdb"],
+    "dependencies": [
+      "duckdb"
+    ],
     "note": "Provides comprehensive data source information including schema and statistics",
     "examples": [
       {

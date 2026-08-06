@@ -3,17 +3,37 @@
   "implementation": "sajha.tools.impl.united_nations_tool_refactored.UNGetSDGIndicatorsTool",
   "description": "Retrieve all indicators and metrics for a specific Sustainable Development Goal (1-17)",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
       "sdg_code": {
         "type": "string",
         "description": "SDG code (1-17)",
-        "enum": ["1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"]
+        "enum": [
+          "1",
+          "2",
+          "3",
+          "4",
+          "5",
+          "6",
+          "7",
+          "8",
+          "9",
+          "10",
+          "11",
+          "12",
+          "13",
+          "14",
+          "15",
+          "16",
+          "17"
+        ]
       }
     },
-    "required": ["sdg_code"]
+    "required": [
+      "sdg_code"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -56,12 +76,23 @@
         "description": "Number of indicators for this SDG"
       }
     },
-    "required": ["sdg_code", "sdg_title", "indicators", "count"]
+    "required": [
+      "sdg_code",
+      "sdg_title",
+      "indicators",
+      "count"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Global Statistics",
-    "tags": ["un", "sdg", "indicators", "metrics", "sustainable development"],
+    "tags": [
+      "un",
+      "sdg",
+      "indicators",
+      "metrics",
+      "sustainable development"
+    ],
     "rateLimit": 60,
     "cacheTTL": 3600,
     "note": "Each SDG has multiple indicators used to measure progress. Tier I indicators have established methodology and data, Tier II have methodology but limited data, and Tier III lack established methodology.",

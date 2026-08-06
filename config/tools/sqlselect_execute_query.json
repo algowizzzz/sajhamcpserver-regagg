@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sqlselect_tool_refactored.SqlSelectExecuteQueryTool",
   "description": "Execute SQL SELECT queries on configured data sources with built-in safety checks and result limiting",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "data_directory": "${data.sqlselect.dir:./data/sqlselect}",
   "data_sources": {
     "customers": {
@@ -42,7 +42,9 @@
         "maximum": 10000
       }
     },
-    "required": ["query"]
+    "required": [
+      "query"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -79,16 +81,29 @@
         "description": "ISO timestamp"
       }
     },
-    "required": ["success", "columns", "rows", "row_count"]
+    "required": [
+      "success",
+      "columns",
+      "rows",
+      "row_count"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "email": "ajsinha@gmail.com",
     "category": "Data Query",
-    "tags": ["sql", "select", "query", "analytics", "duckdb"],
+    "tags": [
+      "sql",
+      "select",
+      "query",
+      "analytics",
+      "duckdb"
+    ],
     "rateLimit": 100,
     "cacheTTL": 60,
-    "dependencies": ["duckdb"],
+    "dependencies": [
+      "duckdb"
+    ],
     "note": "Only SELECT queries allowed. Prevents DROP, DELETE, UPDATE, INSERT, CREATE, ALTER, TRUNCATE operations for safety.",
     "examples": [
       {

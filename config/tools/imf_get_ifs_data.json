@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.imf_tool_refactored.IMFGetIFSDataTool",
   "description": "Retrieve International Financial Statistics (IFS) data including exchange rates, interest rates, prices, monetary aggregates, reserves, and more.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -14,7 +14,30 @@
       "indicator": {
         "type": "string",
         "description": "Common IFS indicator name",
-        "enum": ["exchange_rate", "exchange_rate_avg", "policy_rate", "treasury_bill_rate", "deposit_rate", "lending_rate", "cpi", "core_cpi", "ppi", "money_supply_m1", "money_supply_m2", "money_supply_m3", "reserve_money", "international_reserves", "gold_reserves", "foreign_reserves", "gdp_current", "gdp_constant", "industrial_production", "exports", "imports", "unemployment_rate"]
+        "enum": [
+          "exchange_rate",
+          "exchange_rate_avg",
+          "policy_rate",
+          "treasury_bill_rate",
+          "deposit_rate",
+          "lending_rate",
+          "cpi",
+          "core_cpi",
+          "ppi",
+          "money_supply_m1",
+          "money_supply_m2",
+          "money_supply_m3",
+          "reserve_money",
+          "international_reserves",
+          "gold_reserves",
+          "foreign_reserves",
+          "gdp_current",
+          "gdp_constant",
+          "industrial_production",
+          "exports",
+          "imports",
+          "unemployment_rate"
+        ]
       },
       "indicator_code": {
         "type": "string",
@@ -32,36 +55,65 @@
       },
       "frequency": {
         "type": "string",
-        "enum": ["A", "Q", "M"],
+        "enum": [
+          "A",
+          "Q",
+          "M"
+        ],
         "default": "M"
       }
     },
-    "required": ["country_code"]
+    "required": [
+      "country_code"
+    ]
   },
   "outputSchema": {
     "type": "object",
     "properties": {
-      "database": {"type": "string"},
-      "country_code": {"type": "string"},
-      "indicator_code": {"type": "string"},
-      "frequency": {"type": "string"},
+      "database": {
+        "type": "string"
+      },
+      "country_code": {
+        "type": "string"
+      },
+      "indicator_code": {
+        "type": "string"
+      },
+      "frequency": {
+        "type": "string"
+      },
       "data": {
         "type": "array",
         "items": {
           "type": "object",
           "properties": {
-            "period": {"type": "string"},
-            "value": {"type": ["number", "null"]}
+            "period": {
+              "type": "string"
+            },
+            "value": {
+              "type": [
+                "number",
+                "null"
+              ]
+            }
           }
         }
       },
-      "count": {"type": "integer"}
+      "count": {
+        "type": "integer"
+      }
     }
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["imf", "ifs", "financial statistics", "exchange rates", "interest rates"],
+    "tags": [
+      "imf",
+      "ifs",
+      "financial statistics",
+      "exchange rates",
+      "interest rates"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "International Financial Statistics provides comprehensive financial and monetary data.",

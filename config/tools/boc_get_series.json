@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.bank_of_canada_tool_refactored.BoCGetSeriesTool",
   "description": "Retrieve time series economic data from Bank of Canada by series name or indicator. Supports date ranges and recent periods.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -15,10 +15,21 @@
         "type": "string",
         "description": "Common indicator shorthand name for convenience",
         "enum": [
-          "usd_cad", "eur_cad", "gbp_cad", "jpy_cad", "cny_cad",
-          "policy_rate", "overnight_rate", "prime_rate",
-          "bond_2y", "bond_5y", "bond_10y", "bond_30y",
-          "cpi", "core_cpi", "gdp"
+          "usd_cad",
+          "eur_cad",
+          "gbp_cad",
+          "jpy_cad",
+          "cny_cad",
+          "policy_rate",
+          "overnight_rate",
+          "prime_rate",
+          "bond_2y",
+          "bond_5y",
+          "bond_10y",
+          "bond_30y",
+          "cpi",
+          "core_cpi",
+          "gdp"
         ]
       },
       "start_date": {
@@ -38,8 +49,16 @@
       }
     },
     "oneOf": [
-      {"required": ["series_name"]},
-      {"required": ["indicator"]}
+      {
+        "required": [
+          "series_name"
+        ]
+      },
+      {
+        "required": [
+          "indicator"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -76,7 +95,10 @@
               "description": "Observation date (YYYY-MM-DD)"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Observation value (null if not available)"
             }
           }
@@ -87,7 +109,13 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["economics", "bank of canada", "canada", "time series", "financial data"],
+    "tags": [
+      "economics",
+      "bank of canada",
+      "canada",
+      "time series",
+      "financial data"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "examples": [

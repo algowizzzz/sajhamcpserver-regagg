@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.wikipedia_tool.WikiGetPageTool",
   "description": "Retrieve the complete content of a Wikipedia article by title or page ID. Returns full article text, images, links, and metadata.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -46,8 +46,16 @@
       }
     },
     "oneOf": [
-      {"required": ["query"]},
-      {"required": ["page_id"]}
+      {
+        "required": [
+          "query"
+        ]
+      },
+      {
+        "required": [
+          "page_id"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -87,9 +95,15 @@
         "items": {
           "type": "object",
           "properties": {
-            "title": {"type": "string"},
-            "level": {"type": "integer"},
-            "content": {"type": "string"}
+            "title": {
+              "type": "string"
+            },
+            "level": {
+              "type": "integer"
+            },
+            "content": {
+              "type": "string"
+            }
           }
         }
       },
@@ -99,9 +113,18 @@
         "items": {
           "type": "object",
           "properties": {
-            "url": {"type": "string"},
-            "title": {"type": "string"},
-            "description": {"type": ["string", "null"]}
+            "url": {
+              "type": "string"
+            },
+            "title": {
+              "type": "string"
+            },
+            "description": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
           }
         }
       },
@@ -111,11 +134,15 @@
         "properties": {
           "internal": {
             "type": "array",
-            "items": {"type": "string"}
+            "items": {
+              "type": "string"
+            }
           },
           "external": {
             "type": "array",
-            "items": {"type": "string"}
+            "items": {
+              "type": "string"
+            }
           }
         }
       },
@@ -125,16 +152,27 @@
         "items": {
           "type": "object",
           "properties": {
-            "number": {"type": "integer"},
-            "text": {"type": "string"},
-            "url": {"type": ["string", "null"]}
+            "number": {
+              "type": "integer"
+            },
+            "text": {
+              "type": "string"
+            },
+            "url": {
+              "type": [
+                "string",
+                "null"
+              ]
+            }
           }
         }
       },
       "categories": {
         "type": "array",
         "description": "Wikipedia categories for this article",
-        "items": {"type": "string"}
+        "items": {
+          "type": "string"
+        }
       },
       "last_modified": {
         "type": "string",
@@ -157,12 +195,24 @@
         "description": "Timestamp when data was retrieved (ISO format)"
       }
     },
-    "required": ["title", "page_id", "url", "content"]
+    "required": [
+      "title",
+      "page_id",
+      "url",
+      "content"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Information Retrieval",
-    "tags": ["wikipedia", "articles", "content", "knowledge", "encyclopedia", "full text"],
+    "tags": [
+      "wikipedia",
+      "articles",
+      "content",
+      "knowledge",
+      "encyclopedia",
+      "full text"
+    ],
     "rateLimit": 100,
     "cacheTTL": 3600,
     "note": "Retrieve complete Wikipedia article content including text, images, links, and metadata. Ideal for in-depth research and content analysis.",

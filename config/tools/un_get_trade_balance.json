@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.united_nations_tool_refactored.UNGetTradeBalanceTool",
   "description": "Calculate trade balance (exports minus imports) for a country, optionally with a specific trading partner",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -22,7 +22,9 @@
         "maximum": 2030
       }
     },
-    "required": ["country_code"]
+    "required": [
+      "country_code"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -44,15 +46,24 @@
         "description": "Trade balance calculation",
         "properties": {
           "exports": {
-            "type": ["number", "null"],
+            "type": [
+              "number",
+              "null"
+            ],
             "description": "Total exports to partner/world in USD"
           },
           "imports": {
-            "type": ["number", "null"],
+            "type": [
+              "number",
+              "null"
+            ],
             "description": "Total imports from partner/world in USD"
           },
           "balance": {
-            "type": ["number", "null"],
+            "type": [
+              "number",
+              "null"
+            ],
             "description": "Trade balance (exports - imports) in USD. Positive indicates trade surplus, negative indicates deficit."
           }
         }
@@ -66,12 +77,23 @@
         "description": "Data access note"
       }
     },
-    "required": ["country_code", "year", "data"]
+    "required": [
+      "country_code",
+      "year",
+      "data"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Global Statistics",
-    "tags": ["un", "comtrade", "trade balance", "surplus", "deficit", "bilateral trade"],
+    "tags": [
+      "un",
+      "comtrade",
+      "trade balance",
+      "surplus",
+      "deficit",
+      "bilateral trade"
+    ],
     "rateLimit": 60,
     "cacheTTL": 3600,
     "note": "Trade balance is a key economic indicator. A positive balance (surplus) means exports exceed imports; a negative balance (deficit) means imports exceed exports. This tool requires UN Comtrade API authentication.",

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.european_central_bank_tool_refactored.ECBGetSeriesTool",
   "description": "Retrieve time series economic data from European Central Bank by flow/key or indicator. Supports date ranges and recent periods.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -19,11 +19,27 @@
         "type": "string",
         "description": "Common indicator shorthand name for convenience",
         "enum": [
-          "eur_usd", "eur_gbp", "eur_jpy", "eur_cny", "eur_chf",
-          "main_refinancing_rate", "deposit_facility_rate", "marginal_lending_rate", "eonia", "ester",
-          "bond_2y", "bond_5y", "bond_10y",
-          "hicp_overall", "hicp_core", "hicp_energy",
-          "gdp", "m1", "m2", "m3", "unemployment_rate"
+          "eur_usd",
+          "eur_gbp",
+          "eur_jpy",
+          "eur_cny",
+          "eur_chf",
+          "main_refinancing_rate",
+          "deposit_facility_rate",
+          "marginal_lending_rate",
+          "eonia",
+          "ester",
+          "bond_2y",
+          "bond_5y",
+          "bond_10y",
+          "hicp_overall",
+          "hicp_core",
+          "hicp_energy",
+          "gdp",
+          "m1",
+          "m2",
+          "m3",
+          "unemployment_rate"
         ]
       },
       "start_date": {
@@ -43,8 +59,17 @@
       }
     },
     "oneOf": [
-      {"required": ["flow", "key"]},
-      {"required": ["indicator"]}
+      {
+        "required": [
+          "flow",
+          "key"
+        ]
+      },
+      {
+        "required": [
+          "indicator"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -81,7 +106,10 @@
               "description": "Observation date (YYYY-MM-DD format)"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Observation value (null if not available)"
             }
           }
@@ -92,7 +120,14 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["economics", "european central bank", "ecb", "eurozone", "time series", "financial data"],
+    "tags": [
+      "economics",
+      "european central bank",
+      "ecb",
+      "eurozone",
+      "time series",
+      "financial data"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "examples": [

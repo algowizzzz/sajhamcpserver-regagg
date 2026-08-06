@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.openbb_tools.OpenBBIncomeStatementTool",
   "description": "Get income statement via OpenBB \u2014 revenue, COGS, gross profit, operating income, net income, EPS from multiple providers",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

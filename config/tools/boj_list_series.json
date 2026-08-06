@@ -3,11 +3,17 @@
   "implementation": "sajha.tools.impl.japan_central_bank.BoJListSeriesTools",
   "description": "List available Japanese economic data series from Bank of Japan",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Central Bank",
-    "tags": ["japan", "boj", "series", "list", "catalog"],
+    "tags": [
+      "japan",
+      "boj",
+      "series",
+      "list",
+      "catalog"
+    ],
     "rateLimit": 120,
     "cacheTTL": 86400
   }

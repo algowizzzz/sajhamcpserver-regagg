@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.calc_tools.CalcBlackScholesTool",
   "description": "Calculate option prices using Black-Scholes model \u2014 European call and put",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

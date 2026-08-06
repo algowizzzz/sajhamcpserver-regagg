@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARCompanyConceptTool",
   "description": "Retrieve historical data for a specific financial concept/metric (e.g., Revenue, Assets, EPS) across all company filings",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -14,7 +14,12 @@
       "taxonomy": {
         "type": "string",
         "description": "XBRL taxonomy standard",
-        "enum": ["us-gaap", "ifrs-full", "dei", "srt"],
+        "enum": [
+          "us-gaap",
+          "ifrs-full",
+          "dei",
+          "srt"
+        ],
         "default": "us-gaap"
       },
       "concept": {
@@ -22,7 +27,10 @@
         "description": "XBRL concept tag (e.g., 'Revenue', 'Assets', 'Liabilities', 'EarningsPerShareBasic', 'OperatingIncomeLoss')"
       }
     },
-    "required": ["cik", "concept"]
+    "required": [
+      "cik",
+      "concept"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -100,7 +108,16 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "xbrl", "financial metrics", "time series", "revenue", "earnings", "assets"],
+    "tags": [
+      "sec",
+      "edgar",
+      "xbrl",
+      "financial metrics",
+      "time series",
+      "revenue",
+      "earnings",
+      "assets"
+    ],
     "rateLimit": 10,
     "cacheTTL": 3600,
     "note": "Focused endpoint for time-series analysis of specific financial metrics. More efficient than edgar_company_facts when you need just one metric.",
@@ -136,10 +153,32 @@
       "Comparative period analysis"
     ],
     "commonConcepts": {
-      "income_statement": ["Revenue", "Revenues", "OperatingIncomeLoss", "NetIncomeLoss", "GrossProfit", "CostOfRevenue"],
-      "balance_sheet": ["Assets", "Liabilities", "StockholdersEquity", "Cash", "AccountsReceivable", "Inventory"],
-      "cash_flow": ["NetCashProvidedByUsedInOperatingActivities", "NetCashProvidedByUsedInInvestingActivities", "NetCashProvidedByUsedInFinancingActivities"],
-      "per_share": ["EarningsPerShareBasic", "EarningsPerShareDiluted", "CommonStockSharesOutstanding"]
+      "income_statement": [
+        "Revenue",
+        "Revenues",
+        "OperatingIncomeLoss",
+        "NetIncomeLoss",
+        "GrossProfit",
+        "CostOfRevenue"
+      ],
+      "balance_sheet": [
+        "Assets",
+        "Liabilities",
+        "StockholdersEquity",
+        "Cash",
+        "AccountsReceivable",
+        "Inventory"
+      ],
+      "cash_flow": [
+        "NetCashProvidedByUsedInOperatingActivities",
+        "NetCashProvidedByUsedInInvestingActivities",
+        "NetCashProvidedByUsedInFinancingActivities"
+      ],
+      "per_share": [
+        "EarningsPerShareBasic",
+        "EarningsPerShareDiluted",
+        "CommonStockSharesOutstanding"
+      ]
     }
   }
 }

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sec_edgar_tool_refactored.SECGetCompanyFilingsTool",
   "description": "Retrieve SEC filings for a company with optional filtering by type and date range",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -19,9 +19,21 @@
         "type": "string",
         "description": "Type of filing to retrieve",
         "enum": [
-          "10-K", "10-Q", "8-K", "10-K/A", "10-Q/A",
-          "S-1", "S-3", "S-4", "13F-HR", "4",
-          "DEF 14A", "20-F", "6-K", "SC 13D", "SC 13G"
+          "10-K",
+          "10-Q",
+          "8-K",
+          "10-K/A",
+          "10-Q/A",
+          "S-1",
+          "S-3",
+          "S-4",
+          "13F-HR",
+          "4",
+          "DEF 14A",
+          "20-F",
+          "6-K",
+          "SC 13D",
+          "SC 13G"
         ]
       },
       "start_date": {
@@ -41,8 +53,16 @@
       }
     },
     "oneOf": [
-      {"required": ["cik"]},
-      {"required": ["ticker"]}
+      {
+        "required": [
+          "cik"
+        ]
+      },
+      {
+        "required": [
+          "ticker"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -91,16 +111,34 @@
               "description": "Filing type description"
             }
           },
-          "required": ["accession_number", "filing_date", "form"]
+          "required": [
+            "accession_number",
+            "filing_date",
+            "form"
+          ]
         }
       }
     },
-    "required": ["cik", "name", "filing_count", "filings"]
+    "required": [
+      "cik",
+      "name",
+      "filing_count",
+      "filings"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Financial Data",
-    "tags": ["sec", "edgar", "filings", "10-K", "10-Q", "8-K", "annual", "quarterly"],
+    "tags": [
+      "sec",
+      "edgar",
+      "filings",
+      "10-K",
+      "10-Q",
+      "8-K",
+      "annual",
+      "quarterly"
+    ],
     "rateLimit": 10,
     "cacheTTL": 1800,
     "note": "Retrieve SEC filings including 10-K (annual), 10-Q (quarterly), 8-K (current events), proxy statements, and more.",

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.webcrawler_tool_refactored.CheckRobotsTxtTool",
   "description": "Check robots.txt file to determine if web crawling is allowed and get crawl delay recommendations",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -17,7 +17,9 @@
         "default": "Mozilla/5.0 (compatible; WebCrawlerTool/1.0)"
       }
     },
-    "required": ["url"]
+    "required": [
+      "url"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -39,7 +41,10 @@
         "description": "User agent that was checked"
       },
       "crawl_delay": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Suggested crawl delay in seconds (null if not specified in robots.txt)"
       },
       "checked_at": {
@@ -55,12 +60,22 @@
         "description": "Error message if robots.txt couldn't be read"
       }
     },
-    "required": ["url", "can_fetch", "checked_at"]
+    "required": [
+      "url",
+      "can_fetch",
+      "checked_at"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Web Scraping",
-    "tags": ["robots.txt", "crawling rules", "politeness", "web ethics", "seo"],
+    "tags": [
+      "robots.txt",
+      "crawling rules",
+      "politeness",
+      "web ethics",
+      "seo"
+    ],
     "rateLimit": 60,
     "cacheTTL": 86400,
     "note": "Always check robots.txt before crawling to respect website policies. If robots.txt doesn't exist, crawling is generally allowed. Crawl-delay directive indicates minimum seconds between requests.",

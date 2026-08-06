@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.calc_tools.CalcMaxDrawdownTool",
   "description": "Calculate maximum drawdown from a series of portfolio values",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

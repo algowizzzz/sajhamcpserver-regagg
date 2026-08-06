@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.sec_edgar_tool_refactored.SECGetMutualFundHoldingsTool",
   "description": "Retrieve institutional investment manager holdings reports (Form 13F-HR)",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -24,8 +24,16 @@
       }
     },
     "oneOf": [
-      {"required": ["cik"]},
-      {"required": ["ticker"]}
+      {
+        "required": [
+          "cik"
+        ]
+      },
+      {
+        "required": [
+          "ticker"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -74,16 +82,34 @@
               "description": "Filing description"
             }
           },
-          "required": ["accession_number", "filing_date", "form"]
+          "required": [
+            "accession_number",
+            "filing_date",
+            "form"
+          ]
         }
       }
     },
-    "required": ["cik", "name", "filing_count", "filings"]
+    "required": [
+      "cik",
+      "name",
+      "filing_count",
+      "filings"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Financial Data",
-    "tags": ["sec", "edgar", "13f", "institutional", "holdings", "mutual funds", "hedge funds", "portfolio"],
+    "tags": [
+      "sec",
+      "edgar",
+      "13f",
+      "institutional",
+      "holdings",
+      "mutual funds",
+      "hedge funds",
+      "portfolio"
+    ],
     "rateLimit": 10,
     "cacheTTL": 3600,
     "note": "Form 13F discloses equity holdings of institutional investment managers with >$100M in AUM. Filed quarterly.",

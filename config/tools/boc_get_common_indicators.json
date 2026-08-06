@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.bank_of_canada_tool_refactored.BoCGetCommonIndicatorsTool",
   "description": "Retrieve a dashboard of key Canadian economic indicators with their latest values in a single API call. Optimized for economic overview displays.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -54,7 +54,10 @@
               "description": "Human-readable indicator name"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Latest value of the indicator"
             },
             "date": {
@@ -71,7 +74,9 @@
               "description": "Error message if this indicator could not be retrieved"
             }
           },
-          "required": ["series_name"]
+          "required": [
+            "series_name"
+          ]
         }
       },
       "last_updated": {
@@ -80,12 +85,22 @@
         "format": "date-time"
       }
     },
-    "required": ["indicators", "last_updated"]
+    "required": [
+      "indicators",
+      "last_updated"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["dashboard", "summary", "indicators", "overview", "batch", "snapshot"],
+    "tags": [
+      "dashboard",
+      "summary",
+      "indicators",
+      "overview",
+      "batch",
+      "snapshot"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Batch operation that retrieves multiple indicators in one call. More efficient than calling boc_get_latest multiple times. All values share the same retrieval timestamp.",
@@ -105,7 +120,7 @@
             "policy_rate": {
               "series_name": "POLICY_RATE",
               "label": "Bank of Canada policy interest rate",
-              "value": 4.50,
+              "value": 4.5,
               "date": "2024-10-23",
               "description": "Bank of Canada Policy Interest Rate"
             },
@@ -130,19 +145,33 @@
       {
         "description": "Custom FX dashboard (multiple currencies)",
         "input": {
-          "indicators": ["usd_cad", "eur_cad", "gbp_cad", "jpy_cad"]
+          "indicators": [
+            "usd_cad",
+            "eur_cad",
+            "gbp_cad",
+            "jpy_cad"
+          ]
         }
       },
       {
         "description": "Interest rate overview",
         "input": {
-          "indicators": ["policy_rate", "overnight_rate", "prime_rate"]
+          "indicators": [
+            "policy_rate",
+            "overnight_rate",
+            "prime_rate"
+          ]
         }
       },
       {
         "description": "Yield curve snapshot",
         "input": {
-          "indicators": ["bond_2y", "bond_5y", "bond_10y", "bond_30y"]
+          "indicators": [
+            "bond_2y",
+            "bond_5y",
+            "bond_10y",
+            "bond_30y"
+          ]
         }
       },
       {

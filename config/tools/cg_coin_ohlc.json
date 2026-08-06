@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.coingecko_tools.CGCoinOHLCTool",
   "description": "Get crypto OHLC candlestick data from CoinGecko",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

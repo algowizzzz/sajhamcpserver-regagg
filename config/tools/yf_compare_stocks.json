@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yfinance_tools.YFCompareStocksTool",
   "description": "Compare multiple stocks from Yahoo Finance \u2014 side-by-side market cap, PE, dividend, 52-week range",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

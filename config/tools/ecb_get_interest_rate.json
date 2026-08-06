@@ -1,9 +1,9 @@
 {
   "name": "ecb_get_interest_rate",
   "implementation": "sajha.tools.impl.european_central_bank_tool_refactored.ECBGetInterestRateTool",
-  "description": "Retrieve ECB interest rates including main refinancing rate, deposit facility rate, and money market rates (EONIA, €STR).",
+  "description": "Retrieve ECB interest rates including main refinancing rate, deposit facility rate, and money market rates (EONIA, \u20acSTR).",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -34,7 +34,9 @@
         "default": 10
       }
     },
-    "required": ["rate_type"]
+    "required": [
+      "rate_type"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -70,7 +72,10 @@
               "description": "Effective date of the rate"
             },
             "value": {
-              "type": ["number", "null"],
+              "type": [
+                "number",
+                "null"
+              ],
               "description": "Interest rate percentage"
             }
           }
@@ -81,10 +86,18 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["interest rates", "monetary policy", "ecb", "eurozone", "policy rates", "EONIA", "ESTER"],
+    "tags": [
+      "interest rates",
+      "monetary policy",
+      "ecb",
+      "eurozone",
+      "policy rates",
+      "EONIA",
+      "ESTER"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
-    "note": "Main refinancing rate is the primary ECB policy rate. Deposit facility rate sets the floor. €STR replaced EONIA as the overnight reference rate in 2022.",
+    "note": "Main refinancing rate is the primary ECB policy rate. Deposit facility rate sets the floor. \u20acSTR replaced EONIA as the overnight reference rate in 2022.",
     "examples": [
       {
         "description": "Get current main refinancing rate",
@@ -102,7 +115,7 @@
         }
       },
       {
-        "description": "Get recent €STR (Euro Short-Term Rate)",
+        "description": "Get recent \u20acSTR (Euro Short-Term Rate)",
         "input": {
           "rate_type": "ester",
           "recent_periods": 30

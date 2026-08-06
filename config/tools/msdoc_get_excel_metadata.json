@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.msdoc_tools_tool_refactored.MsDocGetExcelMetadataTool",
   "description": "Extract metadata and workbook properties from Excel files",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -12,21 +12,35 @@
         "description": "Name of the Excel file"
       }
     },
-    "required": ["filename"]
+    "required": [
+      "filename"
+    ]
   },
   "outputSchema": {
     "type": "object",
     "properties": {
-      "filename": {"type": "string"},
+      "filename": {
+        "type": "string"
+      },
       "metadata": {
         "type": "object",
         "description": "Workbook metadata",
         "properties": {
-          "creator": {"type": "string"},
-          "title": {"type": "string"},
-          "subject": {"type": "string"},
-          "created": {"type": "string"},
-          "modified": {"type": "string"}
+          "creator": {
+            "type": "string"
+          },
+          "title": {
+            "type": "string"
+          },
+          "subject": {
+            "type": "string"
+          },
+          "created": {
+            "type": "string"
+          },
+          "modified": {
+            "type": "string"
+          }
         }
       }
     }
@@ -34,13 +48,19 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Document Processing",
-    "tags": ["excel", "metadata", "properties"],
+    "tags": [
+      "excel",
+      "metadata",
+      "properties"
+    ],
     "rateLimit": 60,
     "cacheTTL": 3600,
     "examples": [
       {
         "description": "Get Excel workbook metadata",
-        "input": {"filename": "budget.xlsx"}
+        "input": {
+          "filename": "budget.xlsx"
+        }
       }
     ],
     "useCases": [

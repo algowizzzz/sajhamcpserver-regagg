@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.calc_tools.CalcRetirementTool",
   "description": "Calculate retirement savings projection \u2014 future balance with annual contributions",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

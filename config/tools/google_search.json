@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.google_search_tool_refactored.GoogleSearchTool",
   "description": "Search the web using Google Custom Search API. Find web pages, images, and information across the internet with Google's powerful search technology.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "api_key": "${google.api.key}",
   "search_engine_id": "${google.search.engine.id}",
   "inputSchema": {
@@ -29,13 +29,20 @@
       "safe_search": {
         "type": "string",
         "description": "Safe search level",
-        "enum": ["off", "medium", "high"],
+        "enum": [
+          "off",
+          "medium",
+          "high"
+        ],
         "default": "medium"
       },
       "search_type": {
         "type": "string",
         "description": "Type of search",
-        "enum": ["web", "image"],
+        "enum": [
+          "web",
+          "image"
+        ],
         "default": "web"
       },
       "site": {
@@ -52,7 +59,9 @@
         "default": "en"
       }
     },
-    "required": ["query"]
+    "required": [
+      "query"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -114,16 +123,30 @@
               }
             }
           },
-          "required": ["title", "link", "snippet"]
+          "required": [
+            "title",
+            "link",
+            "snippet"
+          ]
         }
       }
     },
-    "required": ["query", "count", "results"]
+    "required": [
+      "query",
+      "count",
+      "results"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Web Search",
-    "tags": ["google", "search", "web", "internet", "information retrieval"],
+    "tags": [
+      "google",
+      "search",
+      "web",
+      "internet",
+      "information retrieval"
+    ],
     "rateLimit": 100,
     "cacheTTL": 3600,
     "note": "Requires Google Custom Search API key and Search Engine ID. Create at https://developers.google.com/custom-search",

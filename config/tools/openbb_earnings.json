@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.openbb_tools.OpenBBEarningsTool",
   "description": "Get earnings history and calendar via OpenBB \u2014 EPS estimates vs actuals, revenue surprises",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

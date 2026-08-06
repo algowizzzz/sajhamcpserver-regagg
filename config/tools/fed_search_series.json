@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fed_reserve_tool_refactored.FedSearchSeriesTool",
   "description": "Search for economic data series in the FRED database. Find the right data series using keywords and discover available economic indicators.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -19,7 +19,9 @@
         "maximum": 100
       }
     },
-    "required": ["query"]
+    "required": [
+      "query"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -67,16 +69,28 @@
               "description": "Last observation date"
             }
           },
-          "required": ["id", "title"]
+          "required": [
+            "id",
+            "title"
+          ]
         }
       }
     },
-    "required": ["query", "count", "results"]
+    "required": [
+      "query",
+      "count",
+      "results"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["fred", "search", "discovery", "economic indicators"],
+    "tags": [
+      "fred",
+      "search",
+      "discovery",
+      "economic indicators"
+    ],
     "rateLimit": 60,
     "cacheTTL": 7200,
     "note": "Discover economic data series in FRED's extensive database of over 800,000 time series.",

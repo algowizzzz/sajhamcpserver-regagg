@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.webcrawler_tool_refactored.ExtractContentTool",
   "description": "Extract structured content including text, images, and headings from a web page for content analysis",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -29,7 +29,9 @@
         "maximum": 50000
       }
     },
-    "required": ["url"]
+    "required": [
+      "url"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -81,17 +83,23 @@
         "properties": {
           "h1": {
             "type": "array",
-            "items": {"type": "string"},
+            "items": {
+              "type": "string"
+            },
             "description": "H1 headings (main titles)"
           },
           "h2": {
             "type": "array",
-            "items": {"type": "string"},
+            "items": {
+              "type": "string"
+            },
             "description": "H2 headings (section titles)"
           },
           "h3": {
             "type": "array",
-            "items": {"type": "string"},
+            "items": {
+              "type": "string"
+            },
             "description": "H3 headings (subsection titles)"
           }
         }
@@ -105,12 +113,22 @@
         "description": "Extraction timestamp"
       }
     },
-    "required": ["url", "title", "extracted_at"]
+    "required": [
+      "url",
+      "title",
+      "extracted_at"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Web Scraping",
-    "tags": ["content extraction", "text", "images", "html parsing", "scraping"],
+    "tags": [
+      "content extraction",
+      "text",
+      "images",
+      "html parsing",
+      "scraping"
+    ],
     "rateLimit": 60,
     "cacheTTL": 1800,
     "note": "Extracts clean, structured content from HTML pages. Removes scripts, styles, and other non-content elements. Perfect for content analysis, archiving, or feeding to NLP systems.",

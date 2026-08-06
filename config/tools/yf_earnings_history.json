@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yfinance_tools.YFEarningsHistoryTool",
   "description": "Get earnings history from Yahoo Finance \u2014 EPS estimates vs actuals, surprise %",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

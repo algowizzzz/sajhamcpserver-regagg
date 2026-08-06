@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.fred_tools.FRED30YMortgageTool",
   "description": "Get 30-Year Fixed Mortgage Rate from FRED",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.investor_relations_tool_refactored.IRFindPageTool",
   "description": "Find the investor relations page URL for a specific company",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -12,31 +12,56 @@
         "description": "Stock ticker symbol (e.g., TSLA, MSFT, JPM)"
       }
     },
-    "required": ["ticker"]
+    "required": [
+      "ticker"
+    ]
   },
   "outputSchema": {
     "type": "object",
     "properties": {
-      "ticker": {"type": "string"},
-      "ir_page_url": {"type": "string", "description": "URL of the investor relations page"},
-      "success": {"type": "boolean"}
+      "ticker": {
+        "type": "string"
+      },
+      "ir_page_url": {
+        "type": "string",
+        "description": "URL of the investor relations page"
+      },
+      "success": {
+        "type": "boolean"
+      }
     }
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Financial Analysis",
-    "tags": ["investor relations", "IR page", "URL"],
+    "tags": [
+      "investor relations",
+      "IR page",
+      "URL"
+    ],
     "rateLimit": 30,
     "cacheTTL": 86400,
-    "supported_companies": ["TSLA", "MSFT", "C", "BMO", "RY", "JPM", "GS"],
+    "supported_companies": [
+      "TSLA",
+      "MSFT",
+      "C",
+      "BMO",
+      "RY",
+      "JPM",
+      "GS"
+    ],
     "examples": [
       {
         "description": "Find Tesla's IR page",
-        "input": {"ticker": "TSLA"}
+        "input": {
+          "ticker": "TSLA"
+        }
       },
       {
         "description": "Find Microsoft's IR page",
-        "input": {"ticker": "MSFT"}
+        "input": {
+          "ticker": "MSFT"
+        }
       }
     ],
     "useCases": [

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARFilingsByFormTool",
   "description": "Search and filter company filings by specific form type (10-K, 10-Q, 8-K, DEF 14A, etc.) with optional date range filtering",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -14,7 +14,36 @@
       "form_type": {
         "type": "string",
         "description": "SEC form type to filter",
-        "enum": ["10-K", "10-Q", "8-K", "4", "3", "5", "S-1", "S-3", "S-4", "S-8", "DEF 14A", "13F-HR", "13F-NT", "20-F", "6-K", "40-F", "424B2", "424B3", "424B4", "424B5", "SC 13D", "SC 13G", "SC 13G/A", "144", "N-Q", "N-CSR", "N-PORT", "NPORT-P"]
+        "enum": [
+          "10-K",
+          "10-Q",
+          "8-K",
+          "4",
+          "3",
+          "5",
+          "S-1",
+          "S-3",
+          "S-4",
+          "S-8",
+          "DEF 14A",
+          "13F-HR",
+          "13F-NT",
+          "20-F",
+          "6-K",
+          "40-F",
+          "424B2",
+          "424B3",
+          "424B4",
+          "424B5",
+          "SC 13D",
+          "SC 13G",
+          "SC 13G/A",
+          "144",
+          "N-Q",
+          "N-CSR",
+          "N-PORT",
+          "NPORT-P"
+        ]
       },
       "start_date": {
         "type": "string",
@@ -32,7 +61,10 @@
         "default": 50
       }
     },
-    "required": ["cik", "form_type"]
+    "required": [
+      "cik",
+      "form_type"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -99,7 +131,17 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "filings", "10-K", "10-Q", "8-K", "forms", "annual report", "quarterly report"],
+    "tags": [
+      "sec",
+      "edgar",
+      "filings",
+      "10-K",
+      "10-Q",
+      "8-K",
+      "forms",
+      "annual report",
+      "quarterly report"
+    ],
     "rateLimit": 10,
     "cacheTTL": 1800,
     "note": "Filtered view of company filings by form type. Useful for tracking specific disclosure types or regulatory requirements.",

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.yahoo_finance_tool.YahooGetQuoteTool",
   "description": "Retrieve real-time stock quote data including current price, volume, market cap, and key statistics for a given stock symbol.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -13,7 +13,9 @@
         "pattern": "^[A-Z^.]{1,10}$"
       }
     },
-    "required": ["symbol"]
+    "required": [
+      "symbol"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -27,7 +29,10 @@
         "description": "Company or security name"
       },
       "price": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Current/latest price"
       },
       "currency": {
@@ -35,55 +40,94 @@
         "description": "Currency of the price (e.g., USD, EUR)"
       },
       "change": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Price change from previous close"
       },
       "change_percent": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Percentage change from previous close"
       },
       "volume": {
-        "type": ["integer", "null"],
+        "type": [
+          "integer",
+          "null"
+        ],
         "description": "Trading volume"
       },
       "avg_volume": {
-        "type": ["integer", "null"],
+        "type": [
+          "integer",
+          "null"
+        ],
         "description": "Average trading volume"
       },
       "market_cap": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Market capitalization"
       },
       "pe_ratio": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Price-to-earnings ratio"
       },
       "dividend_yield": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Dividend yield percentage"
       },
       "fifty_two_week_high": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "52-week high price"
       },
       "fifty_two_week_low": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "52-week low price"
       },
       "day_high": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Today's high price"
       },
       "day_low": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Today's low price"
       },
       "open": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Opening price"
       },
       "previous_close": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Previous closing price"
       },
       "last_updated": {
@@ -91,12 +135,21 @@
         "description": "Timestamp of last update (ISO format)"
       }
     },
-    "required": ["symbol", "price"]
+    "required": [
+      "symbol",
+      "price"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Financial Data",
-    "tags": ["finance", "stocks", "quotes", "real-time", "market data"],
+    "tags": [
+      "finance",
+      "stocks",
+      "quotes",
+      "real-time",
+      "market data"
+    ],
     "rateLimit": 60,
     "cacheTTL": 60,
     "note": "Real-time stock quotes from Yahoo Finance. Includes comprehensive market statistics and metrics.",

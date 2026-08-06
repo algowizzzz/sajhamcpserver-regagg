@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.world_bank_tool.WBGetTopicIndicatorsTool",
   "description": "Retrieve all indicators related to a specific topic (e.g., Education, Health, Climate Change). Get comprehensive indicator lists by development topic.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -27,7 +27,9 @@
         "default": 1
       }
     },
-    "required": ["topic_id"]
+    "required": [
+      "topic_id"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -93,7 +95,10 @@
               "description": "Data source information"
             }
           },
-          "required": ["id", "name"]
+          "required": [
+            "id",
+            "name"
+          ]
         }
       },
       "last_updated": {
@@ -101,12 +106,22 @@
         "description": "Timestamp when data was retrieved (ISO format)"
       }
     },
-    "required": ["topic", "total_indicators", "indicators"]
+    "required": [
+      "topic",
+      "total_indicators",
+      "indicators"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["world bank", "topics", "indicators", "thematic", "research"],
+    "tags": [
+      "world bank",
+      "topics",
+      "indicators",
+      "thematic",
+      "research"
+    ],
     "rateLimit": 120,
     "cacheTTL": 86400,
     "note": "Retrieve indicators organized by development topics. Useful for comprehensive topic-based research and analysis.",

@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.european_central_bank_tool_refactored.ECBGetLatestTool",
   "description": "Retrieve the most recent observation for any European Central Bank data series. Optimized for single-value queries with minimal response payload.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -19,17 +19,42 @@
         "type": "string",
         "description": "Common indicator shorthand",
         "enum": [
-          "eur_usd", "eur_gbp", "eur_jpy", "eur_cny", "eur_chf",
-          "main_refinancing_rate", "deposit_facility_rate", "marginal_lending_rate", "eonia", "ester",
-          "bond_2y", "bond_5y", "bond_10y",
-          "hicp_overall", "hicp_core", "hicp_energy",
-          "gdp", "m1", "m2", "m3", "unemployment_rate"
+          "eur_usd",
+          "eur_gbp",
+          "eur_jpy",
+          "eur_cny",
+          "eur_chf",
+          "main_refinancing_rate",
+          "deposit_facility_rate",
+          "marginal_lending_rate",
+          "eonia",
+          "ester",
+          "bond_2y",
+          "bond_5y",
+          "bond_10y",
+          "hicp_overall",
+          "hicp_core",
+          "hicp_energy",
+          "gdp",
+          "m1",
+          "m2",
+          "m3",
+          "unemployment_rate"
         ]
       }
     },
     "oneOf": [
-      {"required": ["flow", "key"]},
-      {"required": ["indicator"]}
+      {
+        "required": [
+          "flow",
+          "key"
+        ]
+      },
+      {
+        "required": [
+          "indicator"
+        ]
+      }
     ]
   },
   "outputSchema": {
@@ -56,7 +81,10 @@
         "description": "Date of the latest observation"
       },
       "value": {
-        "type": ["number", "null"],
+        "type": [
+          "number",
+          "null"
+        ],
         "description": "Latest observation value"
       }
     }
@@ -64,7 +92,14 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["current", "latest", "real-time", "ecb", "eurozone", "snapshot"],
+    "tags": [
+      "current",
+      "latest",
+      "real-time",
+      "ecb",
+      "eurozone",
+      "snapshot"
+    ],
     "rateLimit": 120,
     "cacheTTL": 3600,
     "note": "Optimized for dashboard and real-time displays. Returns only the most recent value with minimal payload size.",

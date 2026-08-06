@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.calc_tools.CalcBondPriceTool",
   "description": "Calculate bond price given face value, coupon rate, yield, and years to maturity",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

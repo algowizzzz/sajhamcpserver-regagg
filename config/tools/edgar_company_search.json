@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.enhanced_edgar_tool.EDGARCompanySearchTool",
   "description": "Search for public companies in SEC EDGAR database by company name or ticker symbol to retrieve CIK numbers",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -14,7 +14,11 @@
       "search_type": {
         "type": "string",
         "description": "Type of search to perform: 'name' for company name search, 'ticker' for ticker symbol search, 'auto' to search both",
-        "enum": ["name", "ticker", "auto"],
+        "enum": [
+          "name",
+          "ticker",
+          "auto"
+        ],
         "default": "auto"
       },
       "limit": {
@@ -25,7 +29,9 @@
         "default": 10
       }
     },
-    "required": ["query"]
+    "required": [
+      "query"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -68,7 +74,15 @@
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "SEC EDGAR",
-    "tags": ["sec", "edgar", "company", "search", "cik", "ticker", "public companies"],
+    "tags": [
+      "sec",
+      "edgar",
+      "company",
+      "search",
+      "cik",
+      "ticker",
+      "public companies"
+    ],
     "rateLimit": 10,
     "cacheTTL": 3600,
     "note": "Search interface for SEC EDGAR company database. Returns CIK numbers needed for other EDGAR API calls. No API key required.",

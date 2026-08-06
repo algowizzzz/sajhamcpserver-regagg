@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.world_bank_tool.WBGetIndicatorsTool",
   "description": "Retrieve list of all available World Bank development indicators with their descriptions and metadata. Browse thousands of economic, social, and environmental indicators.",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -71,8 +71,12 @@
               "type": "object",
               "description": "Data source information",
               "properties": {
-                "id": {"type": "string"},
-                "value": {"type": "string"}
+                "id": {
+                  "type": "string"
+                },
+                "value": {
+                  "type": "string"
+                }
               }
             },
             "source_note": {
@@ -89,13 +93,20 @@
               "items": {
                 "type": "object",
                 "properties": {
-                  "id": {"type": "string"},
-                  "value": {"type": "string"}
+                  "id": {
+                    "type": "string"
+                  },
+                  "value": {
+                    "type": "string"
+                  }
                 }
               }
             }
           },
-          "required": ["id", "name"]
+          "required": [
+            "id",
+            "name"
+          ]
         }
       },
       "last_updated": {
@@ -103,12 +114,21 @@
         "description": "Timestamp when data was retrieved (ISO format)"
       }
     },
-    "required": ["total_indicators", "indicators"]
+    "required": [
+      "total_indicators",
+      "indicators"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Economic Data",
-    "tags": ["world bank", "indicators", "metadata", "development", "statistics"],
+    "tags": [
+      "world bank",
+      "indicators",
+      "metadata",
+      "development",
+      "statistics"
+    ],
     "rateLimit": 120,
     "cacheTTL": 86400,
     "note": "Browse World Bank's comprehensive catalog of over 16,000 development indicators covering economic, social, environmental, and institutional dimensions.",

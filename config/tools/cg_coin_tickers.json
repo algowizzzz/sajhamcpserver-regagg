@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.coingecko_tools.CGCoinTickersTool",
   "description": "Get exchange tickers for a crypto from CoinGecko \u2014 where it trades, bid/ask, volume",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

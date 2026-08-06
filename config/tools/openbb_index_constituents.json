@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.openbb_tools.OpenBBIndexConstituentsTool",
   "description": "Get index constituents via OpenBB \u2014 list of stocks in S&P 500, NASDAQ-100, Dow Jones, FTSE, etc.",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

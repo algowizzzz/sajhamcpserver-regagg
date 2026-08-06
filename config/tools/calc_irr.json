@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.calc_tools.CalcIRRTool",
   "description": "Calculate Internal Rate of Return (IRR) for a series of cash flows",
   "version": "4.5.0",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {

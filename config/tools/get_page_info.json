@@ -3,7 +3,7 @@
   "implementation": "sajha.tools.impl.webcrawler_tool_refactored.GetPageInfoTool",
   "description": "Get comprehensive information and statistics about a web page including metadata, structure, link/image counts, and content metrics",
   "version": "2.9.8",
-  "enabled": true,
+  "enabled": false,
   "inputSchema": {
     "type": "object",
     "properties": {
@@ -12,7 +12,9 @@
         "description": "URL of the page to analyze"
       }
     },
-    "required": ["url"]
+    "required": [
+      "url"
+    ]
   },
   "outputSchema": {
     "type": "object",
@@ -59,17 +61,23 @@
           },
           "h1": {
             "type": "array",
-            "items": {"type": "string"},
+            "items": {
+              "type": "string"
+            },
             "description": "First 5 H1 headings"
           },
           "h2": {
             "type": "array",
-            "items": {"type": "string"},
+            "items": {
+              "type": "string"
+            },
             "description": "First 5 H2 headings"
           },
           "h3": {
             "type": "array",
-            "items": {"type": "string"},
+            "items": {
+              "type": "string"
+            },
             "description": "First 5 H3 headings"
           }
         }
@@ -91,12 +99,22 @@
         "description": "Timestamp when information was retrieved"
       }
     },
-    "required": ["url", "status_code", "retrieved_at"]
+    "required": [
+      "url",
+      "status_code",
+      "retrieved_at"
+    ]
   },
   "metadata": {
     "author": "Ashutosh Sinha",
     "category": "Web Scraping",
-    "tags": ["page analysis", "statistics", "seo audit", "page info", "metrics"],
+    "tags": [
+      "page analysis",
+      "statistics",
+      "seo audit",
+      "page info",
+      "metrics"
+    ],
     "rateLimit": 60,
     "cacheTTL": 1800,
     "note": "Provides a complete statistical overview of a web page in a single call. Perfect for quick page audits, quality checks, and understanding page structure without downloading full content.",
