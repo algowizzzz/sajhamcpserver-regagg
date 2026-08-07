@@ -427,16 +427,61 @@
   .pv .r b{color:var(--ink)}
   .whoami{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted)}
   .whoami b{color:var(--ink)}
+
+  /* ── my day ── */
+  .md-head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin:4px 0 2px}
+  .md-head b{font-size:19px;letter-spacing:-.02em}
+  .md-head .chip{font-size:10px;font-weight:700;color:var(--blue);background:var(--blue-soft);
+    border-radius:5px;padding:2px 8px}
+  .md-head .day{color:var(--muted);font-size:11.5px;margin-left:auto}
+  .md-upd{border:1px solid var(--line);border-left:3px solid var(--red);border-radius:0 8px 8px 0;
+    background:var(--surface);padding:8px 12px;font-size:12.5px;margin:10px 0}
+  .md-upd b{color:var(--red)}
+  .md-lede{font-size:14px;line-height:1.6;color:var(--ink2);margin:12px 0 16px;max-width:880px}
+  .md-lede b{color:var(--ink)}
+  .md-ev{border-left:3px solid var(--c,var(--muted));background:var(--surface);
+    border-radius:0 9px 9px 0;padding:10px 14px;margin:8px 0;cursor:pointer;
+    border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .md-ev:hover b{color:var(--blue)}
+  .md-ev b{font-size:13.5px}
+  .md-ev .m{font-size:11px;color:var(--muted);margin-top:3px}
+  .md-ev .m .sev{font-weight:700;color:var(--c)}
+  .md-quiet{border:1px dashed var(--line);border-radius:9px;padding:10px 14px;
+    font-size:12.5px;color:var(--muted);background:var(--surface)}
+  .md-quiet b{color:var(--green)}
+  .md-ledger{margin-top:18px;border-top:1px dashed var(--line);padding-top:10px;
+    font-size:11px;color:var(--muted);line-height:1.6}
+  .md-empty{background:var(--surface);border:1px solid var(--line);border-radius:12px;
+    padding:26px;text-align:center}
+  .md-empty h3{font-size:15px;margin-bottom:6px}
+  .md-empty p{color:var(--muted);font-size:12.5px;margin-bottom:14px}
+  /* ── health ── */
+  .hsec{background:var(--surface);border:1px solid var(--line);border-radius:12px;
+    padding:14px 16px;margin-bottom:14px}
+  .hsec h3{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:10px}
+  .stagebar{display:flex;gap:7px;flex-wrap:wrap}
+  .stagebar span{border:1px solid var(--line);border-radius:8px;padding:6px 11px;
+    font-size:11.5px;background:var(--surface2)}
+  .stagebar b{color:var(--green)}
+  /* ── ask ── */
+  .ask-chip{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--blue);
+    border-radius:999px;padding:5px 13px;font-size:11.5px;color:var(--blue);
+    background:var(--blue-soft);margin-bottom:14px}
+  .ask-box{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+  .ask-box code{background:var(--surface2);padding:1px 6px;border-radius:5px;font-size:11.5px}
 </style>
 </head>
 <body>
 <div class="top">
   <div class="brand"><div class="logo">R</div>Regulatory Intelligence</div>
   <div class="nav">
-    <button class="on" id="nHome" onclick="show('home')">Home</button>
+    <button class="on" id="nMyd" onclick="show('myday')">My Day</button>
+    <button id="nHome" onclick="show('home')">Home</button>
     <button id="nOvw" onclick="show('ovw')">🏛️ Regulatory</button>
     <button id="nNews" onclick="show('newslane')">📰 Financial News</button>
+    <button id="nAsk" onclick="show('ask')">Ask</button>
     <button id="nPer" onclick="show('per')">Personas</button>
+    <button id="nHea" onclick="show('hea')">Health</button>
   </div>
   <div class="spacer"></div>
   <label style="color:var(--muted);font-size:12px">Window
@@ -635,6 +680,31 @@
         <div class="npanel" style="margin-top:14px"><h3>Sources today</h3><div id="nwSources"></div></div>
       </div>
     </div>
+  </div>
+
+  <div class="view" id="v-myday">
+    <div id="mydayBody" class="empty">loading…</div>
+  </div>
+
+  <div class="view" id="v-ask">
+    <div class="ptitle" data-t="v-ask">Ask</div>
+    <div class="psub">Ask questions about what you are looking at. Open this from a document,
+      a diff or a My Day card and that artifact is pinned as context, so the first answer is grounded in it.</div>
+    <div id="askCtx"></div>
+    <div class="ask-box" id="askBody"></div>
+  </div>
+
+  <div class="view" id="v-hea">
+    <div class="ptitle" data-t="v-hea">System health</div>
+    <div class="psub">Everything the platform team needs in one place: is collection current,
+      does the data reconcile, which sources need attention, and is the daily generation running.</div>
+    <div class="tiles" id="heaTiles"></div>
+    <div class="hsec"><h3>Pipeline — last cycle, every stage accounted</h3>
+      <div class="stagebar" id="heaStages"></div>
+      <div class="md-quiet" style="margin-top:9px" id="heaConserve"></div></div>
+    <div class="hsec"><h3>Sources needing attention</h3><div id="heaSources"></div></div>
+    <div class="hsec"><h3>Daily generation — the AI layer</h3><div id="heaGen"></div></div>
+    <div class="hsec"><h3>Collection runs</h3><div id="heaRuns"></div></div>
   </div>
 
   <div class="view" id="v-per">
@@ -897,16 +967,17 @@ function renderLaneBar(view){
 }
 
 function show(which,push=true,opts={}){
-  const VIEWS=["home","ovw","newslane","feed","cov","brw","exp","chg","run","per"];
+  const VIEWS=["myday","home","ovw","newslane","feed","cov","brw","exp","chg","run","per","ask","hea"];
   VIEWS.forEach(v=>$("v-"+v).classList.toggle("on",v===which));
   if(push){window._ourHash=which==="home"?"":which;
            location.hash=window._ourHash;}
-  if(which==="home"||which==="per")LANE=null;
+  if(["home","per","myday","ask","hea"].includes(which))LANE=null;
   else if(!opts.keepLane)LANE=HOME_OF[which]||LANE;
   // top bar carries the LANE, not the page — level 2 lives in the lane bar
-  const topOn=which==="home"?"nHome":which==="per"?"nPer"
-      :((LANE||HOME_OF[which])==="news"?"nNews":"nOvw");
-  ["nHome","nOvw","nNews","nPer"].forEach(id=>$(id).classList.toggle("on",id===topOn));
+  const TOPNAV={myday:"nMyd",home:"nHome",per:"nPer",ask:"nAsk",hea:"nHea"};
+  const topOn=TOPNAV[which]||((LANE||HOME_OF[which])==="news"?"nNews":"nOvw");
+  ["nMyd","nHome","nOvw","nNews","nPer","nAsk","nHea"].forEach(
+    id=>$(id).classList.toggle("on",id===topOn));
   renderLaneBar(which);
   retitle(which);
   window.scrollTo(0,0);
@@ -914,8 +985,140 @@ function show(which,push=true,opts={}){
   if(which==="ovw"&&!window._regLaneLoaded){window._regLaneLoaded=1;loadRegLane();}
   if(which==="feed"&&!window._newsLoaded){window._newsLoaded=1;loadNews();}
   if(which==="per"){loadPersonas();}
+  if(which==="myday"){loadMyDay();}
+  if(which==="hea"){loadHealth();}
+  if(which==="ask"){renderAsk();}
   if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
   if(which==="exp"&&!window._expLoaded){window._expLoaded=1;loadExplorer();}
+}
+
+/* ── my day: the generated page ───────────────────────────── */
+const SEV_C={serious:"var(--red)",watch:"var(--amber)"};
+let MYDAY=null;
+async function loadMyDay(day){
+  const el=$("mydayBody");
+  try{
+    MYDAY=await j(`/myday${day?`?day=${day}`:""}`);
+  }catch(e){el.className="";el.innerHTML=`<div class="md-empty"><h3>Could not build your page</h3>
+    <p>${esc(e.message)}</p></div>`;return;}
+  el.className="";
+  if(!MYDAY.persona){
+    el.innerHTML=`<div class="md-empty"><h3>Tell us what you follow</h3>
+      <p>Your daily page is built from a persona — the names, topics and rules you are responsible for.</p>
+      <button class="btn primary" onclick="show('per')">Create a persona →</button></div>`;
+    return;}
+  const spec=MYDAY.spec||{},led=MYDAY.ledger||{},items=(MYDAY.dossier||{}).items||[];
+  const byKey={};items.forEach(i=>byKey[i.cluster_key]=i);
+  let html=`<div class="md-head"><b>${esc(MYDAY.persona.name)}</b>
+    <span class="chip">${fmt(MYDAY.persona.entity_count)} names · ${esc(spec.layout||"")
+      .replace(/_/g," ")}</span>
+    <span class="day">${esc(spec.day||"")} · generated ${MYDAY.cached?"earlier today":"just now"}
+      · ${esc(MYDAY.generator||"")} · read-only</span></div>`;
+  if(MYDAY.day_note)html+=`<div class="md-quiet" style="margin:8px 0">${esc(MYDAY.day_note)}</div>`;
+  if(MYDAY.updated_note)html+=`<div class="md-upd"><b>Updated</b> — ${esc(MYDAY.updated_note)}</div>`;
+  for(const sec of (spec.sections||[])){
+    if(sec.component==="lede")html+=`<div class="md-lede">${esc(sec.text||"")}</div>`;
+    else if(sec.component==="stats")html+=`<div class="tiles">`+
+      (sec.stats||[]).map(s=>tile(fmt(s.value),esc(s.label),
+        s.tone==="crit"?"bad":s.tone==="warn"?"warn":s.tone==="good"?"up":"")).join("")+`</div>`;
+    else if(sec.component==="event_list"){
+      html+=`<h3 class="sec">${esc(sec.title||"")}</h3>`;
+      for(const key of (sec.items||[])){
+        const i=byKey[key];if(!i)continue;
+        html+=`<div class="md-ev" style="--c:${SEV_C[i.severity]||"var(--muted)"}"
+          onclick="openMyDayItem('${esc(key)}')">
+          <b>${esc(i.title||"")}</b>
+          <div class="m"><span class="sev">${esc((i.event_type||"").replace(/_/g," ").toUpperCase())}</span>
+            ${i.entities.length?" · "+esc(i.entities.join(", ")):""}
+            ${i.rule_families.length?" · "+esc(i.rule_families.join(", ")):""}
+            · ${i.corroboration} source${i.corroboration>1?"s":""} · ${esc(i.why||"")}</div></div>`;}}
+    else if(sec.component==="rule_state"){
+      const changed=new Set(sec.changed||[]);
+      html+=`<h3 class="sec">Your rule families</h3>`;
+      html+=`<div class="md-quiet">`+(changed.size
+        ? `${changed.size} of ${(sec.families||[]).length} watched families moved today.`
+        : `<b>Unchanged:</b> ${esc((sec.families||[]).join(" · "))} — verified against
+           ${fmt(led.scanned_documents||0)} documents collected for ${esc(spec.day||"")}.`)+`</div>`;}
+    else if(sec.component==="quiet_note")html+=`<div class="md-quiet"><b>All quiet.</b> ${esc(sec.text||"")}</div>`;
+    else if(sec.component==="ledger"){
+      const s=sec.ledger||{};
+      html+=`<div class="md-ledger">Coverage ledger: ${fmt(s.shown||0)} shown of
+        ${fmt(s.matched||0)} matched · ${fmt(s.quiet_entities||0)} of
+        ${fmt(s.watchlist_size||0)} watched names quiet ·
+        ${fmt(s.suppressed_below_floor||0)} below your noise floor ·
+        ${fmt(s.suppressed_overflow||0)} beyond your page limit ·
+        built from ${fmt(s.scanned_documents||0)} documents.
+        ${spec.fallback_reason?"<br>Narrative fell back to the deterministic template.":""}</div>`;}
+  }
+  el.innerHTML=html;
+}
+async function openMyDayItem(key){
+  try{
+    const item=await j(`/myday/item/${encodeURIComponent(key)}`);
+    ASKCTX={kind:"my day card",title:item.title,docs:item.docs};
+    if(item.docs&&item.docs.length)openDoc(item.docs[0].regulator_id,item.docs[0].doc_id);
+  }catch(e){toast("Could not open that item.");}
+}
+
+/* ── ask (context-pinned chat) ────────────────────────────── */
+let ASKCTX=null;
+function renderAsk(){
+  $("askCtx").innerHTML=ASKCTX
+    ? `<div class="ask-chip">📎 Context: ${esc(ASKCTX.kind)} — ${esc((ASKCTX.title||"").slice(0,90))}</div>`
+    : `<div class="ask-chip" style="border-color:var(--line);background:var(--surface2);color:var(--muted)">
+         No artifact pinned — open one from My Day, Documents or a diff</div>`;
+  const url=(window.AGENT_URL||"").trim();
+  $("askBody").innerHTML=url
+    ? `<p style="font-size:12.5px;color:var(--ink2)">Chat runs on your agent platform.</p>
+       <p style="margin-top:10px"><a class="btn primary" href="${esc(url)}" target="_blank"
+          rel="noopener">Open Ask with this context ↗</a></p>`
+    : `<p style="font-size:12.5px;color:var(--ink2);line-height:1.6">
+         <b>Chat is not connected on this install.</b> Ask runs on your agent platform
+         (LangGraph) against the same data through the <code>reg_*</code> MCP tools.
+         Set <code>REGAGG_AGENT_URL</code> to its address and this tab hands over the
+         pinned artifact so the first answer is already grounded.</p>
+       <p style="font-size:12px;color:var(--muted);margin-top:10px">
+         Nothing here is a dead end: everything Ask would answer is visible in
+         Explore with citations — this tab only saves you the reading.</p>`;
+}
+
+/* ── health: one pane for the platform team ───────────────── */
+async function loadHealth(){
+  const [ov,runs,tree]=await Promise.all([j(`/exec/summary`),j(`/runs-overview`),j(`/tree?days=7`)]);
+  const T=ov.tiles||{},R=runs||{};
+  $("heaTiles").innerHTML=
+    tile(`${T.pass_rate??0}%`,"run pass rate",(T.pass_rate??0)>=90?"up":"warn")+
+    tile(fmt(T.runs||0),"collection runs")+
+    tile(`${T.regulators||0}+${T.news_sources||0}`,"sources configured")+
+    tile(fmt(T.documents||0),"documents held")+
+    tile(fmt(T.versions||0),"versions on file")+
+    tile(fmt(T.archived||0),"archived (audit trail)");
+  $("heaStages").innerHTML=[
+    ["detect","clean"],["fetch","magic-byte PDF checks"],["version","archive-first"],
+    ["score","reason on every doc"],["extract","stored per document"],
+    ["project markdown","resynced nightly"],["reconcile","DB = storage = manifests"],
+  ].map(([a,b])=>`<span>${a} <b>${b}</b></span>`).join("");
+  $("heaConserve").innerHTML=`<b>Conservation:</b> detected = ingested + deduped +
+    cap-dropped + errors, checked every run by the reconciler. Truncation is counted, never silent.`;
+  const attention=(tree.regions||[]).flatMap(r=>(r.institutions||[])
+    .filter(i=>i.status&&i.status!=="ok").map(i=>({...i,region:r.region})));
+  $("heaSources").innerHTML=attention.length
+    ? `<table><tr><th>source</th><th>region</th><th>status</th><th>last run</th></tr>`+
+      attention.map(i=>`<tr><td><b>${esc(i.regulator_id)}</b></td><td>${esc(i.region)}</td>
+        <td><span class="pill ${esc(i.status)}">${esc(i.status)}</span></td>
+        <td>${esc(i.last_run?new Date(i.last_run).toLocaleString():"never")}</td></tr>`).join("")+`</table>`
+    : `<div class="md-quiet"><b>All sources fresh.</b> None past its staleness window.</div>`;
+  const gen=(R.today_failing!=null)?R:{};
+  $("heaGen").innerHTML=`<div class="md-quiet">
+    Daily pages are generated per persona and cached — one truth per day, read-only.
+    Generator in use: <b>${esc(window.GENERATOR||"template (deterministic)")}</b>.
+    Every generated page is validated for coverage, citations and numbers before it renders;
+    a page that fails validation falls back to the deterministic template rather than shipping.</div>`;
+  $("heaRuns").innerHTML=$("runFeed")?$("runFeed").innerHTML:"";
+  if(!$("heaRuns").innerHTML){
+    $("heaRuns").innerHTML=`<div class="md-quiet">${fmt(R.today||0)} runs today ·
+      pass rate ${R.pass_rate??"—"}% · ${fmt(R.today_failing||0)} failing.
+      Full run history is on the Collection runs page.</div>`;}
 }
 
 /* ── identity: sign in / sign up ──────────────────────────── */
@@ -946,7 +1149,8 @@ async function authSubmit(){
     // expected outcomes come back 200 with ok:false and a human message
     if(!r.ok||d.ok===false)throw new Error(d.error||d.detail||"Could not sign in.");
     ME=d.user;$("authGate").classList.remove("on");renderMe();
-    window.READY=loadAll().then(()=>{applyHash();return true;})
+    window.READY=loadAll().then(()=>{if(!location.hash)show("myday",false);
+                                     applyHash();return true;})
       .catch(err=>{console.error("initial load failed:",err);
                    toast("Could not load your data — retrying…");
                    return loadAll().then(()=>{applyHash();return true;});});
@@ -1807,8 +2011,8 @@ async function loadAll(){
 function applyHash(){
   const h=location.hash.replace("#","");
   const ALIAS={corpus:"brw",news:"newslane",reg:"ovw",regulatory:"ovw"};
-  if(["ovw","news","newslane","feed","cov","brw","chg","run","corpus","exp",
-      "reg","regulatory","per"].includes(h))show(ALIAS[h]||h,false);
+  if(["myday","ovw","news","newslane","feed","cov","brw","chg","run","corpus",
+      "exp","reg","regulatory","per","ask","hea"].includes(h))show(ALIAS[h]||h,false);
 }
 // Boot: authenticate, load the core data, THEN honour the deep link — a link
 // followed straight into the sign-in screen must still land where it pointed.
@@ -1820,6 +2024,7 @@ window.addEventListener("hashchange",()=>{
 window.READY=requireAuth().then(async ok=>{
   if(!ok)return false;
   await loadAll();
+  if(!location.hash)show("myday",false);
   applyHash();
   return true;
 });

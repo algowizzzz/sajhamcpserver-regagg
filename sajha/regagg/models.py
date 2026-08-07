@@ -127,6 +127,10 @@ class Document(Base):
     status = Column(String(16), nullable=False, default="final")
     source_kind = Column(String(16), nullable=False, default="web")  # web | policy_pdf
     # materiality: deterministic, explainable priority (see regagg/materiality.py)
+    # what the extractor understood from this document: entities (canonical +
+    # as-written + confidence), event type/subtype, severity signals, and which
+    # backend/version produced it. JSONB on Postgres, so it is queryable.
+    extraction = Column(JSONFlex)
     materiality_score = Column(Integer, nullable=False, default=0)
     materiality_band = Column(String(16), nullable=False, default="Informational")
     materiality_reason = Column(Text)

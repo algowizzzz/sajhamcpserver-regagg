@@ -111,6 +111,18 @@ def _feed_summary_result(ev: DetectionEvent):
                        fetch_method="feed_summary", title=title, ocr=False)
 
 
+def _apply_extraction(session, doc, extractor=None) -> None:
+    """Read the document once, for every persona. Stored on the row so the
+    persona join downstream is a lookup, not a re-read: following 6,000 names
+    costs the same as following 10."""
+    try:
+        from sajha.regagg import extraction as _x
+        ex = extractor or _x.get_extractor(_x.build_index_from_watchlists(session))
+        doc.extraction = ex.extract(doc.title or "", "")
+    except Exception:  # noqa: BLE001 — understanding is additive, never fatal
+        pass
+
+
 def _apply_materiality(session, doc, text: str, change_kind: str) -> None:
     """Score the document's priority so analysts see what matters first."""
     from sqlalchemy import select as _select
@@ -249,6 +261,11 @@ def run_regulator(
     seen = _load_seen(session, config.id)
 
     HARVEST_PER_PAGE, HARVEST_CAP = 3, 40
+    try:
+        from sajha.regagg import extraction as _x
+        extractor = _x.get_extractor(_x.build_index_from_watchlists(session))
+    except Exception:  # noqa: BLE001
+        extractor = None
     if max_docs is None:
         max_docs = config.max_docs_per_run   # e.g. news: top ~50 stories/day
     try:

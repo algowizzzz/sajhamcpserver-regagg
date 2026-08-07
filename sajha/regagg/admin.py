@@ -145,6 +145,50 @@ def create_admin_router() -> APIRouter:
             return {"user": None}
         return {"user": _auth.user_public(user)}
 
+    # ── my day (the generated page) ─────────────────────────────────────────
+
+    @router.get("/myday")
+    def myday(request: Request, persona_id: Optional[str] = None,
+              day: Optional[str] = None, refresh: bool = False):
+        """The persona's page for a day. Cached per persona per day: everyone
+        who opens it sees the same page, and it is not rewritten under them."""
+        from sajha.regagg import myday as _m, personas as _p
+        user = _require_user(request)
+        session = runtime.get_session()
+        if persona_id:
+            p, err = _p.get_persona(session, persona_id, user.user_id)
+            if err:
+                raise HTTPException(404, err)
+        else:
+            mine = _p.list_personas(session, user.user_id)
+            if not mine:
+                return {"persona": None,
+                        "message": "Create a persona to get your daily page."}
+            p, _ = _p.get_persona(session, mine[0]["persona_id"], user.user_id)
+        out = _m.build_my_day(session, p, day=day, force=refresh)
+        out["persona"] = _p.persona_dict(session, p)
+        return out
+
+    @router.get("/myday/item/{cluster_key}")
+    def myday_item(cluster_key: str, request: Request,
+                   persona_id: Optional[str] = None, day: Optional[str] = None):
+        """The evidence behind one card — every document it was built from."""
+        from sajha.regagg import myday as _m, personas as _p
+        user = _require_user(request)
+        session = runtime.get_session()
+        mine = _p.list_personas(session, user.user_id)
+        pid = persona_id or (mine[0]["persona_id"] if mine else None)
+        if not pid:
+            raise HTTPException(404, "No persona.")
+        p, err = _p.get_persona(session, pid, user.user_id)
+        if err:
+            raise HTTPException(404, err)
+        data = _m.build_my_day(session, p, day=day)
+        for item in data["dossier"]["items"] + data["dossier"].get("suppressed", []):
+            if item["cluster_key"] == cluster_key:
+                return item
+        raise HTTPException(404, "Item not on that day's page.")
+
     # ── personas ────────────────────────────────────────────────────────────
 
     @router.get("/personas")
