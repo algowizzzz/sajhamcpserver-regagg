@@ -32,6 +32,8 @@ WEIGHT_ALIASES = {"credit": "credit_event", "ccr": "ccr_signal",
 
 HOME_MARKET_BONUS = {"CA": 6, "US": 3}
 SERIOUS_DEFAULT = 50
+# how much a topic-only match is discounted against a named-entity match
+TOPIC_ONLY_DAMPENER = 0.55
 
 
 def _weights(persona_config: dict) -> Dict[str, int]:
@@ -59,6 +61,36 @@ def _cluster_key(title: str, entities: List[str] = (), event_type: str = "") -> 
     words = [w for w in re.findall(r"[a-z0-9]+", (title or "").lower())
              if len(w) > 3][:12]
     return " ".join(sorted(set(words))[:8])
+
+
+def _watch_match(canonical: str, watch_norm: Dict[str, str]) -> Optional[str]:
+    """Does this extracted company correspond to a watched name?
+
+    Analysts type "Goodfood"; the extractor returns "Goodfood Market Corp." —
+    exact equality drops the match and the desk sees nothing. Compare token
+    sets instead: one name matches the other when its words are contained in
+    the other's, provided the shorter side carries enough signal to be
+    distinctive (two words, or one word of 5+ characters). "Bank" never
+    matches "Bank of America"; "Goodfood" matches "Goodfood Market Corp.".
+    """
+    norm = normalize_name(canonical)
+    if not norm:
+        return None
+    if norm in watch_norm:
+        return watch_norm[norm]
+    tokens = set(norm.split())
+    for wnorm, original in watch_norm.items():
+        wtokens = set(wnorm.split())
+        if not wtokens or not tokens:
+            continue
+        shorter = wtokens if len(wtokens) <= len(tokens) else tokens
+        longer = tokens if shorter is wtokens else wtokens
+        if not shorter <= longer:
+            continue
+        distinctive = len(shorter) >= 2 or max(len(w) for w in shorter) >= 5
+        if distinctive:
+            return original
+    return None
 
 
 def _extraction_of(doc) -> dict:
@@ -117,8 +149,13 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
         ex = _extraction_of(d)
         text = f"{d.title or ''}"
         hits = ex.get("entities") or index.find(text)
-        matched_names = [h for h in hits
-                         if normalize_name(h.get("canonical", "")) in watch_norm]
+        matched_names = []
+        for h in hits:
+            hit = _watch_match(h.get("canonical", ""), watch_norm)
+            if hit:
+                # record the WATCHED name, so the page speaks the user's language
+                matched_names.append({**h, "canonical": hit,
+                                      "extracted_as": h.get("canonical")})
         fam_hit = [f for f in families if f.replace("-", " ") in text.lower()
                    or f in (d.reference_number or "").lower()]
         class_hit = [c for c in classes if c in text.lower()]
@@ -164,12 +201,22 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
     for c in clusters.values():
         corroboration = len(c["sources"])
         base = weights.get(c["event_type"], DEFAULT_WEIGHTS["general"])
+        # A story that merely belongs to a topic you follow is CONTEXT; a story
+        # that names something you are responsible for is an EXCEPTION. Without
+        # this, a desk that follows "rates" saw every rates story marked
+        # serious — and a page where everything is serious says nothing.
+        # Context can still escalate on its own merits (several wires carrying
+        # it, or high materiality), which is exactly when it deserves to.
+        specific = bool(c["entities"] or c["rule_families"] or c["classes"])
+        if not specific:
+            base = int(base * TOPIC_ONLY_DAMPENER)
         bonus = HOME_MARKET_BONUS.get(c["jurisdiction"], 0)
         sev = 3 * len(c["severity_signals"])
         corr = 8 * (corroboration - 1)
         rule = 25 if c["rule_families"] else 0
         score = base + bonus + sev + corr + rule + int(0.2 * c["materiality"])
-        why = [f"{c['event_type'].replace('_', ' ')} +{base}"]
+        why = [f"{c['event_type'].replace('_', ' ')} +{base}"
+               + ("" if specific else " (topic match, not your names)")]
         if c["entities"]:
             why.append(f"{len(c['entities'])} watched name"
                        f"{'s' if len(c['entities']) > 1 else ''}")

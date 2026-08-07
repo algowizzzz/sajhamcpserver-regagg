@@ -1,0 +1,1 @@
+Summary: # SBI share price climbs 4% after Q1 profit jumps 10% YoY, beats estimates

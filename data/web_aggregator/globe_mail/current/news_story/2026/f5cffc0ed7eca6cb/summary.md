@@ -1,0 +1,1 @@
+Summary: # Banks look to lend to defence companies, but many lack the track record to qualify

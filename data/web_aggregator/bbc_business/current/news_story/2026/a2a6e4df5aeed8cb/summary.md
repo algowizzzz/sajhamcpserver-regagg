@@ -1,1 +1,1 @@
-Summary: # Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?
+Summary: # Shorts, strappy tops and sandals: What is acceptable to wear to work?

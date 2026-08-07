@@ -1,0 +1,1 @@
+Summary: # In Focus: Kumamoto before-and-after images show earthquake's scars

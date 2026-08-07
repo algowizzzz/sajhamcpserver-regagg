@@ -1,0 +1,7 @@
+# Trump to announce $180 million to boost mining education
+
+President Trump is planning to announce over $180 million in grants to boost educational programs for the mining industry, CBS News has learned, part of a bid to increase critical mineral production.
+
+[Read the full story at the source](https://www.cbsnews.com/news/trump-mining-education-critical-minerals-180-million-dollars/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

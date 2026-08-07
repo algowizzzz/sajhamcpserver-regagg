@@ -1,0 +1,1 @@
+Summary: # Stock market today: Dow, S&P 500, Nasdaq rise after July jobs report surprises to the downside

@@ -1,0 +1,1 @@
+Summary: # New Mexico court orders Meta to pay $567m over harms to children’s mental health

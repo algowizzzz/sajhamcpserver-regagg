@@ -1,6 +1,6 @@
-# TikTok Is Laying Off 250 Employees in Its Nashville Office
+# TikTok Lays Off 250 Employees in Office That Includes Content Moderation
 
-The office was home to members of the app’s content moderation team.
+TikTok did not give a detailed reason for the layoffs, which will shutter its Nashville office.
 
 [Read the full story at the source](https://www.nytimes.com/2026/08/05/technology/tiktok-layoffs-nashville.html)
 

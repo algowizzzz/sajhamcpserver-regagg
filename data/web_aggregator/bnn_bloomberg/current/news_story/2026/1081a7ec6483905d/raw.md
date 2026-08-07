@@ -1,0 +1,7 @@
+# China's exports slow slightly in July despite robust demand for high-tech products
+
+China’s exports slowed slightly in July from the month before but still were higher than forecast thanks to strong demand for high-tech electronics and vehicles.
+
+[Read the full story at the source](https://www.bnnbloomberg.ca/business/international/2026/08/07/chinas-exports-slow-slightly-in-july-despite-robust-demand-for-high-tech-products/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

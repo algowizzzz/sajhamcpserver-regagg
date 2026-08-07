@@ -1,0 +1,1 @@
+Summary: # Exclusive: Kalshi partners with ‘Blanket’ to help small businesses hedge against risk—with help from the guru of ‘hypergamblification’

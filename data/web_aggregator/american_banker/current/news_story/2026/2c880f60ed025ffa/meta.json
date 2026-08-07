@@ -1,0 +1,26 @@
+{
+  "doc_id": "2c880f60ed025ffa",
+  "regulator_id": "american_banker",
+  "doc_type": "news_story",
+  "title": "German payment startup is close to launching US bank",
+  "language": "en",
+  "source_url": "https://www.americanbanker.com/news/german-payment-startup-is-close-to-launching-us-bank",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:682b427c0774663d8d30b2f38e67437f023c7c673186f27bc32b6e50ee112b4c",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_american_banker_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/american_banker/current/news_story/2026/2c880f60ed025ffa",
+  "tags": [
+    "us",
+    "banking"
+  ],
+  "final_url": "https://www.americanbanker.com/news/german-payment-startup-is-close-to-launching-us-bank",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,7 @@
+# As divisions linger, Senate punts CLARITY Act to September
+
+Senate Majority Leader John Thune, R-S.D., said the cryptocurrency market structure bill will be considered "first thing" after senators return from recess in September.
+
+[Read the full story at the source](https://www.americanbanker.com/news/as-divisions-linger-senate-punts-clarity-act-to-september)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

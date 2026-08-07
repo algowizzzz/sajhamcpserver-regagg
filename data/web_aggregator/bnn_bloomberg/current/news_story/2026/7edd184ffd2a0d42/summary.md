@@ -1,0 +1,1 @@
+Summary: # Viridian Reports Continuation of Massive Sulphides at Kraken Main; First Assays Pending

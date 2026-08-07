@@ -1,0 +1,25 @@
+{
+  "doc_id": "d3a74c0c204c7ad8",
+  "regulator_id": "financial_post",
+  "doc_type": "news_story",
+  "title": "Kaplan Fox Urges EquipmentShare.Com Inc (NASDAQ: EQPT) Investors to Contact the Firm Before the Deadline on September 21, 2026",
+  "language": "en",
+  "source_url": "https://financialpost.com/globe-newswire/kaplan-fox-urges-equipmentshare-com-inc-nasdaq-eqpt-investors-to-contact-the-firm-before-the-deadline-on-september-21-2026",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6e259213b8b30cec3f66793bd4dc43f66a375ee889f8cced1d8d120daee276fd",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_financial_post_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/financial_post/current/news_story/2026/d3a74c0c204c7ad8",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://financialpost.com/globe-newswire/kaplan-fox-urges-equipmentshare-com-inc-nasdaq-eqpt-investors-to-contact-the-firm-before-the-deadline-on-september-21-2026",
+  "fetch_method": "feed_summary"
+}

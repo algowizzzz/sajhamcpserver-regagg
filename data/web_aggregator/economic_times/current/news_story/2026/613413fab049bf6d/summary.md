@@ -1,0 +1,1 @@
+Summary: # Bectors Food Q1 Results: Profit rises 25.5% to Rs 38.76 crore

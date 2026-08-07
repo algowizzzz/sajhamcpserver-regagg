@@ -1,0 +1,18 @@
+{
+  "run_id": "2026-08-07_aljazeera_econ_live",
+  "regulator_id": "aljazeera_econ",
+  "logical_date": "2026-08-07",
+  "trigger": "schedule",
+  "detected": 1,
+  "fetched": 1,
+  "ingested": 1,
+  "archived": 0,
+  "deduped": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss"
+  ],
+  "duration_s": 0.197
+}

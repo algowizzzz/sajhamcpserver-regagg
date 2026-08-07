@@ -1,0 +1,1 @@
+Summary: # Gold hits seven-week high as weak U.S. jobs data dents rate hike bets

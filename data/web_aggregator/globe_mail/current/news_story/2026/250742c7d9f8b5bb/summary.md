@@ -1,0 +1,1 @@
+Summary: # Business Brief: Opposition to Trump grows in unexpected places

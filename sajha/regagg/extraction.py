@@ -152,6 +152,48 @@ class DeterministicExtractor:
         }
 
 
+class _OpenAICompatible:
+    """Minimal client for any OpenAI-shaped chat API (DeepSeek, vLLM, Ollama).
+
+    Written against `requests` rather than a vendor SDK on purpose: an on-prem
+    bank install should not need a new dependency (and a new CVE surface) to
+    change model provider. Provider choice is configuration, like everything
+    else in this system.
+    """
+
+    def __init__(self, base_url: str, api_key: str, model: str, timeout: int = 60):
+        self.base_url = base_url.rstrip("/")
+        self.api_key, self.model, self.timeout = api_key, model, timeout
+
+    def complete(self, system: str, user: str, max_tokens: int = 400) -> str:
+        import requests
+        r = requests.post(
+            f"{self.base_url}/chat/completions",
+            headers={"Authorization": f"Bearer {self.api_key}",
+                     "Content-Type": "application/json"},
+            json={"model": self.model, "max_tokens": max_tokens,
+                  "temperature": 0,          # extraction must be reproducible
+                  "messages": [{"role": "system", "content": system},
+                               {"role": "user", "content": user}]},
+            timeout=self.timeout)
+        r.raise_for_status()
+        return r.json()["choices"][0]["message"]["content"]
+
+
+def _provider_from_env():
+    """Which model backend is configured, if any. DeepSeek and Anthropic are
+    both supported; DeepSeek wins if both are set because it is the cheaper
+    per-document choice for the extraction pass."""
+    ds = os.getenv("DEEPSEEK_API_KEY") or os.getenv("deepseek_api_key")
+    if ds:
+        return ("deepseek", _OpenAICompatible(
+            os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com"),
+            ds, os.getenv("DEEPSEEK_MODEL", "deepseek-chat")))
+    if os.getenv("ANTHROPIC_API_KEY"):
+        return ("anthropic", None)
+    return (None, None)
+
+
 class LLMExtractor:
     """Reads the headline the way an analyst would. Falls back, never fails.
 
@@ -164,21 +206,42 @@ class LLMExtractor:
 
     PROMPT = (
         "You extract structured facts from a financial news headline for a bank's "
-        "credit risk team. Return ONLY JSON with keys: entities (list of "
-        '{"canonical": company name as normally written, "as_written": the exact '
-        'phrase in the text, "confidence": high|medium}), event_type (one of '
-        "credit_event, ccr_signal, rates, guidance, deal, regulatory, operations, "
-        "general), event_subtype (short snake_case or null), severity_signals "
-        "(list of short phrases). Name only companies that are the SUBJECT of the "
-        "story. If none, return an empty list. No commentary."
+        "credit risk team. Return ONLY JSON with keys: entities, event_type, "
+        "event_subtype, severity_signals.\n"
+        'entities is a list of {"canonical": the company\'s usual full name, '
+        '"as_written": the exact phrase used in the text, "confidence": '
+        '"high"|"medium"}.\n'
+        "RESOLVE OBLIQUE REFERENCES: when a story names a company only by "
+        "description (\"the Montreal meal-kit maker\", \"the Canadian airline\"), "
+        "put the COMPANY'S REAL NAME in canonical if you can identify it "
+        "confidently, and the description in as_written. If you cannot identify "
+        "it, use the description for both and set confidence to medium.\n"
+        "event_type is one of: credit_event (bankruptcy, creditor protection, "
+        "default, downgrade), ccr_signal (counterparty/leveraged fund stress, "
+        "margin calls), rates (central banks, inflation, yields), guidance "
+        "(outlook changes, profit warnings), deal (M&A, IPO, financing), "
+        "regulatory (rules, enforcement, fines), operations (strikes, outages, "
+        "recalls), general.\n"
+        "Name only companies that are the SUBJECT of the story, not those "
+        "mentioned in passing. If none, return an empty list. No commentary."
     )
 
     def __init__(self, index: Optional[EntityIndex] = None, model: Optional[str] = None,
-                 client=None):
+                 client=None, provider: Optional[str] = None):
         self.fallback = DeterministicExtractor(index)
-        self.model = model or os.getenv("REGAGG_EXTRACT_MODEL", "claude-haiku-4-5-20251001")
-        self._client = client
-        self.version = self.model
+        self.provider = (provider
+                         or ("anthropic" if client is not None else None)
+                         or _provider_from_env()[0] or "anthropic")
+        if self.provider == "deepseek":
+            self._openai = client or _provider_from_env()[1]
+            self.model = model or os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
+            self._client = None
+        else:
+            self._openai = None
+            self.model = model or os.getenv("REGAGG_EXTRACT_MODEL",
+                                            "claude-haiku-4-5-20251001")
+            self._client = client
+        self.version = f"{self.provider}:{self.model}"
 
     def _get_client(self):
         if self._client is None:
@@ -192,10 +255,13 @@ class LLMExtractor:
         if not text:
             return base
         try:
-            resp = self._get_client().messages.create(
-                model=self.model, max_tokens=400, system=self.PROMPT,
-                messages=[{"role": "user", "content": text}])
-            raw = "".join(getattr(b, "text", "") for b in resp.content)
+            if self._openai is not None:
+                raw = self._openai.complete(self.PROMPT, text)
+            else:
+                resp = self._get_client().messages.create(
+                    model=self.model, max_tokens=400, system=self.PROMPT,
+                    messages=[{"role": "user", "content": text}])
+                raw = "".join(getattr(b, "text", "") for b in resp.content)
             data = json.loads(raw[raw.index("{"):raw.rindex("}") + 1])
         except Exception:  # noqa: BLE001 — provider down must not stop ingestion
             base["llm_error"] = True
@@ -219,8 +285,9 @@ class LLMExtractor:
 
 def get_extractor(index: Optional[EntityIndex] = None):
     """LLM when a key is configured, deterministic otherwise — same shape."""
-    if os.getenv("ANTHROPIC_API_KEY"):
-        return LLMExtractor(index)
+    provider, _client = _provider_from_env()
+    if provider:
+        return LLMExtractor(index, provider=provider)
     return DeterministicExtractor(index)
 
 

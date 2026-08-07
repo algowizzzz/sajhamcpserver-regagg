@@ -1,0 +1,25 @@
+{
+  "doc_id": "a8ed60a454f6b5e6",
+  "regulator_id": "economic_times",
+  "doc_type": "news_story",
+  "title": "Aurobindo Pharma among 8 stocks hitting 52-week highs; surge up to 20% in a month",
+  "language": "en",
+  "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-8-stocks-hitting-52-week-highs-surge-up-to-20-in-a-month/slideshow/133032470.cms",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:bf30a6fb78238066daec430ee2b1b10621f7debc78cc21b0aa554214812d66fc",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_economic_times_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/economic_times/current/news_story/2026/a8ed60a454f6b5e6",
+  "tags": [
+    "india"
+  ],
+  "final_url": "https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-8-stocks-hitting-52-week-highs-surge-up-to-20-in-a-month/slideshow/133032470.cms",
+  "fetch_method": "feed_summary"
+}

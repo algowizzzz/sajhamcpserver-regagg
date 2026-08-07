@@ -1,0 +1,8 @@
+# Hong Kong preferred base as Chinese SOEs consolidate overseas accounts in treasury hubs
+
+China’s central state-owned enterprises (SOEs) are consolidating scattered overseas accounts into unified treasury hubs, with Hong Kong emerging as their preferred base amid a broader crackdown on outflows of state cash.
+Decades of overseas expansion had seen many SOEs build up assets in multiple jurisdictions, leaving cash management fragmented and making it harder for regulators and company headquarters to track liquidity, foreign-exchange risk and cross-border financing, analysts...
+
+[Read the full story at the source](https://www.scmp.com/business/china-business/article/3363242/hong-kong-preferred-base-chinese-soes-consolidate-overseas-accounts-treasury-hubs?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

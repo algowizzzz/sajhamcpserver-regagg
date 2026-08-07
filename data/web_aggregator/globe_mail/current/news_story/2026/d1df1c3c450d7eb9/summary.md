@@ -1,0 +1,1 @@
+Summary: # Canadian Natural pauses oil sands expansions until government agreements are finalized

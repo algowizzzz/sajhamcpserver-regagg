@@ -1,0 +1,1 @@
+Summary: # The Best Horror Movie Of 2026 Has A 99% Rotten Tomatoes Score, Beating ‘Obsession’

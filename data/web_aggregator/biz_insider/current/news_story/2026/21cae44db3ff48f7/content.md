@@ -1,0 +1,7 @@
+# Grindr CEO says AI is doing work that would have required hiring 200 additional engineers
+
+
+
+[Read the full story at the source](https://www.businessinsider.com/grindr-ceo-ai-work-200-additional-engineers-2026-8)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

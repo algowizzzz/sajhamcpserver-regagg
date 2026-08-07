@@ -1,0 +1,26 @@
+{
+  "doc_id": "dbec8ea3ccb20570",
+  "regulator_id": "american_banker",
+  "doc_type": "news_story",
+  "title": "Hiring shortfall leaves all options open for Fed",
+  "language": "en",
+  "source_url": "https://www.americanbanker.com/news/hiring-shortfall-leaves-all-options-open-for-fed",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:767ee056154d718341aaf6b24d1674e28277613b2f6256e60166172b8af68a9f",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_american_banker_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/american_banker/current/news_story/2026/dbec8ea3ccb20570",
+  "tags": [
+    "us",
+    "banking"
+  ],
+  "final_url": "https://www.americanbanker.com/news/hiring-shortfall-leaves-all-options-open-for-fed",
+  "fetch_method": "feed_summary"
+}

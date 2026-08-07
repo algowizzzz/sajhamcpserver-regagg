@@ -169,6 +169,62 @@ def create_admin_router() -> APIRouter:
         out["persona"] = _p.persona_dict(session, p)
         return out
 
+    @router.get("/desks")
+    def desks(request: Request, day: Optional[str] = None, days: int = 30):
+        """Every persona you can see, side by side — the desk dashboard.
+
+        A head of risk does not want nine pages; they want to know which desks
+        have something today and which are quiet, then open the one that does.
+        """
+        from sajha.regagg import myday as _m, personas as _p
+        from sajha.regagg.models import PageSpec as _PS
+        user = _require_user(request)
+        session = runtime.get_session()
+        out, totals = [], {"serious": 0, "watch": 0, "quiet_desks": 0}
+        for meta in _p.list_personas(session, user.user_id):
+            p, err = _p.get_persona(session, meta["persona_id"], user.user_id)
+            if err:
+                continue
+            page = _m.build_my_day(session, p, day=day)
+            led = page.get("ledger") or {}
+            items = (page.get("dossier") or {}).get("items", [])
+            top = items[0] if items else None
+            out.append({
+                "persona_id": p.persona_id, "name": p.name, "lane": p.lane,
+                "layout": (page.get("spec") or {}).get("layout"),
+                "day": (page.get("spec") or {}).get("day"),
+                "generator": page.get("generator"),
+                "watchlist": led.get("watchlist_size", 0),
+                "serious": led.get("serious", 0), "watch": led.get("watch", 0),
+                "quiet": led.get("quiet_entities", 0),
+                "scanned": led.get("scanned_documents", 0),
+                "matched": led.get("matched", 0),
+                "lede": next((s.get("text") for s in
+                              (page.get("spec") or {}).get("sections", [])
+                              if s.get("component") == "lede"), ""),
+                "top": ({"title": top["title"], "event_type": top["event_type"],
+                         "entities": top["entities"], "why": top["why"],
+                         "corroboration": top["corroboration"],
+                         "cluster_key": top["cluster_key"]} if top else None),
+            })
+            totals["serious"] += led.get("serious", 0)
+            totals["watch"] += led.get("watch", 0)
+            if not led.get("serious") and not led.get("watch"):
+                totals["quiet_desks"] += 1
+        out.sort(key=lambda d: (-d["serious"], -d["watch"], d["name"]))
+
+        # the window the desks are drawn from — stated, never implied
+        from sajha.regagg.models import Document as _D, Regulator as _R
+        news_ids = [r.regulator_id for r in session.scalars(select(_R)).all()
+                    if getattr(r, "category", "regulatory") == "news"]
+        day_col = func.coalesce(_D.published_date, func.date(_D.ingested_at))
+        rows = session.execute(
+            select(day_col, func.count()).where(_D.regulator_id.in_(news_ids or [""]))
+            .group_by(day_col).order_by(day_col.desc()).limit(days)).all()
+        window = [{"day": str(d), "count": c} for d, c in reversed(rows) if d]
+        return {"desks": out, "totals": totals, "window": window,
+                "window_days": len(window), "requested_days": days}
+
     @router.get("/myday/item/{cluster_key}")
     def myday_item(cluster_key: str, request: Request,
                    persona_id: Optional[str] = None, day: Optional[str] = None):

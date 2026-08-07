@@ -1,0 +1,1 @@
+Summary: # Traders on Kalshi now think it's likely that the S&P 500 will hit 8,000 in 2026

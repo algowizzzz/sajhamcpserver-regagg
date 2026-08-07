@@ -1,0 +1,7 @@
+# This mom spent $2,000 on her kindergartner as viral ‘back-to-school hauls’ on TikTok and YouTube spin out of control
+
+Students and parents are breaking their back-to-school budgets thanks to inflation and social-media trends.
+
+[Read the full story at the source](https://www.marketwatch.com/story/this-mom-spent-2-000-on-her-kindergartner-as-viral-back-to-school-hauls-on-tiktok-and-youtube-spin-out-of-control-0be2949d?mod=mw_rss_topstories)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

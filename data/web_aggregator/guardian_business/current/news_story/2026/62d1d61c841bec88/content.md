@@ -1,0 +1,7 @@
+# What can Dublin teach us? Milburn goes on a quest to solve youth jobs crisis
+
+The former UK minister discovers how apprenticeships and support networks helped slash Ireland’s Neet rate English primary schools to be told to identify children at risk of future unemployment Alan Milburn is guiding a metal loop along the serpentine wire of an electrical buzzer game as he explains the challenge of Britain’s youth jobs crisis. “We have got more than a million young people not in education, employment or training (Neet). Crisis is an over-used word – but this is a crisis.” On a fact-finding trip to Dublin, the former UK cabinet minister is being shown around an Irish Rail training facility. He tells the apprentices who rigged up the game that, while things are bad in Britain, Ireland is on the right track. Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/society/2026/aug/07/alan-milburn-dublin-quest-youth-jobs-ireland)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

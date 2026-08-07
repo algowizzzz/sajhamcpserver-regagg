@@ -1,0 +1,1 @@
+Summary: # Gold prices today, Friday, August 7, 2026: Gold prices continue to rise even after July jobs report misses

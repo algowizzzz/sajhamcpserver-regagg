@@ -1,0 +1,1 @@
+Summary: # Restaurant Brands reports higher sales and profit, driven by Burger King’s U.S. stores

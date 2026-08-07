@@ -1,0 +1,1 @@
+Summary: # T&D Holdings, Furukawa Electric to join JPX-Nikkei 400 in annual reshuffle

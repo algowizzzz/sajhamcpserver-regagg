@@ -1,0 +1,1 @@
+Summary: # Article Student Living Acquires Signature Apartments at University of Kentucky

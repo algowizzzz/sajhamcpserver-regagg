@@ -1,0 +1,7 @@
+# Fossil Group is said to invite banks for India unit IPO
+
+Fossil Group Inc. is exploring an initial public offering for its India business.  This potential listing could raise as much as $300 million.  The US-based company may sell up to a 25% stake in Fossil India.  This move follows other multinationals seeking value from their Indian operations.  The offering is anticipated to occur early in the coming year.
+
+[Read the full story at the source](https://economictimes.indiatimes.com/markets/ipos/fpos/fossil-group-is-said-to-invite-banks-for-india-unit-ipo/articleshow/133031984.cms)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

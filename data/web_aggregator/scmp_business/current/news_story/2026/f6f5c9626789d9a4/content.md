@@ -1,0 +1,8 @@
+# Chinese fund managers’ pursuit of AI plays backfires as hot tech stocks wobble
+
+A shift to technology stocks by China’s most seasoned fund managers has backfired, with the unwinding of AI plays taking a toll on the performances of their products.
+Funds run by some star managers with a value-investing approach all recorded declines in net asset values last month after they switched to chipmakers and the manufacturers of optical transceivers and out of long-held consumer bets in the second quarter. Technology stocks listed in mainland China suffered their biggest monthly...
+
+[Read the full story at the source](https://www.scmp.com/business/china-business/article/3363131/chinese-fund-managers-pursuit-ai-plays-backfires-hot-tech-stocks-wobble?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

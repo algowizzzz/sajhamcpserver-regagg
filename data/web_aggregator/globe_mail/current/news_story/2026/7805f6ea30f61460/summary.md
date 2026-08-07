@@ -1,0 +1,1 @@
+Summary: # Mideast war continues to disrupt fertilizer demand, prices, Nutrien CEO says

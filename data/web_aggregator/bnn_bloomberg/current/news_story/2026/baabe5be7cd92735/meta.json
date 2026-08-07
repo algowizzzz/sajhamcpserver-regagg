@@ -1,0 +1,25 @@
+{
+  "doc_id": "baabe5be7cd92735",
+  "regulator_id": "bnn_bloomberg",
+  "doc_type": "news_story",
+  "title": "\u2018Not yet strong\u2019: Canada adds surprise 75,000 jobs in July but recovery still ongoing",
+  "language": "en",
+  "source_url": "https://www.bnnbloomberg.ca/business/economics/2026/08/07/canada-adds-75000-jobs-in-july-as-unemployment-rate-ticks-down/",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:d82cc7945365d7595777ef1c3ef32a1ceaa6f33349e966fbfb01589918eeaa13",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_bnn_bloomberg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bnn_bloomberg/current/news_story/2026/baabe5be7cd92735",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.bnnbloomberg.ca/business/economics/2026/08/07/canada-adds-75000-jobs-in-july-as-unemployment-rate-ticks-down/",
+  "fetch_method": "feed_summary"
+}

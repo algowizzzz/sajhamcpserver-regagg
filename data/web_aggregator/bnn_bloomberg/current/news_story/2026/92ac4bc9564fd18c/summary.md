@@ -1,1 +1,1 @@
-Summary: # Here’s who’s appearing on BNN Bloomberg Market Call tomorrow
+Summary: # Here’s who’s appearing on BNN Bloomberg Market Call today

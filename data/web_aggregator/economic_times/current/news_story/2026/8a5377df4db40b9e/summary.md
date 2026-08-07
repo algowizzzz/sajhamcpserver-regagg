@@ -1,0 +1,1 @@
+Summary: # Global Market: European shares rise as healthcare stocks offset geopolitical concerns; investors await US jobs data

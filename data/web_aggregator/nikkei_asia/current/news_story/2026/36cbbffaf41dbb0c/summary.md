@@ -1,0 +1,1 @@
+Summary: # Japan to share advance defense procurement plans with contractors

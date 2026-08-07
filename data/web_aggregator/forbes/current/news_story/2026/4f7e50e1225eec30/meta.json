@@ -1,0 +1,25 @@
+{
+  "doc_id": "4f7e50e1225eec30",
+  "regulator_id": "forbes",
+  "doc_type": "news_story",
+  "title": "SpaceX And Palantir Lead Tech Stock Rally After Underwhelming Jobs Report",
+  "language": "en",
+  "source_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/07/spacex-and-palantir-lead-tech-stock-rally-after-underwhelming-jobs-report/",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:05e9c3b9106d7b89a0a67c37b65091821d489cc63ee019d311c554209ceaefdf",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_forbes_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/forbes/current/news_story/2026/4f7e50e1225eec30",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/07/spacex-and-palantir-lead-tech-stock-rally-after-underwhelming-jobs-report/",
+  "fetch_method": "feed_summary"
+}

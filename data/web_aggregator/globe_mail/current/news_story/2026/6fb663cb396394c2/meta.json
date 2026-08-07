@@ -1,0 +1,25 @@
+{
+  "doc_id": "6fb663cb396394c2",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "U.S. consumers keep getting hosed by Trump\u2019s topsy-turvy trade war",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/business/commentary/article-us-consumers-hosed-trump-trade-war-tariffs/",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:72f8df457a4a756ea166fa144b4b26c7f2aaac3c4060eefafd8f1456d0e82a27",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/6fb663cb396394c2",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/business/commentary/article-us-consumers-hosed-trump-trade-war-tariffs/",
+  "fetch_method": "feed_summary"
+}

@@ -1,4 +1,4 @@
-# Malaysian Pilot Smuggled 55 Pounds of Ecstasy Into Indonesia, Officials Say
+# Pilot Smuggled 55 Pounds of Ecstasy Into Indonesia, Officials Say
 
 The pilot, identified only by his initials, also tested positive for ecstasy and cocaine when he was arrested last week at the Jakarta airport, the Indonesian police said.
 

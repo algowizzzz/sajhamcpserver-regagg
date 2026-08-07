@@ -1,0 +1,1 @@
+Summary: # Hitachi Energy India Q1 Results: Net profit rises over twofold to Rs 294 crore

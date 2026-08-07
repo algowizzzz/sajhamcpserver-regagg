@@ -1,0 +1,1 @@
+Summary: # Raymond Realty Q1 net profit falls 19 pc to Rs 13.43 cr on higher expenses

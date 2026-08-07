@@ -1,0 +1,25 @@
+{
+  "doc_id": "9e8febfd6cbc1fad",
+  "regulator_id": "guardian_business",
+  "doc_type": "news_story",
+  "title": "\u2018Do we really need huge cruise ships here?\u2019 Fears \u00a3150m Falmouth Docks plan threatens habitats \u2013 and town itself",
+  "language": "en",
+  "source_url": "https://www.theguardian.com/uk-news/2026/aug/06/falmouth-150m-redevelopment-docks-threatens-habitats-town-cruise-ships",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:abc90296f92a5982990c7348a2c7648b95f4936e0d43a5ae363d32c3ade72187",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_guardian_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/guardian_business/current/news_story/2026/9e8febfd6cbc1fad",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.theguardian.com/uk-news/2026/aug/06/falmouth-150m-redevelopment-docks-threatens-habitats-town-cruise-ships",
+  "fetch_method": "feed_summary"
+}

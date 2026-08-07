@@ -1,0 +1,1 @@
+Summary: # Buyer linked to Ningbo’s richest family purchases Hong Kong trophy home for US$18.5m

@@ -1,0 +1,25 @@
+{
+  "doc_id": "a2ee4f39b1de1071",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "Kardium receives Health Canada approval to sell device treating common heart problem",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/business/article-kardium-receives-health-canada-approval-to-sell-device-treating-common/",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:4ecd093697b19ad0015b5a86ce2fde7c0cf8441e556933d091a9ccc55d31612a",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/a2ee4f39b1de1071",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/business/article-kardium-receives-health-canada-approval-to-sell-device-treating-common/",
+  "fetch_method": "feed_summary"
+}

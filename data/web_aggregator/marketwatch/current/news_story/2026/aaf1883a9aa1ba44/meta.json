@@ -1,0 +1,25 @@
+{
+  "doc_id": "aaf1883a9aa1ba44",
+  "regulator_id": "marketwatch",
+  "doc_type": "news_story",
+  "title": "Are target-date funds hurting Americans as they live longer?",
+  "language": "en",
+  "source_url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:eedf804d3425a9369f4eda67b99d7bf8113d451203142272cfe4166964a4b279",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_marketwatch_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/marketwatch/current/news_story/2026/aaf1883a9aa1ba44",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "c36a7580fc03dc89",
+  "regulator_id": "bnn_bloomberg",
+  "doc_type": "news_story",
+  "title": "Canopy Growth Reports First Quarter Fiscal Year 2027 Financial Results; Delivers 13% Net Revenue Growth with Contributions from All Businesses",
+  "language": "en",
+  "source_url": "https://www.bnnbloomberg.ca/press-releases/2026/08/07/canopy-growth-reports-first-quarter-fiscal-year-2027-financial-results-delivers-13-net-revenue-growth-with-contributions-from-all-businesses/",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:cfb693458e928321745e98ca03d1e1f48cee1991d95c2b4a5ac8f26559bf7b70",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_bnn_bloomberg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bnn_bloomberg/current/news_story/2026/c36a7580fc03dc89",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.bnnbloomberg.ca/press-releases/2026/08/07/canopy-growth-reports-first-quarter-fiscal-year-2027-financial-results-delivers-13-net-revenue-growth-with-contributions-from-all-businesses/",
+  "fetch_method": "feed_summary"
+}

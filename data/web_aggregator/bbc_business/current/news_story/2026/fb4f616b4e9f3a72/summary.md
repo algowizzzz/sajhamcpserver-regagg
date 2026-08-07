@@ -1,1 +1,1 @@
-Summary: # Meta says AI model accessed the internet and hacked another firm
+Summary: # Meta becomes latest firm to say its AI hacked another company

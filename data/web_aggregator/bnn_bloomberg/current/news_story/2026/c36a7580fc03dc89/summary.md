@@ -1,0 +1,1 @@
+Summary: # Canopy Growth Reports First Quarter Fiscal Year 2027 Financial Results; Delivers 13% Net Revenue Growth with Contributions from All Businesses

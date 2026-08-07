@@ -1,0 +1,25 @@
+{
+  "doc_id": "ddf8851b516e5b9d",
+  "regulator_id": "forbes",
+  "doc_type": "news_story",
+  "title": "NBCU\u2019s Peacock And YouTube Partner: Is Direct To Consumer Dead?",
+  "language": "en",
+  "source_url": "https://www.forbes.com/sites/howardhomonoff/2026/08/07/nbcus-peacock-and-youtube-partner-is-direct-to-consumer-dead/",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:a25f2b90d5753effb09cc3448954b5588e5a97bbd72d09827cb49a9571c821a5",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_forbes_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/forbes/current/news_story/2026/ddf8851b516e5b9d",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.forbes.com/sites/howardhomonoff/2026/08/07/nbcus-peacock-and-youtube-partner-is-direct-to-consumer-dead/",
+  "fetch_method": "feed_summary"
+}

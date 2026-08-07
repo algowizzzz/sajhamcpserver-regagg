@@ -1,0 +1,26 @@
+{
+  "doc_id": "95d24e98cb4cbe9e",
+  "regulator_id": "american_banker",
+  "doc_type": "news_story",
+  "title": "As asset managers chase advisors, Clark Capital says it was there first",
+  "language": "en",
+  "source_url": "https://www.americanbanker.com/news/as-asset-managers-chase-advisors-clark-capital-says-it-was-there-first",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:9e7f8e93d6c25347cc1b0a231b4bae072097e42f39cd7afc96a899a2179ab372",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_american_banker_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/american_banker/current/news_story/2026/95d24e98cb4cbe9e",
+  "tags": [
+    "us",
+    "banking"
+  ],
+  "final_url": "https://www.americanbanker.com/news/as-asset-managers-chase-advisors-clark-capital-says-it-was-there-first",
+  "fetch_method": "feed_summary"
+}

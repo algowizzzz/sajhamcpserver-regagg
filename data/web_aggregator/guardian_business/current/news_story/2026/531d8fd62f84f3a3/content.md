@@ -1,0 +1,7 @@
+# July’s heatwaves kept UK shoppers away from high street
+
+Visits down 3.8% after 6.2% fall in June, with many choosing to buy online instead, research for retail body finds Shoppers stayed away from UK high streets during last month’s heatwave temperatures , with many choosing to buy online instead as the mercury in some areas rose into the mid-30Cs. Trips to high streets were down by 3.8% year on year in July after a 6.2% fall in June, according to research from the monitoring firm Sensormatic for the British Retail Consortium (BRC). Continue reading...
+
+[Read the full story at the source](https://www.theguardian.com/business/2026/aug/07/july-heatwaves-uk-shoppers-stay-away-from-high-street)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

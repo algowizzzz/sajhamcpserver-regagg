@@ -1,0 +1,7 @@
+# Stock Market Today: Dow Rises After Jobs Data Misses Forecasts
+
+U.S. economy lost jobs in July, prompting traders to scale back rate-hike expectations
+
+[Read the full story at the source](https://www.wsj.com/livecoverage/july-jobs-report-stock-market-08-07-2026?mod=rss_markets_main)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

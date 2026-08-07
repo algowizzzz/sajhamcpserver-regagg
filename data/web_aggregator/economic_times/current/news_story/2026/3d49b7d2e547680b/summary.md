@@ -1,0 +1,1 @@
+Summary: # Oil slips, heads for weekly loss as Hormuz deal uncertainty persists

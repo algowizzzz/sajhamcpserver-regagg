@@ -1,0 +1,25 @@
+{
+  "doc_id": "4d8106c1578219d5",
+  "regulator_id": "nikkei_asia",
+  "doc_type": "news_story",
+  "title": "Zepto IPO setback highlights fault lines in India's quick commerce sector",
+  "language": "en",
+  "source_url": "https://asia.nikkei.com/business/retail/zepto-ipo-setback-highlights-fault-lines-in-india-s-quick-commerce-sector",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:e2cb05332609a1d7820644562a91b2d28d9e55514794f4190a732a4ab1574002",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_nikkei_asia_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nikkei_asia/current/news_story/2026/4d8106c1578219d5",
+  "tags": [
+    "japan"
+  ],
+  "final_url": "https://asia.nikkei.com/business/retail/zepto-ipo-setback-highlights-fault-lines-in-india-s-quick-commerce-sector",
+  "fetch_method": "feed_summary"
+}

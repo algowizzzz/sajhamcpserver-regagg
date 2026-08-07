@@ -1,0 +1,1 @@
+Summary: # Global AI trade revival brightens outlook for Chinese tech stocks after record sell-offs

@@ -1,0 +1,25 @@
+{
+  "doc_id": "203c76e43ee80cb7",
+  "regulator_id": "nikkei_asia",
+  "doc_type": "news_story",
+  "title": "Mongolia's new-look parliament runs into old-style party politics",
+  "language": "en",
+  "source_url": "https://asia.nikkei.com/politics/mongolia-s-new-look-parliament-runs-into-old-style-party-politics",
+  "reference_number": null,
+  "published_date": null,
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:51eacb60b0670c3a8eac5c4d6c0189e6a1dfb7f38dbce5218a51b007c0da485f",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_nikkei_asia_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nikkei_asia/current/news_story/2026/203c76e43ee80cb7",
+  "tags": [
+    "japan"
+  ],
+  "final_url": "https://asia.nikkei.com/politics/mongolia-s-new-look-parliament-runs-into-old-style-party-politics",
+  "fetch_method": "feed_summary"
+}

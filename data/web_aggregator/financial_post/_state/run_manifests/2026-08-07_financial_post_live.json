@@ -1,0 +1,27 @@
+{
+  "run_id": "2026-08-07_financial_post_live",
+  "regulator_id": "financial_post",
+  "logical_date": "2026-08-07",
+  "trigger": "schedule",
+  "detected": 10,
+  "fetched": 10,
+  "ingested": 10,
+  "archived": 0,
+  "deduped": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://financialpost.com/pmn/business-wire-news-releases-pmn/oneshield-appoints-rick-becker-as-senior-vice-president-new-products",
+    "https://financialpost.com/pmn/business-wire-news-releases-pmn/energy-vault-announces-strategic-agreement-to-deploy-1-25-gw-of-integrated-power-infrastructure-for-hyperscaler-ai-data-center-with-leading-power-generation-epc-deploying-caterpillar-gensets",
+    "https://financialpost.com/globe-newswire/yili-hosts-sustainability-forum-at-the-world-dairy-industry-conference-together-embarking-on-a-new-journey-for-post-2030-dairy-development",
+    "https://financialpost.com/globe-newswire/kaplan-fox-encourages-cogent-communications-holdings-inc-nasdaq-ccoi-investors-to-contact-the-firm-before-the-deadline-on-september-21-2026-for-a-leadership-role",
+    "https://financialpost.com/news/retail-marketing/e-commerce-solutions/airbnb-jumps-after-raising-revenue-outlook",
+    "https://financialpost.com/pmn/business-pmn/once-aaa-bonds-on-new-york-megamall-face-over-350-million-loss",
+    "https://financialpost.com/pmn/business-wire-news-releases-pmn/article-student-living-acquires-signature-apartments-at-university-of-kentucky",
+    "https://financialpost.com/pmn/business-wire-news-releases-pmn/samsung-officially-launches-galaxy-z-fold8-ultra-fold8-flip8-watch-ultra2-and-watch9",
+    "https://financialpost.com/globe-newswire/kaplan-fox-urges-equipmentshare-com-inc-nasdaq-eqpt-investors-to-contact-the-firm-before-the-deadline-on-september-21-2026",
+    "https://financialpost.com/pmn/business-pmn/trumps-homegrown-solar-push-risks-widening-green-energy-divide"
+  ],
+  "duration_s": 0.356
+}

@@ -1,0 +1,25 @@
+{
+  "doc_id": "91b4274a81dfaee8",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "The world is cooling on carbon capture. Why is Canada still barreling ahead in the oil sands?",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/business/article-norways-northern-lights-carbon-capture-holds-valuable-lessons-for/",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:28606925e29d17a39ff760b32368b5e80d7b5362a78bf80e49e642daff28d993",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/91b4274a81dfaee8",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/business/article-norways-northern-lights-carbon-capture-holds-valuable-lessons-for/",
+  "fetch_method": "feed_summary"
+}

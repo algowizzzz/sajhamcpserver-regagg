@@ -509,6 +509,31 @@
      the whole page wider than the screen */
   .grid2>*,.xgrid>*,.pgrid>*,.tiles>*,.xtiles>*{min-width:0}
   .view{max-width:100%}
+
+  /* ── desks: every persona at a glance ── */
+  .dk-hero{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin:2px 0 4px}
+  .dk-hero b{font-size:19px;letter-spacing:-.02em}
+  .dk-hero .win{margin-left:auto;color:var(--muted);font-size:11.5px}
+  .dk-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px}
+  @media(max-width:1000px){.dk-grid{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:760px){.dk-grid{grid-template-columns:1fr}}
+  .dk{border:1px solid var(--line);border-radius:12px;background:var(--surface);
+    padding:14px 16px;cursor:pointer;box-shadow:var(--shadow);position:relative;
+    border-top:3px solid var(--c,var(--line))}
+  .dk:hover{border-color:var(--blue)}
+  .dk h4{font-size:13.5px;margin:0 0 2px}
+  .dk .sub{font-size:10.5px;color:var(--muted);margin-bottom:9px}
+  .dk .counts{display:flex;gap:14px;margin-bottom:9px}
+  .dk .counts div{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+  .dk .counts b{display:block;font-size:17px;letter-spacing:-.02em}
+  .dk .top{font-size:12px;line-height:1.45;color:var(--ink2);border-top:1px solid var(--line);
+    padding-top:8px}
+  .dk .top b{color:var(--ink);font-weight:600}
+  .dk .why{font-size:10.5px;color:var(--muted);margin-top:3px}
+  .dk .quiet{font-size:12px;color:var(--green)}
+  .dk-bar{display:flex;align-items:flex-end;gap:4px;height:36px;margin:10px 0 2px}
+  .dk-bar div{flex:1;background:var(--blue);border-radius:2px 2px 0 0;min-height:2px;opacity:.75}
+  .dk-bar div:last-child{opacity:1}
 </style>
 </head>
 <body>
@@ -516,6 +541,7 @@
   <div class="brand"><div class="logo">R</div>Regulatory Intelligence</div>
   <div class="nav">
     <button class="on" id="nMyd" onclick="show('myday')">My Day</button>
+    <button id="nDsk" onclick="show('desks')">Desks</button>
     <button id="nHome" onclick="show('home')">Home</button>
     <button id="nOvw" onclick="show('ovw')">🏛️ Regulatory</button>
     <button id="nNews" onclick="show('newslane')">📰 Financial News</button>
@@ -724,6 +750,10 @@
 
   <div class="view" id="v-myday">
     <div id="mydayBody" class="empty">loading…</div>
+  </div>
+
+  <div class="view" id="v-desks">
+    <div id="desksBody" class="empty">loading…</div>
   </div>
 
   <div class="view" id="v-ask">
@@ -1007,16 +1037,16 @@ function renderLaneBar(view){
 }
 
 function show(which,push=true,opts={}){
-  const VIEWS=["myday","home","ovw","newslane","feed","cov","brw","exp","chg","run","per","ask","hea"];
+  const VIEWS=["myday","desks","home","ovw","newslane","feed","cov","brw","exp","chg","run","per","ask","hea"];
   VIEWS.forEach(v=>$("v-"+v).classList.toggle("on",v===which));
   if(push){window._ourHash=which==="home"?"":which;
            location.hash=window._ourHash;}
-  if(["home","per","myday","ask","hea"].includes(which))LANE=null;
+  if(["home","per","myday","ask","hea","desks"].includes(which))LANE=null;
   else if(!opts.keepLane)LANE=HOME_OF[which]||LANE;
   // top bar carries the LANE, not the page — level 2 lives in the lane bar
-  const TOPNAV={myday:"nMyd",home:"nHome",per:"nPer",ask:"nAsk",hea:"nHea"};
+  const TOPNAV={myday:"nMyd",desks:"nDsk",home:"nHome",per:"nPer",ask:"nAsk",hea:"nHea"};
   const topOn=TOPNAV[which]||((LANE||HOME_OF[which])==="news"?"nNews":"nOvw");
-  ["nMyd","nHome","nOvw","nNews","nPer","nAsk","nHea"].forEach(
+  ["nMyd","nDsk","nHome","nOvw","nNews","nPer","nAsk","nHea"].forEach(
     id=>$(id).classList.toggle("on",id===topOn));
   renderLaneBar(which);
   retitle(which);
@@ -1026,6 +1056,7 @@ function show(which,push=true,opts={}){
   if(which==="feed"&&!window._newsLoaded){window._newsLoaded=1;loadNews();}
   if(which==="per"){loadPersonas();}
   if(which==="myday"){loadMyDay();}
+  if(which==="desks"){loadDesks();}
   if(which==="hea"){loadHealth();}
   if(which==="ask"){renderAsk();}
   if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
@@ -1119,6 +1150,55 @@ async function openMyDayItem(key){
     ASKCTX={kind:"my day card",title:item.title,docs:item.docs};
     if(item.docs&&item.docs.length)openDoc(item.docs[0].regulator_id,item.docs[0].doc_id);
   }catch(e){toast("Could not open that item.");}
+}
+
+/* ── desks: every persona at a glance ────────────────────── */
+async function loadDesks(){
+  const el=$("desksBody");
+  let d;
+  try{d=await j(`/desks`);}catch(e){
+    el.className="";el.innerHTML=`<div class="md-empty"><h3>Could not load desks</h3>
+      <p>${esc(e.message)}</p></div>`;return;}
+  el.className="";
+  if(!d.desks.length){
+    el.innerHTML=`<div class="md-empty"><h3>No desks yet</h3>
+      <p>Each persona you create appears here as a desk.</p>
+      <button class="btn primary" onclick="show('per')">Create a persona →</button></div>`;
+    return;}
+  const stories=d.window.reduce((a,w)=>a+w.count,0);
+  const max=Math.max(...d.window.map(w=>w.count),1);
+  el.innerHTML=`
+    <div class="dk-hero"><b>Desks</b>
+      <span class="chip" style="font-size:10px;font-weight:700;color:var(--blue);
+        background:var(--blue-soft);border-radius:5px;padding:2px 8px">
+        ${d.desks.length} desks · ${fmt(d.totals.serious)} serious · ${fmt(d.totals.watch)} watch</span>
+      <span class="win">${d.window_days} day${d.window_days===1?"":"s"} of collection ·
+        ${fmt(stories)} stories · read-only</span></div>
+    <div class="psub">One card per desk, most urgent first. A desk with nothing to report
+      says so — that is the answer, not an empty box. Click a desk to open its page.</div>
+    <div class="dk-bar" title="stories collected per day">
+      ${d.window.map(w=>`<div style="height:${Math.max(2,Math.round(w.count/max*36))}px"
+        title="${w.day}: ${w.count}"></div>`).join("")}</div>
+    <div style="font-size:10.5px;color:var(--muted)">
+      ${d.window.length?`${d.window[0].day} → ${d.window[d.window.length-1].day}`:""}</div>
+    <div class="dk-grid">`+d.desks.map(x=>{
+      const c=x.serious?"var(--red)":x.watch?"var(--amber)":"var(--green)";
+      return `<div class="dk" style="--c:${c}" onclick="MYDAY_PID='${x.persona_id}';show('myday')">
+        <h4>${x.lane==="news"?"📰":"🏛️"} ${esc(x.name)}</h4>
+        <div class="sub">${fmt(x.watchlist)} names watched · ${fmt(x.scanned)} documents scanned ·
+          ${esc((x.generator||"").startsWith("llm")?"AI narrative":"deterministic")}</div>
+        <div class="counts">
+          <div><b style="color:var(--red)">${x.serious}</b>serious</div>
+          <div><b style="color:var(--amber)">${x.watch}</b>watch</div>
+          <div><b style="color:var(--green)">${fmt(x.quiet)}</b>quiet</div>
+          <div><b>${fmt(x.matched)}</b>matched</div></div>
+        ${x.top?`<div class="top"><b>${esc(x.top.title.slice(0,110))}</b>
+          <div class="why">${esc((x.top.event_type||"").replace(/_/g," "))}
+            ${x.top.entities.length?"· "+esc(x.top.entities.slice(0,2).join(", ")):""}
+            · ${x.top.corroboration} source${x.top.corroboration>1?"s":""}</div></div>`
+        :`<div class="top"><span class="quiet">Nothing to report — ${fmt(x.scanned)} documents
+            checked, none matched this desk.</span></div>`}
+      </div>`;}).join("")+`</div>`;
 }
 
 /* ── ask (context-pinned chat) ────────────────────────────── */
@@ -2090,7 +2170,7 @@ function applyHash(){
   const h=location.hash.replace("#","");
   const ALIAS={corpus:"brw",news:"newslane",reg:"ovw",regulatory:"ovw"};
   if(["myday","ovw","news","newslane","feed","cov","brw","chg","run","corpus",
-      "exp","reg","regulatory","per","ask","hea"].includes(h))show(ALIAS[h]||h,false);
+      "exp","reg","regulatory","per","ask","hea","desks"].includes(h))show(ALIAS[h]||h,false);
 }
 // Boot: authenticate, load the core data, THEN honour the deep link — a link
 // followed straight into the sign-in screen must still land where it pointed.

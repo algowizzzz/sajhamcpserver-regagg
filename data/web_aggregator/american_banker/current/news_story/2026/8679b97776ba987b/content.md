@@ -1,0 +1,7 @@
+# The folly and fallacy of arbitrary return-to-office mandates
+
+Return-to-office mandates in the financial services world are based more on senior executives' "gut" feelings than on real data. In many cases their main effect is to add stress to the lives of front-line employees.
+
+[Read the full story at the source](https://www.americanbanker.com/opinion/the-folly-and-fallacy-of-arbitrary-return-to-office-mandates)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

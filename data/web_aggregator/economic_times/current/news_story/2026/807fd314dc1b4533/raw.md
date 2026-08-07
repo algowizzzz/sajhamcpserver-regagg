@@ -1,0 +1,7 @@
+# Multibaggers: 12 stocks skyrocketed up to 925% in 6 months; here's how retail investors bet on them
+
+Thirty-four BSE stocks doubled in six months, with 12 delivering returns of 169% to 923%. Retail investors raised stakes in several multibaggers while booking profits in others during June 2026 quarter.
+
+[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/multibaggers-12-stocks-skyrocketed-up-to-925-in-6-months-heres-how-retail-investors-bet-on-them/slideshow/133030207.cms)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

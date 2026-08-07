@@ -1,0 +1,25 @@
+{
+  "doc_id": "bc6d1c1b7b1323c0",
+  "regulator_id": "bbc_business",
+  "doc_type": "news_story",
+  "title": "'I've had to Botox my CV': Are AI recruitment tools affecting women's careers?",
+  "language": "en",
+  "source_url": "https://www.bbc.co.uk/news/articles/cyvl8y141e4o?at_medium=RSS&at_campaign=rss",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:26a69a21d879d4473757d53cac6a45935b59d5cff647031bb6f53ddbdd1ac755",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_bbc_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bbc_business/current/news_story/2026/bc6d1c1b7b1323c0",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://www.bbc.co.uk/news/articles/cyvl8y141e4o?at_medium=RSS&at_campaign=rss",
+  "fetch_method": "feed_summary"
+}

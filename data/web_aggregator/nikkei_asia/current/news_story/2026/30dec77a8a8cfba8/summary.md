@@ -1,0 +1,1 @@
+Summary: # China overtakes US to lead global R&D spending, hitting $615bn

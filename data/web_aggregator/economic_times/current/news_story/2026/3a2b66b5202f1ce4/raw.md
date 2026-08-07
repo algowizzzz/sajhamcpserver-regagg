@@ -1,0 +1,7 @@
+# Indian bonds clock first weekly rise in five on dovish RBI, easing crude
+
+Indian government bonds finished the week with little change on Friday, yet celebrated their first gain in five weeks. A decline in oil prices and a calming tone from the central bank helped elevate demand for these bonds. The Reserve Bank of India opted to keep its repo rate steady, alleviating concerns over potential rate hikes in the near future.
+
+[Read the full story at the source](https://economictimes.indiatimes.com/markets/bonds/indian-bonds-clock-first-weekly-rise-in-five-on-dovish-rbi-easing-crude/articleshow/133034019.cms)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

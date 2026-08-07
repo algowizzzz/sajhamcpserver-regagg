@@ -1,0 +1,25 @@
+{
+  "doc_id": "017a132ba7a512dc",
+  "regulator_id": "sky_business",
+  "doc_type": "news_story",
+  "title": "Japanese owner weighs options for British fashion brand Joseph",
+  "language": "en",
+  "source_url": "https://news.sky.com/story/japanese-owner-weighs-options-for-british-fashion-brand-joseph-13570469",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:26700420d8b7d407c09d0c54f30ff2e22d35d3d8ac8d1902c0664a93cdb81439",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_sky_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/sky_business/current/news_story/2026/017a132ba7a512dc",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://news.sky.com/story/japanese-owner-weighs-options-for-british-fashion-brand-joseph-13570469",
+  "fetch_method": "feed_summary"
+}

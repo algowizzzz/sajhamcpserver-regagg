@@ -1,1 +1,1 @@
-Summary: # Nikkei Falls 1.3%, Dragged by Electronics Stocks
+Summary: # European Indexes Rise as Earnings Drive Markets

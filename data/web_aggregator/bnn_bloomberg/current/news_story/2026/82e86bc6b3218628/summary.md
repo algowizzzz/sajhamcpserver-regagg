@@ -1,0 +1,1 @@
+Summary: # Algonquin Power to move headquarters to Chicago, reports US$4.9M profit in Q2

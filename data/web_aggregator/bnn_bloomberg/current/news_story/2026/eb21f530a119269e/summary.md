@@ -1,0 +1,1 @@
+Summary: # Why investing in a second property is a bad retirement plan: Dale Jackson

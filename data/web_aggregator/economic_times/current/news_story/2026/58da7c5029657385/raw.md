@@ -1,0 +1,7 @@
+# Mumbai luxury home sales hit record Rs 18,512 crore in H1, growth likely to moderate: Report
+
+Mumbai's luxury housing market recorded its highest-ever half-yearly sales of Rs 18,512 crore during the first half of 2026, but the pace of growth is likely to moderate in the coming quarters due to the exceptionally high base and a more cautious economic and equity market outlook, according to a joint report by India Sotheby's International Realty and CRE Matrix.
+
+[Read the full story at the source](https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/mumbai-luxury-home-sales-hit-record-rs-18512-crore-in-h1-growth-likely-to-moderate-report/articleshow/133031547.cms)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

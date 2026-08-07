@@ -1,0 +1,1 @@
+Summary: # Arvind SmartSpaces Q1 Results: Profit zooms 8-fold to Rs 97 crore

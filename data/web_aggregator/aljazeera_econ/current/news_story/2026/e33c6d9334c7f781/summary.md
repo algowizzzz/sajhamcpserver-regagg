@@ -1,0 +1,1 @@
+Summary: # US labour market sheds jobs in July as labour force participation slumps

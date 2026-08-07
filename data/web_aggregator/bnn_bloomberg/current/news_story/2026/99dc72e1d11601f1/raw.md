@@ -1,0 +1,7 @@
+# Docebo Reports Second Quarter 2026 Results
+
+Docebo Inc. (NASDAQ: DCBO; TSX:DCBO) (“Docebo” or the “Company”), the Enterprise Platform for the AI-era workforce, unifying skills intelligence, learning, and knowledge in one closed loop, announced financial results for the three and six months ended June 30, 2026. All amounts are expressed in US dollars unless otherwise stated.
+
+[Read the full story at the source](https://www.bnnbloomberg.ca/press-releases/2026/08/07/docebo-reports-second-quarter-2026-results/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

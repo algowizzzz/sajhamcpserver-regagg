@@ -1,0 +1,1 @@
+Summary: # Japan's Kirin buys Canadian vitamin maker for $1.3bn in health science push

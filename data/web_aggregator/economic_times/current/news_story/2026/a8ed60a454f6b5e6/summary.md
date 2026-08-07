@@ -1,0 +1,1 @@
+Summary: # Aurobindo Pharma among 8 stocks hitting 52-week highs; surge up to 20% in a month

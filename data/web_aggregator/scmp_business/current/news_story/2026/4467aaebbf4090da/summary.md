@@ -1,1 +1,1 @@
-Summary: # Shares of major Hong Kong insurance, finance firms tumble following report of 20% levy
+Summary: # Investors eye Beijing’s next steps as Hong Kong insurance shares react to 20% levy report

@@ -1,0 +1,1 @@
+Summary: # Rupee nudges up on-week; traders stay cautious as oil firms, US payrolls loom

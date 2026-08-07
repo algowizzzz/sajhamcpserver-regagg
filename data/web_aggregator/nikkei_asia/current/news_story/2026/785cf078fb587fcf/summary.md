@@ -1,0 +1,1 @@
+Summary: # Sumitomo Mitsui Trust to debut renovation funds for commercial property

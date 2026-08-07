@@ -1,6 +1,6 @@
-# Singapore Dollar Steady, Underpinned by Hopes for Strait of Hormuz’s Reopening
+# WSJ Dollar Index Rises 0.24% to 96.23
 
-The Singapore dollar was steady against its U.S. counterpart, underpinned by hopes for the reopening of the Strait of Hormuz.
+The WSJ Dollar Index rose 0.2%, snapping a two-trading-day losing streak.
 
 [Read the full story at the source](https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-wait-and-see-mood-on-possible-hormuz-reopening-7dcec3d2?mod=rss_markets_main)
 

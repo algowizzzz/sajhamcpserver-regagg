@@ -1,0 +1,25 @@
+{
+  "run_id": "2026-08-07_sky_business_live",
+  "regulator_id": "sky_business",
+  "logical_date": "2026-08-07",
+  "trigger": "schedule",
+  "detected": 8,
+  "fetched": 8,
+  "ingested": 5,
+  "archived": 1,
+  "deduped": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://news.sky.com/story/billionaire-ashley-leads-race-to-clinch-takeover-of-harvey-nichols-13570710",
+    "https://news.sky.com/story/easyjet-agrees-to-57bn-takeover-13570486",
+    "https://news.sky.com/story/uk-gives-effective-green-light-to-paramount-warner-bros-mega-deal-after-assurances-provided-13570373",
+    "https://news.sky.com/story/meta-ordered-to-pay-almost-1bn-over-child-safety-failings-13570556",
+    "https://news.sky.com/story/japanese-owner-weighs-options-for-british-fashion-brand-joseph-13570469",
+    "https://news.sky.com/story/uber-robotaxis-set-for-london-debut-after-getting-minicab-licences-13570109",
+    "https://news.sky.com/story/half-of-parents-dont-know-about-school-uniform-rule-change-this-september-13570257",
+    "https://news.sky.com/story/brutal-harvest-could-be-worst-on-record-heres-what-it-means-for-uks-food-production-13569714"
+  ],
+  "duration_s": 0.3
+}

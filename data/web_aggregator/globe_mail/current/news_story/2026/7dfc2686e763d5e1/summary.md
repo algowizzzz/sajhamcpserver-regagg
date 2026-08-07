@@ -1,0 +1,1 @@
+Summary: # MDA Space revenue climbs 34% in the second quarter

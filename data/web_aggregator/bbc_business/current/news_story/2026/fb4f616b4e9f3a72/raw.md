@@ -1,4 +1,4 @@
-# Meta says AI model accessed the internet and hacked another firm
+# Meta becomes latest firm to say its AI hacked another company
 
 Meta is the latest company to disclose an AI agent breach, raising cyber-security concerns.
 

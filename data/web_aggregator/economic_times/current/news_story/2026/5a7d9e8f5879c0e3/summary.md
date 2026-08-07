@@ -1,0 +1,1 @@
+Summary: # Global equity funds extend inflow streak to 11 weeks as earnings optimism lifts risk appetite

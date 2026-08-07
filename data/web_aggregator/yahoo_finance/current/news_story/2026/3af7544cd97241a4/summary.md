@@ -1,0 +1,1 @@
+Summary: # Gold's rally 'has support', with prices set to rise toward $5,000 next year, UBS says

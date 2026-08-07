@@ -58,13 +58,27 @@ test.describe('two-level navigation and lane scoping', () => {
   });
 
   test('deep links from charts land filtered, not unfiltered', async ({ page }) => {
+    // counts grow as collection runs, so assert the filter WORKED rather than
+    // a snapshot number: a filtered view must be a strict subset of everything
+    const n = async () => {
+      await expect(page.locator('#bCount')).toContainText(/of [\d,]+ documents/);
+      const t = await page.locator('#bCount').textContent();
+      return Number((t.match(/of ([\d,]+)/) || [])[1].replace(/,/g, ''));
+    };
+    await page.evaluate(() => jumpCorpus(''));
+    const all = await n();
+
     await page.evaluate(() => jumpCorpus('Financial News'));
     await expect(page.locator('#bRegion')).toHaveValue('Financial News');
-    await expect(page.locator('#bCount')).toContainText('of 603');
+    const news = await n();
+    expect(news).toBeGreaterThan(0);
+    expect(news).toBeLessThan(all);
 
     await page.evaluate(() => jumpBand('Critical'));
     await expect(page.locator('#bBand')).toHaveValue('Critical');
-    await expect(page.locator('#bCount')).toContainText('of 384');
+    const critical = await n();
+    expect(critical).toBeGreaterThan(0);
+    expect(critical).toBeLessThan(all);
   });
 
   test('hash routing deep-links survive a reload', async ({ page }) => {

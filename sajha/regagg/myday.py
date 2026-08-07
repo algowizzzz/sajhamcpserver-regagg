@@ -150,7 +150,23 @@ def validate_spec(spec: dict, dossier: dict) -> Tuple[bool, List[str]]:
 
 
 def _dossier_numbers(dossier: dict) -> set:
+    """Every number the composer is allowed to use.
+
+    Two sources: figures the pipeline COMPUTED (counts, scores), and figures
+    already present in the SOURCE TEXT it was given. Quoting "$567m" from a
+    headline is faithful reporting; the rule that matters is that a number may
+    never be invented, not that it must have been counted by us.
+    """
     nums = set()
+    import re as _re
+    for i in dossier["items"]:
+        blob = " ".join(str(x) for x in
+                        (i.get("title") or "", i.get("why") or "",
+                         " ".join(d.get("title") or "" for d in i.get("docs", []))))
+        for token in _re.findall(r"\d[\d,.]*", blob):
+            cleaned = token.replace(",", "").rstrip(".")
+            if cleaned.isdigit():
+                nums.add(int(cleaned))
     for v in (dossier.get("ledger") or {}).values():
         if isinstance(v, int):
             nums.add(v)
@@ -177,9 +193,21 @@ class LLMComposer:
         "dossier. Return ONLY JSON: {\"lede\": \"...\"}"
     )
 
-    def __init__(self, model: Optional[str] = None, client=None):
-        self.model = model or os.getenv("REGAGG_COMPOSE_MODEL", "claude-sonnet-5")
-        self._client = client
+    def __init__(self, model: Optional[str] = None, client=None,
+                 provider: Optional[str] = None):
+        from sajha.regagg.extraction import _provider_from_env
+        env_provider, openai_client = _provider_from_env()
+        self.provider = (provider
+                         or ("anthropic" if client is not None else None)
+                         or env_provider or "anthropic")
+        if self.provider == "deepseek" and client is None:
+            self._openai = openai_client
+            self._client = None
+            self.model = model or os.getenv("DEEPSEEK_MODEL", "deepseek-chat")
+        else:
+            self._openai = None
+            self._client = client
+            self.model = model or os.getenv("REGAGG_COMPOSE_MODEL", "claude-sonnet-5")
 
     def _get_client(self):
         if self._client is None:
@@ -195,10 +223,13 @@ class LLMComposer:
                                "severity", "why", "rule_families")}
                              for i in dossier["items"][:12]]}
         try:
-            resp = self._get_client().messages.create(
-                model=self.model, max_tokens=400, system=self.PROMPT,
-                messages=[{"role": "user", "content": json.dumps(payload)}])
-            raw = "".join(getattr(b, "text", "") for b in resp.content)
+            if self._openai is not None:
+                raw = self._openai.complete(self.PROMPT, json.dumps(payload))
+            else:
+                resp = self._get_client().messages.create(
+                    model=self.model, max_tokens=400, system=self.PROMPT,
+                    messages=[{"role": "user", "content": json.dumps(payload)}])
+                raw = "".join(getattr(b, "text", "") for b in resp.content)
             lede = json.loads(raw[raw.index("{"):raw.rindex("}") + 1]).get("lede")
         except Exception:  # noqa: BLE001
             return spec
@@ -206,15 +237,14 @@ class LLMComposer:
             return spec
         candidate = json.loads(json.dumps(spec))
         candidate["sections"][0]["text"] = lede
-        candidate["generator"] = f"llm:{self.model}"
+        candidate["generator"] = f"llm:{self.provider}:{self.model}"
         ok, _problems = validate_spec(candidate, dossier)
         return candidate if ok else spec        # never ship an invalid spec
 
 
 def get_composer():
-    if os.getenv("ANTHROPIC_API_KEY"):
-        return LLMComposer()
-    return None
+    from sajha.regagg.extraction import _provider_from_env
+    return LLMComposer() if _provider_from_env()[0] else None
 
 
 # ── the entry point the API and the scheduler both call ─────────────────────

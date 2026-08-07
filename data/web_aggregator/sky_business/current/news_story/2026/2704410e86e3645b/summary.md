@@ -1,0 +1,1 @@
+Summary: # EasyJet agrees to £5.7bn takeover

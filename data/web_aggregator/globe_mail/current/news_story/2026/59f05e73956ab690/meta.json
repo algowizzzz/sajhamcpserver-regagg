@@ -1,0 +1,25 @@
+{
+  "doc_id": "59f05e73956ab690",
+  "regulator_id": "globe_mail",
+  "doc_type": "news_story",
+  "title": "Ottawa discussing trade concessions with the U.S. in return for some tariff relief, sources say",
+  "language": "en",
+  "source_url": "https://www.theglobeandmail.com/business/article-canada-and-us-discussing-trade-concessions-in-return-for-partial/",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7d355634690ec2c696466357a94f301cf272cf18df7127a5a13bd9d4c68a0924",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_globe_mail_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/globe_mail/current/news_story/2026/59f05e73956ab690",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.theglobeandmail.com/business/article-canada-and-us-discussing-trade-concessions-in-return-for-partial/",
+  "fetch_method": "feed_summary"
+}

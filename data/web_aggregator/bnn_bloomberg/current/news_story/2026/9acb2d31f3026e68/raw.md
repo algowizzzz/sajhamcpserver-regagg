@@ -1,0 +1,7 @@
+# U.S. stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes for easier rate policy
+
+Stocks are mostly rising in early trading on Wall Street and Treasury yields are falling after the U.S. government reported 23,000 jobs were cut last month.
+
+[Read the full story at the source](https://www.bnnbloomberg.ca/markets/2026/08/07/us-stock-futures-jump-as-employers-unexpectedly-cut-23000-jobs/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

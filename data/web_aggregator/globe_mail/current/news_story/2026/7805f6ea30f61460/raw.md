@@ -1,0 +1,7 @@
+# Mideast war continues to disrupt fertilizer demand, prices, Nutrien CEO says
+
+The Strait of Hormuz bottleneck and infrastructure damage in the region could have long-term effects on agricultural productivity
+
+[Read the full story at the source](https://www.theglobeandmail.com/business/article-nutrien-ceo-says-mideast-war-continues-to-disrupt-fertilizer-demand/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

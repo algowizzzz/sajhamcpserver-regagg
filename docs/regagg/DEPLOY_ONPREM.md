@@ -48,7 +48,9 @@ python scripts/regagg_pg_load.py --from data/sajha.db     # idempotent upsert
 |---|---|
 | `REGAGG_SECRET` | signs session cookies. **Unset means sessions die on every restart** (the server warns loudly at boot). Use 32+ random bytes. |
 | `REGAGG_COOKIE_SECURE=1` | sets the `Secure` flag — required once TLS is terminated in front. |
-| `ANTHROPIC_API_KEY` | *optional*. Switches extraction and the My Day lede from the deterministic engine to the model. Everything works without it. |
+| `DEEPSEEK_API_KEY` | *optional*. Switches extraction and the My Day lede from the deterministic engine to DeepSeek (~1,000 stories/minute at 12 workers, cents per day). Everything works without it. |
+| `ANTHROPIC_API_KEY` | *optional*. Same role; used if DeepSeek is not set. |
+| `DEEPSEEK_BASE_URL` / `DEEPSEEK_MODEL` | *optional*. Point at a self-hosted OpenAI-compatible endpoint (vLLM, Ollama) to keep inference inside the bank. |
 | `REGAGG_AGENT_URL` | *optional*. Address of the LangGraph agent platform for the Ask tab. |
 
 ```bash
@@ -115,7 +117,22 @@ location / {
 0 1 * * *  cd /opt/regagg && ./scripts/regagg_backup.sh >> logs/backup.log 2>&1
 ```
 
-## 7. First run
+## 7. Seeding a pilot
+
+Nine desk personas — corporate credit, CCR, market risk, FX, equity,
+underwriting, real estate, hedge funds & FIs, and a prudential rules owner —
+with watchlists drawn from companies the corpus actually reports on:
+
+```bash
+python scripts/regagg_seed_desks.py --email desk@bank.test
+python scripts/regagg_extract_backfill.py --lane news --workers 12   # if a key is set
+python scripts/regagg_generate_pages.py
+```
+
+Sign in as that user and open **Desks** to see all nine side by side. Each is a
+starting point for a real analyst to edit, not a fixed template.
+
+## 8. First run
 
 1. Open `https://your-host/api/regagg/ui`
 2. **The first account created becomes the administrator** — create it
@@ -123,18 +140,18 @@ location / {
 3. Create a persona (Personas tab): paste the names you follow, set weights.
 4. My Day is generated at 05:30; until the first generation it builds on demand.
 
-## 8. Verifying a deployment
+## 9. Verifying a deployment
 
 ```bash
-pytest tests/regagg/ -q                       # 132 backend tests
-PG=1 SAJHA_DB_NAME=regagg ./tests/ui/run_suite.sh    # 31 UI tests, real browser
+pytest tests/regagg/ -q                       # 137 backend tests
+PG=1 SAJHA_DB_NAME=regagg ./tests/ui/run_suite.sh    # 44 UI tests, real browser
 python scripts/verify_sources.py              # every source answers and is fresh
 ```
 
 Then open **Health** in the app: pass rate, pipeline conservation, sources
 needing attention, and generation health are all on one page.
 
-## 9. Operational notes
+## 10. Operational notes
 
 - **Backups**: the database holds documents, versions, personas and generated
   pages. `data/web_aggregator/` holds the raw archive; both must be backed up.

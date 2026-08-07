@@ -1,0 +1,1 @@
+Summary: # As asset managers chase advisors, Clark Capital says it was there first

@@ -1,0 +1,25 @@
+{
+  "doc_id": "dee572355ea19149",
+  "regulator_id": "wsj_markets",
+  "doc_type": "news_story",
+  "title": "European Indexes Gain in Muted Early Trade",
+  "language": "en",
+  "source_url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-dragged-by-chip-related-stocks-ed8fd1ea?mod=rss_markets_main",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:7aa1e0652135e1a033aa64e37484860b19e358604636688a78d84ff00592e2e3",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_wsj_markets_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/wsj_markets/current/news_story/2026/dee572355ea19149",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.wsj.com/finance/stocks/nikkei-falls-0-7-dragged-by-chip-related-stocks-ed8fd1ea?mod=rss_markets_main",
+  "fetch_method": "feed_summary"
+}

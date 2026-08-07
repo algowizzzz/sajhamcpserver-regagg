@@ -172,7 +172,9 @@ def test_my_day_page_is_built_validated_and_cached(session):
     _seed_news_corpus(session)
     p = _persona(session, ["Goodfood", "WestJet"])
     out = M.build_my_day(session, p, day=DAY, now=NOW)
-    assert out["cached"] is False and out["generator"] == "template"
+    assert out["cached"] is False
+    # whichever composer ran, the page must satisfy the contract
+    assert out["generator"] == "template" or out["generator"].startswith("llm:")
     ok, problems = M.validate_spec(out["spec"], out["dossier"])
     assert ok, problems
     again = M.build_my_day(session, p, day=DAY, now=NOW)
@@ -293,3 +295,49 @@ def test_my_day_stays_fast_with_a_six_thousand_name_book(session):
     elapsed = time.perf_counter() - start
     assert out["ledger"]["watchlist_size"] == 6001
     assert elapsed < 5.0, f"6,000-name page took {elapsed:.1f}s"
+
+
+def test_watchlist_matches_how_analysts_actually_type_names(session):
+    """An analyst types "Goodfood"; the extractor returns "Goodfood Market Corp."
+
+    Exact matching silently dropped these, so a desk saw nothing on a day its
+    own name was in the news — the worst possible failure for this product.
+    """
+    from sajha.regagg.dossier import _watch_match
+    from sajha.regagg.extraction import normalize_name
+    watch = {normalize_name(n): n for n in
+             ["Goodfood", "WestJet", "Bank of America", "SpaceX"]}
+    assert _watch_match("Goodfood Market Corp.", watch) == "Goodfood"
+    assert _watch_match("WestJet Airlines Ltd.", watch) == "WestJet"
+    assert _watch_match("SpaceX", watch) == "SpaceX"
+    # and it must not over-match: a different bank is not your counterparty
+    assert _watch_match("Bank of Montreal", watch) is None
+    assert _watch_match("Royal Bank", watch) is None
+    assert _watch_match("Alphabet Inc.", watch) is None
+
+
+def test_topic_only_matches_are_context_not_exceptions(session):
+    """A desk that follows a topic must not have every story marked serious."""
+    _seed_news_corpus(session)
+    session.add(Document(regulator_id="wire_a", doc_id="r1", doc_type="news_story",
+                         title="Fed holds rates as inflation cools",
+                         content_hash="h", s3_prefix="p/r1",
+                         source_url="https://x/r1", ingested_at=NOW,
+                         materiality_score=10, materiality_band="Low"))
+    session.commit()
+    p = _persona(session, [], salience={"topic_weights": {"rates": 85},
+                                        "serious_threshold": 70},
+                 )
+    # give it the topic scope after creation
+    from sajha.regagg import personas as _P
+    p = _P.save_persona(session, owner_id=p.owner_id, name="P", lane="news",
+                        persona_id=p.persona_id, entities=[],
+                        config={"scope": {"topics": ["rates"]},
+                                "salience": {"topic_weights": {"rates": 85},
+                                             "serious_threshold": 70}})
+    d = D.build_dossier(session, p, day=DAY, now=NOW)
+    rates = [i for i in d["items"] if i["event_type"] == "rates"]
+    assert rates, "the rates story should be in scope"
+    # dampened: a topic match alone must not clear a high bar
+    assert rates[0]["severity"] == "watch"
+    assert "topic match" in rates[0]["why"]

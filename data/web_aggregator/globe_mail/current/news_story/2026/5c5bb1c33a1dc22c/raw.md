@@ -1,0 +1,7 @@
+# South Bow says it is on track for pipeline decision by middle of 2027
+
+Proposed project would ship oil sands crude to the Canada-U.S. border and onto U.S. destinations
+
+[Read the full story at the source](https://www.theglobeandmail.com/business/article-south-bow-oil-pipeline-decision-middle-2027/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

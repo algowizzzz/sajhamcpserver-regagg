@@ -1,0 +1,1 @@
+Summary: # Philippine GDP growth slows further to 2.3% in Q2 as inflation bites

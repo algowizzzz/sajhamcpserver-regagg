@@ -1,0 +1,26 @@
+{
+  "doc_id": "3fda4199e1102aeb",
+  "regulator_id": "american_banker",
+  "doc_type": "news_story",
+  "title": "Wealth management has got junior advisors' first 90 days covered. What happens on day 91?",
+  "language": "en",
+  "source_url": "https://www.americanbanker.com/news/wealth-management-has-got-junior-advisors-first-90-days-covered-what-happens-on-day-91",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:dd6cd3893911596e7f2fd16fb29578998ed79f6d1b249d6537d50dc578f6f8d2",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_american_banker_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/american_banker/current/news_story/2026/3fda4199e1102aeb",
+  "tags": [
+    "us",
+    "banking"
+  ],
+  "final_url": "https://www.americanbanker.com/news/wealth-management-has-got-junior-advisors-first-90-days-covered-what-happens-on-day-91",
+  "fetch_method": "feed_summary"
+}

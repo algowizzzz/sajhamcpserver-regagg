@@ -37,6 +37,9 @@ test.describe('My Day — the generated page', () => {
   test('a credit event outranks market noise and is marked serious', async ({ page }) => {
     await makePersona(page, { name: 'Credit book', entities: 'Goodfood\nWestJet' });
     await page.locator('#nMyd').click();
+    // pin the day the corpus holds this event: the test is about RANKING,
+    // not about what happened to be published the morning it runs
+    await page.evaluate(() => loadMyDay('2026-08-06'));
     const first = page.locator('.md-ev').first();
     await expect(first).toBeVisible();
     await expect(first).toContainText('CREDIT EVENT');
@@ -70,6 +73,8 @@ test.describe('My Day — the generated page', () => {
   test('cards open their evidence', async ({ page }) => {
     await makePersona(page, { name: 'Evidence', entities: 'Goodfood' });
     await page.locator('#nMyd').click();
+    await page.evaluate(() => loadMyDay('2026-08-06'));
+    await expect(page.locator('.md-ev').first()).toBeVisible();
     await page.locator('.md-ev').first().click();
     await expect(page.locator('#drawer')).toBeVisible({ timeout: 10000 });
   });

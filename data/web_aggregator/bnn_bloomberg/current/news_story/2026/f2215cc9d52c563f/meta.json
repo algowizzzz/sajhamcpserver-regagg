@@ -1,0 +1,25 @@
+{
+  "doc_id": "f2215cc9d52c563f",
+  "regulator_id": "bnn_bloomberg",
+  "doc_type": "news_story",
+  "title": "Canadian, U.S. markets edge lower as oil rises, driving inflationary fears",
+  "language": "en",
+  "source_url": "https://www.bnnbloomberg.ca/markets/2026/08/06/sptsx-composite-index-down-in-late-morning-trading-us-markets-mixed/",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:8111ef02018fdcff8cca601d9866cd6334e6a449621627042c44506300e122fc",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_bnn_bloomberg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bnn_bloomberg/current/news_story/2026/f2215cc9d52c563f",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.bnnbloomberg.ca/markets/2026/08/06/sptsx-composite-index-down-in-late-morning-trading-us-markets-mixed/",
+  "fetch_method": "feed_summary"
+}

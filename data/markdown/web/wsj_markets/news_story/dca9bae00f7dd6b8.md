@@ -1,17 +1,17 @@
 ---
-title: "Nikkei Falls 1.3%, Dragged by Electronics Stocks"
+title: "European Indexes Rise as Earnings Drive Markets"
 regulator: "wsj_markets"
 doc_type: "news_story"
 status: "final"
 source_kind: "web"
 source_url: "https://www.wsj.com/opinion/nikkei-falls-1-3-dragged-by-electronics-stocks-1458be31?mod=rss_markets_main"
 published: "2026-08-06"
-version: "1"
+version: "2"
 ---
 
-# Nikkei Falls 1.3%, Dragged by Electronics Stocks
+# European Indexes Rise as Earnings Drive Markets
 
-Japanese stocks were lower in early trade following Wednesday’s sharp gains led by artificial intelligence-related shares.
+Corporate earnings drove European stock indexes higher in early trade, with the Europe-wide Stoxx 600 index up and led by consumer-facing stocks and healthcare.
 
 [Read the full story at the source](https://www.wsj.com/opinion/nikkei-falls-1-3-dragged-by-electronics-stocks-1458be31?mod=rss_markets_main)
 

@@ -1,0 +1,25 @@
+{
+  "doc_id": "4dcda2e1864e5908",
+  "regulator_id": "marketwatch",
+  "doc_type": "news_story",
+  "title": "This mom spent $2,000 on her kindergartner as viral \u2018back-to-school hauls\u2019 on TikTok and YouTube spin out of control",
+  "language": "en",
+  "source_url": "https://www.marketwatch.com/story/this-mom-spent-2-000-on-her-kindergartner-as-viral-back-to-school-hauls-on-tiktok-and-youtube-spin-out-of-control-0be2949d?mod=mw_rss_topstories",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:fbd4b0a8b97fb5e5d16fc6295773607083e3efa840d60bbff30ffced6b9539f3",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_marketwatch_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/marketwatch/current/news_story/2026/4dcda2e1864e5908",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.marketwatch.com/story/this-mom-spent-2-000-on-her-kindergartner-as-viral-back-to-school-hauls-on-tiktok-and-youtube-spin-out-of-control-0be2949d?mod=mw_rss_topstories",
+  "fetch_method": "feed_summary"
+}

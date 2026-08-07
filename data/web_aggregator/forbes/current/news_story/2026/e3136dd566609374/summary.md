@@ -1,0 +1,1 @@
+Summary: # Kamome Shirahama Says Fans Are Why ‘Witch Hat Atelier’ Is Inclusive

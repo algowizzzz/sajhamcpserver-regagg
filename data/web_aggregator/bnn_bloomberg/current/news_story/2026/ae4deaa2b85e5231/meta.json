@@ -1,0 +1,25 @@
+{
+  "doc_id": "ae4deaa2b85e5231",
+  "regulator_id": "bnn_bloomberg",
+  "doc_type": "news_story",
+  "title": "Trump unveils trade actions to compete with China on solar and chips",
+  "language": "en",
+  "source_url": "https://www.bnnbloomberg.ca/business/technology/2026/08/07/trump-unveils-trade-actions-to-compete-with-china-on-solar-and-chips/",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:bc5cef5c871d97b0403ffcabf80caad3060ec43b3468206fb1b3329187013346",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_bnn_bloomberg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bnn_bloomberg/current/news_story/2026/ae4deaa2b85e5231",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.bnnbloomberg.ca/business/technology/2026/08/07/trump-unveils-trade-actions-to-compete-with-china-on-solar-and-chips/",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,26 @@
+{
+  "doc_id": "588dfde2b68e8edd",
+  "regulator_id": "american_banker",
+  "doc_type": "news_story",
+  "title": "Exclusive: Warren presses OCC to revoke United Texas Bank charter",
+  "language": "en",
+  "source_url": "https://www.americanbanker.com/news/exclusive-warren-presses-occ-to-revoke-united-texas-bank-charter",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:547e4d15412dde577b284a3e9a2f2db98bed8aa56dc6352052cd3e543f17ffe6",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_american_banker_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/american_banker/current/news_story/2026/588dfde2b68e8edd",
+  "tags": [
+    "us",
+    "banking"
+  ],
+  "final_url": "https://www.americanbanker.com/news/exclusive-warren-presses-occ-to-revoke-united-texas-bank-charter",
+  "fetch_method": "feed_summary"
+}

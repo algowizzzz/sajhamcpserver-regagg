@@ -1,0 +1,1 @@
+Summary: # July’s heatwaves kept UK shoppers away from high street

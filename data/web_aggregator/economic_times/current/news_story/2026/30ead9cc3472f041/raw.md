@@ -1,0 +1,7 @@
+# Market wrap: TCS, SBI, M&amp;M, Trent among top gainers and losers on Nifty and Sensex on Friday
+
+Indian equities ended lower as the Closing Auction Session continued creating divergence between Sensex and Nifty. Banking and financial stocks dragged benchmarks, while auto and IT outperformed. Analysts said Nifty’s 24,500 support remains crucial despite easing momentum and continued profit booking.
+
+[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/market-wrap-tcs-sbi-mm-trent-among-top-gainers-and-losers-on-nifty-and-sensex-on-friday/articleshow/133033641.cms)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

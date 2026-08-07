@@ -1,0 +1,1 @@
+Summary: # Quote of the day by Philip Carret: "I’m an optimist, both as a person and an investor. It’s a big mistake to be pessimistic as long as we have a viable civilization which is reasonably well managed"

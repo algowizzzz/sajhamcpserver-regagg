@@ -1,0 +1,25 @@
+{
+  "doc_id": "e33c6d9334c7f781",
+  "regulator_id": "aljazeera_econ",
+  "doc_type": "news_story",
+  "title": "US labour market sheds jobs in July as labour force participation slumps",
+  "language": "en",
+  "source_url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:02c89377bf8814a244b22bda0a7af244be1faa6691df33b8dc8662538167c44d",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_aljazeera_econ_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/aljazeera_econ/current/news_story/2026/e33c6d9334c7f781",
+  "tags": [
+    "international"
+  ],
+  "final_url": "https://www.aljazeera.com/economy/2026/8/7/us-labour-market-sheds-jobs-in-july-as-labour-force-participation-slumps?traffic_source=rss",
+  "fetch_method": "feed_summary"
+}

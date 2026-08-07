@@ -1,0 +1,25 @@
+{
+  "doc_id": "6828c57cb1044ab8",
+  "regulator_id": "yahoo_finance",
+  "doc_type": "news_story",
+  "title": "SpaceX's big week: Stock jumps despite earnings storm, lock-up expiration in crucial test for investors",
+  "language": "en",
+  "source_url": "https://finance.yahoo.com/markets/stocks/article/spacexs-big-week-stock-jumps-despite-earnings-storm-lock-up-expiration-in-crucial-test-for-investors-131828277.html",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:9a805ee75ed2316ae385789d27010249e728ba1a3c9732bf08c3e098af5b7091",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_yahoo_finance_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/yahoo_finance/current/news_story/2026/6828c57cb1044ab8",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://finance.yahoo.com/markets/stocks/article/spacexs-big-week-stock-jumps-despite-earnings-storm-lock-up-expiration-in-crucial-test-for-investors-131828277.html",
+  "fetch_method": "feed_summary"
+}

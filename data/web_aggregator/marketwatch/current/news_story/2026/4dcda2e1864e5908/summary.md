@@ -1,0 +1,1 @@
+Summary: # This mom spent $2,000 on her kindergartner as viral ‘back-to-school hauls’ on TikTok and YouTube spin out of control

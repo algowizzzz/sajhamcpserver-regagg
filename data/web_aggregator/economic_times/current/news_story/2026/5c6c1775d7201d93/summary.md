@@ -1,0 +1,1 @@
+Summary: # SBI Q1 Results: Standalone profit rises 10% YoY to Rs 21,121 crore, beats estimates

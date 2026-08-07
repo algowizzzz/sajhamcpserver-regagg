@@ -1,0 +1,1 @@
+Summary: # Algonquin Power & Utilities Corp. Reports Second Quarter 2026 Financial Results

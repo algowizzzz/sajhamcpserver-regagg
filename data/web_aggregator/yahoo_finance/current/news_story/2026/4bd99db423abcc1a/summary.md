@@ -1,0 +1,1 @@
+Summary: # Amazon's $220 billion AI bet hits a snag: Trainium 2 chips are only 20 months old and already being replaced

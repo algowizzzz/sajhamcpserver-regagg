@@ -1,0 +1,9 @@
+# Hong Kong’s Hang Lung Properties names former Starbucks China head Leo Tsoi as new CEO
+
+Hong Kong developer Hang Lung Properties has tapped Leo Tsoi Tak-lun, CEO of Toys ‘R’ Us Asia and former head of Starbucks China, as its new CEO and executive director.
+Tsoi will join Hang Lung Group and Hang Lung Properties on September 7 as CEO-designate and executive director ahead of formally assuming the CEO role on October 1. He succeeds Weber Lo Wai-pak, who retires on August 31 after serving as CEO for eight years, the developer said in a statement on Friday.
+Tsoi’s appointment marks...
+
+[Read the full story at the source](https://www.scmp.com/business/companies/article/3363316/hong-kongs-hang-lung-properties-names-former-starbucks-china-head-leo-tsoi-new-ceo?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

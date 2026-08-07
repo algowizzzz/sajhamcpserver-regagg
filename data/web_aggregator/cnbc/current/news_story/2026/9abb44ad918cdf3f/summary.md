@@ -1,0 +1,1 @@
+Summary: # United Wholesale Mortgage plunges 35% after suspending dividend and raising capital

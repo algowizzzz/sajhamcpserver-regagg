@@ -1,0 +1,1 @@
+Summary: # Sebi cuts inspection load for market intermediaries, shifts focus to risk-based checks

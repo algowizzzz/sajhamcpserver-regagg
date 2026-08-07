@@ -1,0 +1,7 @@
+# Suzlon Energy shares rise after US judge directs Pentagon to lift wind project freeze
+
+Suzlon Energy shares rose after a U.S. judge ordered the Pentagon to lift its freeze on reviewing onshore wind projects. According to Reuters, U.S. District Judge Karin Immergut granted a preliminary injunction sought by renewable energy groups, who said the freeze had caused a "total halt" in wind project development across the country.
+
+[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/suzlon-energy-shares-rise-after-us-judge-directs-pentagon-to-lift-wind-project-freeze/articleshow/133027955.cms)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

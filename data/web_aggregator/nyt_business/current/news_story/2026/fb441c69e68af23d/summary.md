@@ -1,1 +1,1 @@
-Summary: # TikTok Is Laying Off 250 Employees in Its Nashville Office
+Summary: # TikTok Lays Off 250 Employees in Office That Includes Content Moderation

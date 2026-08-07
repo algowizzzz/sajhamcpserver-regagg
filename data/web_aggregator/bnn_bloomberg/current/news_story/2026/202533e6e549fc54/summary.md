@@ -1,0 +1,1 @@
+Summary: # Westland Insurance acquires Interior Savings Insurance

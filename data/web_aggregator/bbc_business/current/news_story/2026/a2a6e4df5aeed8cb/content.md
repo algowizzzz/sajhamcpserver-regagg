@@ -1,4 +1,4 @@
-# Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?
+# Shorts, strappy tops and sandals: What is acceptable to wear to work?
 
 Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.
 

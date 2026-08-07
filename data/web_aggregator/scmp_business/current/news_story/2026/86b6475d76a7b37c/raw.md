@@ -1,0 +1,8 @@
+# Hong Kong’s US dollar peg faces fresh calls for review – but is change feasible?
+
+The Hong Kong dollar’s four-decade-old peg to the US dollar is facing fresh calls for review, after a local financial industry body urged greater use of the yuan and floated the idea of shifting to a basket of major currencies and gold – though financial analysts argue the current system is likely to remain in place.
+The proposal to revisit the pegged exchange rate system was submitted this week by the Hong Kong Securities and Futures Professionals Association (HKSFPA), as the government gathers...
+
+[Read the full story at the source](https://www.scmp.com/business/banking-finance/article/3363286/hong-kongs-us-dollar-peg-faces-fresh-calls-review-change-feasible?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

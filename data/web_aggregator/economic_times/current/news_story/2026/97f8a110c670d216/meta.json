@@ -1,0 +1,25 @@
+{
+  "doc_id": "97f8a110c670d216",
+  "regulator_id": "economic_times",
+  "doc_type": "news_story",
+  "title": "Ixigo posts record Q1 profit, but stock tumbles 9%. Here's what worried Dalal Street",
+  "language": "en",
+  "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/ixigo-posts-record-q1-profit-but-stock-tumbles-9-heres-what-worried-dalal-street/articleshow/133027817.cms",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2b39cb30239ca8492fa73eec2ec72784a62cc87c0af0af6b2623a889dc885cd7",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_economic_times_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/economic_times/current/news_story/2026/97f8a110c670d216",
+  "tags": [
+    "india"
+  ],
+  "final_url": "https://economictimes.indiatimes.com/markets/stocks/news/ixigo-posts-record-q1-profit-but-stock-tumbles-9-heres-what-worried-dalal-street/articleshow/133027817.cms",
+  "fetch_method": "feed_summary"
+}

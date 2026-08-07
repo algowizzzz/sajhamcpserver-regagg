@@ -1,0 +1,25 @@
+{
+  "doc_id": "7bd6da5a4db76429",
+  "regulator_id": "nyt_business",
+  "doc_type": "news_story",
+  "title": "If You\u2019re Struggling to Pay Day-to-Day Bills, There\u2019s Help",
+  "language": "en",
+  "source_url": "https://www.nytimes.com/2026/08/07/your-money/debt-bills.html",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2d23a93b458021bc5ad9fec5e5a2729dc94fe3a731356cbdad717090ce5567b1",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_nyt_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/nyt_business/current/news_story/2026/7bd6da5a4db76429",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.nytimes.com/2026/08/07/your-money/debt-bills.html",
+  "fetch_method": "feed_summary"
+}

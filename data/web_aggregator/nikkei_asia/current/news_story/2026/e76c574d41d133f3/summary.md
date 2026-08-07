@@ -1,0 +1,1 @@
+Summary: # Japan makes play for resources with Ecuador, Mercosur outreach

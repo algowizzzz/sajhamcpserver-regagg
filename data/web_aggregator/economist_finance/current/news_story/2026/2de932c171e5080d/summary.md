@@ -1,0 +1,1 @@
+Summary: # African countries are souring on the dollar

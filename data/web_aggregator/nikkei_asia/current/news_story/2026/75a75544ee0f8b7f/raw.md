@@ -1,0 +1,7 @@
+# Sojitz to ramp up Vietnam beef output with Japan-style hygiene control
+
+
+
+[Read the full story at the source](https://asia.nikkei.com/business/food-beverage/sojitz-to-ramp-up-vietnam-beef-output-with-japan-style-hygiene-control)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

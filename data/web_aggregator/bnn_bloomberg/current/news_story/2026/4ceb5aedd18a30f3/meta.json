@@ -1,0 +1,25 @@
+{
+  "doc_id": "4ceb5aedd18a30f3",
+  "regulator_id": "bnn_bloomberg",
+  "doc_type": "news_story",
+  "title": "Algonquin Power & Utilities Corp. Reports Second Quarter 2026 Financial Results",
+  "language": "en",
+  "source_url": "https://www.bnnbloomberg.ca/press-releases/2026/08/07/algonquin-power-utilities-corp-reports-second-quarter-2026-financial-results/",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:20bb78dd6df472fa1a071217e3ba24ae731383d0bb9e130be7b4e26471b13f72",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_bnn_bloomberg_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/bnn_bloomberg/current/news_story/2026/4ceb5aedd18a30f3",
+  "tags": [
+    "canada"
+  ],
+  "final_url": "https://www.bnnbloomberg.ca/press-releases/2026/08/07/algonquin-power-utilities-corp-reports-second-quarter-2026-financial-results/",
+  "fetch_method": "feed_summary"
+}

@@ -1,0 +1,7 @@
+# Global Market: Singapore's OCBC, UOB Q2 profits rise as wealth business cushions impact of lower interest rates
+
+Singapore's OCBC and UOB banks have exceeded expectations with their second-quarter earnings, showcasing resilience amid lending income challenges. OCBC achieved a record quarterly net profit, while UOB surpassed analyst forecasts. The first half saw substantial growth in wealth management income, prompting both banks to declare higher interim dividends for their shareholders based on these impressive results.
+
+[Read the full story at the source](https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-singapores-ocbc-uob-q2-profits-rise-as-wealth-business-cushions-impact-of-lower-interest-rates/articleshow/133027993.cms)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

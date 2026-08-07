@@ -1,0 +1,7 @@
+# Trump imposes 15% tariff on key chip material to counter China
+
+The move  aims to protect US firms as they face increasing competition from China's chip industry.
+
+[Read the full story at the source](https://www.bbc.co.uk/news/articles/cdrvn686dljo?at_medium=RSS&at_campaign=rss)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

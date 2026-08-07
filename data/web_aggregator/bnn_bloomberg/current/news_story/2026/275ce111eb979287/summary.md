@@ -1,0 +1,1 @@
+Summary: # MDA Space revenue rockets 34% in Q2 as company reports $27.9M profit

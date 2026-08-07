@@ -1,0 +1,1 @@
+Summary: # Suncor says Rich Kruger to step aside as CEO in 2027

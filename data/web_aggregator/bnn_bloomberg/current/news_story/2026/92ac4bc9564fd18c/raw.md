@@ -1,4 +1,4 @@
-# Here’s who’s appearing on BNN Bloomberg Market Call tomorrow
+# Here’s who’s appearing on BNN Bloomberg Market Call today
 
 Here's a look at BNN Bloomberg's guest schedule.
 

@@ -1,0 +1,1 @@
+Summary: # Premier Energies Q1 Result: Profit jumps 53% to Rs 472 crore

@@ -1,0 +1,26 @@
+{
+  "doc_id": "e161d3a023014a1a",
+  "regulator_id": "american_banker",
+  "doc_type": "news_story",
+  "title": "Epstein probe: When must banks report suspicions to feds?",
+  "language": "en",
+  "source_url": "https://www.americanbanker.com/news/epstein-probe-when-must-banks-report-suspicions-to-feds",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:faba928a07ff0fa4dbeee07b746acdb815c1718b8d258e777187762ace20a2bd",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_american_banker_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/american_banker/current/news_story/2026/e161d3a023014a1a",
+  "tags": [
+    "us",
+    "banking"
+  ],
+  "final_url": "https://www.americanbanker.com/news/epstein-probe-when-must-banks-report-suspicions-to-feds",
+  "fetch_method": "feed_summary"
+}

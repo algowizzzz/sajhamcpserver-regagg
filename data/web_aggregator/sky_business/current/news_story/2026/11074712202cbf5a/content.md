@@ -1,4 +1,4 @@
-# UK gives effective green light to Paramount Warner Bros mega deal after assurances provided
+# UK gives effective green light to Paramount Warner Bros deal
 
 The UK will now not intervene in one of the biggest media deals in history after assurances were provided to the government.
 

@@ -1,0 +1,25 @@
+{
+  "doc_id": "9ec39d81794eb2c1",
+  "regulator_id": "scmp_business",
+  "doc_type": "news_story",
+  "title": "Hong Kong preferred base as Chinese SOEs consolidate overseas accounts in treasury hubs",
+  "language": "en",
+  "source_url": "https://www.scmp.com/business/china-business/article/3363242/hong-kong-preferred-base-chinese-soes-consolidate-overseas-accounts-treasury-hubs?utm_source=rss_feed",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:405aed992be07bdf87e1c2762d0c3704083d8e4b7807248b3d2abfe01513b3e3",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_scmp_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/scmp_business/current/news_story/2026/9ec39d81794eb2c1",
+  "tags": [
+    "hong_kong"
+  ],
+  "final_url": "https://www.scmp.com/business/china-business/article/3363242/hong-kong-preferred-base-chinese-soes-consolidate-overseas-accounts-treasury-hubs?utm_source=rss_feed",
+  "fetch_method": "feed_summary"
+}

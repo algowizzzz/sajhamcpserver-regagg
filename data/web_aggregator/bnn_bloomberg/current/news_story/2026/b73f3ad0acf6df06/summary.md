@@ -1,0 +1,1 @@
+Summary: # GoldHaven Awards Contract for Eight-Hole, 1,650-Metre Phase II Drill Program at Copeçal West Target, Brazil

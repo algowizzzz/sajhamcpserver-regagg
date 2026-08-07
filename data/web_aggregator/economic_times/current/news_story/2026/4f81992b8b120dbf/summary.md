@@ -1,0 +1,1 @@
+Summary: # Hindalco Q1 results: Profit soars 75% YoY to record Rs 7,013 crore; revenue jumps 32%

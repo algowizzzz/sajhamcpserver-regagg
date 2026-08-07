@@ -1,0 +1,1 @@
+Summary: # WestJet flight attendants’ deal includes 18% wage hike and ‘duty period premium,’ union says

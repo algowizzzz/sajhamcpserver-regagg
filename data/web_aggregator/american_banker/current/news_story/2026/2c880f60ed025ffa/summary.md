@@ -1,0 +1,1 @@
+Summary: # German payment startup is close to launching US bank

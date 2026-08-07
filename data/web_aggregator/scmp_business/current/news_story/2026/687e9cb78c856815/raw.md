@@ -1,0 +1,8 @@
+# China’s MLCC supply chain expanding rapidly amid surge in global AI demand
+
+China’s upstream supply chain for multilayer ceramic capacitors (MLCCs) – tiny components dubbed “the rice of electronics” – is racing to expand capacity, as an artificial intelligence-driven boom triggers a surge in global orders.
+Shandong Sinocera Functional Materials, a major supplier of dielectric powder to MLCC manufacturers, told investors in a Shenzhen Stock Exchange filing on Wednesday that it was actively pushing to expand capacity for AI servers and vehicles, with parts of its new...
+
+[Read the full story at the source](https://www.scmp.com/tech/tech-trends/article/3363190/chinas-mlcc-supply-chain-expanding-rapidly-amid-surge-global-ai-demand?utm_source=rss_feed)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

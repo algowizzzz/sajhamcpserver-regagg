@@ -1,0 +1,1 @@
+Summary: # US imposes 15% tariff on polysilicon in pushback against China

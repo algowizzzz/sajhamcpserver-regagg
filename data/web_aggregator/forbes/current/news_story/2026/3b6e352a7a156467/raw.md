@@ -1,0 +1,7 @@
+# One Actor Keeps Coming Up To Play The X-Men’s MCU Wolverine
+
+There is a long list of actors who have either been confirmed or are simply rumored to be joining the MCU’s upcoming X-Men lineup. Wolverine has one too.
+
+[Read the full story at the source](https://www.forbes.com/sites/paultassi/2026/08/07/one-actor-keeps-coming-up-to-play-the-x-mens-mcu-wolverine/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

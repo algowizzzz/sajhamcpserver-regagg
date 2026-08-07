@@ -1,0 +1,25 @@
+{
+  "doc_id": "4618e4c6aa82fc41",
+  "regulator_id": "economic_times",
+  "doc_type": "news_story",
+  "title": "Hitachi Energy India Q1 Results: Net profit rises over twofold to Rs 294 crore",
+  "language": "en",
+  "source_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c35869f4e40a9f804b44e514333ff040cdc74ba9364da19f83ea8e9da820c9bb",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_economic_times_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/economic_times/current/news_story/2026/4618e4c6aa82fc41",
+  "tags": [
+    "india"
+  ],
+  "final_url": "https://economictimes.indiatimes.com/markets/stocks/earnings/hitachi-energy-india-q1-results-net-profit-rises-over-twofold-to-rs-294-crore/articleshow/133034152.cms",
+  "fetch_method": "feed_summary"
+}

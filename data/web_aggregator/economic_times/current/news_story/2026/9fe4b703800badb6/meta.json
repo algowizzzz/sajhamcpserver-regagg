@@ -1,0 +1,25 @@
+{
+  "doc_id": "9fe4b703800badb6",
+  "regulator_id": "economic_times",
+  "doc_type": "news_story",
+  "title": "Fossil Group is said to invite banks for India unit IPO",
+  "language": "en",
+  "source_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/fossil-group-is-said-to-invite-banks-for-india-unit-ipo/articleshow/133031984.cms",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:81aa66b22bfee03fc4ca85d58dcbfaf12dcda4d24fae7818e9f1611b2fb2415f",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_economic_times_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/economic_times/current/news_story/2026/9fe4b703800badb6",
+  "tags": [
+    "india"
+  ],
+  "final_url": "https://economictimes.indiatimes.com/markets/ipos/fpos/fossil-group-is-said-to-invite-banks-for-india-unit-ipo/articleshow/133031984.cms",
+  "fetch_method": "feed_summary"
+}

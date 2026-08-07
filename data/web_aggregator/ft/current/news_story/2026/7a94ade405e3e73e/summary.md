@@ -1,0 +1,1 @@
+Summary: # Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside

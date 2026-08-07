@@ -1,0 +1,1 @@
+Summary: # Takaichi's tax cut plan exposes fault line with US over fiscal policy

@@ -1,0 +1,1 @@
+Summary: # BCE reports second-quarter profit drop as  FIFA World Cup viewing boosts revenue

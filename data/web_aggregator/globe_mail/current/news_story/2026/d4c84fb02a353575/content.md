@@ -1,0 +1,7 @@
+# Restaurant Brands reports higher sales and profit, driven by Burger King’s U.S. stores
+
+Fast-food giant’s turnaround plan for Burger King began to pay off in the quarter, while Tim Hortons’ sales growth in Canada fell flat
+
+[Read the full story at the source](https://www.theglobeandmail.com/business/article-restaurant-brands-second-quarter-results-burger-king-tim-hortons/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

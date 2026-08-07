@@ -1,0 +1,1 @@
+Summary: # Car washes and vape shops can still sponsor skilled foreign workers despite visa changes

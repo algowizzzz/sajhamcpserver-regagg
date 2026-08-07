@@ -1,0 +1,1 @@
+Summary: # S&P/TSX composite index up in late-morning trading, U.S. markets also rise

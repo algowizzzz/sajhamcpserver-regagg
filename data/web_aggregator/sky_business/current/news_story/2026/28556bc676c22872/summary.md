@@ -1,0 +1,1 @@
+Summary: # Facebook owner condemned as 'public nuisance' and ordered to pay $942m over harm to children

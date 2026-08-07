@@ -1,0 +1,7 @@
+# From milk to snack foods, more products are going ‘regenerative’
+
+With a focus on increasing soil health, companies are aiming to reduce the use of pesticides and plowing to promote health-conscious food options.
+
+[Read the full story at the source](https://fortune.com/2026/08/07/from-milk-to-snack-foods-more-products-are-going-regenerative/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

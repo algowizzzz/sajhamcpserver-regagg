@@ -1,0 +1,25 @@
+{
+  "doc_id": "4f14ad1340c83f51",
+  "regulator_id": "economic_times",
+  "doc_type": "news_story",
+  "title": "Ola Electric Q1 Results: Loss narrows to Rs 336 crore; revenue falls 45% YoY",
+  "language": "en",
+  "source_url": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-q1-results-loss-narrows-to-rs-336-crore-revenue-falls-45-yoy/articleshow/133032481.cms",
+  "reference_number": null,
+  "published_date": "2026-08-07",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:6a1082eed0cbda20549a1cf04077b3120cb04b2e73063a9061bfc355a4cffca2",
+  "version_ts": "2026-08-07T16-59-30Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-07T16:59:30.853898+00:00",
+  "run_id": "2026-08-07_economic_times_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/economic_times/current/news_story/2026/4f14ad1340c83f51",
+  "tags": [
+    "india"
+  ],
+  "final_url": "https://economictimes.indiatimes.com/markets/stocks/news/ola-electric-q1-results-loss-narrows-to-rs-336-crore-revenue-falls-45-yoy/articleshow/133032481.cms",
+  "fetch_method": "feed_summary"
+}

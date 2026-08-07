@@ -1,0 +1,1 @@
+Summary: # Hong Kong raises Silver Bonds coupon rate to 4.25% for latest batch

@@ -1,15 +1,15 @@
 ---
-title: "Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?"
+title: "Shorts, strappy tops and sandals: What is acceptable to wear to work?"
 regulator: "bbc_business"
 doc_type: "news_story"
 status: "final"
 source_kind: "web"
 source_url: "https://www.bbc.co.uk/news/articles/cre49389g1qo?at_medium=RSS&at_campaign=rss"
 published: "2026-08-05"
-version: "1"
+version: "2"
 ---
 
-# Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?
+# Shorts, strappy tops and sandals: What is acceptable to wear to work?
 
 Here's how to style for success while keeping your cool - and where you and your boss stand on your wardrobe.
 
