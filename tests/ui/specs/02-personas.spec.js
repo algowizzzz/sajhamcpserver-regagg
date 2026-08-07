@@ -78,7 +78,7 @@ test.describe('personas', () => {
     const other = await browser.newContext();
     const p2 = await other.newPage();
     await signup(p2);
-    await p2.locator('#nPer').click();
+    await p2.evaluate(() => enterLane('news', 'per'));
     await expect(p2.locator('#perList')).not.toContainText('Private book');
     await other.close();
   });

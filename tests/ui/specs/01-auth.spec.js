@@ -11,7 +11,7 @@ test.describe('identity', () => {
 
   test('signup creates an account and lands in the app', async ({ page }) => {
     const user = await signup(page);
-    await expect(page.locator('#whoami')).toContainText(user.name);
+    await expect(page.locator('#whoami button')).toHaveAttribute('title', user.name);
     // the app opens on Home; the lanes and their pages are one click away
     await expect(page.locator('#v-home')).toHaveClass(/on/);
     await expect(page.locator('#xhLanes .lane')).toHaveCount(2);
@@ -53,7 +53,7 @@ test.describe('identity', () => {
     const user = await signup(page);
     await page.reload();
     await expect(page.locator('#authGate')).toBeHidden();
-    await expect(page.locator('#whoami')).toContainText(user.name);
+    await expect(page.locator('#whoami button')).toHaveAttribute('title', user.name);
     await page.getByRole('button', { name: 'Sign out' }).click();
     await page.locator('#authGate').waitFor({ state: 'visible' });
   });
@@ -77,7 +77,7 @@ test.describe('identity', () => {
     const second = await browser.newContext();   // no cookies
     const p2 = await second.newPage();
     await login(p2, user);
-    await expect(p2.locator('#whoami')).toContainText(user.name);
+    await expect(p2.locator('#whoami button')).toHaveAttribute('title', user.name);
     await second.close();
   });
 });

@@ -112,9 +112,13 @@ test.describe('Ask — grounded chat', () => {
 
   test('offers starting questions and states its own rule', async ({ page }) => {
     await page.evaluate(() => toggleChat(true));
+    await expect(page.locator('#chatdock')).toHaveClass(/open/);
     await expect(page.locator('.ask-sug button').first()).toBeVisible();
-    await expect(page.locator('#v-ask')).toContainText('every claim carries a citation');
     await expect(page.locator('#askSources')).toContainText('Sources');
+    // the context switch is part of the contract: the person chooses what it reads
+    await expect(page.locator('#ctxActive')).toHaveClass(/on/);
+    await page.locator('#ctxPassive').click();
+    await expect(page.locator('#ctxPassive')).toHaveClass(/on/);
   });
 
   test('an answer is grounded in listed sources, or it is withheld', async ({ page }) => {
@@ -126,7 +130,7 @@ test.describe('Ask — grounded chat', () => {
 
     await page.evaluate(() => toggleChat(true));
     await page.locator('#askInput').fill('What should I look at first?');
-    await page.locator('#v-ask .ask-form button').click();   // not the nav tab
+    await page.locator('#chatdock .ask-form button').click();   // not the nav tab
 
     // wait for the answer to replace the pending bubble
     await expect(page.locator('.ask-msg.ai.pending')).toHaveCount(0, { timeout: 45000 });

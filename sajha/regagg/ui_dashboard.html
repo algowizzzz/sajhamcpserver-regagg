@@ -768,7 +768,7 @@
     </div>
     <div class="xgrid">
       <div class="xcard"><h3>Highest-materiality holdings right now</h3>
-        <ul class="xlist" id="xrTop"></ul></div>
+        <ul class="xlist scrollbox short" id="xrTop"></ul></div>
       <div class="xcard"><h3>Change tracking — the audit trail</h3>
         <div id="xrArchived"></div>
         <div class="xnote">When a rule page changes, the prior text is archived first, then diffed —
@@ -785,7 +785,7 @@
       </div></div>
     <div id="ovwHead" class="headline" style="display:none"></div>
     <div class="tiles" id="ovwTiles" style="display:none"></div>
-    <div id="ovwPriority"></div>
+    <div id="ovwPriority" class="scrollbox"></div>
     <div class="simple-card">
       <div class="simple-head"><b>Sources</b>
         <span style="color:var(--muted);font-size:12px">what we hold from each regulator — click a row to browse it</span>
@@ -852,13 +852,13 @@
     <div class="chips" id="nwTopics" style="margin:10px 0 14px"></div>
     <div class="news-grid">
       <div>
-        <div class="npanel"><h3 id="nwTopTitle">Top stories</h3><div id="nwTop" class="empty">loading…</div></div>
-        <div id="nwSections"></div>
+        <div class="npanel"><h3 id="nwTopTitle">Top stories</h3><div id="nwTop" class="empty scrollbox">loading…</div></div>
+        <div id="nwSections" class="scrollbox"></div>
       </div>
       <div>
         <div class="npanel"><h3>Last 14 days</h3><div class="volbar" id="nwVol"></div>
           <div style="font-size:10.5px;color:var(--muted);margin-top:4px">stories per day — click a bar</div></div>
-        <div class="npanel" style="margin-top:14px"><h3>Sources today</h3><div id="nwSources"></div></div>
+        <div class="npanel" style="margin-top:14px"><h3>Sources today</h3><div id="nwSources" class="scrollbox short"></div></div>
       </div>
     </div>
   </div>
@@ -924,7 +924,7 @@
     <div class="ptitle" data-t="v-cov">Sources we watch</div>
     <div class="psub">Every source this lane collects from, grouped by region. Open a region to see each source, how many documents we hold from it, when it last ran, and whether it is healthy. Use ▶ Run to collect from one source right now.</div>
     <div class="tiles" id="tiles"></div>
-    <div id="tree" class="empty">loading…</div>
+    <div id="tree" class="empty scrollbox">loading…</div>
   </div>
 
   <div class="view" id="v-brw">
@@ -963,7 +963,7 @@
       <button class="btn sm" id="bPrev" onclick="pageCorpus(-1)">← Prev</button>
       <button class="btn sm" id="bNext" onclick="pageCorpus(1)">Next →</button>
     </div>
-    <div id="bTable" class="empty">loading…</div>
+    <div id="bTable" class="empty scrollbox">loading…</div>
   </div>
 
   <div class="view" id="v-exp">
@@ -1003,7 +1003,7 @@
       <label class="fdate">To <input type="date" id="fTo" onchange="loadChanges()"></label>
       <button class="btn sm" onclick="clearChgFilters()">Clear</button>
     </div>
-    <div id="chgFeed" class="empty">loading…</div>
+    <div id="chgFeed" class="empty scrollbox">loading…</div>
   </div>
 
   <div class="view" id="v-run">
