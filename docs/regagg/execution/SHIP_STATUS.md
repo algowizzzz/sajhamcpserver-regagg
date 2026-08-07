@@ -38,4 +38,50 @@
    "loading…" forever. Fetches now have a deadline and one retry; a failed
    first load is surfaced instead of swallowed behind the sign-in screen.
 
-## Next: Sprint S2 — extraction & distillation (needs ANTHROPIC_API_KEY)
+## Sprint S2 — Extraction & Distillation ✅ COMPLETE
+
+| Story | Status | Evidence |
+|---|---|---|
+| S2.1 ingest-time extraction | done | `extraction.py` — deterministic always on, LLM when keyed, same shape, attributable |
+| S2.2 dossier builder | done | `dossier.py` — matching, clustering, salience, conserving ledger |
+| S2.3 My Day + validation | done | `myday.py` — 3 gates, deterministic fallback, cached per persona/day |
+| S2.4 schema migration | done | `scripts/regagg_migrate.py` — model-driven, SQLite + Postgres |
+
+**Bug found by tests:** clustering keyed on wording left one event from two
+wires as two items, so corroboration always read 1 — the exact signal that
+separates a real credit event from chatter. Now keyed on entity + event type.
+
+## Sprint S3 — Product surfaces ✅ COMPLETE
+
+| Story | Status | Evidence |
+|---|---|---|
+| S3.1 My Day tab | done | ledger, quiet counts, per-card reasons, evidence drill-through |
+| S3.2 Health tab | done | pass rate, conservation, sources needing attention, generation health |
+| S3.3 Ask tab | done | context chip; honest panel when chat is unconfigured |
+| S3.4 intraday + generation scripts | done | `regagg_news_poll.py`, `regagg_generate_pages.py` |
+| S3.5 UI suite | done | 12 more specs (My Day, Health, Ask) |
+
+**Bug found by tests:** opening the app before the morning run showed an empty
+page, implying a quiet market. It now falls back to the latest day with data
+and says so.
+
+## Sprint S4 — Ship hardening ✅ COMPLETE
+
+| Story | Status | Evidence |
+|---|---|---|
+| S4.1 PostgreSQL path | done | migration + GIN indexes + `regagg_pg_load.py`; **full UI suite green against Postgres** |
+| S4.2 deployment guide | done | `DEPLOY_ONPREM.md` — systemd, nginx, secrets, cron, verification |
+| S4.3 full regression | done | 132 pytest + 31 Playwright, on SQLite **and** PostgreSQL |
+
+**Bug found on Postgres:** the SQL DDL had drifted from the models
+(`source_kind` missing), so a Postgres install would 500 on first query. The
+migration is now model-driven and converges any drifted schema.
+
+## Test totals
+
+| Suite | Count | Where |
+|---|---|---|
+| Backend (pytest) | 132 | `tests/regagg/` |
+| UI (Playwright, real browser) | 31 | `tests/ui/specs/` |
+| Databases proven | 2 | SQLite (dev) and PostgreSQL (on-prem) |
+

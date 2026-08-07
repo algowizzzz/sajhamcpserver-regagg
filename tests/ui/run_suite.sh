@@ -7,6 +7,31 @@ PORT="${PORT:-3011}"
 TESTDB="$REPO/data/sajha_uitest.db"
 
 cd "$REPO"
+
+# PG=1 runs the whole suite against PostgreSQL — the on-prem target. The
+# database must already hold the corpus (scripts/regagg_pg_load.py).
+if [ "${PG:-0}" = "1" ]; then
+  export SAJHA_DB_TYPE=postgresql
+  export SAJHA_DB_HOST="${SAJHA_DB_HOST:-localhost}" SAJHA_DB_PORT="${SAJHA_DB_PORT:-5432}"
+  export SAJHA_DB_NAME="${SAJHA_DB_NAME:-regagg_verify}"
+  export SAJHA_DB_USER="${SAJHA_DB_USER:-$(whoami)}" SAJHA_DB_PASSWORD="${SAJHA_DB_PASSWORD:-}"
+  export REGAGG_SECRET="ui-test-secret-not-for-production"
+  psql -d "$SAJHA_DB_NAME" -qc \
+    "TRUNCATE reg_users, reg_personas, reg_persona_entities, reg_persona_versions,
+              reg_page_specs CASCADE" >/dev/null 2>&1 || true
+  lsof -ti :$PORT | xargs kill 2>/dev/null || true
+  ./.venv/bin/python run_server.py --port "$PORT" > /tmp/regagg_uitest.log 2>&1 &
+  SERVER_PID=$!
+  trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
+  for i in $(seq 1 40); do
+    curl -sf "http://127.0.0.1:$PORT/api/regagg/auth/me" >/dev/null 2>&1 && break
+    sleep 1
+  done
+  cd tests/ui
+  BASE_URL="http://127.0.0.1:$PORT" npx playwright test "$@"
+  exit $?
+fi
+
 rm -f "$TESTDB"
 cp data/sajha.db "$TESTDB"                      # real corpus, throwaway copy
 python3 - "$TESTDB" <<'PY'
