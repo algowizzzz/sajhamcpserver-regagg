@@ -1,0 +1,1 @@
+Summary: # Chipotle removes jalapeños linked to Minnesota salmonella outbreak

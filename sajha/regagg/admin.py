@@ -13,17 +13,39 @@ JSON endpoints; the endpoints are the contract and are what we test here.
 
 from __future__ import annotations
 
+import os
 from datetime import date, datetime, timezone
 from typing import List, Optional
 
-from fastapi import APIRouter, Header, HTTPException, UploadFile
+from fastapi import APIRouter, Header, HTTPException, Request, Response, UploadFile
 from fastapi import File as FileField, Form as FormField
 from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
-from sqlalchemy import select
+from sqlalchemy import func, select
 
 from sajha.regagg import queries, runtime
 from sajha.regagg.models import Document, DocumentTag, Regulator, Run
+
+
+class SignupRequest(BaseModel):
+    email: str
+    password: str
+    display_name: Optional[str] = None
+
+
+class LoginRequest(BaseModel):
+    email: str
+    password: str
+
+
+class PersonaRequest(BaseModel):
+    name: str
+    lane: str = "news"
+    config: Optional[dict] = None
+    entities_raw: Optional[str] = None      # pasted CSV / one name per line
+    entity_kind: str = "obligor"
+    persona_id: Optional[str] = None
+    shared_with: Optional[List[str]] = None
 
 
 class ManualDocRequest(BaseModel):
@@ -57,6 +79,115 @@ def _audit(session, operator: str, action: str, rtype: str, rid: str, details: s
 
 def create_admin_router() -> APIRouter:
     router = APIRouter(prefix="/api/regagg", tags=["regagg-admin"])
+
+    # ── identity ────────────────────────────────────────────────────────────
+    # Native signup/login for the on-prem product. The session is an
+    # HMAC-signed httpOnly cookie; nothing sensitive is readable by JS.
+
+    def _current_user(request: Request):
+        from sajha.regagg import auth as _auth
+        uid = _auth.read_session(request.cookies.get(_auth.SESSION_COOKIE))
+        if not uid:
+            return None
+        from sajha.regagg.models import RegUser
+        return runtime.get_session().get(RegUser, uid)
+
+    def _require_user(request: Request):
+        user = _current_user(request)
+        if user is None:
+            raise HTTPException(401, "Sign in to continue.")
+        return user
+
+    def _set_session(response: Response, user_id: str) -> None:
+        from sajha.regagg import auth as _auth
+        response.set_cookie(
+            _auth.SESSION_COOKIE, _auth.issue_session(user_id),
+            max_age=_auth.SESSION_TTL_SECONDS, httponly=True, samesite="lax",
+            secure=bool(os.getenv("REGAGG_COOKIE_SECURE")))
+
+    @router.post("/auth/signup")
+    def signup(req: SignupRequest, response: Response):
+        from sajha.regagg import auth as _auth
+        session = runtime.get_session()
+        # first account on a fresh install is the admin
+        from sajha.regagg.models import RegUser as _U
+        first = (session.scalar(select(func.count()).select_from(_U)) or 0) == 0
+        user, err = _auth.create_user(session, req.email, req.password,
+                                      req.display_name or "",
+                                      role="admin" if first else "analyst")
+        if err:
+            return {"ok": False, "error": err}
+        _set_session(response, user.user_id)
+        _audit(session, user.user_id, "regagg.signup", "user", user.user_id, "")
+        return {"ok": True, "user": _auth.user_public(user), "first_user": first}
+
+    @router.post("/auth/login")
+    def login(req: LoginRequest, response: Response):
+        from sajha.regagg import auth as _auth
+        session = runtime.get_session()
+        user, err = _auth.authenticate(session, req.email, req.password)
+        if err:
+            return {"ok": False, "error": err}
+        _set_session(response, user.user_id)
+        return {"ok": True, "user": _auth.user_public(user)}
+
+    @router.post("/auth/logout")
+    def logout(response: Response):
+        from sajha.regagg import auth as _auth
+        response.delete_cookie(_auth.SESSION_COOKIE)
+        return {"ok": True}
+
+    @router.get("/auth/me")
+    def me(request: Request):
+        from sajha.regagg import auth as _auth
+        user = _current_user(request)
+        if user is None:
+            return {"user": None}
+        return {"user": _auth.user_public(user)}
+
+    # ── personas ────────────────────────────────────────────────────────────
+
+    @router.get("/personas")
+    def personas_list(request: Request, lane: Optional[str] = None):
+        from sajha.regagg import personas as _p
+        user = _require_user(request)
+        return {"personas": _p.list_personas(runtime.get_session(), user.user_id, lane)}
+
+    @router.get("/personas/{persona_id}")
+    def persona_get(persona_id: str, request: Request):
+        from sajha.regagg import personas as _p
+        user = _require_user(request)
+        session = runtime.get_session()
+        p, err = _p.get_persona(session, persona_id, user.user_id)
+        if err:
+            raise HTTPException(404, err)
+        out = _p.persona_dict(session, p)
+        out["entities_preview"] = _p.entity_names(session, persona_id)[:50]
+        out["can_edit"] = p.owner_id == user.user_id
+        return out
+
+    @router.post("/personas")
+    def persona_save(req: PersonaRequest, request: Request):
+        from sajha.regagg import personas as _p
+        user = _require_user(request)
+        session = runtime.get_session()
+        if req.persona_id:
+            existing, err = _p.get_persona(session, req.persona_id, user.user_id)
+            if err:
+                raise HTTPException(404, err)
+            if existing.owner_id != user.user_id:
+                raise HTTPException(403, "Shared personas are view-only.")
+        entities = (_p.parse_entities(req.entities_raw, req.entity_kind)
+                    if req.entities_raw is not None else None)
+        try:
+            p = _p.save_persona(session, owner_id=user.user_id, name=req.name,
+                                lane=req.lane, config=req.config, entities=entities,
+                                persona_id=req.persona_id, shared_with=req.shared_with)
+        except ValueError as e:
+            raise HTTPException(400, str(e))
+        _audit(session, user.user_id, "regagg.persona_save", "persona", p.persona_id,
+               f"v{p.version_n}")
+        return _p.persona_dict(session, p)
 
     @router.get("/coverage")
     def coverage(days: int = 7):

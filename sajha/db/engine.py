@@ -38,6 +38,8 @@ def init_db(settings) -> None:
             url,
             connect_args=connect_args,
             echo=settings.db_echo,
+            pool_size=25, max_overflow=50, pool_timeout=30,
+            pool_recycle=1800, pool_pre_ping=True,
         )
         # Enable WAL mode for better concurrent read performance
         @event.listens_for(_engine, 'connect')

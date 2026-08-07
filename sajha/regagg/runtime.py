@@ -12,6 +12,9 @@ per request; they never hold state between calls (invariant #2).
 
 from __future__ import annotations
 
+import contextvars
+import threading
+
 from typing import Callable, Dict, Optional
 
 from sajha.regagg.config_models import RegulatorConfig
@@ -115,6 +118,39 @@ def get_taxonomy() -> dict:
     return _taxonomy
 
 
+_SESSION_REGISTRY = None
+
+# Sessions are scoped to the REQUEST, not the thread. Thread-scoping pinned one
+# pooled connection per worker thread forever; FastAPI's threadpool is far
+# larger than the QueuePool (5+10), so a busy server exhausted it and every
+# later request blocked for 30s (found by the Playwright suite).
+#
+# A ContextVar is the right key because Starlette copies the request's context
+# into the threadpool when it runs a sync endpoint — so the middleware and the
+# handler agree on the scope, and remove() frees the connection the handler
+# actually used. Falls back to the thread id outside a request (CLI, jobs).
+_REQUEST_SCOPE: "contextvars.ContextVar[object]" = contextvars.ContextVar(
+    "regagg_session_scope", default=None)
+
+
+def _scope_key():
+    return _REQUEST_SCOPE.get() or threading.get_ident()
+
+
+def begin_request_scope() -> None:
+    """Give this request its own session scope (call at request start)."""
+    _REQUEST_SCOPE.set(object())
+
+
+def release_session() -> None:
+    """Return this request's session and its connection to the pool."""
+    if _SESSION_REGISTRY is not None:
+        try:
+            _SESSION_REGISTRY.remove()
+        except Exception:  # noqa: BLE001 — never fail a response on cleanup
+            pass
+
+
 def wire_from_app() -> None:  # pragma: no cover - exercised in the running server
     """Wire providers to the live SAJHA app (call once at startup).
 
@@ -127,7 +163,10 @@ def wire_from_app() -> None:  # pragma: no cover - exercised in the running serv
     from sajha.core.storage import get_storage as _s
     from sajha.regagg.config_loader import load_all
     SessionLocal = scoped_session(
-        sessionmaker(bind=get_engine(), expire_on_commit=False, autoflush=False))
+        sessionmaker(bind=get_engine(), expire_on_commit=False, autoflush=False),
+        scopefunc=_scope_key)
+    global _SESSION_REGISTRY
+    _SESSION_REGISTRY = SessionLocal
     set_providers(session=SessionLocal,
                   storage=lambda: CorpusStorage(_s()),
                   configs=load_all)

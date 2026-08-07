@@ -1,0 +1,1 @@
+Summary: # AI ecosystem's 'circular' investment: risk or advantage?

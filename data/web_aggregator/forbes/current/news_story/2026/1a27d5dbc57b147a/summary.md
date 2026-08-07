@@ -1,0 +1,1 @@
+Summary: # USS Abraham Lincoln Faces Poor Morale From Twice Extended Deployment

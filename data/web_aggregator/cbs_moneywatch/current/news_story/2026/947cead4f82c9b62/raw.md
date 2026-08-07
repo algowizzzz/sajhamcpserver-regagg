@@ -1,0 +1,7 @@
+# Fighting health care insurers
+
+With health insurance companies frequently denying coverage for medically-requested procedures, 73 percent of Americans surveyed say healthcare delays and denials are a major problem. Now, a company called Sheer Health says they will fight insurance battles on behalf of their clients. Correspondent Susan Spencer looks at how a form of insurance against health care denials may benefit consumers. (Originally broadcast April 12, 2026.)
+
+[Read the full story at the source](https://www.cbsnews.com/video/fighting-health-care-insurers/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

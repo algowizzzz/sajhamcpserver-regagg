@@ -277,10 +277,108 @@ class Watermark(Base):
     )
 
 
+# ── product tables: identity, personas, generated pages ─────────────────────
+# Config-shaped data lives in JSONFlex columns (JSONB on Postgres): a persona's
+# scope/salience/presentation is one document, queried with containment rather
+# than joined across a dozen narrow tables. The one thing kept relational is
+# the entity list — a 6,000-name watchlist must JOIN and index, not scan.
+
+class RegUser(Base):
+    """Product user. Named RegUser because the SAJHA core maps its own
+    ``User`` class on this same declarative Base — a duplicate class name
+    breaks string-based relationship resolution for *every* mapper."""
+    __tablename__ = "reg_users"
+    user_id = Column(String(64), primary_key=True)
+    email = Column(String(255), nullable=False, unique=True)
+    display_name = Column(String(120), nullable=False)
+    password_hash = Column(String(255), nullable=False)   # scrypt, salted
+    role = Column(String(16), nullable=False, default="analyst")  # analyst|admin
+    active = Column(Boolean, nullable=False, default=True)
+    created_at = Column(DateTime(timezone=True), nullable=False, default=_utcnow)
+    last_login = Column(DateTime(timezone=True))
+
+    __table_args__ = (
+        CheckConstraint(_in("role", ("analyst", "admin")), name="ck_reg_users_role"),
+        Index("ix_reg_users_email", "email"),
+    )
+
+
+class Persona(Base):
+    __tablename__ = "reg_personas"
+    persona_id = Column(String(64), primary_key=True)
+    owner_id = Column(String(64), nullable=False)
+    name = Column(String(160), nullable=False)
+    lane = Column(String(16), nullable=False, default="news")   # news | regulatory
+    # the whole persona contract in one document:
+    #   {scope:{sectors,topics,classes,rule_families,regions},
+    #    salience:{topic_weights,serious_threshold,noise_floor},
+    #    presentation:{layout,depth,max_items}}
+    config = Column(JSONFlex, nullable=False, default=dict)
+    version_n = Column(Integer, nullable=False, default=1)
+    shared_with = Column(JSONFlex, nullable=False, default=list)  # user_ids, view-only
+    created_at = Column(DateTime(timezone=True), nullable=False, default=_utcnow)
+    updated_at = Column(DateTime(timezone=True), nullable=False, default=_utcnow,
+                        onupdate=_utcnow)
+
+    __table_args__ = (
+        ForeignKeyConstraint(["owner_id"], ["reg_users.user_id"],
+                             name="fk_reg_personas_owner"),
+        CheckConstraint(_in("lane", ("news", "regulatory")), name="ck_reg_personas_lane"),
+        Index("ix_reg_personas_owner", "owner_id", "lane"),
+    )
+
+
+class PersonaEntity(Base):
+    """One watchlist name. Relational on purpose: 6,000 names must index."""
+    __tablename__ = "reg_persona_entities"
+    persona_id = Column(String(64), primary_key=True)
+    canonical = Column(String(255), primary_key=True)
+    kind = Column(String(24), nullable=False, default="obligor")  # obligor|issuer|class
+    meta = Column(JSONFlex, nullable=False, default=dict)         # sector, id, notes
+
+    __table_args__ = (
+        ForeignKeyConstraint(["persona_id"], ["reg_personas.persona_id"],
+                             ondelete="CASCADE", name="fk_reg_persona_entities_persona"),
+        Index("ix_reg_persona_entities_name", "canonical"),
+    )
+
+
+class PersonaVersion(Base):
+    """Immutable snapshot of a persona at save time — 'why did I see this?'."""
+    __tablename__ = "reg_persona_versions"
+    persona_id = Column(String(64), primary_key=True)
+    version_n = Column(Integer, primary_key=True)
+    config = Column(JSONFlex, nullable=False)
+    entity_count = Column(Integer, nullable=False, default=0)
+    created_at = Column(DateTime(timezone=True), nullable=False, default=_utcnow)
+
+
+class PageSpec(Base):
+    """A generated My Day page: the dossier it was built from + the UI spec."""
+    __tablename__ = "reg_page_specs"
+    persona_id = Column(String(64), primary_key=True)
+    day = Column(String(10), primary_key=True)          # logical date
+    lane = Column(String(16), nullable=False)
+    spec = Column(JSONFlex, nullable=False)             # layout + sections + narrative
+    dossier = Column(JSONFlex, nullable=False)          # what the composer was given
+    ledger = Column(JSONFlex, nullable=False)           # matched/quiet/suppressed counts
+    generator = Column(String(32), nullable=False, default="template")  # template|llm
+    persona_version = Column(Integer, nullable=False, default=1)
+    updated_note = Column(Text)                          # intraday "Updated 14:00 …"
+    created_at = Column(DateTime(timezone=True), nullable=False, default=_utcnow)
+    updated_at = Column(DateTime(timezone=True), nullable=False, default=_utcnow,
+                        onupdate=_utcnow)
+
+    __table_args__ = (
+        Index("ix_reg_page_specs_day", "day"),
+    )
+
+
 # Every corpus table, in dependency order (used by verify + reconcile jobs).
 REGAGG_MODELS = [
     Regulator, SeenUrl, Document, DocumentVersion, DocumentTag,
     DocumentEdge, PendingEdge, Run, Watermark,
+    RegUser, Persona, PersonaEntity, PersonaVersion, PageSpec,
 ]
 
 __all__ = [m.__name__ for m in REGAGG_MODELS] + ["REGAGG_MODELS", "JSONFlex"]

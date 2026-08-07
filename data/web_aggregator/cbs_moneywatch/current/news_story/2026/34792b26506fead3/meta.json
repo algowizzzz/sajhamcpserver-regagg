@@ -1,0 +1,25 @@
+{
+  "doc_id": "34792b26506fead3",
+  "regulator_id": "cbs_moneywatch",
+  "doc_type": "news_story",
+  "title": "Chinese EVs pull into the lead",
+  "language": "en",
+  "source_url": "https://www.cbsnews.com/video/chinese-evs-pull-into-the-lead/",
+  "reference_number": null,
+  "published_date": "2026-08-02",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:2993317d16215bead8ca391a093ad8111cb008e29589b6e08b383eb587fec6cf",
+  "version_ts": "2026-08-06T16-59-23Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T16:59:23.949562+00:00",
+  "run_id": "2026-08-06_cbs_moneywatch_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cbs_moneywatch/current/news_story/2026/34792b26506fead3",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.cbsnews.com/video/chinese-evs-pull-into-the-lead/",
+  "fetch_method": "feed_summary"
+}

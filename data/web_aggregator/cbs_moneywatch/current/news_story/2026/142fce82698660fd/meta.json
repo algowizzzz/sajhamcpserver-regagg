@@ -1,0 +1,25 @@
+{
+  "doc_id": "142fce82698660fd",
+  "regulator_id": "cbs_moneywatch",
+  "doc_type": "news_story",
+  "title": "Job cuts plunge to a 2-year low despite AI fears, economic shocks",
+  "language": "en",
+  "source_url": "https://www.cbsnews.com/news/july-layoffs-drop-two-year-low/",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:652d856798f0e954e1b9a118848a60d777b5397faffd39dc3d9bdede0d77cb29",
+  "version_ts": "2026-08-06T16-59-23Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T16:59:23.949562+00:00",
+  "run_id": "2026-08-06_cbs_moneywatch_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cbs_moneywatch/current/news_story/2026/142fce82698660fd",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.cbsnews.com/news/july-layoffs-drop-two-year-low/",
+  "fetch_method": "feed_summary"
+}

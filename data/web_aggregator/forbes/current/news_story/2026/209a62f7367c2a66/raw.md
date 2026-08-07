@@ -1,0 +1,7 @@
+# U.K. Backs Paramount’s $110 Billion Warner Bros. Discovery Deal
+
+Paramount agreed to push back its acquisition amid an antitrust lawsuit.
+
+[Read the full story at the source](https://www.forbes.com/sites/tylerroush/2026/08/06/uk-backs-paramounts-110-billion-warner-bros-discovery-deal/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

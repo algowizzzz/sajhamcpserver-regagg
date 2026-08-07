@@ -159,6 +159,21 @@ class SajhaMCPServerWebApp:
 
         from sajha.regagg.admin import create_admin_router as _regagg_admin_router
 
+        @app.middleware("http")
+        async def _regagg_release_session(request, call_next):
+            """Give each regagg request its own DB session scope, and hand the
+            connection back when the request ends (see runtime.release_session)."""
+            is_regagg = request.url.path.startswith("/api/regagg")
+            if is_regagg:
+                from sajha.regagg import runtime as _rt
+                _rt.begin_request_scope()
+            try:
+                return await call_next(request)
+            finally:
+                if is_regagg:
+                    from sajha.regagg import runtime as _rt
+                    _rt.release_session()
+
         routers = [
             auth_router, dashboard_router, api_router, tools_router,
             admin_router, reporting_router, mcp_router, health_router,

@@ -1,0 +1,25 @@
+{
+  "doc_id": "acaa8574f0932fb0",
+  "regulator_id": "forbes",
+  "doc_type": "news_story",
+  "title": "Build A Monthly Economic Dashboard, Then Skip The Headlines",
+  "language": "en",
+  "source_url": "https://www.forbes.com/sites/billconerly/2026/08/06/build-a-monthly-economic-dashboard-then-skip-the-headlines/",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:aac2952ab727fbd365005b03f8433bb2ebb4504de162086dfa46a4a97a748d9c",
+  "version_ts": "2026-08-06T16-59-23Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T16:59:23.949562+00:00",
+  "run_id": "2026-08-06_forbes_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/forbes/current/news_story/2026/acaa8574f0932fb0",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.forbes.com/sites/billconerly/2026/08/06/build-a-monthly-economic-dashboard-then-skip-the-headlines/",
+  "fetch_method": "feed_summary"
+}

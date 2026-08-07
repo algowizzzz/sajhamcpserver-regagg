@@ -1,0 +1,25 @@
+{
+  "doc_id": "069da96ca49708ed",
+  "regulator_id": "cbs_moneywatch",
+  "doc_type": "news_story",
+  "title": "Meta says its AI model breached a third-party company during testing",
+  "language": "en",
+  "source_url": "https://www.cbsnews.com/news/meta-says-ai-model-breached-third-party-company/",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:19d88d3f97c83809ecb0b45c86d7d4ed684181a7acad75399cff420a9439baec",
+  "version_ts": "2026-08-06T16-59-23Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T16:59:23.949562+00:00",
+  "run_id": "2026-08-06_cbs_moneywatch_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cbs_moneywatch/current/news_story/2026/069da96ca49708ed",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.cbsnews.com/news/meta-says-ai-model-breached-third-party-company/",
+  "fetch_method": "feed_summary"
+}

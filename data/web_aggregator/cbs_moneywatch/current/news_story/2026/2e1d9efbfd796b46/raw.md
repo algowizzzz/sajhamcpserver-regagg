@@ -1,0 +1,7 @@
+# Hugging Face CEO calls hack by rogue OpenAI model "very weird and unprecedented"
+
+An artificial intelligence model that was being tested by OpenAI went rogue and hacked the firm Hugging Face on its own, in what Hugging Face CEO Clément Delangue called a "very weird and unprecedented" incident.
+
+[Read the full story at the source](https://www.cbsnews.com/news/hugging-face-hack-openai-rogue-model/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

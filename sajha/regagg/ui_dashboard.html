@@ -385,6 +385,48 @@
   .step-c span{font-size:11.5px;color:var(--muted);line-height:1.45;display:block}
   .step-c em{font-style:normal;color:var(--blue);font-weight:600;font-size:11px;
     display:block;margin-top:6px;cursor:pointer}
+
+  /* ── auth gate ── */
+  #authGate{position:fixed;inset:0;background:var(--bg);z-index:100;display:none;
+    align-items:center;justify-content:center;padding:20px}
+  #authGate.on{display:flex}
+  .authbox{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+    padding:26px 28px;width:100%;max-width:390px;box-shadow:0 8px 30px rgba(15,40,80,.12)}
+  .authbox h2{font-size:17px;margin-bottom:3px}
+  .authbox .sub{color:var(--muted);font-size:12.5px;margin-bottom:16px;line-height:1.5}
+  .authbox label{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;
+    color:var(--muted);margin:10px 0 4px}
+  .authbox input{width:100%;font:inherit;color:var(--ink);background:var(--surface2);
+    border:1px solid var(--line);border-radius:8px;padding:8px 11px}
+  .authbox input:focus{outline:none;border-color:var(--blue)}
+  .authbox .go{width:100%;margin-top:16px;background:var(--blue);color:#fff;border-radius:9px;
+    padding:9px;font-weight:650;font-size:13px}
+  .authbox .alt{margin-top:12px;font-size:12px;color:var(--muted);text-align:center}
+  .authbox .alt b{color:var(--blue);cursor:pointer}
+  .autherr{margin-top:12px;background:var(--red-soft);color:var(--red);border-radius:8px;
+    padding:8px 11px;font-size:12px;display:none}
+  .autherr.on{display:block}
+  /* ── personas tab ── */
+  .pgrid{display:grid;grid-template-columns:300px 1fr;gap:16px}
+  @media(max-width:900px){.pgrid{grid-template-columns:1fr}}
+  .plist .pitem{border:1px solid var(--line);border-radius:10px;padding:10px 13px;margin-bottom:8px;
+    cursor:pointer;background:var(--surface)}
+  .plist .pitem.on{border-color:var(--blue);box-shadow:0 0 0 1px var(--blue)}
+  .plist .pitem b{font-size:13px;display:block}
+  .plist .pitem span{font-size:11px;color:var(--muted)}
+  .pform label{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;
+    color:var(--muted);margin:12px 0 4px}
+  .pform input,.pform textarea,.pform select{width:100%;font:inherit;color:var(--ink);
+    background:var(--surface2);border:1px solid var(--line);border-radius:8px;padding:7px 10px}
+  .pform textarea{min-height:110px;font:12px ui-monospace,Menlo,monospace;resize:vertical}
+  .pform .row{display:flex;gap:10px}.pform .row>*{flex:1}
+  .pform .hint{font-size:11px;color:var(--muted);margin-top:4px}
+  .pv{background:var(--surface2);border:1px solid var(--line);border-radius:10px;padding:11px 14px;margin-top:14px}
+  .pv h4{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:6px}
+  .pv .r{font-size:12px;padding:2px 0;color:var(--ink2)}
+  .pv .r b{color:var(--ink)}
+  .whoami{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted)}
+  .whoami b{color:var(--ink)}
 </style>
 </head>
 <body>
@@ -394,14 +436,33 @@
     <button class="on" id="nHome" onclick="show('home')">Home</button>
     <button id="nOvw" onclick="show('ovw')">🏛️ Regulatory</button>
     <button id="nNews" onclick="show('newslane')">📰 Financial News</button>
+    <button id="nPer" onclick="show('per')">Personas</button>
   </div>
   <div class="spacer"></div>
   <label style="color:var(--muted);font-size:12px">Window
     <select id="days" onchange="loadAll()"><option>7</option><option>14</option><option>30</option></select>
   </label>
+  <span id="whoami"></span>
   <span class="pill ok" id="integrity">…</span>
   <button class="btn" onclick="openAddDoc()">＋ Add doc</button>
   <button class="btn primary" onclick="runScope('all')">▶ Run all</button>
+</div>
+
+<div id="authGate">
+  <div class="authbox">
+    <h2 id="authTitle">Sign in</h2>
+    <div class="sub" id="authSub">Market &amp; Regulatory Intelligence — on-prem.</div>
+    <label for="authName" id="authNameLabel" style="display:none">Your name</label>
+    <input id="authName" placeholder="Credit Oversight" style="display:none" autocomplete="name">
+    <label for="authEmail">Email</label>
+    <input id="authEmail" type="email" placeholder="you@bank.com" autocomplete="username">
+    <label for="authPw">Password</label>
+    <input id="authPw" type="password" placeholder="at least 10 characters" autocomplete="current-password"
+      onkeydown="if(event.key==='Enter')authSubmit()">
+    <button class="go" id="authGo" onclick="authSubmit()">Sign in</button>
+    <div class="autherr" id="authErr"></div>
+    <div class="alt" id="authAlt">No account? <b onclick="authMode('signup')">Create one</b></div>
+  </div>
 </div>
 
 <div class="lanebar" id="lanebar">
@@ -576,6 +637,41 @@
     </div>
   </div>
 
+  <div class="view" id="v-per">
+    <div class="ptitle" data-t="v-per">Personas</div>
+    <div class="psub">Describe what you are responsible for — the names you follow, the topics that matter,
+      the rules you own. The page shapes itself from that; there is nothing to lay out.
+      Changes apply at the next morning generation.</div>
+    <div class="pgrid">
+      <div>
+        <div class="plist" id="perList"></div>
+        <button class="btn sm primary" style="width:100%" onclick="perNew()">＋ New persona</button>
+      </div>
+      <div class="pform">
+        <div class="row">
+          <div><label for="perName">Name</label><input id="perName" placeholder="Credit Oversight"></div>
+          <div><label for="perLane">Lane</label>
+            <select id="perLane"><option value="news">📰 Financial News</option>
+              <option value="regulatory">🏛️ Regulatory</option></select></div>
+        </div>
+        <label for="perEntities">Watchlist — obligors, issuers, counterparties</label>
+        <textarea id="perEntities" placeholder="Goodfood,consumer&#10;WestJet,airlines&#10;Suncor,energy"></textarea>
+        <div class="hint">One per line, or paste CSV (name, sector). 1 name or 10,000 — matching cost is the same.</div>
+        <div class="row">
+          <div><label for="perTopics">Topic weights</label>
+            <input id="perTopics" placeholder="credit:60, ccr:50, rates:30"></div>
+          <div><label for="perThreshold">Serious threshold</label>
+            <input id="perThreshold" type="number" value="50"></div>
+        </div>
+        <label for="perFamilies">Rule families (regulatory lane)</label>
+        <input id="perFamilies" placeholder="osfi-car, b-13, fincen-aml">
+        <div class="pv" id="perPreview"></div>
+        <button class="btn primary" style="margin-top:14px" onclick="perSave()">Save persona</button>
+        <span id="perMsg" style="margin-left:10px;font-size:12px;color:var(--muted)"></span>
+      </div>
+    </div>
+  </div>
+
   <div class="view" id="v-cov">
     <div class="ptitle" data-t="v-cov">Sources we watch</div>
     <div class="psub">Every source this lane collects from, grouped by region. Open a region to see each source, how many documents we hold from it, when it last ran, and whether it is healthy. Use ▶ Run to collect from one source right now.</div>
@@ -719,7 +815,19 @@ const API="/api/regagg";
 const $=id=>document.getElementById(id);
 const esc=s=>(s??"").toString().replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const fmt=n=>(n??0).toLocaleString();
-async function j(u){const r=await fetch(API+u);if(!r.ok)throw new Error(u+" -> "+r.status);return r.json();}
+async function j(u,{timeout=15000,retries=1}={}){
+  for(let attempt=0;;attempt++){
+    const ac=new AbortController();
+    const timer=setTimeout(()=>ac.abort(),timeout);
+    try{
+      const r=await fetch(API+u,{signal:ac.signal});
+      if(!r.ok)throw new Error(u+" -> "+r.status);
+      return await r.json();
+    }catch(e){
+      if(attempt>=retries)throw e;      // surface it; callers show the failure
+    }finally{clearTimeout(timer);}
+  }
+}
 let _t;function toast(m){const t=$("toast");t.textContent=m;t.classList.add("show");
   clearTimeout(_t);_t=setTimeout(()=>t.classList.remove("show"),2600)}
 /* ── the hierarchy: two lanes, each with its own subtopics ──
@@ -739,19 +847,20 @@ const HOME_OF={ovw:"reg",cov:"reg",brw:"reg",chg:"reg",run:"reg",exp:"reg",
 let LANE=null;                       // which lane the user is inside
 function laneScope(){return LANE?LANES[LANE].cat:null}
 
-function enterLane(lane,view){
+async function enterLane(lane,view){
+  await window.READY;          // the tree drives lane-scoped rendering
   LANE=lane;
   const shared=["brw","cov","chg","run","exp"].includes(view);
   show(view,true,{keepLane:true});
-  if(shared)applyLaneScope(view);
+  if(shared)await applyLaneScope(view);
 }
-function applyLaneScope(view){
+async function applyLaneScope(view){
   if(view==="brw"){window._corpusLoaded=1;
     ["bRegion","bInst","bKind","bType","bStatus","bBand","bQ","bFrom","bTo"]
       .forEach(i=>{if($(i))$(i).value="";});
     if(typeof fillBInsts==="function")fillBInsts();
-    loadCorpus(true);}
-  if(view==="chg"){loadChanges();}
+    await loadCorpus(true);}
+  if(view==="chg"){await loadChanges();}
   if(view==="cov"){renderTree();}
 }
 const RETITLE={news:{"v-cov":["Wires we watch",
@@ -788,23 +897,146 @@ function renderLaneBar(view){
 }
 
 function show(which,push=true,opts={}){
-  const VIEWS=["home","ovw","newslane","feed","cov","brw","exp","chg","run"];
+  const VIEWS=["home","ovw","newslane","feed","cov","brw","exp","chg","run","per"];
   VIEWS.forEach(v=>$("v-"+v).classList.toggle("on",v===which));
-  if(push)location.hash=which==="home"?"":which;
-  if(which==="home")LANE=null;
+  if(push){window._ourHash=which==="home"?"":which;
+           location.hash=window._ourHash;}
+  if(which==="home"||which==="per")LANE=null;
   else if(!opts.keepLane)LANE=HOME_OF[which]||LANE;
   // top bar carries the LANE, not the page — level 2 lives in the lane bar
-  const topOn=which==="home"?"nHome":((LANE||HOME_OF[which])==="news"?"nNews":"nOvw");
-  ["nHome","nOvw","nNews"].forEach(id=>$(id).classList.toggle("on",id===topOn));
+  const topOn=which==="home"?"nHome":which==="per"?"nPer"
+      :((LANE||HOME_OF[which])==="news"?"nNews":"nOvw");
+  ["nHome","nOvw","nNews","nPer"].forEach(id=>$(id).classList.toggle("on",id===topOn));
   renderLaneBar(which);
   retitle(which);
   window.scrollTo(0,0);
   if(which==="newslane"&&!window._newsLaneLoaded){window._newsLaneLoaded=1;loadNewsLane();}
   if(which==="ovw"&&!window._regLaneLoaded){window._regLaneLoaded=1;loadRegLane();}
   if(which==="feed"&&!window._newsLoaded){window._newsLoaded=1;loadNews();}
+  if(which==="per"){loadPersonas();}
   if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
   if(which==="exp"&&!window._expLoaded){window._expLoaded=1;loadExplorer();}
 }
+
+/* ── identity: sign in / sign up ──────────────────────────── */
+let ME=null,AUTHMODE="login";
+function authMode(m){
+  AUTHMODE=m;
+  const signup=m==="signup";
+  $("authTitle").textContent=signup?"Create your account":"Sign in";
+  $("authSub").textContent=signup
+    ? "The first account on a new install becomes the administrator."
+    : "Market & Regulatory Intelligence — on-prem.";
+  $("authGo").textContent=signup?"Create account":"Sign in";
+  $("authName").style.display=$("authNameLabel").style.display=signup?"block":"none";
+  $("authPw").setAttribute("autocomplete",signup?"new-password":"current-password");
+  $("authAlt").innerHTML=signup
+    ? `Already have an account? <b onclick="authMode('login')">Sign in</b>`
+    : `No account? <b onclick="authMode('signup')">Create one</b>`;
+  $("authErr").classList.remove("on");
+}
+async function authSubmit(){
+  const email=$("authEmail").value.trim(),password=$("authPw").value;
+  const body=AUTHMODE==="signup"
+    ? {email,password,display_name:$("authName").value.trim()} : {email,password};
+  try{
+    const r=await fetch(API+`/auth/${AUTHMODE}`,{method:"POST",
+      headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+    const d=await r.json().catch(()=>({}));
+    // expected outcomes come back 200 with ok:false and a human message
+    if(!r.ok||d.ok===false)throw new Error(d.error||d.detail||"Could not sign in.");
+    ME=d.user;$("authGate").classList.remove("on");renderMe();
+    window.READY=loadAll().then(()=>{applyHash();return true;})
+      .catch(err=>{console.error("initial load failed:",err);
+                   toast("Could not load your data — retrying…");
+                   return loadAll().then(()=>{applyHash();return true;});});
+    await window.READY;
+  }catch(e){$("authErr").textContent=e.message;$("authErr").classList.add("on");}
+}
+async function authLogout(){
+  await fetch(API+"/auth/logout",{method:"POST"});
+  ME=null;location.reload();
+}
+function renderMe(){
+  const el=$("whoami");if(!el)return;
+  el.innerHTML=ME?`<span class="whoami"><b>${esc(ME.display_name)}</b>
+    <button class="btn sm" onclick="authLogout()">Sign out</button></span>`:"";
+}
+async function requireAuth(){
+  try{
+    const d=await (await fetch(API+"/auth/me")).json();
+    ME=d.user;
+  }catch(e){ME=null;}
+  if(!ME){authMode("login");$("authGate").classList.add("on");return false;}
+  renderMe();return true;
+}
+
+/* ── personas ─────────────────────────────────────────────── */
+let PERSONAS=[],PERSEL=null;
+function parseWeights(s){
+  const out={};
+  (s||"").split(/[,\n]/).forEach(pair=>{
+    const [k,v]=pair.split(":").map(x=>(x||"").trim());
+    if(k&&v&&!isNaN(+v))out[k.toLowerCase()]=+v;});
+  return out;
+}
+function fmtWeights(o){return Object.entries(o||{}).map(([k,v])=>`${k}:${v}`).join(", ")}
+async function loadPersonas(){
+  if(!ME)return;
+  const d=await j("/personas");
+  PERSONAS=d.personas||[];
+  $("perList").innerHTML=PERSONAS.length?PERSONAS.map(p=>
+    `<div class="pitem ${p.persona_id===PERSEL?"on":""}" onclick="perPick('${p.persona_id}')">
+      <b>${esc(p.name)}</b>
+      <span>${p.lane==="news"?"📰 news":"🏛️ regulatory"} · ${fmt(p.entity_count)} names ·
+        ${esc(p.layout.replace(/_/g," "))}${p.can_edit?"":" · shared, view-only"}</span>
+     </div>`).join(""):`<div class="empty" style="padding:10px">No personas yet — create one.</div>`;
+  if(!PERSEL&&PERSONAS.length)perPick(PERSONAS[0].persona_id);
+  else perPreview();
+}
+async function perPick(id){
+  PERSEL=id;
+  const p=await j(`/personas/${id}`);
+  $("perName").value=p.name;$("perLane").value=p.lane;
+  $("perEntities").value=(p.entities_preview||[]).join("\n");
+  $("perTopics").value=fmtWeights((p.config.salience||{}).topic_weights);
+  $("perThreshold").value=(p.config.salience||{}).serious_threshold??50;
+  $("perFamilies").value=((p.config.scope||{}).rule_families||[]).join(", ");
+  loadPersonas();perPreview(p);
+}
+function perNew(){
+  PERSEL=null;
+  ["perName","perEntities","perTopics","perFamilies"].forEach(i=>$(i).value="");
+  $("perThreshold").value=50;$("perMsg").textContent="";
+  loadPersonas();perPreview();
+}
+function perPreview(p){
+  const names=$("perEntities").value.split("\n").filter(x=>x.trim()).length;
+  const fams=$("perFamilies").value.split(",").filter(x=>x.trim()).length;
+  const layout=names>=50?"exception first":fams?"change first":"narrative first";
+  $("perPreview").innerHTML=`<h4>Preview — how your page will be built</h4>
+    <div class="r">Layout: <b>${layout}</b> — derived from your scope, not chosen</div>
+    <div class="r">Watchlist: <b>${fmt(names)}</b> names · rule families: <b>${fams}</b></div>
+    <div class="r">${names>=50?"A book this size gets an exception report: only names with events, plus a quiet count."
+      :fams?"Rule-family changes lead the page; everything else is context."
+      :"Few names, so the page leads with the day's storyline in prose."}</div>`;
+}
+async function perSave(){
+  const cfg={scope:{rule_families:$("perFamilies").value.split(",").map(x=>x.trim()).filter(Boolean)},
+             salience:{topic_weights:parseWeights($("perTopics").value),
+                       serious_threshold:+$("perThreshold").value||50}};
+  const body={name:$("perName").value.trim()||"Untitled persona",lane:$("perLane").value,
+              config:cfg,entities_raw:$("perEntities").value,persona_id:PERSEL};
+  const r=await fetch(API+"/personas",{method:"POST",
+    headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+  const d=await r.json();
+  if(!r.ok){$("perMsg").textContent=d.detail||"Could not save.";return;}
+  PERSEL=d.persona_id;$("perMsg").textContent=`Saved · v${d.version_n} · ${fmt(d.entity_count)} names`;
+  loadPersonas();
+}
+["perEntities","perFamilies"].forEach(id=>{
+  document.addEventListener("input",e=>{if(e.target&&e.target.id===id)perPreview();});
+});
 
 /* ── executive pages: every section bound to /exec/* ──────── */
 const BAND_C={Critical:"var(--red)",High:"#ec835a",Medium:"var(--amber)",Low:"var(--green)"};
@@ -829,11 +1061,13 @@ function xcolumns(days,onclick){
     <span class="bar" style="height:${Math.max(3,Math.round(d.count/max*70))}px"></span>
     <span class="d">${d.day.slice(5)}</span></div>`).join("");
 }
-function jumpCorpus(region,extra={}){
+async function jumpCorpus(region,extra={}){
+  await window.READY;          // region options come from the coverage tree
   // claim the lazy-load flag FIRST: show() would otherwise fire its own
   // unfiltered fetch whose late response clobbers the filtered one.
   window._corpusLoaded=1;
-  show("brw");
+  LANE=extra.lane||(region==="Financial News"?"news":region?"reg":(LANE||"reg"));
+  show("brw",true,{keepLane:true});
   const set=(id,v)=>{const el=$(id);if(el){el.value=v||"";}};
   set("bRegion",region);
   if(typeof fillBInsts==="function")fillBInsts();
@@ -842,7 +1076,7 @@ function jumpCorpus(region,extra={}){
   if($("bQ"))$("bQ").value="";
   loadCorpus(true);
 }
-function jumpBand(band){jumpCorpus("",{band});}
+function jumpBand(band){return jumpCorpus("",{band,lane:"reg"});}
 
 async function loadHomeExec(){
   const d=await j(`/exec/summary?days=1`);const T=d.tiles;
@@ -1563,14 +1797,32 @@ async function loadAll(){
     $("integrity").textContent=ig.ok?"✓ integrity clean":"✗ integrity issues";
     $("integrity").className="pill "+(ig.ok?"ok":"failed");
   }catch(e){$("integrity").textContent="integrity ?";}
-  loadHomeExec();loadOverview();loadTree();loadChanges();loadRuns();
+  // The tree must finish before any deep link can select a region: the filter
+  // <select> is populated FROM the tree, and setting .value on an empty select
+  // silently does nothing (a deep link then showed the unfiltered corpus).
+  const core=Promise.all([loadHomeExec(),loadTree()]);
+  loadOverview();loadChanges();loadRuns();
+  await core;
 }
-loadAll();
-// hash routing: /ui#corpus, #chg, #run are deep-linkable pages
-const h=location.hash.replace("#","");
-const ALIAS={corpus:"brw",news:"newslane",reg:"ovw",regulatory:"ovw"};
-if(["ovw","news","newslane","feed","cov","brw","chg","run","corpus","exp","reg","regulatory"].includes(h))
-  show(ALIAS[h]||h,false);
+function applyHash(){
+  const h=location.hash.replace("#","");
+  const ALIAS={corpus:"brw",news:"newslane",reg:"ovw",regulatory:"ovw"};
+  if(["ovw","news","newslane","feed","cov","brw","chg","run","corpus","exp",
+      "reg","regulatory","per"].includes(h))show(ALIAS[h]||h,false);
+}
+// Boot: authenticate, load the core data, THEN honour the deep link — a link
+// followed straight into the sign-in screen must still land where it pointed.
+window.addEventListener("hashchange",()=>{
+  const h=location.hash.replace("#","");
+  if(!ME||h===window._ourHash)return;    // ignore our own navigation
+  applyHash();
+});
+window.READY=requireAuth().then(async ok=>{
+  if(!ok)return false;
+  await loadAll();
+  applyHash();
+  return true;
+});
 </script>
 </body>
 </html>

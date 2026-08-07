@@ -1,0 +1,7 @@
+# Chinese EVs pull into the lead
+
+Last year the Chinese car company BYD (which stands for Build Your Dreams) overtook Tesla as the world's top seller of fully electric vehicles, despite the U.S. market being virtually closed to them. Correspondent Seth Doane looks at how China's long-term investments in innovation are paying off in EVs – and how protective tariffs may end up hurting American automakers down the road. (Originally broadcast April 12, 2026.)
+
+[Read the full story at the source](https://www.cbsnews.com/video/chinese-evs-pull-into-the-lead/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

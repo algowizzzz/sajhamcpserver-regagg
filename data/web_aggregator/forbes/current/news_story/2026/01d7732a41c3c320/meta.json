@@ -1,0 +1,25 @@
+{
+  "doc_id": "01d7732a41c3c320",
+  "regulator_id": "forbes",
+  "doc_type": "news_story",
+  "title": "How Chiefs Star Patrick Mahomes And T-Mobile Are Bolstering High School Football",
+  "language": "en",
+  "source_url": "https://www.forbes.com/sites/jefffedotin/2026/08/06/how-chiefs-star-patrick-mahomes-and-t-mobile-are-bolstering-high-school-football/",
+  "reference_number": null,
+  "published_date": "2026-08-06",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:ebfd6f06827525b886e131238e9fa513cc438b7e9412f0358e5e914498055ef5",
+  "version_ts": "2026-08-06T16-59-23Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T16:59:23.949562+00:00",
+  "run_id": "2026-08-06_forbes_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/forbes/current/news_story/2026/01d7732a41c3c320",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.forbes.com/sites/jefffedotin/2026/08/06/how-chiefs-star-patrick-mahomes-and-t-mobile-are-bolstering-high-school-football/",
+  "fetch_method": "feed_summary"
+}

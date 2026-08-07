@@ -1,0 +1,25 @@
+{
+  "doc_id": "d5c384a470231655",
+  "regulator_id": "cbs_moneywatch",
+  "doc_type": "news_story",
+  "title": "\"Peanut butter\" pay raises are out, as employers shift to merit hikes",
+  "language": "en",
+  "source_url": "https://www.cbsnews.com/news/peanut-butter-pay-raises-merit-based-pay-2027/",
+  "reference_number": null,
+  "published_date": "2026-08-05",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:62fc42530a8d4473a61779e70159dcc32c50972fdf334b4724ebdfdda1626c6a",
+  "version_ts": "2026-08-06T16-59-23Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T16:59:23.949562+00:00",
+  "run_id": "2026-08-06_cbs_moneywatch_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/cbs_moneywatch/current/news_story/2026/d5c384a470231655",
+  "tags": [
+    "us"
+  ],
+  "final_url": "https://www.cbsnews.com/news/peanut-butter-pay-raises-merit-based-pay-2027/",
+  "fetch_method": "feed_summary"
+}

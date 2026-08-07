@@ -1,0 +1,26 @@
+{
+  "run_id": "2026-08-06_sky_business_live",
+  "regulator_id": "sky_business",
+  "logical_date": "2026-08-06",
+  "trigger": "schedule",
+  "detected": 9,
+  "fetched": 9,
+  "ingested": 9,
+  "archived": 0,
+  "deduped": 0,
+  "errors": 0,
+  "status": "success",
+  "error_list": [],
+  "detected_urls": [
+    "https://news.sky.com/story/uk-gives-effective-green-light-to-paramount-warner-bros-mega-deal-after-assurances-provided-13570373",
+    "https://news.sky.com/story/uber-robotaxis-set-for-london-debut-after-getting-minicab-licences-13570109",
+    "https://news.sky.com/story/half-of-parents-dont-know-about-school-uniform-rule-change-this-september-13570257",
+    "https://news.sky.com/story/brutal-harvest-could-be-worst-on-record-heres-what-it-means-for-uks-food-production-13569714",
+    "https://news.sky.com/story/starlink-could-deliver-majority-of-worlds-internet-within-10-years-says-elon-musk-13569854",
+    "https://news.sky.com/story/oil-giant-bp-profits-more-than-double-due-to-iran-war-again-13569593",
+    "https://news.sky.com/story/husband-and-wifes-food-halls-seek-blend-with-london-stock-market-13569965",
+    "https://news.sky.com/story/americas-biggest-food-distributor-cuts-suppliers-as-explosive-diarrhoea-cases-rise-13569893",
+    "https://news.sky.com/story/hmrc-repays-50m-to-thousands-of-pension-savers-how-to-see-if-youve-overpaid-tax-13570347"
+  ],
+  "duration_s": 0.597
+}

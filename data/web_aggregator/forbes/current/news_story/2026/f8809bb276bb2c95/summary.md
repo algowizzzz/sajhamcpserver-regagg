@@ -1,0 +1,1 @@
+Summary: # Karina Of Aespa Named Newest Global Face Of Converse

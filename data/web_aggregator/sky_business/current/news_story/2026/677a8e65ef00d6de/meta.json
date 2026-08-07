@@ -1,0 +1,25 @@
+{
+  "doc_id": "677a8e65ef00d6de",
+  "regulator_id": "sky_business",
+  "doc_type": "news_story",
+  "title": "'Brutal' harvest hits food production as Britain warned national security under threat",
+  "language": "en",
+  "source_url": "https://news.sky.com/story/brutal-harvest-could-be-worst-on-record-heres-what-it-means-for-uks-food-production-13569714",
+  "reference_number": null,
+  "published_date": "2026-08-04",
+  "effective_date": null,
+  "comment_deadline": null,
+  "status": "final",
+  "content_hash": "sha256:c96bd6d810bcd3ce599015d7cb33ff4fb54517ccb28fe7d9ea7a003416e355b1",
+  "version_ts": "2026-08-06T16-59-23Z",
+  "version_n": 1,
+  "ingested_at": "2026-08-06T16:59:23.949562+00:00",
+  "run_id": "2026-08-06_sky_business_live",
+  "ocr": false,
+  "s3_prefix": "data/web_aggregator/sky_business/current/news_story/2026/677a8e65ef00d6de",
+  "tags": [
+    "uk"
+  ],
+  "final_url": "https://news.sky.com/story/brutal-harvest-could-be-worst-on-record-heres-what-it-means-for-uks-food-production-13569714",
+  "fetch_method": "feed_summary"
+}

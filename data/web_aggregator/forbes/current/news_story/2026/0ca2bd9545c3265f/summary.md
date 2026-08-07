@@ -1,0 +1,1 @@
+Summary: # The ‘Ted Lasso’ Season 4 Rotten Tomatoes Review Score Is In

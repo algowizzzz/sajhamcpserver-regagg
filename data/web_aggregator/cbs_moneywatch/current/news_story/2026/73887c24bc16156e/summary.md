@@ -1,0 +1,1 @@
+Summary: # Flights canceled as WestJet flight attendants strike over pay dispute

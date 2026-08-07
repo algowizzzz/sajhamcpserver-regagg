@@ -1,0 +1,7 @@
+# Resistance grows nationwide against AI data center boom
+
+To fuel their artificial intelligence initiatives, tech companies are building massive numbers of AI data centers, with more than 4,000 in operation across the country. But some communities, wary of the environmental and financial implications of such facilities in their backyards, are fighting back. "Sunday Morning" national correspondent Robert Costa examines the drive to construct AI data centers, and the debate between opponents and AI advocates. (Originally broadcast April 12, 2026.)
+
+[Read the full story at the source](https://www.cbsnews.com/video/resistance-grows-nationwide-against-ai-data-center-boom/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,0 +1,1 @@
+Summary: # Senate Committee Passes Fauci Contempt Resolution—Fauci’s Lawyer Calls It ‘Meritless’

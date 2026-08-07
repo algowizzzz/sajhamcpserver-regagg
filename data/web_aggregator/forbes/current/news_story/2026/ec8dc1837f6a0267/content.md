@@ -1,0 +1,7 @@
+# ‘Spider-Man: Brand New Day’ Sets An IMDB Review Score Record
+
+In addition to tying Shang-Chi: The Legend of the Ten Rings with a 98% Rotten Tomatoes audience score at 98%, Spider-Man: Brand New Day has also set a record on IMDB based on user scores,
+
+[Read the full story at the source](https://www.forbes.com/sites/paultassi/2026/08/06/spider-man-brand-new-day-sets-an-imdb-review-score-record/)
+
+> Headline and summary as published in the source's public feed; full text remains at the publisher.

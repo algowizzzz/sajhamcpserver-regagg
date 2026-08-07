@@ -1,0 +1,1 @@
+Summary: # Perez Hilton Is ‘Able To Communicate,’ Family Says After Hospitalization
