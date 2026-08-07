@@ -163,15 +163,28 @@ class CorpusChangesTool(_CorpusTool):
         since = arguments.get("since")
         lane = arguments.get("lane")
         limit = int(arguments.get("limit", 40))
+        # A source filter has to bite here. Silently returning every source when
+        # one was asked for reads as "nothing changed at OSFI" — a wrong answer
+        # dressed as an empty one.
+        wanted = arguments.get("source")
+        wanted = ({s.lower() for s in wanted} if isinstance(wanted, list)
+                  else {wanted.lower()} if wanted else None)
         try:
             from sajha.regagg import queries_ui, runtime
             session = runtime.get_session()
             days = int(arguments.get("days", 7))
             data = queries_ui.changes(session, days=days,
                                       category=lane, min_band=arguments.get("min_band"))
-            items = data.get("changes", [])[:limit]
-            return {"days": days, "lane": lane, "count": len(items),
-                    "counts": data.get("counts"), "changes": items,
+            items = data.get("changes", [])
+            if wanted:
+                items = [c for c in items
+                         if str(c.get("regulator_id", "")).lower() in wanted]
+            items = items[:limit]
+            return {"days": days, "lane": lane,
+                    "source": sorted(wanted) if wanted else None,
+                    "count": len(items),
+                    "counts": None if wanted else data.get("counts"),
+                    "changes": items,
                     "note": "kind 'new' means first collected (which on a first "
                             "crawl includes older documents); 'revised' means the "
                             "text changed and a diff exists"}

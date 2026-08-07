@@ -132,3 +132,39 @@ def test_trigger_tool_uses_runtime_trigger(corpus):
     out = RegTriggerRunTool(config={"name": "reg_trigger_run"}).execute(
         {"regulator_id": ["osfi"], "max_docs": 5})
     assert out["stub"] and calls["ids"] == ["osfi"] and calls["max_docs"] == 5
+
+
+def test_corpus_changes_honours_the_source_filter(corpus, seed_regulator, session, storage):
+    """A source filter that does nothing turns a wrong answer into an empty one.
+
+    The agent asked corpus_changes for OSFI and got fedreg and news items back,
+    then had to reconstruct the answer by hand and say so. An ignored filter is
+    worse than a missing one: the caller believes the result is scoped.
+    """
+    from sajha.tools.impl.corpus_tools import CorpusChangesTool
+
+    seed_regulator("fedreg", "US", "sitemap_diff")
+    CorpusVersioning(session, storage).ingest(
+        IngestInput(regulator_id="fedreg", doc_type="final_rule", title="A US rule",
+                    content_md="# rule\nunrelated", source_url="https://fedreg/1"),
+        run_id="r", now=NOW)
+
+    tool = CorpusChangesTool(config={"name": "corpus_changes"})
+    everything = tool.execute({"days": 30})
+    assert {c["regulator_id"] for c in everything["changes"]} >= {"osfi", "fedreg"}
+
+    scoped = tool.execute({"days": 30, "source": "osfi"})
+    assert scoped["changes"], "OSFI has changes in the window"
+    assert {c["regulator_id"] for c in scoped["changes"]} == {"osfi"}
+    assert scoped["source"] == ["osfi"]
+
+    # a list of sources works, and an unknown source returns nothing, not everything
+    both = tool.execute({"days": 30, "source": ["osfi", "fedreg"]})
+    assert {c["regulator_id"] for c in both["changes"]} == {"osfi", "fedreg"}
+    assert tool.execute({"days": 30, "source": "nosuchsource"})["changes"] == []
+
+
+def test_corpus_changes_advertises_the_source_filter():
+    """The model can only use a filter the schema tells it about."""
+    cfg = json.loads(Path("config/tools/corpus_changes.json").read_text())
+    assert "source" in cfg["inputSchema"]["properties"]

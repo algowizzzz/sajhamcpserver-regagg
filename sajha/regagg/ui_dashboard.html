@@ -714,7 +714,7 @@
       <span class="x" onclick="this.parentElement.style.display='none'" title="dismiss">×</span>
     </div>
     <div class="xtiles" id="xhTiles"></div>
-    <div class="lanes" id="xhLanes"></div>
+    <div class="lanes scrollbox" id="xhLanes"></div>
     <div class="xgrid">
       <div class="xcard"><h3 id="xhRegionsHead">Corpus by coverage area</h3>
         <div id="xhRegions" class="empty">loading…</div>
@@ -757,7 +757,7 @@
       <div class="xcard"><h3>Deepest holdings <span class="plain" id="xrLeagueSub"></span></h3>
         <div class="xlegend"><span><i style="background:var(--blue)"></i>documents</span>
           <span><i style="background:var(--muted)"></i>of which policy PDFs</span></div>
-        <div id="xrLeague" class="empty">loading…</div>
+        <div id="xrLeague" class="empty scrollbox short">loading…</div>
         <div class="xnote" id="xrLeagueNote"></div></div>
       <div class="xcard"><h3>What the corpus contains — by document type</h3>
         <div id="xrTypes" class="empty">loading…</div>
@@ -776,22 +776,24 @@
     </div>
     <div class="xcard"><h3>Where to go next</h3>
       <div class="jump">
-        <a onclick="show('cov')"><b>Coverage tree →</b><span>Every regulator by region, with freshness and per-source run controls</span></a>
-        <a onclick="jumpCorpus('')"><b>Browse the corpus →</b><span>Filter 5,969 documents by region, institution, type, band and date</span></a>
-        <a onclick="show('chg')"><b>Changes feed →</b><span>What was published or revised, priority-ranked</span></a>
-        <a onclick="show('run')"><b>Collection runs →</b><span>Daily run health, pass rate, live progress</span></a>
-        <a onclick="show('exp')"><b>File explorer →</b><span>The raw archive as a nested folder tree</span></a>
-        <a onclick="enterLane('reg','run')"><b>Run collection →</b><span>Trigger a run for one source or all, and add a document by hand</span></a>
+        <a onclick="enterLane('reg','myday')"><b>My Day →</b><span>Your persona's page: what matters today, ranked, with the reason</span></a>
+        <a onclick="enterLane('reg','cov')"><b>Regulators →</b><span>All 30 sources by region, with freshness and per-source runs</span></a>
+        <a onclick="enterLane('reg','brw')"><b>Documents →</b><span>Filter the corpus by region, institution, type, priority and date</span></a>
+        <a onclick="enterLane('reg','chg')"><b>What changed →</b><span>First collections and revisions, priority-ranked, with diffs</span></a>
+        <a onclick="enterLane('reg','run')"><b>Collection →</b><span>Run a source or all, add a document, watch progress and trends</span></a>
+        <a onclick="enterLane('reg','exp')"><b>Files →</b><span>The raw archive as it sits on disk, for audit</span></a>
       </div></div>
     <div id="ovwHead" class="headline" style="display:none"></div>
     <div class="tiles" id="ovwTiles" style="display:none"></div>
+    <div class="halfgrid">
     <div id="ovwPriority" class="scrollbox"></div>
     <div class="simple-card">
       <div class="simple-head"><b>Sources</b>
         <span style="color:var(--muted);font-size:12px">what we hold from each regulator — click a row to browse it</span>
         <span class="spacer" style="flex:1"></span>
         <button class="btn sm" onclick="show('cov')">Detailed coverage →</button></div>
-      <div id="ovwTable" class="empty">loading…</div>
+      <div id="ovwTable" class="empty scrollbox">loading…</div>
+    </div>
     </div>
   </div>
 
@@ -804,7 +806,7 @@
     <div class="xtiles" id="xnTiles"></div>
     <div class="xgrid">
       <div class="xcard"><h3>The credit-analyst ranking lens</h3>
-        <div id="xnLens" class="empty">loading…</div>
+        <div id="xnLens" class="empty scrollbox short">loading…</div>
         <div class="xnote">Bar length and the number on the right are the topic's <b>weight</b> —
           how much a story of that kind moves credit risk. The figure in brackets is how many of
           <b>today's</b> stories landed in that bucket. A story's final rank adds keyword density and a
@@ -976,7 +978,7 @@
       <button class="btn sm" onclick="loadExplorer()">↻ Refresh</button>
     </div>
     <div style="background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
-         box-shadow:var(--shadow);padding:10px 8px"><div id="fsTree" class="empty">loading…</div></div>
+         box-shadow:var(--shadow);padding:10px 8px"><div id="fsTree" class="empty scrollbox">loading…</div></div>
   </div>
 
   <div class="view" id="v-chg">
@@ -1223,9 +1225,9 @@ async function loadMyDay(day){
     if(MYDAY_PID)qs.set("persona_id",MYDAY_PID);
     const page=await j(`/myday${qs.toString()?`?${qs}`:""}`);
     MYDAY=page;MYDAY.all_personas=inLane;
-  }catch(e){el.className="";el.innerHTML=`<div class="md-empty"><h3>Could not build your page</h3>
+  }catch(e){el.classList.remove("empty");el.innerHTML=`<div class="md-empty"><h3>Could not build your page</h3>
     <p>${esc(e.message)}</p></div>`;return;}
-  el.className="";
+  el.classList.remove("empty");
   if(!MYDAY.persona){
     let starters=[];
     try{starters=(await j(`/personas/starters`)).starters||[];}catch(e){}
@@ -1306,9 +1308,9 @@ async function loadDesks(){
   const el=$("desksBody");
   let d;
   try{d=await j(`/desks`);}catch(e){
-    el.className="";el.innerHTML=`<div class="md-empty"><h3>Could not load desks</h3>
+    el.classList.remove("empty");el.innerHTML=`<div class="md-empty"><h3>Could not load desks</h3>
       <p>${esc(e.message)}</p></div>`;return;}
-  el.className="";
+  el.classList.remove("empty");
   if(!d.desks.length){
     el.innerHTML=`<div class="md-empty"><h3>No desks yet</h3>
       <p>Each persona you create appears here as a desk.</p>
@@ -1501,7 +1503,6 @@ async function loadHealth(){
         <td><span class="pill ${esc(i.status)}">${esc(i.status)}</span></td>
         <td>${esc(i.last_run?new Date(i.last_run).toLocaleString():"never")}</td></tr>`).join("")+`</table>`
     : `<div class="md-quiet"><b>All sources fresh.</b> None past its staleness window.</div>`;
-  const gen=(R.today_failing!=null)?R:{};
   $("heaGen").innerHTML=`<div class="md-quiet">
     Daily pages are generated per persona and cached — one truth per day, read-only.
     Generator in use: <b>${esc(window.GENERATOR||"template (deterministic)")}</b>.
@@ -1509,9 +1510,10 @@ async function loadHealth(){
     a page that fails validation falls back to the deterministic template rather than shipping.</div>`;
   $("heaRuns").innerHTML=$("runFeed")?$("runFeed").innerHTML:"";
   if(!$("heaRuns").innerHTML){
-    $("heaRuns").innerHTML=`<div class="md-quiet">${fmt(R.today||0)} runs today ·
-      pass rate ${R.pass_rate??"—"}% · ${fmt(R.today_failing||0)} failing.
-      Full run history is on the Collection runs page.</div>`;}
+    const t=R.today||{}, failing=(R.today_failing||[]).length;
+    $("heaRuns").innerHTML=`<div class="md-quiet">${fmt(t.runs||0)} runs today ·
+      pass rate ${t.pass_rate??"—"}% · ${fmt(t.new_docs||0)} new docs ·
+      ${fmt(failing)} failing. Full run history is on the Collection page.</div>`;}
 }
 
 /* ── identity: sign in / sign up ──────────────────────────── */
@@ -1776,7 +1778,7 @@ async function loadHomeExec(){
         <div><b>${L.news.collecting}/${L.news.sources}</b><span>wires collecting</span></div>
         <div><b>${fmt((d.news_volume.slice(-1)[0]||{}).count||0)}</b><span>latest day</span></div></div></div>`;
   $("xhRegionsHead").innerHTML=`Corpus by coverage area <span class="plain">— ${fmt(T.documents)} documents</span>`;
-  $("xhRegions").className="";
+  $("xhRegions").classList.remove("empty");
   $("xhRegions").innerHTML=xbars(d.regions.map(r=>({label:r.region,value:r.count})),
     {click:r=>`jumpCorpus('${r.label}')`});
   $("xhBands").innerHTML=xbars(["Critical","High","Medium","Low"].filter(b=>d.bands[b])
@@ -1804,13 +1806,13 @@ async function loadRegLane(){
     xtile(fmt(T.archived),"rule changes archived")+
     xtile(fmt(d.bands.Critical||0),"critical band","bad");
   $("xrLeagueSub").textContent=`— top ${d.league.length} of ${d.league.length+d.league_rest}`;
-  $("xrLeague").className="";
+  $("xrLeague").classList.remove("empty");
   $("xrLeague").innerHTML=xbars(d.league.map(r=>({
       label:r.regulator_id.toUpperCase(),title:`${r.name} (${r.jurisdiction})`,
       value:r.documents,sub:r.policy_pdfs})),
     {labelWidth:110,click:r=>`jumpCorpus('',{inst:'${r.label.toLowerCase()}'})`});
   $("xrLeagueNote").textContent=`+ ${d.league_rest} more regulators. Click a bar to browse that regulator's documents.`;
-  $("xrTypes").className="";
+  $("xrTypes").classList.remove("empty");
   $("xrTypes").innerHTML=xbars(d.doc_types.map(x=>({label:x.doc_type.replace(/_/g," "),value:x.count})),
     {labelWidth:120,click:r=>`jumpCorpus('',{doc_type:'${r.label.replace(/ /g,"_")}'})`});
   $("xrBands").innerHTML=xbars(["Critical","High","Medium","Low"].filter(b=>d.bands[b])
@@ -1838,7 +1840,7 @@ async function loadNewsLane(){
     xtile(`${T.reporting_today}/${T.sources}`,"wires reporting today")+
     xtile(T.cap,"daily cap per wire")+
     xtile(T.scraped,"articles scraped","up");
-  $("xnLens").className="";
+  $("xnLens").classList.remove("empty");
   $("xnLens").innerHTML=xbars(d.lens.map(x=>({
       label:`${x.label}${x.count?` (${x.count})`:""}`,value:x.weight,dot:1,
       key:x.key,title:`${x.label}: weight ${x.weight}; ${x.count} stories today`})),
@@ -1900,7 +1902,7 @@ function renderNews(){
   const list=nwFiltered();
   const top=list.slice(0,10);
   $("nwTopTitle").textContent=`Top stories — ${NW.day||""}`;
-  $("nwTop").className="";
+  $("nwTop").classList.remove("empty");
   $("nwTop").innerHTML=top.length?top.map((s,i)=>storyRow(s,i)).join(""):`<div class="empty">no stories match</div>`;
   const rest=list.slice(10),byT={};
   for(const s of rest)(byT[s.topic_label]=byT[s.topic_label]||[]).push(s);
@@ -1915,7 +1917,7 @@ function renderNews(){
 /* ── file explorer (nested corpus tree) ───────────────────── */
 const fmtSize=b=>b==null?"":b<1024?b+" B":b<1048576?(b/1024).toFixed(0)+" KB":(b/1048576).toFixed(1)+" MB";
 async function loadExplorer(){
-  $("fsTree").className="";
+  $("fsTree").classList.remove("empty");
   $("fsTree").innerHTML=await fsChildren("");
 }
 async function fsChildren(path){
@@ -2024,8 +2026,8 @@ async function loadOverview(){
       :`<div class="empty">Nothing high-priority in the last ${o.priority_days} days — ${fmt(t.new)} routine documents collected today.</div>`}
   </div>`;
   // flat regulator table
-  $("ovwTable").className="";
-  $("ovwTable").innerHTML=`<table><tr><th>Regulator</th><th>Region</th>
+  $("ovwTable").classList.remove("empty");
+  $("ovwTable").innerHTML=`<table><tr><th>Data source</th><th>Region</th>
     <th class="num">Web pages</th><th class="num">Policy PDFs</th>
     <th class="num">New today</th><th>Status</th></tr>`+
     o.regulators.map(r=>`<tr style="cursor:pointer" onclick="browseMore('${r.regulator_id}','web')">
@@ -2059,7 +2061,7 @@ function renderTree(){
     tile(`${fmt(tot.web)} / ${fmt(tot.pdf)}`,"web pages / policy PDFs")+
     tile(`+${fmt(tot.new)}`,`new in ${days}d`,"up")+
     tile(fmt(t.regions.reduce((a,r)=>a+r.rollup.attention,0)),"need attention","warn");
-  $("tree").className="";
+  $("tree").classList.remove("empty");
   $("tree").innerHTML=t.regions.map((r,i)=>{
     const ru=r.rollup;
     return `<div class="region" id="rg${i}">
@@ -2186,7 +2188,7 @@ async function loadCorpus(reset=false){
   $("bCount").textContent=`${fmt(from)}–${fmt(to)} of ${fmt(data.total)} documents`;
   $("bCount").dataset.render=String((+($("bCount").dataset.render||0))+1);
   $("bPrev").disabled=_bOffset<=0; $("bNext").disabled=to>=data.total;
-  $("bTable").className="";
+  $("bTable").classList.remove("empty");
   $("bTable").innerHTML=`<table><tr><th>Document</th><th>Institution</th><th>Type</th>
     <th>Status</th><th>File</th><th>Published</th><th>Added</th><th class="num">Ver</th></tr>`+
     data.documents.map(d=>`<tr style="cursor:pointer" onclick='openDoc("${d.regulator_id}","${d.doc_id}")'>
@@ -2274,7 +2276,7 @@ async function loadChanges(){
     tile(fmt(c.counts.deadline||0),"deadlines ahead","warn");
   const byDay={};
   for(const ch of c.changes){(byDay[(ch.at||"").slice(0,10)] ||= []).push(ch)}
-  $("chgFeed").className="";
+  $("chgFeed").classList.remove("empty");
   $("chgFeed").innerHTML=Object.entries(byDay).map(([day,items])=>
     `<div class="day">${day}</div>`+items.map(chgCard).join("")).join("")
     ||"<div class='empty'>no changes in this window</div>";
@@ -2331,8 +2333,8 @@ async function loadRuns(){
       <span style="color:var(--muted);font-size:11.5px">detected ${fmt(r.detected)} · fetched ${fmt(r.fetched)} · ingested ${fmt(r.ingested)} · errors ${r.errors}</span>
     </div>`}).join("")
     :`<div class="live" style="border-style:dashed"><span style="color:var(--muted)">No run active — pick a source above and press ▶ Run. Progress appears here.</span></div>`;
-  $("recentRuns").className="";
-  $("recentRuns").innerHTML=`<table><tr><th>Regulator</th><th>Date</th><th>Trigger</th><th>Status</th>
+  $("recentRuns").classList.remove("empty");
+  $("recentRuns").innerHTML=`<table><tr><th>Data source</th><th>Date</th><th>Trigger</th><th>Status</th>
     <th class="num">Detected</th><th class="num">Fetched</th><th class="num">Ingested</th>
     <th class="num">Archived</th><th class="num">Errors</th></tr>`+
     o.recent.map(r=>`<tr><td><b>${r.regulator_id}</b></td><td>${r.logical_date}</td>
@@ -2341,7 +2343,7 @@ async function loadRuns(){
       <td class="num">${fmt(r.detected)}</td><td class="num">${fmt(r.fetched)}</td>
       <td class="num"><b>${fmt(r.ingested)}</b></td><td class="num">${fmt(r.archived)}</td>
       <td class="num">${r.errors||0}</td></tr>`).join("")+`</table>`;
-  $("delta").className="";
+  $("delta").classList.remove("empty");
   $("delta").innerHTML=`<table><tr><th>Date</th><th class="num">Runs</th>
     <th class="num">New docs</th><th class="num">Versions archived</th><th class="num">Errors</th></tr>`+
     o.daily_delta.map(d=>`<tr><td><b>${d.date}</b></td><td class="num">${d.runs}</td>

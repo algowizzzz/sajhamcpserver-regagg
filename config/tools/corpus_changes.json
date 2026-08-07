@@ -11,6 +11,20 @@
         "type": "integer",
         "default": 7
       },
+      "source": {
+        "description": "Restrict to one or more source ids (e.g. 'osfi'). Use corpus_list_sources to get valid ids.",
+        "oneOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        ]
+      },
       "lane": {
         "type": "string",
         "enum": [
