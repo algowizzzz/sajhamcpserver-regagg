@@ -21,7 +21,7 @@ test.describe('My Day — the generated page', () => {
   test.beforeEach(async ({ page }) => { await signup(page); });
 
   test('with no persona it asks you to create one, and links there', async ({ page }) => {
-    await page.locator('#nMyd').click();
+    await page.evaluate(() => enterLane('news', 'myday'));
     await expect(page.locator('#mydayBody')).toContainText('Tell us what you follow');
     // starters are the fast path; building from scratch is still one click
     await expect(page.locator('.starter')).toHaveCount(3);
@@ -31,7 +31,7 @@ test.describe('My Day — the generated page', () => {
 
   test('builds a page from real corpus data with a coverage ledger', async ({ page }) => {
     await makePersona(page, { name: 'Credit book', entities: 'Goodfood\nWestJet\nSuncor' });
-    await page.locator('#nMyd').click();
+    await page.evaluate(() => enterLane('news', 'myday'));
     await expect(page.locator('.md-lede')).toBeVisible();
     // the ledger must reconcile and must state the quiet count
     const ledger = await page.locator('.md-ledger').textContent();
@@ -42,7 +42,7 @@ test.describe('My Day — the generated page', () => {
 
   test('a credit event outranks market noise and is marked serious', async ({ page }) => {
     await makePersona(page, { name: 'Credit book', entities: 'Goodfood\nWestJet' });
-    await page.locator('#nMyd').click();
+    await page.evaluate(() => enterLane('news', 'myday'));
     // pin the day the corpus holds this event: the test is about RANKING,
     // not about what happened to be published the morning it runs
     await page.evaluate(() => loadMyDay('2026-08-06'));
@@ -56,10 +56,10 @@ test.describe('My Day — the generated page', () => {
 
   test('the page is read-only and stable: reopening shows the same page', async ({ page }) => {
     await makePersona(page, { name: 'Stable', entities: 'Goodfood' });
-    await page.locator('#nMyd').click();
+    await page.evaluate(() => enterLane('news', 'myday'));
     const lede = await page.locator('.md-lede').textContent();
     await page.locator('#nHome').click();
-    await page.locator('#nMyd').click();
+    await page.evaluate(() => enterLane('news', 'myday'));
     await expect(page.locator('.md-lede')).toHaveText(lede);
     await expect(page.locator('.md-head .day')).toContainText('read-only');
   });
@@ -67,7 +67,7 @@ test.describe('My Day — the generated page', () => {
   test('a regulatory persona reports rule families as unchanged, not silent', async ({ page }) => {
     await makePersona(page, { name: 'Rules', entities: '', lane: 'regulatory',
                               families: 'osfi-car, b-13' });
-    await page.locator('#nMyd').click();
+    await page.evaluate(() => enterLane('news', 'myday'));
     // wait for the generated page itself — the empty state also mentions
     // "rule families" in a starter blurb, so that phrase alone proves nothing
     await expect(page.locator('.md-head b')).toHaveText('Rules');
@@ -78,7 +78,7 @@ test.describe('My Day — the generated page', () => {
 
   test('cards open their evidence', async ({ page }) => {
     await makePersona(page, { name: 'Evidence', entities: 'Goodfood' });
-    await page.locator('#nMyd').click();
+    await page.evaluate(() => enterLane('news', 'myday'));
     await page.evaluate(() => loadMyDay('2026-08-06'));
     await expect(page.locator('.md-ev').first()).toBeVisible({ timeout: 25000 });
     await page.locator('.md-ev').first().click();
@@ -88,7 +88,7 @@ test.describe('My Day — the generated page', () => {
   test('a big book gets exception framing, a small one gets narrative', async ({ page }) => {
     await makePersona(page, { name: 'Book',
       entities: ['Goodfood', ...Array.from({length:80},(_,i)=>`Obligor ${i}`)].join('\n') });
-    await page.locator('#nMyd').click();
+    await page.evaluate(() => enterLane('news', 'myday'));
     await expect(page.locator('.md-head .chip')).toContainText('exception first');
     await expect(page.locator('.md-lede')).toContainText('were quiet');
   });
@@ -150,12 +150,16 @@ test.describe('Ask — grounded chat', () => {
     await page.locator('#perEntities').fill('Goodfood');
     await page.locator('button:has-text("Save persona")').click();
     await expect(page.locator('#perMsg')).toContainText('Saved');   // then navigate
-    await page.locator('#nMyd').click();
+    await page.evaluate(() => enterLane('news', 'myday'));
     await page.evaluate(() => loadMyDay('2026-08-06'));
     await expect(page.locator('.md-ev').first()).toBeVisible({ timeout: 25000 });
     await page.locator('.md-ev').first().click();
     // the drawer opening confirms the card resolved its evidence
     await expect(page.locator('#drawer')).toBeVisible({ timeout: 25000 });
+    // the drawer is modal and covers the nav — close it before navigating,
+    // exactly as a person would
+    await page.locator('.drclose').click();
+    await expect(page.locator('#drawer')).not.toHaveClass(/show/);
     await page.locator('#nAsk').click();
     await expect(page.locator('#askCtx')).toContainText('story cluster');
   });
@@ -171,7 +175,7 @@ test.describe('ambiguous name matches', () => {
     await page.locator('#perEntities').fill('Goodfood');
     await page.locator('button:has-text("Save persona")').click();
     await expect(page.locator('#perMsg')).toContainText('Saved');
-    await page.locator('#nMyd').click();
+    await page.evaluate(() => enterLane('news', 'myday'));
     await page.evaluate(() => loadMyDay('2026-08-06'));
     // the item must be on the page at all — that is the whole point
     await expect(page.locator('.md-ev').first()).toBeVisible({ timeout: 25000 });

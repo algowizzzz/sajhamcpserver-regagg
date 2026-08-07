@@ -20,10 +20,18 @@ test.describe('two-level navigation and lane scoping', () => {
     await page.locator('#nNews').click();
     await expect(page.locator('#lanebar')).toBeVisible();
     await expect(page.locator('#laneWho')).toContainText('Financial News');
-    await expect(page.locator('#laneTabs button')).toHaveCount(5);
+    // each lane carries its own My Day, so the counts include it
+    const newsTabs = await page.locator('#laneTabs button').allTextContents();
+    expect(newsTabs).toContain('My Day');
+    expect(newsTabs).toContain("Today's stories");
+    expect(newsTabs).toContain('Wires');
+
     await page.locator('#nOvw').click();
     await expect(page.locator('#laneWho')).toContainText('Regulatory');
-    await expect(page.locator('#laneTabs button')).toHaveCount(6);
+    const regTabs = await page.locator('#laneTabs button').allTextContents();
+    expect(regTabs).toContain('My Day');
+    expect(regTabs).toContain('Regulators');
+    expect(regTabs).toContain('What changed');
   });
 
   test('shared pages scope to the lane they were entered from', async ({ page }) => {

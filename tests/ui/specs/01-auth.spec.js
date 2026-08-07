@@ -12,9 +12,9 @@ test.describe('identity', () => {
   test('signup creates an account and lands in the app', async ({ page }) => {
     const user = await signup(page);
     await expect(page.locator('#whoami')).toContainText(user.name);
-    // a signed-in user lands on their own page, not a generic dashboard
-    await expect(page.locator('#v-myday')).toHaveClass(/on/);
-    await expect(page.locator('#mydayBody')).toContainText('Tell us what you follow');
+    // the app opens on Home; the lanes and their pages are one click away
+    await expect(page.locator('#v-home')).toHaveClass(/on/);
+    await expect(page.locator('#xhLanes .lane')).toHaveCount(2);
   });
 
   test('a weak password is refused with a reason', async ({ page }) => {

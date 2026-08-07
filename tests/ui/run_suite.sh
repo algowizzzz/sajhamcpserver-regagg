@@ -33,7 +33,10 @@ if [ "${PG:-0}" = "1" ]; then
 fi
 
 rm -f "$TESTDB"
-cp data/sajha.db "$TESTDB"                      # real corpus, throwaway copy
+# A plain cp of a live SQLite file can capture a torn page while a server is
+# writing ("database disk image is malformed"). The backup API takes a
+# transactionally consistent snapshot instead.
+sqlite3 data/sajha.db ".backup '$TESTDB'"       # real corpus, consistent copy
 python3 - "$TESTDB" <<'PY'
 import sqlite3, sys                              # start with no accounts
 db = sqlite3.connect(sys.argv[1])
