@@ -303,17 +303,16 @@ def test_watchlist_matches_how_analysts_actually_type_names(session):
     Exact matching silently dropped these, so a desk saw nothing on a day its
     own name was in the news — the worst possible failure for this product.
     """
-    from sajha.regagg.dossier import _watch_match
-    from sajha.regagg.extraction import normalize_name
-    watch = {normalize_name(n): n for n in
-             ["Goodfood", "WestJet", "Bank of America", "SpaceX"]}
-    assert _watch_match("Goodfood Market Corp.", watch) == "Goodfood"
-    assert _watch_match("WestJet Airlines Ltd.", watch) == "WestJet"
-    assert _watch_match("SpaceX", watch) == "SpaceX"
-    # and it must not over-match: a different bank is not your counterparty
-    assert _watch_match("Bank of Montreal", watch) is None
-    assert _watch_match("Royal Bank", watch) is None
-    assert _watch_match("Alphabet Inc.", watch) is None
+    from sajha.regagg.matching import WatchlistMatcher
+    m = WatchlistMatcher(["Goodfood", "WestJet", "Bank of America", "SpaceX"])
+    # caught either as a certainty or as a flagged "verify" — never missed
+    assert m.match("Goodfood Market Corp.")[0] == "Goodfood"
+    assert m.match("WestJet Airlines Ltd.")[0] == "WestJet"
+    assert m.match("SpaceX")[:2] == ("SpaceX", "confirmed")
+    # and it must not CONFIRM a different company
+    assert m.match("Bank of Montreal")[1] != "confirmed"
+    assert m.match("Royal Bank of Canada")[1] != "confirmed"
+    assert m.match("Alphabet Inc.")[0] is None
 
 
 def test_topic_only_matches_are_context_not_exceptions(session):

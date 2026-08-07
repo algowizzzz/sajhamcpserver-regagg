@@ -43,10 +43,17 @@ test.describe('desk dashboard', () => {
     await makeDesk(page, 'ZZZ busy desk', 'Meta Platforms, Inc.\nApple Inc.\nAlphabet Inc.',
                    'guidance:70, deal:60');
     await page.locator('#nDsk').click();
-    await expect(page.locator('.dk')).toHaveCount(2);      // wait for the grid
-    const names = await page.locator('.dk h4').allTextContents();
-    // alphabetically AAA would be first; urgency must win over the name
-    expect(names[0]).toContain('ZZZ busy desk');
+    await expect(page.locator('.dk')).toHaveCount(2);
+    // assert the ORDERING RULE rather than which desk happens to be busy in
+    // today's corpus: (serious, watch) must never increase down the page
+    const rows = await page.locator('.dk').evaluateAll(cards => cards.map(c => {
+      const nums = [...c.querySelectorAll('.counts b')].map(b => Number(b.textContent));
+      return { serious: nums[0], watch: nums[1] };
+    }));
+    for (let i = 1; i < rows.length; i++) {
+      const a = rows[i - 1], b = rows[i];
+      expect(a.serious > b.serious || (a.serious === b.serious && a.watch >= b.watch)).toBe(true);
+    }
   });
 
   test('clicking a desk opens that desk\'s page', async ({ page }) => {

@@ -111,3 +111,22 @@ test.describe('Ask — context-pinned chat', () => {
     await expect(page.locator('#askCtx')).toContainText('No artifact pinned');
   });
 });
+
+test.describe('ambiguous name matches', () => {
+  test('a possible mention is shown and flagged, never silently dropped', async ({ page }) => {
+    const { signup } = require('./helpers');
+    await signup(page);
+    await page.locator('#nPer').click();
+    // "Goodfood" is the analyst's shorthand; the corpus says "Goodfood Market Corp."
+    await page.locator('#perName').fill('Shorthand book');
+    await page.locator('#perEntities').fill('Goodfood');
+    await page.locator('button:has-text("Save persona")').click();
+    await expect(page.locator('#perMsg')).toContainText('Saved');
+    await page.locator('#nMyd').click();
+    await page.evaluate(() => loadMyDay('2026-08-06'));
+    // the item must be on the page at all — that is the whole point
+    await expect(page.locator('.md-ev').first()).toBeVisible();
+    const body = await page.locator('#mydayBody').textContent();
+    expect(body).toMatch(/Goodfood/);
+  });
+});

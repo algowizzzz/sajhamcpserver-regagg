@@ -19,6 +19,7 @@ from typing import Dict, List, Optional
 from sqlalchemy import func, or_, select
 
 from sajha.regagg.extraction import EntityIndex, classify_event, normalize_name
+from sajha.regagg.matching import WatchlistMatcher
 from sajha.regagg.models import (Document, DocumentVersion, Persona,
                                  PersonaEntity, Regulator)
 
@@ -63,36 +64,6 @@ def _cluster_key(title: str, entities: List[str] = (), event_type: str = "") -> 
     return " ".join(sorted(set(words))[:8])
 
 
-def _watch_match(canonical: str, watch_norm: Dict[str, str]) -> Optional[str]:
-    """Does this extracted company correspond to a watched name?
-
-    Analysts type "Goodfood"; the extractor returns "Goodfood Market Corp." —
-    exact equality drops the match and the desk sees nothing. Compare token
-    sets instead: one name matches the other when its words are contained in
-    the other's, provided the shorter side carries enough signal to be
-    distinctive (two words, or one word of 5+ characters). "Bank" never
-    matches "Bank of America"; "Goodfood" matches "Goodfood Market Corp.".
-    """
-    norm = normalize_name(canonical)
-    if not norm:
-        return None
-    if norm in watch_norm:
-        return watch_norm[norm]
-    tokens = set(norm.split())
-    for wnorm, original in watch_norm.items():
-        wtokens = set(wnorm.split())
-        if not wtokens or not tokens:
-            continue
-        shorter = wtokens if len(wtokens) <= len(tokens) else tokens
-        longer = tokens if shorter is wtokens else wtokens
-        if not shorter <= longer:
-            continue
-        distinctive = len(shorter) >= 2 or max(len(w) for w in shorter) >= 5
-        if distinctive:
-            return original
-    return None
-
-
 def _extraction_of(doc) -> dict:
     """Read the stored extraction, computing a cheap one if ingestion predates
     the extraction stage (so an upgraded install still works on old rows)."""
@@ -123,7 +94,7 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
         select(PersonaEntity.canonical).where(
             PersonaEntity.persona_id == persona.persona_id)).all()]
     index = EntityIndex(watch_names)
-    watch_norm = {normalize_name(n): n for n in watch_names}
+    matcher = WatchlistMatcher(watch_names)
     total_watched = len(watch_names)
 
     regs = {r.regulator_id: r for r in session.scalars(select(Regulator)).all()}
@@ -149,20 +120,25 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
         ex = _extraction_of(d)
         text = f"{d.title or ''}"
         hits = ex.get("entities") or index.find(text)
-        matched_names = []
+        matched_names, possible_names = [], []
         for h in hits:
-            hit = _watch_match(h.get("canonical", ""), watch_norm)
-            if hit:
-                # record the WATCHED name, so the page speaks the user's language
-                matched_names.append({**h, "canonical": hit,
-                                      "extracted_as": h.get("canonical")})
+            written = h.get("canonical", "")
+            hit, confidence, reason = matcher.match(written)
+            if not hit:
+                continue
+            record = {**h, "canonical": hit, "extracted_as": written,
+                      "match_confidence": confidence, "match_reason": reason}
+            # An ambiguous name is neither dropped nor asserted: it is shown
+            # as "possible mention — verify", which is the only honest answer
+            # when the text cannot settle it.
+            (matched_names if confidence == "confirmed" else possible_names).append(record)
         fam_hit = [f for f in families if f.replace("-", " ") in text.lower()
                    or f in (d.reference_number or "").lower()]
         class_hit = [c for c in classes if c in text.lower()]
         etype = ex.get("event_type", "general")
 
         # is this item in scope at all?
-        in_scope = bool(matched_names or fam_hit or class_hit)
+        in_scope = bool(matched_names or possible_names or fam_hit or class_hit)
         if not in_scope and topics_wanted and etype in topics_wanted:
             in_scope = True
         if not in_scope and persona.lane == "regulatory" and families == []:
@@ -178,7 +154,7 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
             "entities": {}, "event_type": etype,
             "event_subtype": ex.get("event_subtype"),
             "severity_signals": list(ex.get("severity_signals") or []),
-            "rule_families": [], "classes": [], "materiality": 0,
+            "rule_families": [], "classes": [], "materiality": 0, "possible": {},
             "regulator_id": d.regulator_id, "jurisdiction":
                 getattr(regs.get(d.regulator_id), "jurisdiction", ""),
             "first_seen": str(d.ingested_at or ""), "day": day,
@@ -190,6 +166,9 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
         c["sources"].add(d.regulator_id)
         for h in matched_names:
             c["entities"][h["canonical"]] = h
+        for h in possible_names:
+            if h["canonical"] not in c["entities"]:
+                c["possible"][h["canonical"]] = h
         c["rule_families"] = sorted(set(c["rule_families"]) | set(fam_hit))
         c["classes"] = sorted(set(c["classes"]) | set(class_hit))
         c["materiality"] = max(c["materiality"], d.materiality_score or 0)
@@ -220,6 +199,9 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
         if c["entities"]:
             why.append(f"{len(c['entities'])} watched name"
                        f"{'s' if len(c['entities']) > 1 else ''}")
+        if c["possible"]:
+            why.append(f"{len(c['possible'])} possible mention"
+                       f"{'s' if len(c['possible']) > 1 else ''} — verify")
         if c["rule_families"]:
             why.append(f"watched rule ({', '.join(c['rule_families'])}) +{rule}")
         if corroboration > 1:
@@ -230,6 +212,10 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
             "cluster_key": c["cluster_key"], "title": c["title"],
             "event_type": c["event_type"], "event_subtype": c["event_subtype"],
             "entities": sorted(c["entities"].keys()),
+            "possible_entities": [
+                {"name": k, "written": v.get("extracted_as"),
+                 "reason": v.get("match_reason")}
+                for k, v in sorted(c["possible"].items())],
             "rule_families": c["rule_families"], "classes": c["classes"],
             "corroboration": corroboration, "sources": sorted(c["sources"]),
             "materiality": c["materiality"], "score": score,
@@ -244,6 +230,7 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
     shown, overflow = keep[:cap], keep[cap:]
 
     touched = {n for i in shown for n in i["entities"]}
+    flagged = {p["name"] for i in shown for p in i.get("possible_entities", [])}
     ledger = {
         "scanned_documents": scanned,
         "watchlist_size": total_watched,
@@ -253,6 +240,7 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
         "suppressed_overflow": len(overflow),
         "quiet_entities": max(total_watched - len(touched), 0),
         "entities_with_events": len(touched),
+        "entities_possible": len(flagged - touched),
         "serious": sum(1 for i in shown if i["severity"] == "serious"),
         "watch": sum(1 for i in shown if i["severity"] == "watch"),
     }

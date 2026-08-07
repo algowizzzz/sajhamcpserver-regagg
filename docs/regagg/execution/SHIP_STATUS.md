@@ -123,3 +123,39 @@ and a promised intraday feature that was dead code.
 
 Twelve real defects were found and fixed by these suites, two of which would
 have taken production down (connection-pool exhaustion, PostgreSQL schema).
+
+## Entity matching, done properly (the scary one)
+
+The token-subset fix shipped in S6 was a heuristic checked against seven
+hand-picked cases. Measured against how companies are actually written, it
+scored **68% recall with a false positive** — seven silent misses including
+"Meta", "Uber", "AMD" and "JP Morgan", and "Apple Hospitality REIT" wrongly
+matched to "Apple Inc."
+
+Rewritten as `sajha/regagg/matching.py` with three outcomes instead of two:
+
+| Outcome | Meaning | Example |
+|---|---|---|
+| **confirmed** | the difference is provably cosmetic | `HSBC Holdings plc` ← `HSBC`; `Advanced Micro Devices` ← `AMD` |
+| **possible** | plausible but undecidable from the text — shown, flagged "verify" | `Apple Inc.` ← `Apple Hospitality REIT`; `Goodfood` ← `Goodfood Market Corp.` |
+| **none** | nothing links them | `Bank of America` ← `Bank of Montreal` |
+
+The middle row is the point. A matcher forced to choose between missing and
+over-claiming will do both; making "I am not sure" a first-class, visible
+outcome is what keeps this honest at 6,000 names.
+
+**Now: 100% recall on the adversarial set, zero false confirmations**, pinned
+by `tests/regagg/test_entity_recall.py` (a floor that fails the build rather
+than drifting). Also caught while rewriting: `acronym("Goodfood Market Corp.")`
+was generating `"GM"` — which would have matched General Motors. Acronyms now
+require three words and three letters.
+
+Effect on the live desks: items that were being missed now appear —
+Underwriting 2 → 8 matched, Hedge funds & FIs 11 → 16, Real estate 8 → 10.
+
+## Final totals
+
+| Suite | Count | Databases |
+|---|---|---|
+| Backend (pytest) | 146 | SQLite + PostgreSQL |
+| UI (Playwright) | 45 | SQLite **and** PostgreSQL, both green |

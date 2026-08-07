@@ -60,25 +60,31 @@ test.describe('two-level navigation and lane scoping', () => {
   test('deep links from charts land filtered, not unfiltered', async ({ page }) => {
     // counts grow as collection runs, so assert the filter WORKED rather than
     // a snapshot number: a filtered view must be a strict subset of everything
-    const n = async () => {
-      await expect(page.locator('#bCount')).toContainText(/of [\d,]+ documents/);
+    // read the count only after a NEW render — waiting for text that the
+    // previous render also matches reads a stale value
+    const n = async (prev) => {
+      await page.waitForFunction(
+        p => Number(document.getElementById('bCount').dataset.render || 0) > p,
+        prev ?? 0);
       const t = await page.locator('#bCount').textContent();
-      return Number((t.match(/of ([\d,]+)/) || [])[1].replace(/,/g, ''));
+      const r = await page.locator('#bCount').getAttribute('data-render');
+      return { value: Number((t.match(/of ([\d,]+)/) || [])[1].replace(/,/g, '')),
+               render: Number(r) };
     };
     await page.evaluate(() => jumpCorpus(''));
     const all = await n();
 
     await page.evaluate(() => jumpCorpus('Financial News'));
     await expect(page.locator('#bRegion')).toHaveValue('Financial News');
-    const news = await n();
-    expect(news).toBeGreaterThan(0);
-    expect(news).toBeLessThan(all);
+    const news = await n(all.render);
+    expect(news.value).toBeGreaterThan(0);
+    expect(news.value).toBeLessThan(all.value);
 
     await page.evaluate(() => jumpBand('Critical'));
     await expect(page.locator('#bBand')).toHaveValue('Critical');
-    const critical = await n();
-    expect(critical).toBeGreaterThan(0);
-    expect(critical).toBeLessThan(all);
+    const critical = await n(news.render);
+    expect(critical.value).toBeGreaterThan(0);
+    expect(critical.value).toBeLessThan(all.value);
   });
 
   test('hash routing deep-links survive a reload', async ({ page }) => {
