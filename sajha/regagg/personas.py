@@ -36,6 +36,35 @@ DEFAULT_CONFIG = {
 BOOK_THRESHOLD = 50
 
 
+# A blank form is a bad first experience: most analysts recognise their job in
+# one of these and can edit from there. Names are deliberately absent — the
+# watchlist is the one thing only the user can supply.
+STARTERS = [
+    {"key": "credit_oversight", "name": "Credit oversight",
+     "lane": "news",
+     "blurb": "You are responsible for a book of obligors. Credit events and "
+              "counterparty stress first; market colour last.",
+     "example_entities": "Goodfood, consumer\nWestJet, airlines\nSuncor, energy",
+     "config": {"salience": {"topic_weights": {"credit": 60, "ccr": 50, "rates": 30},
+                             "serious_threshold": 50}}},
+    {"key": "sector_analyst", "name": "Sector analyst",
+     "lane": "news",
+     "blurb": "You follow one sector closely. The day's storyline in prose, "
+              "with the names you track called out.",
+     "example_entities": "Suncor\nCenovus\nImperial Oil",
+     "config": {"salience": {"topic_weights": {"energy": 55, "rates": 35, "credit": 40},
+                             "serious_threshold": 45}}},
+    {"key": "rules_owner", "name": "Rules owner",
+     "lane": "regulatory",
+     "blurb": "You own capital or AML rule families. Changes to your rules lead "
+              "the page; everything else is context.",
+     "example_entities": "",
+     "config": {"scope": {"rule_families": ["osfi-car", "b-13", "fincen-aml"]},
+                "salience": {"topic_weights": {"regulatory": 70, "credit": 40},
+                             "serious_threshold": 50}}},
+]
+
+
 def _merge(base: dict, override: Optional[dict]) -> dict:
     out = {k: (dict(v) if isinstance(v, dict) else list(v) if isinstance(v, list) else v)
            for k, v in base.items()}

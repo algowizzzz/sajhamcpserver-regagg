@@ -42,7 +42,21 @@ def main() -> int:
     if args.dry_run:
         print(" ".join(cmd))
         return 0
-    return subprocess.call(cmd, cwd=str(REPO))
+    rc = subprocess.call(cmd, cwd=str(REPO))
+
+    # Announce what arrived without rewriting anyone's morning page.
+    try:
+        from sqlalchemy.orm import sessionmaker
+        from sajha.core.config import get_settings
+        from sajha.db.engine import get_engine, init_db
+        from sajha.regagg import myday as _m
+        init_db(get_settings())
+        session = sessionmaker(bind=get_engine(), expire_on_commit=False)()
+        for upd in _m.refresh_intraday(session):
+            print(f"  update: {upd['persona_id']} — {upd['note']}")
+    except Exception as e:  # noqa: BLE001 — collection succeeded either way
+        print(f"  (intraday update skipped: {e})")
+    return rc
 
 
 if __name__ == "__main__":

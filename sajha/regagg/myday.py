@@ -286,3 +286,46 @@ def note_intraday_update(session, persona_id: str, day: str, note: str) -> None:
     if row is not None:
         row.updated_note = note
         session.commit()
+
+
+def refresh_intraday(session, now: Optional[datetime] = None) -> List[dict]:
+    """After an intraday collection, tell each persona what arrived since 06:00.
+
+    The morning page is deliberately NOT rewritten: someone who read it at 07:30
+    must be able to trust that what they read is still what the page says. New
+    serious items are announced in a strip on top instead, so the change is
+    visible as a change.
+    """
+    from sqlalchemy import select as _select
+    from sajha.regagg.dossier import build_dossier
+    from sajha.regagg.models import Persona as _P
+
+    now = now or datetime.now(timezone.utc)
+    out: List[dict] = []
+    for persona in session.scalars(_select(_P)).all():
+        day = (latest_day_with_data(session, persona.lane, now)
+               or now.date().isoformat())
+        row = session.get(PageSpec, {"persona_id": persona.persona_id, "day": day})
+        if row is None:
+            continue                       # no morning page yet: nothing to amend
+        seen = {i["cluster_key"] for i in (row.dossier or {}).get("items", [])}
+        fresh = build_dossier(session, persona, day=day, now=now)
+        new_serious = [i for i in fresh["items"]
+                       if i["cluster_key"] not in seen and i["severity"] == "serious"]
+        new_any = [i for i in fresh["items"] if i["cluster_key"] not in seen]
+        if not new_any:
+            continue
+        stamp = now.strftime("%H:%M")
+        if new_serious:
+            note = (f"{stamp} — {len(new_serious)} new serious item"
+                    f"{'s' if len(new_serious) > 1 else ''} since this morning: "
+                    f"{new_serious[0]['title']}")
+        else:
+            note = (f"{stamp} — {len(new_any)} new item"
+                    f"{'s' if len(new_any) > 1 else ''} since this morning, "
+                    f"none serious")
+        note_intraday_update(session, persona.persona_id, day, note)
+        out.append({"persona_id": persona.persona_id, "day": day,
+                    "new_items": len(new_any), "new_serious": len(new_serious),
+                    "note": note})
+    return out

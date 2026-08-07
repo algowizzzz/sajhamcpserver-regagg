@@ -85,3 +85,41 @@ migration is now model-driven and converges any drifted schema.
 | UI (Playwright, real browser) | 31 | `tests/ui/specs/` |
 | Databases proven | 2 | SQLite (dev) and PostgreSQL (on-prem) |
 
+
+## Sprint S5 — PMF gaps found by reviewing as a user ✅ COMPLETE
+
+Walking the product as a new analyst surfaced three gaps that testing alone
+would not have: a blank form on day one, no way to switch between personas,
+and a promised intraday feature that was dead code.
+
+| Story | Status | Evidence |
+|---|---|---|
+| S5.1 starter personas | done | 3 starters; a working page is two clicks from signup |
+| S5.2 persona switcher | done | shown only when there is a choice |
+| S5.3 intraday updates wired | done | `refresh_intraday()` called by the news poll; announces, never rewrites |
+| S5.4 responsive | done | phone viewport spec — zero horizontal overflow |
+| S5.5 scale proof | done | 6,000-name page builds in under 5s (asserted) |
+
+### Bugs found this sprint
+
+9. **"New persona" silently became "edit persona"** — the list loader
+   auto-selected the first persona while the user was creating a new one, so
+   the second persona was never created. Found by the switcher test.
+10. **761px of horizontal overflow on a phone** — the app was desktop-only.
+    Now collapses to one column, tables scroll inside their own box.
+11. **`iif()` is SQLite-only** — the regulatory lane page 500'd on PostgreSQL.
+    Replaced with portable `case()`. Found by running the UI suite on Postgres.
+12. **Fresh PostgreSQL installs had an incomplete schema** — the host app
+    queries tables the regagg migration never created, and on Postgres those
+    errors abort the request's transaction. The migration now creates every
+    mapped table (31), not only the reg_* ones.
+
+## Final state
+
+| Suite | Count | Databases |
+|---|---|---|
+| Backend (pytest) | 135 | SQLite + PostgreSQL |
+| UI (Playwright, real browser) | 38 | **SQLite and PostgreSQL, both green** |
+
+Twelve real defects were found and fixed by these suites, two of which would
+have taken production down (connection-pool exhaustion, PostgreSQL schema).

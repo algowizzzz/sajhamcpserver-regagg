@@ -10,7 +10,7 @@ from collections import defaultdict
 from datetime import datetime, timedelta, timezone
 from typing import Dict, List, Optional
 
-from sqlalchemy import func, select
+from sqlalchemy import case, func, select
 
 from sajha.regagg.models import (
     Document, DocumentVersion, Regulator, Run,
@@ -798,7 +798,7 @@ def exec_regulatory(session, top: int = 10) -> dict:
 
     league_rows = session.execute(
         select(Document.regulator_id, func.count(),
-               func.sum(func.iif(Document.source_kind == "policy_pdf", 1, 0)))
+               func.sum(case((Document.source_kind == "policy_pdf", 1), else_=0)))
         .where(Document.regulator_id.in_(reg_ids or [""]))
         .group_by(Document.regulator_id).order_by(func.count().desc())).all()
     league = [{"regulator_id": rid,

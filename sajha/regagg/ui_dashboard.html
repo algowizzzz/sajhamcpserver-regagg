@@ -469,6 +469,46 @@
     background:var(--blue-soft);margin-bottom:14px}
   .ask-box{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
   .ask-box code{background:var(--surface2);padding:1px 6px;border-radius:5px;font-size:11.5px}
+
+  .md-switch{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin:2px 0 6px}
+  .md-switch button{border:1px solid var(--line);border-radius:999px;padding:4px 12px;
+    font-size:12px;background:var(--surface);color:var(--ink2)}
+  .md-switch button.on{background:var(--blue);border-color:var(--blue);color:#fff}
+  .md-switch button:hover{border-color:var(--blue)}
+  .starters{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:14px 0}
+  @media(max-width:860px){.starters{grid-template-columns:1fr}}
+  .starter{border:1px solid var(--line);border-radius:11px;padding:13px 15px;
+    background:var(--surface);cursor:pointer;text-align:left}
+  .starter:hover{border-color:var(--blue);background:var(--blue-soft)}
+  .starter b{display:block;font-size:13px;margin-bottom:3px}
+  .starter span{font-size:11.5px;color:var(--muted);line-height:1.45;display:block}
+
+  /* ── small screens: the app is read on phones between meetings ──
+     Every wide thing must either collapse or scroll INSIDE its own box; the
+     page body must never scroll sideways. */
+  @media(max-width:760px){
+    .page{padding:12px 14px 60px}
+    .top{height:auto;flex-wrap:wrap;padding:8px 14px;gap:8px}
+    .nav{flex-wrap:wrap;gap:3px}
+    .nav button{padding:5px 9px;font-size:12px}
+    .lanebar{height:auto;flex-wrap:wrap;padding:8px 14px;position:static}
+    .lanebar .scope{margin-left:0;width:100%}
+    .tiles,.xtiles{grid-template-columns:repeat(2,1fr)}
+    .grid2,.xgrid,.pgrid,.starters,.steps,.lanes,.comps,.mcards{grid-template-columns:1fr}
+    .xbar,.hbar{grid-template-columns:minmax(0,1fr) 2fr 46px}
+    .xbar .lbl,.hbar .lbl{font-size:11px}
+    table{display:block;overflow-x:auto;white-space:nowrap}
+    .fbar{gap:5px}
+    .fbar input,.fbar select{min-width:0;flex:1 1 130px}
+    .drawer{width:100%;max-width:100%}
+    .md-head .day{margin-left:0;width:100%}
+    .form{grid-template-columns:1fr}
+    .form label{text-align:left}
+  }
+  /* a grid child with long content must be allowed to shrink, or it pushes
+     the whole page wider than the screen */
+  .grid2>*,.xgrid>*,.pgrid>*,.tiles>*,.xtiles>*{min-width:0}
+  .view{max-width:100%}
 </style>
 </head>
 <body>
@@ -994,22 +1034,43 @@ function show(which,push=true,opts={}){
 
 /* ── my day: the generated page ───────────────────────────── */
 const SEV_C={serious:"var(--red)",watch:"var(--amber)"};
-let MYDAY=null;
+let MYDAY=null,MYDAY_PID=null;
+function mydaySwitcher(list,current){
+  if(!list||list.length<2)return "";
+  return `<div class="md-switch">`+list.map(p=>
+    `<button class="${p.persona_id===current?"on":""}"
+       onclick="MYDAY_PID='${p.persona_id}';loadMyDay()">
+       ${p.lane==="news"?"📰":"🏛️"} ${esc(p.name)}</button>`).join("")+`</div>`;
+}
 async function loadMyDay(day){
   const el=$("mydayBody");
   try{
-    MYDAY=await j(`/myday${day?`?day=${day}`:""}`);
+    const qs=new URLSearchParams();
+    if(day)qs.set("day",day);
+    if(MYDAY_PID)qs.set("persona_id",MYDAY_PID);
+    const [page,plist]=await Promise.all([
+      j(`/myday${qs.toString()?`?${qs}`:""}`), j(`/personas`)]);
+    MYDAY=page;MYDAY.all_personas=(plist||{}).personas||[];
   }catch(e){el.className="";el.innerHTML=`<div class="md-empty"><h3>Could not build your page</h3>
     <p>${esc(e.message)}</p></div>`;return;}
   el.className="";
   if(!MYDAY.persona){
+    let starters=[];
+    try{starters=(await j(`/personas/starters`)).starters||[];}catch(e){}
     el.innerHTML=`<div class="md-empty"><h3>Tell us what you follow</h3>
-      <p>Your daily page is built from a persona — the names, topics and rules you are responsible for.</p>
-      <button class="btn primary" onclick="show('per')">Create a persona →</button></div>`;
+      <p>Your daily page is built from a persona — the names, topics and rules
+         you are responsible for. Start from one of these, or build your own.</p>
+      <div class="starters">`+starters.map(s=>
+        `<button class="starter" onclick="useStarter('${s.key}')">
+           <b>${s.lane==="news"?"📰":"🏛️"} ${esc(s.name)}</b>
+           <span>${esc(s.blurb)}</span></button>`).join("")+`</div>
+      <button class="btn" onclick="show('per')">Build one from scratch →</button></div>`;
+    window._starters=starters;
     return;}
   const spec=MYDAY.spec||{},led=MYDAY.ledger||{},items=(MYDAY.dossier||{}).items||[];
   const byKey={};items.forEach(i=>byKey[i.cluster_key]=i);
-  let html=`<div class="md-head"><b>${esc(MYDAY.persona.name)}</b>
+  let html=mydaySwitcher(MYDAY.all_personas,MYDAY.persona.persona_id);
+  html+=`<div class="md-head"><b>${esc(MYDAY.persona.name)}</b>
     <span class="chip">${fmt(MYDAY.persona.entity_count)} names · ${esc(spec.layout||"")
       .replace(/_/g," ")}</span>
     <span class="day">${esc(spec.day||"")} · generated ${MYDAY.cached?"earlier today":"just now"}
@@ -1176,7 +1237,7 @@ async function requireAuth(){
 }
 
 /* ── personas ─────────────────────────────────────────────── */
-let PERSONAS=[],PERSEL=null;
+let PERSONAS=[],PERSEL=null,PERNEW=false;
 function parseWeights(s){
   const out={};
   (s||"").split(/[,\n]/).forEach(pair=>{
@@ -1195,11 +1256,11 @@ async function loadPersonas(){
       <span>${p.lane==="news"?"📰 news":"🏛️ regulatory"} · ${fmt(p.entity_count)} names ·
         ${esc(p.layout.replace(/_/g," "))}${p.can_edit?"":" · shared, view-only"}</span>
      </div>`).join(""):`<div class="empty" style="padding:10px">No personas yet — create one.</div>`;
-  if(!PERSEL&&PERSONAS.length)perPick(PERSONAS[0].persona_id);
+  if(!PERSEL&&!PERNEW&&PERSONAS.length)perPick(PERSONAS[0].persona_id);
   else perPreview();
 }
 async function perPick(id){
-  PERSEL=id;
+  PERSEL=id;PERNEW=false;
   const p=await j(`/personas/${id}`);
   $("perName").value=p.name;$("perLane").value=p.lane;
   $("perEntities").value=(p.entities_preview||[]).join("\n");
@@ -1208,8 +1269,24 @@ async function perPick(id){
   $("perFamilies").value=((p.config.scope||{}).rule_families||[]).join(", ");
   loadPersonas();perPreview(p);
 }
+function useStarter(key){
+  const s=(window._starters||[]).find(x=>x.key===key);
+  show("per");
+  PERSEL=null;PERNEW=true;
+  if(!s)return;
+  $("perName").value=s.name;
+  $("perLane").value=s.lane;
+  $("perEntities").value=s.example_entities||"";
+  const sal=(s.config||{}).salience||{};
+  $("perTopics").value=fmtWeights(sal.topic_weights);
+  $("perThreshold").value=sal.serious_threshold||50;
+  $("perFamilies").value=((s.config||{}).scope||{}).rule_families?
+    ((s.config||{}).scope||{}).rule_families.join(", "):"";
+  $("perMsg").textContent="Starter loaded — replace the example names with yours, then save.";
+  perPreview();
+}
 function perNew(){
-  PERSEL=null;
+  PERSEL=null;PERNEW=true;
   ["perName","perEntities","perTopics","perFamilies"].forEach(i=>$(i).value="");
   $("perThreshold").value=50;$("perMsg").textContent="";
   loadPersonas();perPreview();
@@ -1235,7 +1312,8 @@ async function perSave(){
     headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
   const d=await r.json();
   if(!r.ok){$("perMsg").textContent=d.detail||"Could not save.";return;}
-  PERSEL=d.persona_id;$("perMsg").textContent=`Saved · v${d.version_n} · ${fmt(d.entity_count)} names`;
+  PERSEL=d.persona_id;PERNEW=false;
+  $("perMsg").textContent=`Saved · v${d.version_n} · ${fmt(d.entity_count)} names`;
   loadPersonas();
 }
 ["perEntities","perFamilies"].forEach(id=>{

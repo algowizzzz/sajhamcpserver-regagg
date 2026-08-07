@@ -17,7 +17,9 @@ test.describe('My Day — the generated page', () => {
   test('with no persona it asks you to create one, and links there', async ({ page }) => {
     await page.locator('#nMyd').click();
     await expect(page.locator('#mydayBody')).toContainText('Tell us what you follow');
-    await page.getByRole('button', { name: /Create a persona/ }).click();
+    // starters are the fast path; building from scratch is still one click
+    await expect(page.locator('.starter')).toHaveCount(3);
+    await page.getByRole('button', { name: /Build one from scratch/ }).click();
     await expect(page.locator('#v-per')).toHaveClass(/on/);
   });
 
@@ -57,7 +59,10 @@ test.describe('My Day — the generated page', () => {
     await makePersona(page, { name: 'Rules', entities: '', lane: 'regulatory',
                               families: 'osfi-car, b-13' });
     await page.locator('#nMyd').click();
-    await expect(page.locator('#mydayBody')).toContainText('rule famil');
+    // wait for the generated page itself — the empty state also mentions
+    // "rule families" in a starter blurb, so that phrase alone proves nothing
+    await expect(page.locator('.md-head b')).toHaveText('Rules');
+    await expect(page.locator('#mydayBody')).toContainText('Your rule families');
     const body = await page.locator('#mydayBody').textContent();
     expect(body).toMatch(/unchanged|moved/i);
   });

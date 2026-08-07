@@ -191,6 +191,12 @@ def create_admin_router() -> APIRouter:
 
     # ── personas ────────────────────────────────────────────────────────────
 
+    @router.get("/personas/starters")
+    def persona_starters():
+        """Starter shapes for a new user — the alternative is a blank form."""
+        from sajha.regagg import personas as _p
+        return {"starters": _p.STARTERS}
+
     @router.get("/personas")
     def personas_list(request: Request, lane: Optional[str] = None):
         from sajha.regagg import personas as _p

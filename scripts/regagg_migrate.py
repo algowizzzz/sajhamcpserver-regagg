@@ -35,8 +35,14 @@ def main() -> int:
     init_db(get_settings())        # honours db.type/db.path (SAJHA_* env)
     engine = get_engine()
     dialect = engine.dialect.name
-    Base.metadata.create_all(engine, tables=[x.__table__ for x in m.REGAGG_MODELS])
-    print(f"tables ensured ({dialect})")
+    # Create EVERY mapped table, not only the reg_* ones: the host server
+    # queries its own tables (llm_providers, api keys, audit log) on ordinary
+    # requests, and on a fresh PostgreSQL database those errors abort the
+    # transaction the request is using — which surfaces as unrelated features
+    # failing. A deployment must start with a complete schema.
+    import sajha.db.models  # noqa: F401 — registers the core models
+    Base.metadata.create_all(engine)
+    print(f"tables ensured ({dialect}): {len(Base.metadata.tables)} total")
 
     # Model-driven, not a hand-maintained list: on PostgreSQL the reg_* tables
     # may have been created by the SQL DDL scripts, which drift from the models

@@ -238,3 +238,58 @@ def test_llm_composer_output_is_discarded_when_it_breaks_the_contract(session):
     good = M.LLMComposer(client=Honest()).compose(d, "narrative_first")
     assert good["generator"].startswith("llm:")
     assert "creditor protection" in good["sections"][0]["text"]
+
+
+# ── S5: onboarding, intraday, scale ─────────────────────────────────────────
+
+def test_starters_are_usable_as_saved_personas(session):
+    """Every starter must produce a valid persona without editing."""
+    from sajha.regagg.personas import STARTERS, save_persona, persona_dict, parse_entities
+    u, _ = __import__("sajha.regagg.auth", fromlist=["auth"]).create_user(
+        session, "starter@bank.test", "correct-horse-9")
+    for s in STARTERS:
+        p = save_persona(session, owner_id=u.user_id, name=s["name"], lane=s["lane"],
+                         config=s["config"],
+                         entities=parse_entities(s["example_entities"]))
+        d = persona_dict(session, p)
+        assert d["layout"] in ("narrative_first", "exception_first", "change_first")
+        assert d["lane"] == s["lane"]
+
+
+def test_intraday_update_annotates_without_rewriting_the_page(session):
+    """Someone who read the 07:30 page must still see what they read."""
+    _seed_news_corpus(session)
+    p = _persona(session, ["Goodfood", "WestJet"])
+    morning = M.build_my_day(session, p, day=DAY, now=NOW)
+    morning_lede = morning["spec"]["sections"][0]["text"]
+
+    # a new serious item lands at midday
+    session.add(Document(regulator_id="wire_a", doc_id="d9",
+                         doc_type="news_story",
+                         title="WestJet seeks creditor protection after filing",
+                         content_hash="h", s3_prefix="p/d9",
+                         source_url="https://x/d9", ingested_at=NOW,
+                         materiality_score=20, materiality_band="Low"))
+    session.commit()
+
+    later = datetime(2026, 8, 6, 14, 0, tzinfo=timezone.utc)
+    updates = M.refresh_intraday(session, now=later)
+    assert updates and updates[0]["new_serious"] >= 1
+    assert updates[0]["note"].startswith("14:00")
+
+    after = M.build_my_day(session, p, day=DAY, now=later)
+    assert after["spec"]["sections"][0]["text"] == morning_lede   # not rewritten
+    assert "new serious item" in (after["updated_note"] or "")    # but announced
+
+
+def test_my_day_stays_fast_with_a_six_thousand_name_book(session):
+    """The scale promise: a big book must not be a slow page."""
+    import time
+    _seed_news_corpus(session)
+    names = ["Goodfood"] + [f"Obligor {i}" for i in range(6000)]
+    p = _persona(session, names)
+    start = time.perf_counter()
+    out = M.build_my_day(session, p, day=DAY, now=NOW)
+    elapsed = time.perf_counter() - start
+    assert out["ledger"]["watchlist_size"] == 6001
+    assert elapsed < 5.0, f"6,000-name page took {elapsed:.1f}s"
