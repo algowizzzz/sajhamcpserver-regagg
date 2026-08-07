@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Market &amp; Regulatory Intelligence — the AI-Enabled System, End to End</title>
+<style>
+  :root{
+    color-scheme: light;
+    --surface-1:#fcfcfb; --surface-2:#ffffff; --line:#e6e5e1;
+    --text-primary:#0b0b0b; --text-secondary:#52514e; --text-muted:#8a887f;
+    --series-1:#2a78d6; --live:#0ca30c; --next:#eda100; --later:#8a887f;
+    --st-critical:#d03b3b;
+  }
+  @media (prefers-color-scheme: dark){
+    :root:where(:not([data-theme="light"])){
+      color-scheme: dark;
+      --surface-1:#1a1a19; --surface-2:#232322; --line:#3a3936;
+      --text-primary:#ffffff; --text-secondary:#c3c2b7; --text-muted:#8a887f;
+      --series-1:#3987e5;
+    }
+  }
+  *{box-sizing:border-box;margin:0}
+  body{font:14px/1.5 -apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+       background:var(--surface-1);color:var(--text-primary);padding:34px 40px;max-width:1080px;margin:0 auto}
+  header h1{font-size:23px;letter-spacing:-.02em}
+  header .sub{color:var(--text-secondary);margin-top:5px;font-size:13.5px;max-width:840px;line-height:1.55}
+  .date{color:var(--text-muted);font-size:11.5px;float:right;text-align:right}
+  .pill{display:inline-block;border-radius:999px;padding:1px 9px;font-size:10px;font-weight:700;
+        letter-spacing:.04em;vertical-align:2px}
+  .p-live{background:color-mix(in srgb,var(--live) 14%,transparent);color:var(--live)}
+  .p-next{background:color-mix(in srgb,var(--next) 16%,transparent);color:#a05a00}
+  .p-later{background:color-mix(in srgb,var(--later) 16%,transparent);color:var(--later)}
+  .tiles{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:22px 0}
+  @media(max-width:880px){.tiles{grid-template-columns:repeat(3,1fr)}}
+  .tile{background:var(--surface-2);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+  .tile b{display:block;font-size:20px;letter-spacing:-.02em}
+  .tile span{font-size:10.5px;color:var(--text-secondary);text-transform:uppercase;letter-spacing:.05em}
+  .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:880px){.grid2{grid-template-columns:1fr}}
+  .card{background:var(--surface-2);border:1px solid var(--line);border-radius:12px;padding:16px 18px;margin-bottom:14px}
+  .card h2{font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:var(--text-secondary);margin-bottom:12px}
+  /* the stack */
+  .stack{display:flex;flex-direction:column;gap:7px}
+  .layer{display:grid;grid-template-columns:34px 200px 1fr 86px;gap:12px;align-items:center;
+    border:1px solid var(--line);border-radius:10px;padding:10px 14px;background:var(--surface-1)}
+  @media(max-width:880px){.layer{grid-template-columns:30px 1fr 80px}.layer .what{display:none}}
+  .layer .n{font-size:16px;font-weight:800;color:var(--text-muted)}
+  .layer b{font-size:13px}
+  .layer b small{display:block;font-weight:400;color:var(--text-muted);font-size:10.5px}
+  .layer .what{font-size:12px;color:var(--text-secondary);line-height:1.45}
+  .layer.foundation{border-width:2px;border-color:var(--series-1)}
+  /* persona flows */
+  .flow{font-size:12.5px;line-height:1.55;color:var(--text-secondary)}
+  .flow b{color:var(--text-primary)}
+  .flow .step{display:flex;gap:9px;padding:6px 0;border-bottom:1px dashed var(--line)}
+  .flow .step:last-child{border-bottom:0}
+  .flow .t{color:var(--text-muted);font-size:11px;white-space:nowrap;padding-top:1px;width:52px;flex:none;
+    font-variant-numeric:tabular-nums}
+  .quote{border-left:3px solid var(--st-critical);padding:7px 12px;background:var(--surface-1);
+    border-radius:0 8px 8px 0;margin:9px 0;font-size:12px}
+  .quote .src{color:var(--text-muted);font-size:10.5px;margin-top:3px}
+  /* component grid */
+  .comps{display:grid;grid-template-columns:repeat(2,1fr);gap:11px}
+  @media(max-width:880px){.comps{grid-template-columns:1fr}}
+  .comp{border:1px solid var(--line);border-radius:10px;padding:12px 14px;background:var(--surface-1)}
+  .comp b{font-size:13px;display:block;margin-bottom:3px}
+  .comp p{font-size:12px;color:var(--text-secondary);line-height:1.5;margin:0}
+  .comp .ai{font-size:10.5px;color:var(--text-muted);display:block;margin-top:6px;
+    text-transform:uppercase;letter-spacing:.05em}
+  ul.rules{list-style:none}
+  ul.rules li{padding:5px 0 5px 24px;position:relative;font-size:12.5px;line-height:1.5}
+  ul.rules li::before{content:"⚖";position:absolute;left:0;top:5px}
+  ul.rules b{font-weight:650}
+  /* split: what runs where */
+  .split{display:grid;grid-template-columns:1fr 1fr;gap:0}
+  @media(max-width:880px){.split{grid-template-columns:1fr}}
+  .half{padding:2px 16px 2px 0}
+  .half+.half{border-left:1px dashed var(--line);padding:2px 0 2px 16px}
+  .half h4{font-size:12px;margin-bottom:7px}
+  .half h4 small{color:var(--text-muted);font-weight:400}
+  .half ul{list-style:none;font-size:12px;color:var(--text-secondary)}
+  .half li{padding:3px 0 3px 16px;position:relative;line-height:1.45}
+  .half li::before{content:"·";position:absolute;left:4px;font-weight:900}
+  .half li.done::before{content:"✓";color:var(--live);left:0}
+  /* phases */
+  .phase{display:grid;grid-template-columns:74px 1fr 130px;gap:12px;align-items:start;
+    padding:10px 0;border-bottom:1px solid var(--line);font-size:12.5px}
+  .phase:last-child{border-bottom:0}
+  .phase .no{font-weight:750;font-size:13px}
+  .phase .no small{display:block;font-weight:400;color:var(--text-muted);font-size:10.5px}
+  .phase p{color:var(--text-secondary);line-height:1.5;margin:2px 0 0}
+  .phase .out{font-size:11px;color:var(--text-muted);text-align:right;line-height:1.5}
+  .foot{display:flex;gap:18px;flex-wrap:wrap;color:var(--text-muted);font-size:11px;
+        border-top:1px solid var(--line);padding-top:12px;margin-top:6px}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="date">As of Aug 6, 2026<br>Data-layer figures: live production database<br>AI layer: design, building next</div>
+  <h1>Market &amp; Regulatory Intelligence — end to end</h1>
+  <div class="sub">The data layer is <b>built and live</b>: 55 sources collected daily, versioned, and ranked
+    deterministically. The agent platform is <b>built and live</b>: a LangGraph runtime already speaking MCP.
+    What comes next is the layer between them — the intelligence layer — built on one principle:
+    <b>a chatbot only answers questions the analyst knew to ask; this system surfaces the ones they didn't.</b></div>
+</header>
+
+<div class="tiles">
+  <div class="tile"><b>6,572</b><span>documents held</span></div>
+  <div class="tile"><b>55</b><span>sources · 30 reg + 25 news</span></div>
+  <div class="tile"><b>12</b><span>MCP tools (agent-ready)</span></div>
+  <div class="tile"><b>50</b><span>agent workers (personas)</span></div>
+  <div class="tile"><b>384</b><span>critical-band rules</span></div>
+  <div class="tile"><b>109</b><span>automated tests, green</span></div>
+</div>
+
+<div class="card">
+  <h2>The stack — two layers live, three to build</h2>
+  <div class="stack">
+    <div class="layer"><span class="n">5</span><b>Chat handle <small>ask on an artifact</small></b>
+      <span class="what">Chat attached to a diff, a brief, a signal — never floating. “Explain this change for the desk head.” Grounded in one cited artifact at a time.</span>
+      <span class="pill p-later">LAST</span></div>
+    <div class="layer"><span class="n">4</span><b>Workflow <small>signals queue</small></b>
+      <span class="what">Findings land in a triage queue; the analyst dispositions each one — relevant / not / escalate. Work has state, the bank has an audit trail, dispositions tune the system.</span>
+      <span class="pill p-next">NEXT</span></div>
+    <div class="layer"><span class="n">3</span><b>Agent jobs <small>brief &amp; impact memos</small></b>
+      <span class="what">Scheduled: a 6am Morning Brief over yesterday's delta. Event-driven: a rule version archives → an Impact Memo lands beside its diff. Both written back as cited documents.</span>
+      <span class="pill p-next">NEXT</span></div>
+    <div class="layer"><span class="n">2</span><b>Analyst context <small>watchlists</small></b>
+      <span class="what">My counterparties, my rule families, my sectors. Not AI — table rows. The bridge that turns a generic feed into “YOUR counterparty had a credit event.”</span>
+      <span class="pill p-next">NEXT</span></div>
+    <div class="layer foundation"><span class="n">1</span><b>Deterministic engine <small>+ agent runtime</small></b>
+      <span class="what">Collection, versioning, diffs, materiality, credit-lens news ranking, dashboard, 12 MCP tools — plus the LangGraph agent server (50 workers, JWT, MCP discovery). Both running today.</span>
+      <span class="pill p-live">LIVE</span></div>
+  </div>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h2>A market risk analyst's morning — with the full stack</h2>
+    <div class="flow">
+      <div class="step"><span class="t">02:00</span><span>Daily poll collects all 55 sources. Pipeline detects <b>OSFI CAR Chapter 4 changed</b>, archives v2, computes the line diff.</span></div>
+      <div class="step"><span class="t">02:05</span><span>Diff event fires the <b>Impact Memo agent</b>: what changed substantively, extracted effective date, which desks it touches — cited to the exact lines.</span></div>
+      <div class="step"><span class="t">06:00</span><span><b>Morning Brief agent</b> runs over the delta: new Critical rules, watchlist hits, topic velocity. Written back into the corpus as a document — one brief, same for everyone, archived.</span></div>
+      <div class="step"><span class="t">07:30</span><span>Analyst opens <b>My Desk</b>: brief on top, 3 signals in the queue. Opens the CAR memo beside the diff, dispositions “escalate”, asks the chat handle to draft the note to the desk.</span></div>
+    </div>
+  </div>
+  <div class="card">
+    <h2>A credit analyst's — with today's real data</h2>
+    <div class="quote">“Meal kit company Goodfood granted creditor protection from court, may sell business”
+      <div class="src">BNN Bloomberg · today's actual #1 ranked story — ratings &amp; credit events +50, Canada market</div></div>
+    <div class="flow">
+      <div class="step"><span class="t">morning</span><span>Three wires carry the story within hours. The news lane ranks it #1 of 165 — <b>already live today</b>.</span></div>
+      <div class="step"><span class="t">+watchlist</span><span>If “Goodfood” is on the analyst's counterparty watchlist, this stops being a feed item and becomes a <b>signal: counterparty credit event, 3 corroborating wires</b>.</span></div>
+      <div class="step"><span class="t">+queue</span><span>Signal sits in the queue until dispositioned. “Who saw it and when” is answerable — that's the audit trail a limit decision needs.</span></div>
+      <div class="step"><span class="t">+chat</span><span>“Draft the limit-review note, cite the three stories.” The handle works because it's scoped to one signal with sources attached.</span></div>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>The intelligence components — and how much AI each one actually needs</h2>
+  <div class="comps">
+    <div class="comp"><b>Watchlists</b>
+      <p>Counterparty names, rule families (CAR Ch.4, B-13, FRTB), sectors, jurisdictions — per analyst or per desk. Matching incoming documents against them is string/topic matching on data we already classify.</p>
+      <span class="ai">AI required: none</span></div>
+    <div class="comp"><b>Trend signals</b>
+      <p>Corroboration strength (same event, N wires, M hours) · topic velocity (CRE mentions 4× trailing average) · regulator activity anomalies (OSFI 3× normal on liquidity). All computed from counts we already store.</p>
+      <span class="ai">AI required: none</span></div>
+    <div class="comp"><b>Morning Brief agent</b>
+      <p>Scheduled 6am run: narrates the delta the deterministic layer flagged — new Critical rules, watchlist hits, velocity spikes. Written back as a corpus document with citations, rendered on My Desk.</p>
+      <span class="ai">AI: synthesis only — selection is deterministic</span></div>
+    <div class="comp"><b>Impact Memo agent</b>
+      <p>Fires when a watched rule versions. Input: the line diff + both versions. Output: what changed substantively, deadlines extracted, affected topics — attached beside the diff it cites.</p>
+      <span class="ai">AI: synthesis only — the diff is computed, not imagined</span></div>
+  </div>
+</div>
+
+<div class="grid2">
+  <div class="card">
+    <h2>The governance contract — why this passes model risk review</h2>
+    <ul class="rules">
+      <li><b>No citation, no claim.</b> Every sentence an agent writes points at doc_id + version + lines. The corpus is versioned precisely so this is enforceable.</li>
+      <li><b>Deterministic decides, AI narrates.</b> Materiality, watchlists and diffs choose what's worth looking at; the LLM only synthesizes over retrieved spans. It never discovers.</li>
+      <li><b>Advisory, never actioning.</b> No agent touches a limit or a position. Output is a draft with sources; a human dispositions it — and that disposition is logged.</li>
+      <li><b>One truth.</b> The 6am brief is a stored document, not a per-user generation. Two analysts can never see two different versions of what mattered.</li>
+    </ul>
+  </div>
+  <div class="card">
+    <h2>What runs where — both halves already exist</h2>
+    <div class="split">
+      <div class="half"><h4>Data platform <small>· sajhamcpserver-regagg</small></h4>
+        <ul>
+          <li class="done">Collection, versioning, diffs, materiality</li>
+          <li class="done">12 reg_* MCP tools, scoped API keys</li>
+          <li class="done">Two-lane dashboard (this UI)</li>
+          <li>Watchlist / signal / disposition tables</li>
+          <li>Deterministic signal computations</li>
+          <li>Write-back tools: reg_watchlists, reg_submit_finding</li>
+          <li>My Desk page · memo-beside-diff view</li>
+        </ul></div>
+      <div class="half"><h4>Agent platform <small>· agent_clean (LangGraph)</small></h4>
+        <ul>
+          <li class="done">FastAPI + LangGraph runtime, JWT auth</li>
+          <li class="done">50 workers (personas) incl. w-market-risk</li>
+          <li class="done">MCP discovery with pagination (one env var to point at the data platform)</li>
+          <li class="done">Sub-agent executor + verified workflows</li>
+          <li>Brief &amp; Impact Memo job definitions</li>
+          <li>Citation-contract prompt + 20-question eval</li>
+        </ul></div>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>Build plan — value first, hallucination surface last</h2>
+  <div class="phase"><span class="no">Phase 1<small>~1 week</small></span>
+    <div><b>Watchlists + deterministic signals.</b><p>Tables, matching, velocity/corroboration/anomaly computations, signals on My Desk. Zero LLM involvement — immediate daily value with zero hallucination risk.</p></div>
+    <span class="out">watchlist CRUD · signal queue · My Desk v1</span></div>
+  <div class="phase"><span class="no">Phase 2<small>~1–2 weeks</small></span>
+    <div><b>The two agent jobs.</b><p>Morning Brief (scheduled) and Impact Memo (diff-triggered) as verified workflows on the agent platform, writing back through new MCP tools under the citation contract. Evaluated against a golden question set before analysts see it.</p></div>
+    <span class="out">6am brief · memos beside diffs</span></div>
+  <div class="phase"><span class="no">Phase 3<small>~1 week</small></span>
+    <div><b>Disposition workflow.</b><p>Relevant / not relevant / escalate on every signal, logged with identity and timestamp. Dispositions feed back into watchlist and materiality tuning — improvement without retraining.</p></div>
+    <span class="out">audit trail · feedback loop</span></div>
+  <div class="phase"><span class="no">Phase 4<small>~1 week</small></span>
+    <div><b>Chat on artifacts.</b><p>The existing chatbot, scoped to one cited artifact at a time — a diff, a brief, a signal. Last because it's the least differentiated: the queue is the product, chat is the handle.</p></div>
+    <span class="out">drill-down everywhere</span></div>
+</div>
+
+<div class="foot">
+  <span>Data platform: github.com/algowizzzz/sajhamcpserver-regagg</span>
+  <span>Agent platform: github.com/dmurugan1208/agent_clean (main-mcponprem-complete)</span>
+  <span>Then: AWS Phase 2 (S3 + RDS, 5,000 users) — sprints already scoped</span>
+</div>
+
+</body>
+</html>
