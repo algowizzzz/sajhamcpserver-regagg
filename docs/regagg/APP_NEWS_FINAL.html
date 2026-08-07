@@ -124,6 +124,36 @@
   .stagebar span{border:1px solid var(--line);border-radius:8px;padding:6px 11px;font-size:11.5px;
     background:var(--surface-1);color:var(--ink2)}
   .stagebar b{color:var(--good)}
+
+  /* explore subviews: the previous dashboard, re-parented */
+  .exview{display:none}
+  .exview.on{display:block}
+  .hbar{display:grid;grid-template-columns:150px 1fr 62px;gap:8px;align-items:center;margin:5px 0;font-size:12px}
+  .hbar .lbl{color:var(--ink2);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .hbar .track{display:block;height:12px}
+  .hbar .fill{display:block;height:12px;border-radius:0 4px 4px 0;background:var(--blue)}
+  .hbar .val{font-variant-numeric:tabular-nums;font-weight:650;font-size:11.5px}
+  .fbar{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .fbar span{border:1px solid var(--line);border-radius:7px;padding:4px 10px;font-size:11px;
+    color:var(--ink2);background:var(--surface-1)}
+  .fbar .cnt{margin-left:auto;border:0;color:var(--muted)}
+  .fbar .chip-on{background:var(--blue);border-color:var(--blue);color:#fff}
+  .regrow{display:flex;gap:10px;align-items:center;padding:8px 4px;border-bottom:1px solid var(--line);font-size:12.5px}
+  .regrow:last-child{border-bottom:0}
+  .regrow b{min-width:190px}
+  .regrow .roll{color:var(--muted);font-size:11.5px;flex:1}
+  .regrow .runb{border:1px solid var(--line);border-radius:7px;padding:2px 9px;font-size:10.5px;
+    color:var(--blue);cursor:pointer;background:var(--surface-2)}
+  .cols6{display:flex;align-items:flex-end;gap:6px;margin-top:4px}
+  .cols6 .c{flex:1;text-align:center}
+  .cols6 .bar{width:100%;background:var(--blue);border-radius:3px 3px 0 0;min-height:3px}
+  .cols6 .v{font-size:10.5px;font-weight:650}
+  .cols6 .d{font-size:9px;color:var(--muted)}
+  .rank{color:var(--muted);font-size:11px;width:18px;display:inline-block}
+  .tbadge{display:inline-block;border-radius:5px;padding:1px 7px;font-size:9.5px;font-weight:700;margin-right:6px}
+  .t-credit{background:var(--crit-soft);color:var(--crit)}
+  .t-rates{background:var(--warn-soft);color:var(--warn)}
+  .t-markets{background:var(--blue-soft);color:var(--blue)}
 </style>
 </head>
 <body>
@@ -198,21 +228,96 @@
 
   <!-- ═══ EXPLORE ═══ -->
   <div class="pane" id="p1">
-    <div class="exnav"><span>Overview</span><span>Today's stories</span><span class="on">Story cluster</span>
-      <span>All stories</span><span>Wires</span></div>
-    <div class="arrived">You arrived from <b>My Day → Goodfood</b>. Explore is the live news data app —
-      603 stories from 25 wires, ranked by the credit lens, refreshed every 2 hours.</div>
-    <div class="gp-head"><b>Goodfood Market Corp — credit-event cluster</b>
-      <span class="day">3 stories · 2 days · 2 wires · corroboration high</span></div>
-    <div class="sec">
-      <div class="story"><b>Quebec meal-kit company Goodfood seeks creditor protection, sale process</b>
-        <span class="m">BNN Bloomberg · Aug 5 · first report — “seeks” · extracted: Goodfood Market Corp (high)</span></div>
-      <div class="story"><b>Montreal's Goodfood granted creditor protection from court, may sell business</b>
-        <span class="m">CBC News Business · Aug 5 · second wire corroborates — “granted”</span></div>
-      <div class="story"><b>Meal kit company Goodfood granted creditor protection from court, may sell business</b>
-        <span class="m">BNN Bloomberg · Aug 6 · day-two confirmation · ranked #1 of 165 (credit event +50 · 2 signal terms · Canada market)</span></div></div>
-    <div class="linkrow"><span>All consumer-sector stories →</span><span>Every Goodfood mention ever →</span>
-      <span>Wire health for BNN / CBC → (Health tab)</span><span onclick="tab(2)">💬 Ask about this cluster</span></div>
+    <div class="arrived"><b>The entire previous dashboard lives here</b> — same pages, same live data,
+      re-parented as Explore and scoped to the news lane. Click the subtabs. (Collection runs moved to Health.)</div>
+    <div class="exnav">
+      <span class="on" id="xn0" onclick="exsub(0,5)">Overview</span>
+      <span id="xn1" onclick="exsub(1,5)">Today's stories</span>
+      <span id="xn2" onclick="exsub(2,5)">Story cluster</span>
+      <span id="xn3" onclick="exsub(3,5)">All stories</span>
+      <span id="xn4" onclick="exsub(4,5)">Wires</span>
+    </div>
+
+    <div class="exview on" id="ex0">
+      <div class="statrow">
+        <div class="stat"><b>603</b><span>stories collected</span></div>
+        <div class="stat"><b>25</b><span>verified wires</span></div>
+        <div class="stat"><b>165</b><span>stories today</span></div>
+        <div class="stat"><b>16/25</b><span>reporting today</span></div>
+        <div class="stat good"><b>0</b><span>articles scraped</span></div></div>
+      <div class="grid2" style="margin-top:12px">
+        <div class="sec"><h3>Daily volume <i>· click a day in the live app to open its feed</i></h3>
+          <div class="cols6">
+            <div class="c"><span class="v">5</span><div class="bar" style="height:3px"></div><span class="d">08-01</span></div>
+            <div class="c"><span class="v">19</span><div class="bar" style="height:8px"></div><span class="d">08-02</span></div>
+            <div class="c"><span class="v">46</span><div class="bar" style="height:16px"></div><span class="d">08-03</span></div>
+            <div class="c"><span class="v">139</span><div class="bar" style="height:44px"></div><span class="d">08-04</span></div>
+            <div class="c"><span class="v">229</span><div class="bar" style="height:70px"></div><span class="d">08-05</span></div>
+            <div class="c"><span class="v">165</span><div class="bar" style="height:51px"></div><span class="d">08-06</span></div></div></div>
+        <div class="sec"><h3>The credit lens <i>· bar = topic weight</i></h3>
+          <div class="hbar"><span class="lbl">Ratings &amp; credit events</span><span class="track"><span class="fill" style="width:100%;background:var(--crit)"></span></span><span class="val">50</span></div>
+          <div class="hbar"><span class="lbl">Central banks &amp; rates</span><span class="track"><span class="fill" style="width:80%"></span></span><span class="val">40</span></div>
+          <div class="hbar"><span class="lbl">Banking &amp; financials</span><span class="track"><span class="fill" style="width:60%"></span></span><span class="val">30</span></div>
+          <div class="hbar"><span class="lbl">Economy &amp; macro</span><span class="track"><span class="fill" style="width:44%"></span></span><span class="val">22</span></div>
+          <div class="hbar"><span class="lbl">Markets</span><span class="track"><span class="fill" style="width:16%"></span></span><span class="val">8</span></div></div></div>
+    </div>
+
+    <div class="exview" id="ex1">
+      <div class="fbar"><span>◀</span><span class="chip-on">2026-08-06</span><span>▶</span><span>Today</span>
+        <span>🔎 search headlines…</span><span>Canada</span><span>US</span><span>UK/EU</span><span>World</span>
+        <span class="cnt">165 stories · ranked by credit lens</span></div>
+      <div class="story"><span class="rank">1</span><b style="display:inline">Meal kit company Goodfood granted creditor protection from court, may sell business</b>
+        <span class="m" style="display:block;margin-left:18px"><span class="tbadge t-credit">Ratings &amp; credit events</span>BNN Bloomberg · Canada · rank 76 — credit event +50 · 2 signal terms · CA market</span></div>
+      <div class="story"><span class="rank">2</span><b style="display:inline">Fed's Daly Supported Rate Decision, Warns of Inflation Risks</b>
+        <span class="m" style="display:block;margin-left:18px"><span class="tbadge t-rates">Central banks &amp; rates</span>Financial Post · rank 70</span></div>
+      <div class="story"><span class="rank">3</span><b style="display:inline">Gold Rallies Above $4,300 on Progress Toward Reopening Hormuz</b>
+        <span class="m" style="display:block;margin-left:18px"><span class="tbadge t-rates">Central banks &amp; rates</span>Financial Post · rank 66</span></div>
+      <div class="story"><span class="rank">4</span><b style="display:inline">Philippine Bond Slump to Extend on Inflation Worry, Analysts Say</b>
+        <span class="m" style="display:block;margin-left:18px"><span class="tbadge t-rates">Central banks &amp; rates</span>Financial Post · rank 64</span></div>
+      <div class="quiet" style="margin-top:9px">Day navigation ◀ ▶, topic chips with counts, region chips, search —
+        “what was the market saying when this deal was underwritten?” is a click, not an archive request.</div>
+    </div>
+
+    <div class="exview" id="ex2">
+      <div class="gp-head"><b>Goodfood Market Corp — credit-event cluster</b>
+        <span class="day">3 stories · 2 days · 2 wires · corroboration high</span></div>
+      <div class="sec">
+        <div class="story"><b>Quebec meal-kit company Goodfood seeks creditor protection, sale process</b>
+          <span class="m">BNN Bloomberg · Aug 5 · first report — “seeks” · extracted: Goodfood Market Corp (high)</span></div>
+        <div class="story"><b>Montreal's Goodfood granted creditor protection from court, may sell business</b>
+          <span class="m">CBC News Business · Aug 5 · second wire corroborates — “granted”</span></div>
+        <div class="story"><b>Meal kit company Goodfood granted creditor protection from court, may sell business</b>
+          <span class="m">BNN Bloomberg · Aug 6 · day-two confirmation · ranked #1 of 165</span></div></div>
+      <div class="linkrow"><span>All consumer-sector stories →</span><span>Every Goodfood mention →</span>
+        <span onclick="tab(2)">💬 Ask about this cluster</span></div>
+    </div>
+
+    <div class="exview" id="ex3">
+      <div class="fbar"><span>All wires ▾</span><span>All topics ▾</span><span>All regions ▾</span>
+        <span>From 2026-08-01</span><span>🔎 search…</span><span class="cnt">1–50 of 603</span></div>
+      <table class="hs">
+        <tr><th>headline</th><th>wire</th><th>topic</th><th>date</th></tr>
+        <tr><td>Situational Awareness hedge fund meltdown was a warning shot…</td><td>CNBC</td><td>banking</td><td>08-05</td></tr>
+        <tr><td>Circle officially opens its national trust bank</td><td>American Banker</td><td>banking</td><td>08-05</td></tr>
+        <tr><td>Trump says Iran will be 'hit very hard' if Hormuz Strait not open…</td><td>BBC</td><td>energy</td><td>08-05</td></tr>
+        <tr><td>Who loses when Upstart becomes its own lender?</td><td>American Banker</td><td>banking</td><td>08-05</td></tr>
+        <tr><td>As the U.S. tariff war evolves, Canada's tourism industry sees…</td><td>BNN Bloomberg</td><td>economy</td><td>08-05</td></tr></table>
+      <div class="quiet" style="margin-top:9px">Every story ever collected — headline + publisher summary + link.
+        Click a row for the rich reader with the attribution link out to the source.</div>
+    </div>
+
+    <div class="exview" id="ex4">
+      <div class="regrow"><b>BNN Bloomberg</b><span class="roll">50 today · cap hit · Canada</span>
+        <span class="pill p-ok">FRESH</span><span class="runb">▶ Run</span></div>
+      <div class="regrow"><b>Nikkei Asia · Economic Times · Globe &amp; Mail · WSJ · NYT</b>
+        <span class="roll">50 each · high-volume wires</span><span class="pill p-ok">FRESH</span><span class="runb">▶ Run</span></div>
+      <div class="regrow"><b>BBC · Guardian · SCMP · Yahoo · CBS · Forbes…</b>
+        <span class="roll">9–44 today · normal editorial volume</span><span class="pill p-ok">FRESH</span><span class="runb">▶ Run</span></div>
+      <div class="regrow"><b>Economist · DW · France 24 · CBC · Al Jazeera</b>
+        <span class="roll">0–3 today · low-frequency publishers</span><span class="pill p-ok">QUIET</span><span class="runb">▶ Run</span></div>
+      <div class="quiet" style="margin-top:9px">Per-wire freshness, counts and manual run — the deeper operational view
+        (staleness alarms, drop counters, verification history) lives in Health.</div>
+    </div>
   </div>
 
   <!-- ═══ ASK ═══ -->
@@ -297,6 +402,10 @@
 </div>
 
 <script>
+
+function exsub(i,n){for(let k=0;k<n;k++){
+  document.getElementById('ex'+k).classList.toggle('on',k===i);
+  document.getElementById('xn'+k).classList.toggle('on',k===i);}}
 function tab(i){for(let k=0;k<5;k++){
   document.getElementById('p'+k).classList.toggle('on',k===i);
   document.getElementById('t'+k).classList.toggle('on',k===i);}}

@@ -123,6 +123,37 @@
   .stagebar span{border:1px solid var(--line);border-radius:8px;padding:6px 11px;font-size:11.5px;
     background:var(--surface-1);color:var(--ink2)}
   .stagebar b{color:var(--good)}
+
+  /* explore subviews: the previous dashboard, re-parented */
+  .exview{display:none}
+  .exview.on{display:block}
+  .hbar{display:grid;grid-template-columns:150px 1fr 62px;gap:8px;align-items:center;margin:5px 0;font-size:12px}
+  .hbar .lbl{color:var(--ink2);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .hbar .track{display:block;height:12px}
+  .hbar .fill{display:block;position:relative;height:12px;border-radius:0 4px 4px 0;background:var(--blue)}
+  .hbar .sub{position:absolute;right:0;top:0;height:12px;background:var(--muted);border-radius:0 4px 4px 0;
+    box-shadow:-2px 0 0 var(--surface-1)}
+  .hbar .val{font-variant-numeric:tabular-nums;font-weight:650;font-size:11.5px}
+  .fbar{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:10px}
+  .fbar span{border:1px solid var(--line);border-radius:7px;padding:4px 10px;font-size:11px;
+    color:var(--ink2);background:var(--surface-1)}
+  .fbar .cnt{margin-left:auto;border:0;color:var(--muted)}
+  .regrow{display:flex;gap:10px;align-items:center;padding:8px 4px;border-bottom:1px solid var(--line);font-size:12.5px}
+  .regrow:last-child{border-bottom:0}
+  .regrow .caret{color:var(--muted);width:14px}
+  .regrow b{min-width:140px}
+  .regrow .roll{color:var(--muted);font-size:11.5px;flex:1}
+  .regrow .runb{border:1px solid var(--line);border-radius:7px;padding:2px 9px;font-size:10.5px;
+    color:var(--blue);cursor:pointer;background:var(--surface-2)}
+  .subreg{margin-left:24px;background:var(--surface-1);border-radius:8px;padding:2px 10px}
+  .cols6{display:flex;align-items:flex-end;gap:6px;margin-top:4px}
+  .cols6 .c{flex:1;text-align:center}
+  .cols6 .bar{width:100%;background:var(--blue);border-radius:3px 3px 0 0;min-height:3px}
+  .cols6 .v{font-size:10.5px;font-weight:650}
+  .cols6 .d{font-size:9px;color:var(--muted)}
+  .ftree{font:11.5px/1.7 ui-monospace,Menlo,monospace;color:var(--ink2);background:var(--surface-1);
+    border:1px solid var(--line);border-radius:9px;padding:10px 14px;overflow-x:auto}
+  .ftree b{color:var(--ink)}
 </style>
 </head>
 <body>
@@ -194,23 +225,104 @@
 
   <!-- ═══ EXPLORE ═══ -->
   <div class="pane" id="p1">
-    <div class="exnav"><span>Overview</span><span>Regulators</span><span>Documents</span>
-      <span class="on">What changed — diff</span><span>Files</span></div>
-    <div class="arrived">You arrived from <b>My Day → FinCEN revision</b>. Explore is the live regulatory data app —
-      5,969 documents, 772 policy PDFs, 7,078 versions from 30 regulators.</div>
-    <div class="gp-head"><b>FinCEN — Bank Secrecy Act | version n → n+1</b>
-      <span class="day">archived, then diffed · materiality 78 · Critical</span></div>
-    <div class="sec"><h3>Line-by-line <i>· prior version preserved in the archive — this is the audit trail</i></h3>
-      <div class="diffline">…unchanged context above…</div>
-      <div class="diffline del">- institutions must file within 30 days of detection</div>
-      <div class="diffline add">+ institutions must file within 15 days of detection</div>
-      <div class="diffline add">+ …with electronic filing mandatory for institutions above the threshold</div>
-      <div class="diffline">…unchanged context below…</div>
-      <div class="quiet" style="margin-top:8px">Score explained: final_rule base ×1.4 (major operating regulator) = 56 ·
-        aml_cft topic +12 · revision +10 → <b>78, Critical band</b>. Every score ships with its reason.</div></div>
-    <div class="linkrow"><span>Full document →</span><span>All versions of this page →</span>
-      <span>Everything FinCEN →</span><span>All Critical-band this cycle (384) →</span>
-      <span onclick="tab(2)">💬 Ask about this diff</span></div>
+    <div class="arrived"><b>The entire previous dashboard lives here</b> — same pages, same live data,
+      re-parented as Explore and scoped to the regulatory lane. Click the subtabs. (Collection runs moved to Health.)</div>
+    <div class="exnav">
+      <span class="on" id="xn0" onclick="exsub(0,5)">Overview</span>
+      <span id="xn1" onclick="exsub(1,5)">Regulators</span>
+      <span id="xn2" onclick="exsub(2,5)">Documents</span>
+      <span id="xn3" onclick="exsub(3,5)">What changed</span>
+      <span id="xn4" onclick="exsub(4,5)">Files</span>
+    </div>
+
+    <div class="exview on" id="ex0">
+      <div class="statrow">
+        <div class="stat"><b>5,969</b><span>documents</span></div>
+        <div class="stat"><b>29/30</b><span>collecting</span></div>
+        <div class="stat"><b>772</b><span>policy PDFs</span></div>
+        <div class="stat crit"><b>384</b><span>critical band</span></div>
+        <div class="stat"><b>7,078</b><span>versions on file</span></div></div>
+      <div class="grid2" style="margin-top:12px">
+        <div class="sec"><h3>Deepest holdings <i>· bar = documents, grey tip = policy PDFs</i></h3>
+          <div class="hbar"><span class="lbl">OSFI</span><span class="track"><span class="fill" style="width:100%"><span class="sub" style="width:6%"></span></span></span><span class="val">1,196</span></div>
+          <div class="hbar"><span class="lbl">FINTRAC</span><span class="track"><span class="fill" style="width:69%"><span class="sub" style="width:5%"></span></span></span><span class="val">826</span></div>
+          <div class="hbar"><span class="lbl">IAIS</span><span class="track"><span class="fill" style="width:68%"><span class="sub" style="width:50%"></span></span></span><span class="val">820</span></div>
+          <div class="hbar"><span class="lbl">FinCEN</span><span class="track"><span class="fill" style="width:49%"></span></span><span class="val">589</span></div>
+          <div class="hbar"><span class="lbl">US Fed Register</span><span class="track"><span class="fill" style="width:43%"></span></span><span class="val">512</span></div>
+          <div class="hbar"><span class="lbl">CSA</span><span class="track"><span class="fill" style="width:33%"></span></span><span class="val">398</span></div></div>
+        <div class="sec"><h3>By document type</h3>
+          <div class="hbar"><span class="lbl">announcement</span><span class="track"><span class="fill" style="width:100%"></span></span><span class="val">5,279</span></div>
+          <div class="hbar"><span class="lbl">guidance</span><span class="track"><span class="fill" style="width:10.4%"></span></span><span class="val">548</span></div>
+          <div class="hbar"><span class="lbl">final rule</span><span class="track"><span class="fill" style="width:1.5%"></span></span><span class="val">63</span></div>
+          <div class="hbar"><span class="lbl">consultation</span><span class="track"><span class="fill" style="width:1.4%"></span></span><span class="val">57</span></div>
+          <div class="hbar"><span class="lbl">report</span><span class="track"><span class="fill" style="width:1%"></span></span><span class="val">22</span></div></div></div>
+    </div>
+
+    <div class="exview" id="ex1">
+      <div class="regrow"><span class="caret">▼</span><b>Canada</b>
+        <span class="roll">6 institutions · 2,701 web · 108 policy PDFs</span><span class="pill p-warn">1 needs attention</span></div>
+      <div class="subreg">
+        <div class="regrow"><span class="caret"></span><b>OSFI</b>
+          <span class="roll">1,128 web · 68 PDFs · cov 100% of 30 chapters · last run 02:00</span>
+          <span class="pill p-ok">FRESH</span><span class="runb">▶ Run</span></div>
+        <div class="regrow"><span class="caret"></span><b>FINTRAC</b>
+          <span class="roll">786 web · 40 PDFs · last run 02:00</span><span class="pill p-ok">FRESH</span><span class="runb">▶ Run</span></div>
+        <div class="regrow"><span class="caret"></span><b>AMF Québec</b>
+          <span class="roll">0 docs · 403 bot-block, escalated officially</span><span class="pill p-bad">BLOCKED</span><span class="runb">▶ Run</span></div></div>
+      <div class="regrow"><span class="caret">▶</span><b>United States</b>
+        <span class="roll">9 institutions · 1,319 web · 144 policy PDFs</span><span class="pill p-warn">1 needs attention</span></div>
+      <div class="regrow"><span class="caret">▶</span><b>EU &amp; UK</b>
+        <span class="roll">6 institutions · 502 web · 6 policy PDFs</span><span class="pill p-ok">all fresh</span></div>
+      <div class="regrow"><span class="caret">▶</span><b>APAC</b>
+        <span class="roll">5 institutions · 168 web · 60 policy PDFs</span><span class="pill p-ok">all fresh</span></div>
+      <div class="regrow"><span class="caret">▶</span><b>International</b>
+        <span class="roll">4 institutions · 507 web · 454 policy PDFs</span><span class="pill p-ok">all fresh</span></div>
+    </div>
+
+    <div class="exview" id="ex2">
+      <div class="fbar"><span>All regions ▾</span><span>All institutions ▾</span><span>All file types ▾</span>
+        <span>All doc types ▾</span><span>All priorities ▾</span><span>🔎 search title / reference…</span>
+        <span class="cnt">1–50 of 5,969</span></div>
+      <table class="hs">
+        <tr><th>document</th><th>institution</th><th>type</th><th>priority</th><th>date</th></tr>
+        <tr><td>The Anti-Money Laundering Act of 2020</td><td>FinCEN</td><td>final_rule</td>
+          <td><span class="pill p-bad">Critical 78</span></td><td>2026-07</td></tr>
+        <tr><td>CAR Chapter 4 — Credit Risk</td><td>OSFI</td><td>guidance</td>
+          <td><span class="pill p-warn">High</span></td><td>2026-06</td></tr>
+        <tr><td>Guideline B-13 — Technology &amp; Cyber Risk</td><td>OSFI</td><td>guidance</td>
+          <td><span class="pill p-warn">High</span></td><td>2026-05</td></tr>
+        <tr><td>11-101 — Principal Regulator System</td><td>OSC</td><td>final_rule</td>
+          <td><span class="pill p-bad">Critical</span></td><td>2026-07</td></tr>
+        <tr><td>IAIS — ICS as a PCR (policy PDF)</td><td>IAIS</td><td>report</td>
+          <td><span class="pill p-ok">Medium</span></td><td>2026-04</td></tr></table>
+      <div class="quiet" style="margin-top:9px">Click a row → rich reader drawer (rendered markdown, provenance, version history).
+        Filters mirror the live app: region, institution, file type, doc type, priority band, dates, search.</div>
+    </div>
+
+    <div class="exview" id="ex3">
+      <div class="fbar"><span>Last 7 days ▾</span><span>All institutions ▾</span><span>Min priority: High ▾</span>
+        <span class="cnt">priority-first ordering</span></div>
+      <div class="evt" style="--c:var(--crit)"><b>FinCEN — Bank Secrecy Act pages, revision archived</b>
+        <div class="m"><span class="sev">CRITICAL · 78</span> · version n → n+1 · open line-by-line diff</div>
+        <div class="diffline del">- institutions must file within 30 days of detection</div>
+        <div class="diffline add">+ institutions must file within 15 days of detection…</div></div>
+      <div class="story"><b>FRB — 3 revisions archived this cycle</b><span class="m">diffs on file</span></div>
+      <div class="story"><b>BoE/PRA — 2 revisions archived</b><span class="m">diffs on file</span></div>
+      <div class="story"><b>FCA — 1 revision archived</b><span class="m">diff on file</span></div>
+      <div class="quiet" style="margin-top:9px">Every revision archives the prior version first, then diffs — the change feed is the audit trail.</div>
+    </div>
+
+    <div class="exview" id="ex4">
+      <div class="ftree"><b>data/web_aggregator/</b>
+ ├─ osfi/current/guidance/2026/8c93…/ <b>content.md</b> · raw.html · manifest.json
+ ├─ osfi/archive/guidance/2026/8c93…/v1/ (prior versions, never deleted)
+ ├─ fincen/current/final_rule/2026/aa41…/ <b>content.md</b> · raw.html
+ └─ iais/current/report/2026/77b2…/ <b>content.md</b> · <b>raw.pdf</b> (410 policy PDFs)
+<b>data/markdown/</b>  ← the projection your agent tools read
+ ├─ web/osfi/guidance/*.md      (YAML frontmatter: title, source_url, version…)
+ └─ policy/iais/report/*.md</div>
+      <div class="quiet" style="margin-top:9px">The raw archive as it sits on disk — for audit and engineering. 1.8&nbsp;GB originals + 271&nbsp;MB markdown.</div>
+    </div>
   </div>
 
   <!-- ═══ ASK ═══ -->
@@ -292,6 +404,10 @@
 </div>
 
 <script>
+
+function exsub(i,n){for(let k=0;k<n;k++){
+  document.getElementById('ex'+k).classList.toggle('on',k===i);
+  document.getElementById('xn'+k).classList.toggle('on',k===i);}}
 function tab(i){for(let k=0;k<5;k++){
   document.getElementById('p'+k).classList.toggle('on',k===i);
   document.getElementById('t'+k).classList.toggle('on',k===i);}}
