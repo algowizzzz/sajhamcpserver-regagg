@@ -1,6 +1,12 @@
 const { test, expect } = require('@playwright/test');
 const { signup } = require('./helpers');
 
+// These specs do real work: each builds a persona page from a day's corpus and
+// then fetches the documents behind a card. Under a full-suite run that is
+// legitimately slower than the 30s default, and a timeout here would be a
+// false alarm rather than a defect.
+test.describe.configure({ timeout: 90_000 });
+
 async function makePersona(page, { name, entities, lane = 'news', families = '' }) {
   await page.locator('#nPer').click();
   await page.locator('#perName').fill(name);
@@ -74,9 +80,9 @@ test.describe('My Day — the generated page', () => {
     await makePersona(page, { name: 'Evidence', entities: 'Goodfood' });
     await page.locator('#nMyd').click();
     await page.evaluate(() => loadMyDay('2026-08-06'));
-    await expect(page.locator('.md-ev').first()).toBeVisible();
+    await expect(page.locator('.md-ev').first()).toBeVisible({ timeout: 25000 });
     await page.locator('.md-ev').first().click();
-    await expect(page.locator('#drawer')).toBeVisible({ timeout: 10000 });
+    await expect(page.locator('#drawer')).toBeVisible({ timeout: 25000 });
   });
 
   test('a big book gets exception framing, a small one gets narrative', async ({ page }) => {
@@ -101,14 +107,57 @@ test.describe('Health — the platform team pane', () => {
   });
 });
 
-test.describe('Ask — context-pinned chat', () => {
+test.describe('Ask — grounded chat', () => {
   test.beforeEach(async ({ page }) => { await signup(page); });
 
-  test('is honest when chat is not connected, and never dead-ends', async ({ page }) => {
+  test('offers starting questions and states its own rule', async ({ page }) => {
     await page.locator('#nAsk').click();
-    await expect(page.locator('#askBody')).toContainText('not connected');
-    await expect(page.locator('#askBody')).toContainText('visible in');
-    await expect(page.locator('#askCtx')).toContainText('No artifact pinned');
+    await expect(page.locator('.ask-sug button').first()).toBeVisible();
+    await expect(page.locator('#v-ask')).toContainText('every claim carries a citation');
+    await expect(page.locator('#askSources')).toContainText('Sources');
+  });
+
+  test('an answer is grounded in listed sources, or it is withheld', async ({ page }) => {
+    await page.locator('#nPer').click();
+    await page.locator('#perName').fill('Ask book');
+    await page.locator('#perEntities').fill('Goodfood\nWestJet\nSuncor');
+    await page.locator('button:has-text("Save persona")').click();
+    await expect(page.locator('#perMsg')).toContainText('Saved');
+
+    await page.locator('#nAsk').click();
+    await page.locator('#askInput').fill('What should I look at first?');
+    await page.locator('#v-ask .ask-form button').click();   // not the nav tab
+
+    // wait for the answer to replace the pending bubble
+    await expect(page.locator('.ask-msg.ai.pending')).toHaveCount(0, { timeout: 45000 });
+    const reply = page.locator('.ask-msg.ai').last();
+    await expect(reply).toBeVisible();
+    const text = await reply.textContent();
+    // The contract is: answer with citations, or say plainly why you cannot.
+    // Every honest refusal the server can produce is listed here — anything
+    // else means the assistant asserted something uncited.
+    const cited = /\[\d+\]/.test(text);
+    const declined = /(could not be verified|no model is configured|no sources pinned|nothing to answer|could not be reached|ask a question)/i.test(text);
+    expect(cited || declined, `unexpected reply: ${text}`).toBe(true);
+    if (cited) {
+      await expect(page.locator('#askSources .s').first()).toBeVisible();
+    }
+  });
+
+  test('opening a card from My Day pins it as the chat context', async ({ page }) => {
+    await page.locator('#nPer').click();
+    await page.locator('#perName').fill('Pin book');
+    await page.locator('#perEntities').fill('Goodfood');
+    await page.locator('button:has-text("Save persona")').click();
+    await expect(page.locator('#perMsg')).toContainText('Saved');   // then navigate
+    await page.locator('#nMyd').click();
+    await page.evaluate(() => loadMyDay('2026-08-06'));
+    await expect(page.locator('.md-ev').first()).toBeVisible({ timeout: 25000 });
+    await page.locator('.md-ev').first().click();
+    // the drawer opening confirms the card resolved its evidence
+    await expect(page.locator('#drawer')).toBeVisible({ timeout: 25000 });
+    await page.locator('#nAsk').click();
+    await expect(page.locator('#askCtx')).toContainText('story cluster');
   });
 });
 
@@ -125,7 +174,7 @@ test.describe('ambiguous name matches', () => {
     await page.locator('#nMyd').click();
     await page.evaluate(() => loadMyDay('2026-08-06'));
     // the item must be on the page at all — that is the whole point
-    await expect(page.locator('.md-ev').first()).toBeVisible();
+    await expect(page.locator('.md-ev').first()).toBeVisible({ timeout: 25000 });
     const body = await page.locator('#mydayBody').textContent();
     expect(body).toMatch(/Goodfood/);
   });

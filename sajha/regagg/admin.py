@@ -48,6 +48,16 @@ class PersonaRequest(BaseModel):
     shared_with: Optional[List[str]] = None
 
 
+class AskRequest(BaseModel):
+    question: str
+    context_kind: str = "day"          # day | cluster | document
+    persona_id: Optional[str] = None
+    day: Optional[str] = None
+    cluster_key: Optional[str] = None
+    regulator_id: Optional[str] = None
+    doc_id: Optional[str] = None
+
+
 class ManualDocRequest(BaseModel):
     regulator_id: str
     url: str                            # source URL (provenance anchor, required)
@@ -169,6 +179,45 @@ def create_admin_router() -> APIRouter:
         out["persona"] = _p.persona_dict(session, p)
         return out
 
+    @router.post("/ask")
+    def ask(req: AskRequest, request: Request):
+        """Answer a question from a pinned artifact — and only from it."""
+        from sajha.regagg import ask as _ask, personas as _p
+        user = _require_user(request)
+        session = runtime.get_session()
+
+        persona = None
+        if req.context_kind in ("day", "cluster"):
+            pid = req.persona_id
+            if not pid:
+                mine = _p.list_personas(session, user.user_id)
+                pid = mine[0]["persona_id"] if mine else None
+            if not pid:
+                raise HTTPException(400, "Create a persona first.")
+            persona, err = _p.get_persona(session, pid, user.user_id)
+            if err:
+                raise HTTPException(404, err)
+
+        if req.context_kind == "cluster":
+            if not req.cluster_key:
+                raise HTTPException(400, "cluster_key is required.")
+            pack = _ask.pack_for_cluster(session, persona, req.day, req.cluster_key)
+            if pack is None:
+                raise HTTPException(404, "That item is not on the page for that day.")
+        elif req.context_kind == "document":
+            if not (req.regulator_id and req.doc_id):
+                raise HTTPException(400, "regulator_id and doc_id are required.")
+            pack = _ask.pack_for_document(session, runtime.get_storage(),
+                                          req.regulator_id, req.doc_id)
+            if pack is None:
+                raise HTTPException(404, "Document not found.")
+        else:
+            pack = _ask.pack_for_day(session, persona, req.day)
+
+        out = _ask.answer_question(req.question, pack)
+        out["context"] = {"kind": pack["kind"], "title": pack["title"]}
+        return out
+
     @router.get("/desks")
     def desks(request: Request, day: Optional[str] = None, days: int = 30):
         """Every persona you can see, side by side — the desk dashboard.
@@ -240,7 +289,8 @@ def create_admin_router() -> APIRouter:
         if err:
             raise HTTPException(404, err)
         data = _m.build_my_day(session, p, day=day)
-        for item in data["dossier"]["items"] + data["dossier"].get("suppressed", []):
+        for item in (data["dossier"]["items"]
+                     + data["dossier"].get("suppressed", [])):
             if item["cluster_key"] == cluster_key:
                 return item
         raise HTTPException(404, "Item not on that day's page.")

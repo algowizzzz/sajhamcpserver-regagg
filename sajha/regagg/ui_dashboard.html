@@ -537,15 +537,44 @@
 
   .md-maybe{display:inline-block;background:var(--amber-soft);color:var(--amber);
     border-radius:5px;padding:1px 7px;font-size:10px;font-weight:700;margin-left:6px}
+
+  /* ── ask: grounded chat ── */
+  .ask-wrap{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:16px}
+  @media(max-width:900px){.ask-wrap{grid-template-columns:1fr}}
+  .ask-thread{min-height:220px;max-height:52vh;overflow:auto;padding-right:4px}
+  .ask-msg{max-width:80%;border-radius:12px;padding:10px 14px;margin:9px 0;
+    font-size:12.8px;line-height:1.55}
+  .ask-msg.me{background:var(--blue);color:#fff;margin-left:auto;border-bottom-right-radius:4px}
+  .ask-msg.ai{background:var(--surface);border:1px solid var(--line);color:var(--ink2);
+    border-bottom-left-radius:4px}
+  .ask-msg.ai.warn{border-color:var(--amber)}
+  .ask-msg.ai.pending{opacity:.6}
+  .ask-msg .cite{color:var(--blue);font-weight:700;cursor:pointer;font-size:11px;
+    vertical-align:2px}
+  .ask-msg .gen{display:block;margin-top:7px;font-size:10px;color:var(--muted)}
+  .ask-form{display:flex;gap:8px;margin-top:12px}
+  .ask-form input{flex:1;font:inherit;color:var(--ink);background:var(--surface2);
+    border:1px solid var(--line);border-radius:9px;padding:9px 12px}
+  .ask-form input:focus{outline:none;border-color:var(--blue)}
+  .ask-src{background:var(--surface);border:1px solid var(--line);border-radius:11px;
+    padding:12px 14px}
+  .ask-src h4{font-size:10.5px;text-transform:uppercase;letter-spacing:.05em;
+    color:var(--muted);margin-bottom:8px}
+  .ask-src .s{font-size:11.5px;padding:6px 0;border-bottom:1px solid var(--line);line-height:1.45}
+  .ask-src .s:last-child{border-bottom:0}
+  .ask-src .s b{color:var(--blue)}
+  .ask-src .s a{font-size:10.5px}
+  .ask-sug{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 2px}
+  .ask-sug button{border:1px solid var(--line);border-radius:999px;padding:4px 11px;
+    font-size:11.5px;color:var(--ink2);background:var(--surface)}
+  .ask-sug button:hover{border-color:var(--blue);color:var(--blue)}
 </style>
 </head>
 <body>
 <div class="top">
   <div class="brand"><div class="logo">R</div>Regulatory Intelligence</div>
   <div class="nav">
-    <button class="on" id="nMyd" onclick="show('myday')">My Day</button>
-    <button id="nDsk" onclick="show('desks')">Desks</button>
-    <button id="nHome" onclick="show('home')">Home</button>
+    <button class="on" id="nHome" onclick="show('home')">Home</button>
     <button id="nOvw" onclick="show('ovw')">🏛️ Regulatory</button>
     <button id="nNews" onclick="show('newslane')">📰 Financial News</button>
     <button id="nAsk" onclick="show('ask')">Ask</button>
@@ -755,16 +784,26 @@
     <div id="mydayBody" class="empty">loading…</div>
   </div>
 
-  <div class="view" id="v-desks">
-    <div id="desksBody" class="empty">loading…</div>
-  </div>
-
   <div class="view" id="v-ask">
     <div class="ptitle" data-t="v-ask">Ask</div>
     <div class="psub">Ask questions about what you are looking at. Open this from a document,
       a diff or a My Day card and that artifact is pinned as context, so the first answer is grounded in it.</div>
     <div id="askCtx"></div>
-    <div class="ask-box" id="askBody"></div>
+    <div class="ask-wrap">
+      <div>
+        <div class="ask-thread" id="askThread"></div>
+        <div class="ask-sug" id="askSug"></div>
+        <div class="ask-form">
+          <input id="askInput" placeholder="Ask about what you're looking at…"
+            onkeydown="if(event.key==='Enter')askSend()">
+          <button class="btn primary" onclick="askSend()">Ask</button>
+        </div>
+        <div style="font-size:10.5px;color:var(--muted);margin-top:8px">
+          Answers come only from the sources listed here, and every claim carries a
+          citation. If the sources cannot answer, the assistant says so rather than guessing.</div>
+      </div>
+      <div class="ask-src" id="askSources"></div>
+    </div>
   </div>
 
   <div class="view" id="v-hea">
@@ -979,25 +1018,27 @@ let _t;function toast(m){const t=$("toast");t.textContent=m;t.classList.add("sho
    in the lane bar, never left implicit. */
 const LANES={
   reg:{icon:"🏛️",name:"Regulatory Intelligence",cat:"regulatory",
-    tabs:[["ovw","Overview"],["cov","Regulators"],["brw","Documents"],
-          ["chg","What changed"],["run","Collection"],["exp","Files"]]},
+    tabs:[["ovw","Overview"],["myday","My Day"],["cov","Regulators"],
+          ["brw","Documents"],["chg","What changed"],["run","Collection"],
+          ["exp","Files"]]},
   news:{icon:"📰",name:"Financial News",cat:"news",
-    tabs:[["newslane","Overview"],["feed","Today's stories"],["brw","All stories"],
-          ["cov","Wires"],["run","Collection"]]},
+    tabs:[["newslane","Overview"],["myday","My Day"],["feed","Today's stories"],
+          ["brw","All stories"],["cov","Wires"],["run","Collection"]]},
 };
 const HOME_OF={ovw:"reg",cov:"reg",brw:"reg",chg:"reg",run:"reg",exp:"reg",
-               newslane:"news",feed:"news"};
+               newslane:"news",feed:"news",myday:"news"};
 let LANE=null;                       // which lane the user is inside
 function laneScope(){return LANE?LANES[LANE].cat:null}
 
 async function enterLane(lane,view){
   await window.READY;          // the tree drives lane-scoped rendering
   LANE=lane;
-  const shared=["brw","cov","chg","run","exp"].includes(view);
+  const shared=["brw","cov","chg","run","exp","myday"].includes(view);
   show(view,true,{keepLane:true});
   if(shared)await applyLaneScope(view);
 }
 async function applyLaneScope(view){
+  if(view==="myday"){return loadMyDay();}
   if(view==="brw"){window._corpusLoaded=1;
     ["bRegion","bInst","bKind","bType","bStatus","bBand","bQ","bFrom","bTo"]
       .forEach(i=>{if($(i))$(i).value="";});
@@ -1040,16 +1081,16 @@ function renderLaneBar(view){
 }
 
 function show(which,push=true,opts={}){
-  const VIEWS=["myday","desks","home","ovw","newslane","feed","cov","brw","exp","chg","run","per","ask","hea"];
+  const VIEWS=["myday","home","ovw","newslane","feed","cov","brw","exp","chg","run","per","ask","hea"];
   VIEWS.forEach(v=>$("v-"+v).classList.toggle("on",v===which));
   if(push){window._ourHash=which==="home"?"":which;
            location.hash=window._ourHash;}
-  if(["home","per","myday","ask","hea","desks"].includes(which))LANE=null;
+  if(["home","per","ask","hea"].includes(which))LANE=null;
   else if(!opts.keepLane)LANE=HOME_OF[which]||LANE;
   // top bar carries the LANE, not the page — level 2 lives in the lane bar
-  const TOPNAV={myday:"nMyd",desks:"nDsk",home:"nHome",per:"nPer",ask:"nAsk",hea:"nHea"};
+  const TOPNAV={home:"nHome",per:"nPer",ask:"nAsk",hea:"nHea"};
   const topOn=TOPNAV[which]||((LANE||HOME_OF[which])==="news"?"nNews":"nOvw");
-  ["nMyd","nDsk","nHome","nOvw","nNews","nPer","nAsk","nHea"].forEach(
+  ["nHome","nOvw","nNews","nPer","nAsk","nHea"].forEach(
     id=>$(id).classList.toggle("on",id===topOn));
   renderLaneBar(which);
   retitle(which);
@@ -1059,7 +1100,6 @@ function show(which,push=true,opts={}){
   if(which==="feed"&&!window._newsLoaded){window._newsLoaded=1;loadNews();}
   if(which==="per"){loadPersonas();}
   if(which==="myday"){loadMyDay();}
-  if(which==="desks"){loadDesks();}
   if(which==="hea"){loadHealth();}
   if(which==="ask"){renderAsk();}
   if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
@@ -1081,10 +1121,16 @@ async function loadMyDay(day){
   try{
     const qs=new URLSearchParams();
     if(day)qs.set("day",day);
+    // a lane shows the personas that belong to it — a news desk's page does
+    // not belong under Regulatory and vice versa
+    const plist=await j(`/personas`);
+    const all=(plist||{}).personas||[];
+    const inLane=LANE?all.filter(p=>p.lane===LANES[LANE].cat):all;
+    if(MYDAY_PID&&!inLane.some(p=>p.persona_id===MYDAY_PID))MYDAY_PID=null;
+    if(!MYDAY_PID&&inLane.length)MYDAY_PID=inLane[0].persona_id;
     if(MYDAY_PID)qs.set("persona_id",MYDAY_PID);
-    const [page,plist]=await Promise.all([
-      j(`/myday${qs.toString()?`?${qs}`:""}`), j(`/personas`)]);
-    MYDAY=page;MYDAY.all_personas=(plist||{}).personas||[];
+    const page=await j(`/myday${qs.toString()?`?${qs}`:""}`);
+    MYDAY=page;MYDAY.all_personas=inLane;
   }catch(e){el.className="";el.innerHTML=`<div class="md-empty"><h3>Could not build your page</h3>
     <p>${esc(e.message)}</p></div>`;return;}
   el.className="";
@@ -1093,7 +1139,8 @@ async function loadMyDay(day){
     try{starters=(await j(`/personas/starters`)).starters||[];}catch(e){}
     el.innerHTML=`<div class="md-empty"><h3>Tell us what you follow</h3>
       <p>Your daily page is built from a persona — the names, topics and rules
-         you are responsible for. Start from one of these, or build your own.</p>
+         you are responsible for. This lane has none yet; start from one of these,
+         or build your own.</p>
       <div class="starters">`+starters.map(s=>
         `<button class="starter" onclick="useStarter('${s.key}')">
            <b>${s.lane==="news"?"📰":"🏛️"} ${esc(s.name)}</b>
@@ -1152,10 +1199,14 @@ async function loadMyDay(day){
 }
 async function openMyDayItem(key){
   try{
-    const item=await j(`/myday/item/${encodeURIComponent(key)}`);
-    ASKCTX={kind:"my day card",title:item.title,docs:item.docs};
+    const qs=new URLSearchParams();
+    if(MYDAY&&MYDAY.persona)qs.set("persona_id",MYDAY.persona.persona_id);
+    if(MYDAY&&MYDAY.spec&&MYDAY.spec.day)qs.set("day",MYDAY.spec.day);
+    const item=await j(`/myday/item/${encodeURIComponent(key)}?${qs}`);
+    ASKCTX={kind:"story cluster",title:item.title,contextKind:"cluster",
+            cluster_key:key,day:(MYDAY&&MYDAY.spec)?MYDAY.spec.day:null};
     if(item.docs&&item.docs.length)openDoc(item.docs[0].regulator_id,item.docs[0].doc_id);
-  }catch(e){toast("Could not open that item.");}
+  }catch(e){toast("Could not open that item.");console.error("openMyDayItem",e);}
 }
 
 /* ── desks: every persona at a glance ────────────────────── */
@@ -1209,24 +1260,78 @@ async function loadDesks(){
 
 /* ── ask (context-pinned chat) ────────────────────────────── */
 let ASKCTX=null;
+let ASKTHREAD=[],ASKSOURCES=[];
+const ASK_SUGGESTIONS={
+  day:["What should I look at first, and why?",
+       "Which of these touch names I follow?",
+       "Is anything here corroborated by more than one source?"],
+  cluster:["What do we actually know, and what is still unconfirmed?",
+           "Did the story change between the first and latest report?",
+           "Draft a two-line note for the desk, facts only."],
+  document:["What changed, and does it affect timelines?",
+            "Summarise this for someone who has not read it.",
+            "What obligations does this create, if any?"],
+};
 function renderAsk(){
+  const kind=ASKCTX?ASKCTX.kind:"your page";
   $("askCtx").innerHTML=ASKCTX
-    ? `<div class="ask-chip">📎 Context: ${esc(ASKCTX.kind)} — ${esc((ASKCTX.title||"").slice(0,90))}</div>`
+    ? `<div class="ask-chip">📎 Context: ${esc(ASKCTX.kind)} — ${esc((ASKCTX.title||"").slice(0,90))}
+        <span style="color:var(--muted);cursor:pointer" onclick="askClear()">✕</span></div>`
     : `<div class="ask-chip" style="border-color:var(--line);background:var(--surface2);color:var(--muted)">
-         No artifact pinned — open one from My Day, Documents or a diff</div>`;
-  const url=(window.AGENT_URL||"").trim();
-  $("askBody").innerHTML=url
-    ? `<p style="font-size:12.5px;color:var(--ink2)">Chat runs on your agent platform.</p>
-       <p style="margin-top:10px"><a class="btn primary" href="${esc(url)}" target="_blank"
-          rel="noopener">Open Ask with this context ↗</a></p>`
-    : `<p style="font-size:12.5px;color:var(--ink2);line-height:1.6">
-         <b>Chat is not connected on this install.</b> Ask runs on your agent platform
-         (LangGraph) against the same data through the <code>reg_*</code> MCP tools.
-         Set <code>REGAGG_AGENT_URL</code> to its address and this tab hands over the
-         pinned artifact so the first answer is already grounded.</p>
-       <p style="font-size:12px;color:var(--muted);margin-top:10px">
-         Nothing here is a dead end: everything Ask would answer is visible in
-         Explore with citations — this tab only saves you the reading.</p>`;
+         Asking about today's page — open an item from My Day to narrow it</div>`;
+  const sug=ASK_SUGGESTIONS[(ASKCTX&&ASKCTX.contextKind)||"day"]||[];
+  $("askSug").innerHTML=ASKTHREAD.length?"":sug.map(q=>
+    `<button onclick="$('askInput').value=${JSON.stringify(q).replace(/"/g,"&quot;")};askSend()">${esc(q)}</button>`).join("");
+  $("askThread").innerHTML=ASKTHREAD.map(m=>{
+    if(m.role==="me")return `<div class="ask-msg me">${esc(m.text)}</div>`;
+    const withCites=esc(m.text).replace(/\[(\d+)\]/g,
+      (s,n)=>`<span class="cite" onclick="askOpenSource(${n})">[${n}]</span>`);
+    return `<div class="ask-msg ai${m.ok?"":" warn"}${m.pending?" pending":""}">${withCites}
+      <span class="gen">${esc(m.gen||"")}</span></div>`;}).join("");
+  $("askThread").scrollTop=$("askThread").scrollHeight;
+  $("askSources").innerHTML=`<h4>Sources${ASKSOURCES.length?` (${ASKSOURCES.length})`:""}</h4>`+
+    (ASKSOURCES.length?ASKSOURCES.map(s=>
+      `<div class="s"><b>[${s.n}]</b> ${esc((s.title||"").slice(0,110))}
+        <div style="color:var(--muted)">${esc(s.publisher||"")}${s.published?" · "+esc(s.published):""}
+        ${s.doc_id?` · <a onclick="openDoc('${s.regulator_id}','${s.doc_id}')">open</a>`:""}
+        ${s.url?` · <a href="${esc(s.url)}" target="_blank" rel="noopener">source ↗</a>`:""}</div></div>`).join("")
+     :`<div class="s" style="color:var(--muted)">Ask a question to see the evidence it used.</div>`);
+}
+function askClear(){ASKCTX=null;ASKTHREAD=[];ASKSOURCES=[];renderAsk();}
+function askOpenSource(n){
+  const s=ASKSOURCES.find(x=>x.n===Number(n));
+  if(s&&s.doc_id)openDoc(s.regulator_id,s.doc_id);
+}
+async function askSend(){
+  const q=($("askInput").value||"").trim();
+  if(!q)return;
+  $("askInput").value="";
+  ASKTHREAD.push({role:"me",text:q});
+  ASKTHREAD.push({role:"ai",text:"…",ok:true,gen:"thinking",pending:true});
+  renderAsk();
+  const body={question:q,context_kind:(ASKCTX&&ASKCTX.contextKind)||"day"};
+  if(ASKCTX){
+    if(ASKCTX.contextKind==="cluster"){body.cluster_key=ASKCTX.cluster_key;body.day=ASKCTX.day;}
+    if(ASKCTX.contextKind==="document"){body.regulator_id=ASKCTX.regulator_id;body.doc_id=ASKCTX.doc_id;}
+  }
+  if(window.MYDAY_PID)body.persona_id=window.MYDAY_PID;
+  try{
+    const r=await fetch(API+"/ask",{method:"POST",
+      headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+    const d=await r.json().catch(()=>({}));
+    ASKTHREAD.pop();
+    ASKTHREAD.push({role:"ai",text:d.answer||"No answer.",ok:!!d.ok,
+                    gen:d.generator==="llm:deepseek"?"answered from the sources below"
+                        :d.generator==="rejected"?"withheld — could not be verified"
+                        :d.generator==="unconfigured"?"no model configured"
+                        :esc(d.generator||"")});
+    ASKSOURCES=d.sources||[];
+    if(d.context&&!ASKCTX)ASKCTX={kind:d.context.kind,title:d.context.title,contextKind:"day"};
+  }catch(e){
+    ASKTHREAD.pop();
+    ASKTHREAD.push({role:"ai",text:"Could not reach the assistant. "+e.message,ok:false,gen:""});
+  }
+  renderAsk();
 }
 
 /* ── health: one pane for the platform team ───────────────── */
@@ -1296,8 +1401,7 @@ async function authSubmit(){
     // expected outcomes come back 200 with ok:false and a human message
     if(!r.ok||d.ok===false)throw new Error(d.error||d.detail||"Could not sign in.");
     ME=d.user;$("authGate").classList.remove("on");renderMe();
-    window.READY=loadAll().then(()=>{if(!location.hash)show("myday",false);
-                                     applyHash();return true;})
+    window.READY=loadAll().then(()=>{applyHash();return true;})
       .catch(err=>{console.error("initial load failed:",err);
                    toast("Could not load your data — retrying…");
                    return loadAll().then(()=>{applyHash();return true;});});
@@ -1978,14 +2082,19 @@ async function loadChanges(){
 }
 function chgCard(ch){
   const d=ch.doc;
-  const badge={new:"NEW",revised:`REVISED v${d.version_n}`,superseded:"SUPERSEDED",
-               deadline:"DEADLINE"}[ch.kind]||ch.kind;
+  // "NEW" meant "new to us", which reads as "newly published" — misleading for
+  // the thousands of documents that already existed when collection started.
+  // The honest label distinguishes first collection from an actual revision.
+  const badge={new:"FIRST COLLECTED",revised:`REVISED v${d.version_n}`,
+               superseded:"SUPERSEDED",deadline:"DEADLINE"}[ch.kind]||ch.kind;
   return `<div class="card">
     <div><div class="badge ${ch.kind}">${badge}</div>
       <div class="breg">${ch.regulator_id}</div></div>
     <div><h4><a onclick='openDoc("${ch.regulator_id}","${d.doc_id}");return false' href="#">${esc(d.title)}</a></h4>
       <p>${d.doc_type}${d.reference_number?` · ${esc(d.reference_number)}`:""}
-         ${d.published_date?` · published ${d.published_date}`:""}
+         ${d.published_date?` · <b>published ${d.published_date}</b>`
+                           :` · <span style="color:var(--muted)">no publication date on the source</span>`}
+         ${ch.kind==="new"?` · first collected ${(ch.at||"").slice(0,10)}`:""}
          ${d.comment_deadline?` · <b>comments due ${d.comment_deadline}</b>`:""}
          ${d.source_kind==="policy_pdf"?" · PDF":""}</p></div>
     <div style="display:flex;gap:6px">
@@ -2177,7 +2286,7 @@ function applyHash(){
   const h=location.hash.replace("#","");
   const ALIAS={corpus:"brw",news:"newslane",reg:"ovw",regulatory:"ovw"};
   if(["myday","ovw","news","newslane","feed","cov","brw","chg","run","corpus",
-      "exp","reg","regulatory","per","ask","hea","desks"].includes(h))show(ALIAS[h]||h,false);
+      "exp","reg","regulatory","per","ask","hea"].includes(h))show(ALIAS[h]||h,false);
 }
 // Boot: authenticate, load the core data, THEN honour the deep link — a link
 // followed straight into the sign-in screen must still land where it pointed.
@@ -2189,7 +2298,6 @@ window.addEventListener("hashchange",()=>{
 window.READY=requireAuth().then(async ok=>{
   if(!ok)return false;
   await loadAll();
-  if(!location.hash)show("myday",false);
   applyHash();
   return true;
 });

@@ -127,6 +127,21 @@ class WatchlistMatcher:
                     self.by_alias.setdefault(a, name)
             self.cores.append((core_tokens(name), name))
 
+        # Candidate indexes. Without these, every lookup scanned the whole
+        # watchlist twice — fine for ten names, 12,000 comparisons per story
+        # for a 6,000-name book, which made page builds take minutes.
+        # Both rules below require agreement on the START of the name, so
+        # bucketing by it is exact, not approximate.
+        self._by_first: Dict[str, List[Tuple[List[str], str]]] = {}
+        self._by_head: Dict[str, List[Tuple[str, str]]] = {}
+        for ctoks, name in self.cores:
+            if not ctoks:
+                continue
+            self._by_first.setdefault(ctoks[0], []).append((ctoks, name))
+            squashed = "".join(ctoks)
+            if len(squashed) >= 6:
+                self._by_head.setdefault(squashed[:6], []).append((squashed, name))
+
         # token -> the watched names containing it, used only when the token is
         # distinctive enough to identify one company on its own
         self._distinctive: Dict[str, List[str]] = {}
@@ -167,20 +182,16 @@ class WatchlistMatcher:
         # 'Citadel' is a prefix of 'Citadel Broadcasting' too, and those are
         # different companies. A leftover word makes it a question, not a fact.
         spacing_possible: Optional[Tuple[str, str]] = None
-        for ctoks, name in self.cores:
-            csquashed = "".join(ctoks)
-            if not csquashed or not wsquashed or len(min(csquashed, wsquashed, key=len)) < 6:
-                continue
-            if csquashed == wsquashed:
-                return name, "confirmed", "same name, spelled with different spacing"
-            short, long = sorted((csquashed, wsquashed), key=len)
-            if long.startswith(short):
-                spacing_possible = (name, f"'{written}' may be a short form of '{name}'")
+        if len(wsquashed) >= 6:
+            for csquashed, name in self._by_head.get(wsquashed[:6], ()):
+                if csquashed == wsquashed:
+                    return name, "confirmed", "same name, spelled with different spacing"
+                short, long = sorted((csquashed, wsquashed), key=len)
+                if long.startswith(short):
+                    spacing_possible = (name, f"'{written}' may be a short form of '{name}'")
 
         best: Optional[Tuple[str, str]] = None
-        for ctoks, name in self.cores:
-            if not ctoks or not wtoks:
-                continue
+        for ctoks, name in (self._by_first.get(wtoks[0], ()) if wtoks else ()):
             short, long = (ctoks, wtoks) if len(ctoks) <= len(wtoks) else (wtoks, ctoks)
             if long[:len(short)] != short:
                 continue                       # not even a prefix — unrelated
