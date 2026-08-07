@@ -883,3 +883,46 @@ def exec_news(session, storage=None) -> dict:
         "sources": sources,
         "proof": today.get("stories", [])[:3],
     }
+
+
+def runs_trend(session, days: int = 14, category: Optional[str] = None,
+               now: Optional[datetime] = None) -> dict:
+    """Day-over-day collection volume, and which sources carried it.
+
+    'Is the data current?' is answered by today's numbers; 'is collection
+    healthy?' is answered by the shape over time — a source that quietly stops
+    detecting shows up here long before anyone notices a missing story.
+    """
+    now = now or datetime.now(timezone.utc)
+    regs = {r.regulator_id: r for r in session.scalars(select(Regulator)).all()}
+    ids = [rid for rid, r in regs.items()
+           if not category or getattr(r, "category", "regulatory") == category]
+
+    rows = session.execute(
+        select(Run.logical_date, func.count(), func.sum(Run.detected),
+               func.sum(Run.fetched), func.sum(Run.ingested), func.sum(Run.errors))
+        .where(Run.regulator_id.in_(ids or [""]))
+        .group_by(Run.logical_date).order_by(Run.logical_date.desc()).limit(days)).all()
+    series = [{"date": str(d), "runs": n, "detected": int(det or 0),
+               "fetched": int(f or 0), "ingested": int(i or 0),
+               "errors": int(e or 0)}
+              for d, n, det, f, i, e in reversed(rows)]
+
+    # per source, over the same window — the league table of who is producing
+    since = series[0]["date"] if series else str(now.date())
+    per_source = []
+    for rid, n, det, f, i, e, last in session.execute(
+            select(Run.regulator_id, func.count(), func.sum(Run.detected),
+                   func.sum(Run.fetched), func.sum(Run.ingested),
+                   func.sum(Run.errors), func.max(Run.logical_date))
+            .where(Run.regulator_id.in_(ids or [""]), Run.logical_date >= since)
+            .group_by(Run.regulator_id)).all():
+        reg = regs.get(rid)
+        per_source.append({
+            "regulator_id": rid, "name": getattr(reg, "name", rid),
+            "category": getattr(reg, "category", "regulatory"),
+            "runs": n, "detected": int(det or 0), "fetched": int(f or 0),
+            "ingested": int(i or 0), "errors": int(e or 0), "last_run": str(last)})
+    per_source.sort(key=lambda s: -s["ingested"])
+    return {"days": len(series), "series": series, "per_source": per_source,
+            "window_from": since}

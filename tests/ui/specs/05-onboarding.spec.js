@@ -33,7 +33,7 @@ test.describe('onboarding and multi-persona', () => {
 
   test('a user with two personas can switch between them on My Day', async ({ page }) => {
     // one of each lane
-    await page.locator('#nPer').click();
+    await page.evaluate(() => enterLane('news', 'per'));
     await page.locator('#perName').fill('My book');
     await page.locator('#perEntities').fill('Goodfood\nWestJet');
     await page.locator('button:has-text("Save persona")').click();
@@ -53,7 +53,7 @@ test.describe('onboarding and multi-persona', () => {
   });
 
   test('one persona shows no switcher — no controls without a choice', async ({ page }) => {
-    await page.locator('#nPer').click();
+    await page.evaluate(() => enterLane('news', 'per'));
     await page.locator('#perName').fill('Only one');
     await page.locator('#perEntities').fill('Goodfood');
     await page.locator('button:has-text("Save persona")').click();
@@ -71,7 +71,7 @@ test.describe('responsive and resilience', () => {
     const overflow = await page.evaluate(() =>
       document.documentElement.scrollWidth - document.documentElement.clientWidth);
     expect(overflow).toBeLessThanOrEqual(2);
-    await page.locator('#nPer').click();
+    await page.evaluate(() => enterLane('news', 'per'));
     await expect(page.locator('#perName')).toBeVisible();
   });
 

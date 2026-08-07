@@ -1,0 +1,61 @@
+{
+  "name": "corpus_search_bm25",
+  "implementation": "sajha.tools.impl.corpus_tools.CorpusBM25SearchTool",
+  "description": "Ranked relevance search (Okapi BM25) over the whole corpus. Best when you know the topic but not the wording.",
+  "version": "1.0.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "query": {
+        "type": "string"
+      },
+      "source": {
+        "type": [
+          "string",
+          "array"
+        ],
+        "items": {
+          "type": "string"
+        }
+      },
+      "doc_type": {
+        "type": [
+          "string",
+          "array"
+        ],
+        "items": {
+          "type": "string"
+        }
+      },
+      "date_from": {
+        "type": "string"
+      },
+      "date_to": {
+        "type": "string"
+      },
+      "limit": {
+        "type": "integer",
+        "default": 20
+      }
+    },
+    "required": [
+      "query"
+    ]
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Corpus Retrieval",
+    "tags": [
+      "corpus",
+      "markdown",
+      "retrieval",
+      "riskgpt"
+    ],
+    "cacheTTL": 120,
+    "readOnly": true
+  }
+}

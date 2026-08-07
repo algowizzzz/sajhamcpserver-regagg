@@ -1,0 +1,47 @@
+{
+  "name": "corpus_search_similar",
+  "implementation": "sajha.tools.impl.corpus_tools.CorpusSimilarTool",
+  "description": "Find documents similar to a given document or passage (TF-IDF cosine). Use to widen from one good hit to the rest of the story.",
+  "version": "1.0.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "doc_id": {
+        "type": "string"
+      },
+      "text": {
+        "type": "string"
+      },
+      "source": {
+        "type": [
+          "string",
+          "array"
+        ],
+        "items": {
+          "type": "string"
+        }
+      },
+      "limit": {
+        "type": "integer",
+        "default": 10
+      }
+    },
+    "required": []
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Corpus Retrieval",
+    "tags": [
+      "corpus",
+      "markdown",
+      "retrieval",
+      "riskgpt"
+    ],
+    "cacheTTL": 120,
+    "readOnly": true
+  }
+}

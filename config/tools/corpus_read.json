@@ -1,0 +1,38 @@
+{
+  "name": "corpus_read",
+  "implementation": "sajha.tools.impl.corpus_tools.CorpusReadTool",
+  "description": "Read one document's markdown in full, by doc_id or path.",
+  "version": "1.0.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "doc_id": {
+        "type": "string"
+      },
+      "path": {
+        "type": "string"
+      },
+      "max_chars": {
+        "type": "integer",
+        "default": 12000
+      }
+    },
+    "required": []
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Corpus Retrieval",
+    "tags": [
+      "corpus",
+      "markdown",
+      "retrieval",
+      "riskgpt"
+    ],
+    "cacheTTL": 120,
+    "readOnly": true
+  }
+}

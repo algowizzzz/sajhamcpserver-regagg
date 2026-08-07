@@ -1,0 +1,37 @@
+{
+  "name": "corpus_entity_lookup",
+  "implementation": "sajha.tools.impl.corpus_tools.CorpusEntityLookupTool",
+  "description": "Find every document naming a company, however it was written ('Goodfood' finds 'Goodfood Market Corp.'). Ambiguous matches are returned separately as 'possible'.",
+  "version": "1.0.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "name": {
+        "type": "string"
+      },
+      "limit": {
+        "type": "integer",
+        "default": 25
+      }
+    },
+    "required": [
+      "name"
+    ]
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Corpus Retrieval",
+    "tags": [
+      "corpus",
+      "markdown",
+      "retrieval",
+      "riskgpt"
+    ],
+    "cacheTTL": 120,
+    "readOnly": true
+  }
+}

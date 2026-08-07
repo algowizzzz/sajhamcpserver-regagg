@@ -1,0 +1,40 @@
+{
+  "name": "corpus_read_many",
+  "implementation": "sajha.tools.impl.corpus_tools.CorpusReadManyTool",
+  "description": "Read several documents at once by doc_id \u2014 use when comparing or summarising a set.",
+  "version": "1.0.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "doc_ids": {
+        "type": "array",
+        "items": {
+          "type": "string"
+        }
+      },
+      "max_chars_each": {
+        "type": "integer",
+        "default": 4000
+      }
+    },
+    "required": [
+      "doc_ids"
+    ]
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Corpus Retrieval",
+    "tags": [
+      "corpus",
+      "markdown",
+      "retrieval",
+      "riskgpt"
+    ],
+    "cacheTTL": 120,
+    "readOnly": true
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "corpus_changes",
+  "implementation": "sajha.tools.impl.corpus_tools.CorpusChangesTool",
+  "description": "What entered the corpus or was revised recently. 'new' = first collected, 'revised' = the text changed and a diff exists.",
+  "version": "1.0.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "days": {
+        "type": "integer",
+        "default": 7
+      },
+      "lane": {
+        "type": "string",
+        "enum": [
+          "regulatory",
+          "news"
+        ]
+      },
+      "min_band": {
+        "type": "string",
+        "enum": [
+          "Critical",
+          "High",
+          "Medium",
+          "Low"
+        ]
+      },
+      "since": {
+        "type": "string",
+        "description": "YYYY-MM-DD (file fallback)"
+      },
+      "limit": {
+        "type": "integer",
+        "default": 40
+      }
+    },
+    "required": []
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Corpus Retrieval",
+    "tags": [
+      "corpus",
+      "markdown",
+      "retrieval",
+      "riskgpt"
+    ],
+    "cacheTTL": 120,
+    "readOnly": true
+  }
+}

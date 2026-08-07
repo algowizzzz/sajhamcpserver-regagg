@@ -1,0 +1,36 @@
+{
+  "name": "corpus_list_sources",
+  "implementation": "sajha.tools.impl.corpus_tools.CorpusListSourcesTool",
+  "description": "List every data source in the corpus (regulators and news wires) with document counts, document types and date coverage. Start here to learn what exists.",
+  "version": "1.0.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "lane": {
+        "type": "string",
+        "enum": [
+          "regulatory",
+          "news"
+        ],
+        "description": "Optional: restrict to one lane"
+      }
+    },
+    "required": []
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Corpus Retrieval",
+    "tags": [
+      "corpus",
+      "markdown",
+      "retrieval",
+      "riskgpt"
+    ],
+    "cacheTTL": 120,
+    "readOnly": true
+  }
+}

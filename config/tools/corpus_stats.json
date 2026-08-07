@@ -1,0 +1,27 @@
+{
+  "name": "corpus_stats",
+  "implementation": "sajha.tools.impl.corpus_tools.CorpusStatsTool",
+  "description": "Shape of the corpus: totals by stage and document type, sources, and which days are covered.",
+  "version": "1.0.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {},
+    "required": []
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Corpus Retrieval",
+    "tags": [
+      "corpus",
+      "markdown",
+      "retrieval",
+      "riskgpt"
+    ],
+    "cacheTTL": 120,
+    "readOnly": true
+  }
+}

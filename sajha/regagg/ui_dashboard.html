@@ -781,7 +781,7 @@
         <a onclick="show('chg')"><b>Changes feed →</b><span>What was published or revised, priority-ranked</span></a>
         <a onclick="show('run')"><b>Collection runs →</b><span>Daily run health, pass rate, live progress</span></a>
         <a onclick="show('exp')"><b>File explorer →</b><span>The raw archive as a nested folder tree</span></a>
-        <a onclick="openAddDoc()"><b>Add a document →</b><span>Manually file a PDF or URL into the corpus</span></a>
+        <a onclick="enterLane('reg','run')"><b>Run collection →</b><span>Trigger a run for one source or all, and add a document by hand</span></a>
       </div></div>
     <div id="ovwHead" class="headline" style="display:none"></div>
     <div class="tiles" id="ovwTiles" style="display:none"></div>
@@ -875,9 +875,14 @@
     <div class="hsec"><h3>Pipeline — last cycle, every stage accounted</h3>
       <div class="stagebar" id="heaStages"></div>
       <div class="md-quiet" style="margin-top:9px" id="heaConserve"></div></div>
-    <div class="hsec"><h3>Sources needing attention</h3><div id="heaSources"></div></div>
-    <div class="hsec"><h3>Daily generation — the AI layer</h3><div id="heaGen"></div></div>
-    <div class="hsec"><h3>Collection runs</h3><div id="heaRuns"></div></div>
+    <div class="halfgrid">
+      <div class="hsec"><h3>Sources needing attention</h3>
+        <div id="heaSources" class="scrollbox short"></div></div>
+      <div class="hsec"><h3>Daily generation — the AI layer</h3>
+        <div id="heaGen"></div>
+        <h3 style="margin-top:12px">Collection runs</h3>
+        <div id="heaRuns"></div></div>
+    </div>
   </div>
 
   <div class="view" id="v-per">
@@ -1002,14 +1007,37 @@
   </div>
 
   <div class="view" id="v-run">
-    <div class="ptitle" data-t="v-run">Collection health</div>
-    <div class="psub">One row per collection run: what was detected, fetched and stored, and whether it succeeded. Use this to answer “is the data current?” — a live run shows progress here.</div>
+    <div class="ptitle" data-t="v-run">Collection</div>
+    <div class="psub">Run collection, watch it happen, and see whether the data is
+      current. Everything that triggers a fetch lives on this page.</div>
     <div id="todayDelta"></div>
-    <div id="liveRuns"></div>
-    <h3 class="sec">Recent runs</h3>
-    <div id="recentRuns" class="empty">loading…</div>
-    <h3 class="sec">Daily delta</h3>
-    <div id="delta" class="empty">loading…</div>
+
+    <div class="xcard">
+      <h3>Run collection <span class="plain" id="runScopeNote"></span></h3>
+      <div class="fbar">
+        <select id="runPick"><option value="all">All sources in this lane</option></select>
+        <label class="fdate">for date <input type="date" id="runDate"></label>
+        <input id="runCap" type="number" min="1" placeholder="max docs (optional)"
+          style="width:150px;font:inherit;color:var(--ink);background:var(--surface2);
+                 border:1px solid var(--line);border-radius:7px;padding:3px 8px">
+        <button class="btn primary sm" onclick="doRun()">▶ Run</button>
+        <button class="btn sm" onclick="openAddDoc()">＋ Add document</button>
+        <span id="runMsg" style="font-size:11.5px;color:var(--muted)"></span>
+      </div>
+      <div id="liveRuns"></div>
+    </div>
+
+    <div class="halfgrid">
+      <div class="xcard"><h3>Recent runs <span class="plain">· newest first</span></h3>
+        <div id="recentRuns" class="empty scrollbox">loading…</div></div>
+      <div class="xcard"><h3>Day over day <span class="plain" id="trendNote"></span></h3>
+        <div id="trendChart"></div>
+        <h3 style="margin-top:12px">By data source <span class="plain">· this window</span></h3>
+        <div id="trendSources" class="scrollbox short"></div></div>
+    </div>
+
+    <div class="xcard"><h3>Daily delta</h3>
+      <div id="delta" class="empty scrollbox short">loading…</div></div>
   </div>
 </div>
 
@@ -1108,6 +1136,7 @@ async function applyLaneScope(view){
     if(typeof fillBInsts==="function")fillBInsts();
     await loadCorpus(true);}
   if(view==="chg"){await loadChanges();}
+  if(view==="run"){await Promise.all([loadRunControls(),loadTrend(),loadRuns()]);}
   if(view==="cov"){renderTree();}
 }
 const RETITLE={news:{"v-cov":["Wires we watch",
@@ -1164,6 +1193,7 @@ function show(which,push=true,opts={}){
   if(which==="per"){loadPersonas();}
   if(which==="myday"){loadMyDay();}
   if(which==="hea"){loadHealth();}
+  if(which==="run"){loadRunControls();loadTrend();}
   if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
   if(which==="exp"&&!window._expLoaded){window._expLoaded=1;loadExplorer();}
 }
@@ -1373,8 +1403,15 @@ function renderAsk(){
     `<button onclick="$('askInput').value=${JSON.stringify(q).replace(/"/g,"&quot;")};askSend()">${esc(q)}</button>`).join("");
   $("askThread").innerHTML=ASKTHREAD.map(m=>{
     if(m.role==="me")return `<div class="ask-msg me">${esc(m.text)}</div>`;
-    const withCites=esc(m.text).replace(/\[(\d+)\]/g,
-      (s,n)=>`<span class="cite" onclick="askOpenSource(${n})">[${n}]</span>`);
+    let withCites=esc(m.text)
+      .replace(/^### (.+)$/gm,'<b>$1</b>')
+      .replace(/^## (.+)$/gm,'<b>$1</b>')
+      .replace(/\*\*(.+?)\*\*/g,'<b>$1</b>')
+      .replace(/^- /gm,'· ')
+      .replace(/\n/g,'<br>')
+      .replace(/\[(\d+)\]/g,(s,n)=>`<span class="cite" onclick="askOpenSource(${n})">[${n}]</span>`)
+      .replace(/\[([0-9a-f]{12,})\]/g,
+        (s,id)=>`<span class="cite" title="open document" onclick="askOpenDoc('${id}')">[doc]</span>`);
     return `<div class="ask-msg ai${m.ok?"":" warn"}${m.pending?" pending":""}">${withCites}
       <span class="gen">${esc(m.gen||"")}</span></div>`;}).join("");
   $("askThread").scrollTop=$("askThread").scrollHeight;
@@ -1387,6 +1424,12 @@ function renderAsk(){
      :`<div class="s" style="color:var(--muted)">Ask a question to see the evidence it used.</div>`);
 }
 function askClear(){ASKCTX=null;ASKTHREAD=[];ASKSOURCES=[];renderAsk();}
+async function askOpenDoc(docId){
+  try{
+    const r=await j(`/corpus/doc/${encodeURIComponent(docId)}`);
+    if(r&&r.regulator_id)openDoc(r.regulator_id,docId);
+  }catch(e){toast("Could not open that document.");}
+}
 function askOpenSource(n){
   const s=ASKSOURCES.find(x=>x.n===Number(n));
   if(s&&s.doc_id)openDoc(s.regulator_id,s.doc_id);
@@ -1412,8 +1455,14 @@ async function askSend(){
       headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
     const d=await r.json().catch(()=>({}));
     ASKTHREAD.pop();
+    const steps=(d.steps||[]).map(s=>s.tool.replace("corpus_",""));
+    const route=steps.length
+      ? `${steps.length} tool call${steps.length>1?"s":""}: ${[...new Set(steps)].join(" → ")}`
+      : "";
     ASKTHREAD.push({role:"ai",text:d.answer||"No answer.",ok:!!d.ok,
-                    gen:d.generator==="llm:deepseek"?"answered from the sources below"
+                    gen:(d.generator||"").startsWith("agent")
+                          ? (route||"searched the corpus")
+                        :d.generator==="llm:deepseek"?"answered from the sources below"
                         :d.generator==="rejected"?"withheld — could not be verified"
                         :d.generator==="unconfigured"?"no model configured"
                         :esc(d.generator||"")});
@@ -1601,6 +1650,64 @@ async function perSave(){
 ["perEntities","perFamilies"].forEach(id=>{
   document.addEventListener("input",e=>{if(e.target&&e.target.id===id)perPreview();});
 });
+
+/* ── collection: run it, watch it, see the trend ───────────── */
+async function loadRunControls(){
+  const sel=$("runPick");if(!sel)return;
+  const cat=laneScope();
+  const tree=window._tree;
+  const inLane=(tree?tree.regions:[]).filter(r=>
+    !cat||((r.region==="Financial News")===(cat==="news")));
+  const srcs=inLane.flatMap(r=>r.institutions||[]);
+  sel.innerHTML=`<option value="all">All ${cat==="news"?"wires":"regulators"} `+
+    `(${srcs.length})</option>`+
+    srcs.map(s=>`<option value="${esc(s.regulator_id)}">${esc(s.name||s.regulator_id)}</option>`).join("");
+  $("runScopeNote").textContent=cat==="news"
+    ? "· financial news wires" : cat==="regulatory" ? "· regulators" : "";
+  if(!$("runDate").value)$("runDate").value=new Date().toISOString().slice(0,10);
+}
+async function doRun(){
+  const pick=$("runPick").value, day=$("runDate").value||null;
+  const cap=parseInt($("runCap").value,10);
+  const body={scope:pick==="all"?"all":"ids",date:day};
+  if(pick!=="all")body.ids=[pick];
+  if(!isNaN(cap)&&cap>0)body.max_docs=cap;
+  $("runMsg").textContent="starting…";
+  try{
+    const r=await fetch(API+"/rerun",{method:"POST",
+      headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+    const d=await r.json().catch(()=>({}));
+    $("runMsg").textContent=d.queued===false
+      ? "a run is already in progress"
+      : `started ${pick==="all"?"all sources":pick} for ${d.date||day}`;
+    setTimeout(loadRuns,1500);
+  }catch(e){$("runMsg").textContent="could not start: "+e.message;}
+}
+async function loadTrend(){
+  const el=$("trendChart");if(!el)return;
+  const cat=laneScope();
+  const d=await j(`/runs-trend?days=14${cat?`&category=${cat}`:""}`);
+  $("trendNote").textContent=`· ${d.days} day${d.days===1?"":"s"} of runs`;
+  const max=Math.max(...d.series.flatMap(s=>[s.detected,s.ingested]),1);
+  el.innerHTML=`<div class="xlegend">
+      <span><i style="background:var(--blue)"></i>detected</span>
+      <span><i style="background:var(--green)"></i>ingested</span>
+      <span><i style="background:var(--red)"></i>errors</span></div>
+    <div class="cols" style="height:74px;display:flex;align-items:flex-end;gap:6px">`+
+    d.series.map(s=>`<div style="flex:1;text-align:center" title="${s.date}: detected ${s.detected}, fetched ${s.fetched}, ingested ${s.ingested}, errors ${s.errors}">
+      <div style="display:flex;gap:2px;align-items:flex-end;justify-content:center;height:56px">
+        <div style="width:7px;background:var(--blue);height:${Math.max(2,Math.round(s.detected/max*56))}px;border-radius:2px 2px 0 0"></div>
+        <div style="width:7px;background:var(--green);height:${Math.max(2,Math.round(s.ingested/max*56))}px;border-radius:2px 2px 0 0"></div>
+        ${s.errors?`<div style="width:4px;background:var(--red);height:${Math.max(2,Math.round(s.errors/max*56))}px"></div>`:""}
+      </div>
+      <div style="font-size:9px;color:var(--muted)">${s.date.slice(5)}</div></div>`).join("")+`</div>`;
+  $("trendSources").innerHTML=`<table><tr><th>data source</th><th>runs</th>
+      <th>detected</th><th>fetched</th><th>ingested</th><th>errors</th><th>last run</th></tr>`+
+    d.per_source.map(s=>`<tr><td><b>${esc(s.name)}</b></td><td>${s.runs}</td>
+      <td>${fmt(s.detected)}</td><td>${fmt(s.fetched)}</td><td>${fmt(s.ingested)}</td>
+      <td>${s.errors?`<span style="color:var(--red)">${s.errors}</span>`:"0"}</td>
+      <td>${esc(s.last_run)}</td></tr>`).join("")+`</table>`;
+}
 
 /* ── executive pages: every section bound to /exec/* ──────── */
 const BAND_C={Critical:"var(--red)",High:"#ec835a",Medium:"var(--amber)",Low:"var(--green)"};
@@ -2223,7 +2330,7 @@ async function loadRuns(){
         <i style="display:block;height:100%;width:${pct}%;background:var(--blue);border-radius:5px"></i></div>
       <span style="color:var(--muted);font-size:11.5px">detected ${fmt(r.detected)} · fetched ${fmt(r.fetched)} · ingested ${fmt(r.ingested)} · errors ${r.errors}</span>
     </div>`}).join("")
-    :`<div class="live" style="border-style:dashed"><span style="color:var(--muted)">No run active. Trigger one with ▶ Run all, or a per-regulator ▶ Run on the Coverage tab.</span></div>`;
+    :`<div class="live" style="border-style:dashed"><span style="color:var(--muted)">No run active — pick a source above and press ▶ Run. Progress appears here.</span></div>`;
   $("recentRuns").className="";
   $("recentRuns").innerHTML=`<table><tr><th>Regulator</th><th>Date</th><th>Trigger</th><th>Status</th>
     <th class="num">Detected</th><th class="num">Fetched</th><th class="num">Ingested</th>

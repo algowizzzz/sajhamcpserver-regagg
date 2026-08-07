@@ -51,6 +51,9 @@ class PersonaRequest(BaseModel):
 class AskRequest(BaseModel):
     question: str
     context_kind: str = "day"          # day | cluster | document
+    context_mode: str = "active"       # active reads the current page first
+    page: Optional[dict] = None        # what the person is looking at
+    mode: str = "agent"                # agent (corpus tools) | pinned (one artifact)
     persona_id: Optional[str] = None
     day: Optional[str] = None
     cluster_key: Optional[str] = None
@@ -181,10 +184,26 @@ def create_admin_router() -> APIRouter:
 
     @router.post("/ask")
     def ask(req: AskRequest, request: Request):
-        """Answer a question from a pinned artifact — and only from it."""
+        """Answer a question.
+
+        Two modes, because two different questions get asked. With an artifact
+        pinned, answer from THAT and nothing else. Otherwise run the digital
+        worker over the corpus toolset and let it find its own way there.
+        """
         from sajha.regagg import ask as _ask, personas as _p
         user = _require_user(request)
         session = runtime.get_session()
+
+        if req.mode == "agent" and req.context_kind not in ("cluster", "document"):
+            from sajha.regagg import agent as _agent
+            out = _agent.answer(req.question, page=req.page,
+                                context_mode=req.context_mode)
+            out["context"] = {"kind": "corpus",
+                              "title": (req.page or {}).get("label") or "the corpus"}
+            out["sources"] = [{"n": i + 1, "title": d, "publisher": "",
+                               "doc_id": d, "regulator_id": ""}
+                              for i, d in enumerate((out.get("documents") or [])[:12])]
+            return out
 
         persona = None
         if req.context_kind in ("day", "cluster"):
@@ -217,6 +236,19 @@ def create_admin_router() -> APIRouter:
         out = _ask.answer_question(req.question, pack)
         out["context"] = {"kind": pack["kind"], "title": pack["title"]}
         return out
+
+    @router.get("/corpus/doc/{doc_id}")
+    def corpus_doc(doc_id: str, request: Request):
+        """Resolve a doc_id the assistant cited to something the UI can open."""
+        _require_user(request)
+        from sqlalchemy import select as _select
+        session = runtime.get_session()
+        doc = session.scalars(
+            _select(Document).where(Document.doc_id == doc_id)).first()
+        if doc is None:
+            raise HTTPException(404, "No such document.")
+        return {"doc_id": doc.doc_id, "regulator_id": doc.regulator_id,
+                "title": doc.title, "source_url": doc.source_url}
 
     @router.get("/desks")
     def desks(request: Request, day: Optional[str] = None, days: int = 30):
@@ -521,6 +553,13 @@ def create_admin_router() -> APIRouter:
         from sajha.regagg import queries_ui
         return queries_ui.news_dashboard(runtime.get_session(),
                                          storage=runtime.get_storage(), day=day)
+
+    @router.get("/runs-trend")
+    def runs_trend(days: int = 14, category: Optional[str] = None):
+        """Day-over-day detected/fetched/ingested, plus who produced it."""
+        from sajha.regagg import queries_ui
+        return queries_ui.runs_trend(runtime.get_session(), days=days,
+                                     category=category)
 
     @router.get("/runs-overview")   # NB: not /runs/{run_id} — avoids path capture
     def runs_over():

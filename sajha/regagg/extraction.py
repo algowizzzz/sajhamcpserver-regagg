@@ -165,6 +165,22 @@ class _OpenAICompatible:
         self.base_url = base_url.rstrip("/")
         self.api_key, self.model, self.timeout = api_key, model, timeout
 
+    def chat(self, messages: list, tools: Optional[list] = None,
+             max_tokens: int = 900) -> dict:
+        """Raw chat turn, optionally with tools. Returns the message object."""
+        import requests
+        payload = {"model": self.model, "max_tokens": max_tokens,
+                   "temperature": 0, "messages": messages}
+        if tools:
+            payload["tools"] = tools
+            payload["tool_choice"] = "auto"
+        r = requests.post(f"{self.base_url}/chat/completions",
+                          headers={"Authorization": f"Bearer {self.api_key}",
+                                   "Content-Type": "application/json"},
+                          json=payload, timeout=self.timeout)
+        r.raise_for_status()
+        return r.json()["choices"][0]["message"]
+
     def complete(self, system: str, user: str, max_tokens: int = 400) -> str:
         import requests
         r = requests.post(

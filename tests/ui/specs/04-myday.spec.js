@@ -8,7 +8,7 @@ const { signup } = require('./helpers');
 test.describe.configure({ timeout: 90_000 });
 
 async function makePersona(page, { name, entities, lane = 'news', families = '' }) {
-  await page.locator('#nPer').click();
+  await page.evaluate(() => enterLane('news', 'per'));
   await page.locator('#perName').fill(name);
   if (lane !== 'news') await page.selectOption('#perLane', lane);
   await page.locator('#perEntities').fill(entities);
@@ -111,20 +111,20 @@ test.describe('Ask — grounded chat', () => {
   test.beforeEach(async ({ page }) => { await signup(page); });
 
   test('offers starting questions and states its own rule', async ({ page }) => {
-    await page.locator('#nAsk').click();
+    await page.evaluate(() => toggleChat(true));
     await expect(page.locator('.ask-sug button').first()).toBeVisible();
     await expect(page.locator('#v-ask')).toContainText('every claim carries a citation');
     await expect(page.locator('#askSources')).toContainText('Sources');
   });
 
   test('an answer is grounded in listed sources, or it is withheld', async ({ page }) => {
-    await page.locator('#nPer').click();
+    await page.evaluate(() => enterLane('news', 'per'));
     await page.locator('#perName').fill('Ask book');
     await page.locator('#perEntities').fill('Goodfood\nWestJet\nSuncor');
     await page.locator('button:has-text("Save persona")').click();
     await expect(page.locator('#perMsg')).toContainText('Saved');
 
-    await page.locator('#nAsk').click();
+    await page.evaluate(() => toggleChat(true));
     await page.locator('#askInput').fill('What should I look at first?');
     await page.locator('#v-ask .ask-form button').click();   // not the nav tab
 
@@ -145,7 +145,7 @@ test.describe('Ask — grounded chat', () => {
   });
 
   test('opening a card from My Day pins it as the chat context', async ({ page }) => {
-    await page.locator('#nPer').click();
+    await page.evaluate(() => enterLane('news', 'per'));
     await page.locator('#perName').fill('Pin book');
     await page.locator('#perEntities').fill('Goodfood');
     await page.locator('button:has-text("Save persona")').click();
@@ -160,7 +160,7 @@ test.describe('Ask — grounded chat', () => {
     // exactly as a person would
     await page.locator('.drclose').click();
     await expect(page.locator('#drawer')).not.toHaveClass(/show/);
-    await page.locator('#nAsk').click();
+    await page.evaluate(() => toggleChat(true));
     await expect(page.locator('#askCtx')).toContainText('story cluster');
   });
 });
@@ -169,7 +169,7 @@ test.describe('ambiguous name matches', () => {
   test('a possible mention is shown and flagged, never silently dropped', async ({ page }) => {
     const { signup } = require('./helpers');
     await signup(page);
-    await page.locator('#nPer').click();
+    await page.evaluate(() => enterLane('news', 'per'));
     // "Goodfood" is the analyst's shorthand; the corpus says "Goodfood Market Corp."
     await page.locator('#perName').fill('Shorthand book');
     await page.locator('#perEntities').fill('Goodfood');

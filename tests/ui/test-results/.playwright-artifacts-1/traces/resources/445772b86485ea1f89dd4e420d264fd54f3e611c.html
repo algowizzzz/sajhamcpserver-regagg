@@ -1,0 +1,2505 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>riskGPT — financial web data aggregator</title>
+<style>
+  :root{
+    --bg:#f4f6f9; --surface:#ffffff; --surface2:#fafbfd;
+    --ink:#16202e; --ink2:#4a5568; --muted:#8291a5; --line:#e3e8ef; --line2:#eef1f6;
+    --blue:#0f5aa9; --blue-soft:#e8f0fa; --green:#177a4c; --green-soft:#e7f4ed;
+    --amber:#9a6a00; --amber-soft:#fdf3dd; --red:#b3261e; --red-soft:#fceceb;
+    --grey-soft:#eef0f4; --shadow:0 1px 2px rgba(22,32,46,.05),0 4px 16px rgba(22,32,46,.06);
+    --radius:10px;
+  }
+  @media (prefers-color-scheme:dark){:root{
+    --bg:#0f1218; --surface:#171b22; --surface2:#1c212a; --ink:#e7ebf2; --ink2:#aab3c0;
+    --muted:#7e8896; --line:#262c36; --line2:#20252e; --blue:#5b8def; --blue-soft:#1c2a42;
+    --green:#4cc38a; --green-soft:#15302355; --amber:#e0b34d; --amber-soft:#3a300f55;
+    --red:#e5736b; --red-soft:#3d1b1955; --grey-soft:#242a33;
+    --shadow:0 1px 2px rgba(0,0,0,.3)}}
+  *{box-sizing:border-box;margin:0}
+  body{font:12.5px/1.45 -apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
+       background:var(--bg);color:var(--ink)}
+  button{font:inherit;cursor:pointer;border:none;background:none;color:inherit}
+  a{color:var(--blue);text-decoration:none}
+  .top{background:var(--surface);border-bottom:1px solid var(--line);padding:0 24px;height:56px;
+       display:flex;align-items:center;gap:16px;position:sticky;top:0;z-index:30}
+  .brand{display:flex;align-items:center;gap:9px;font-weight:650;font-size:14.5px}
+  .logo{width:25px;height:25px;border-radius:7px;background:var(--blue);color:#fff;
+       display:grid;place-items:center;font-size:12px;font-weight:700}
+  .nav{display:flex;gap:4px}
+  .nav button{padding:6px 13px;border-radius:8px;font-weight:550;color:var(--ink2);font-size:13px}
+  .nav .on{background:var(--blue-soft);color:var(--blue)}
+  .spacer{flex:1}
+  .btn{border:1px solid var(--line);border-radius:8px;padding:6px 13px;background:var(--surface);
+       font-weight:550;display:inline-flex;align-items:center;gap:6px;font-size:12.5px}
+  .btn:hover{border-color:var(--blue);color:var(--blue)}
+  .btn.primary{background:var(--blue);color:#fff;border-color:var(--blue)}
+  .btn.sm{padding:3px 9px;font-size:11.5px;border-radius:7px}
+  select{font:inherit;color:var(--ink);background:var(--surface);border:1px solid var(--line);
+       border-radius:8px;padding:5px 9px}
+  .page{max-width:1240px;margin:0 auto;padding:18px 24px 80px}
+  .view{display:none}.view.on{display:block}
+
+  .tiles{display:grid;grid-template-columns:repeat(5,1fr);gap:11px;margin-bottom:16px}
+  .tile{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       padding:11px 14px;box-shadow:var(--shadow)}
+  .tile b{font-size:20px;font-weight:680;display:block;letter-spacing:-.02em}
+  .tile span{color:var(--muted);font-size:11.5px}
+  .up{color:var(--green)}.warn{color:var(--amber)}.bad{color:var(--red)}
+
+  .pill{display:inline-flex;align-items:center;gap:4px;font-size:11px;font-weight:600;
+       border-radius:6px;padding:2px 8px;white-space:nowrap}
+  .pill.ok{background:var(--green-soft);color:var(--green)}
+  .pill.ok_empty{background:var(--amber-soft);color:var(--amber)}
+  .pill.stale,.pill.partial{background:var(--amber-soft);color:var(--amber)}
+  .pill.failed,.pill.fail{background:var(--red-soft);color:var(--red)}
+  .pill.never_run,.pill.block{background:var(--grey-soft);color:var(--ink2)}
+  .pill.running{background:var(--blue-soft);color:var(--blue)}
+
+  .region{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       box-shadow:var(--shadow);margin-bottom:11px;overflow:hidden}
+  .rhead{display:flex;align-items:center;gap:12px;padding:13px 16px;cursor:pointer;user-select:none}
+  .rhead:hover{background:var(--surface2)}
+  .caret{width:16px;color:var(--muted);transition:transform .15s;display:inline-block}
+  .open>.rhead .caret,.inst.open .ihead .caret,.srct.open .shead .caret{transform:rotate(90deg)}
+  .rname{font-weight:650;font-size:13.5px;min-width:130px}
+  .rollup{display:flex;gap:18px;color:var(--ink2);font-size:12px;flex-wrap:wrap}
+  .rollup b{color:var(--ink);font-weight:600}
+  .rbody{display:none;border-top:1px solid var(--line2)}
+  .open>.rbody{display:block}
+  .inst{border-bottom:1px solid var(--line2)}
+  .inst:last-child{border-bottom:none}
+  .ihead{display:grid;grid-template-columns:22px minmax(170px,1.3fr) 1fr 1fr 130px 110px 70px;
+       gap:8px;align-items:center;padding:10px 16px;cursor:pointer;font-size:12.5px}
+  .ihead:hover{background:var(--surface2)}
+  .iname{font-weight:600}
+  .iname .full{display:block;color:var(--muted);font-weight:400;font-size:11px}
+  .cnum{color:var(--ink2);font-variant-numeric:tabular-nums}
+  .cnum b{color:var(--ink)}
+  .cnum .new{color:var(--green);font-weight:600}
+  .ibody{display:none;background:var(--surface2);padding:2px 16px 10px 46px}
+  .inst.open .ibody{display:block}
+  .srct{border:1px solid var(--line);border-radius:8px;background:var(--surface);
+       margin-top:8px;overflow:hidden}
+  .shead{display:flex;align-items:center;gap:10px;padding:8px 12px;cursor:pointer;font-size:12.5px}
+  .shead:hover{background:var(--surface2)}
+  .sico{width:24px;height:24px;border-radius:6px;display:grid;place-items:center;font-size:12px}
+  .sico.web{background:var(--blue-soft)}.sico.pdf{background:var(--red-soft)}
+  .smeta{color:var(--muted);font-size:11.5px}
+  .sbody{display:none;border-top:1px solid var(--line2);padding:2px 12px 8px}
+  .srct.open .sbody{display:block}
+  .doc{display:flex;align-items:center;gap:8px;padding:6px 4px;border-bottom:1px solid var(--line2);
+       cursor:pointer;border-radius:6px;font-size:12px}
+  .doc:last-child{border-bottom:none}
+  .doc:hover{background:var(--blue-soft)}
+  .dt{font-weight:550;color:var(--blue);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;max-width:58%}
+  .tag{font-size:10px;border:1px solid var(--line);border-radius:5px;padding:1px 6px;color:var(--ink2);white-space:nowrap}
+  .tag.v{background:var(--amber-soft);border-color:transparent;color:var(--amber);font-weight:600}
+  .tag.sup{background:var(--red-soft);border-color:transparent;color:var(--red);font-weight:600}
+  .tag.pdf{background:var(--red-soft);border-color:transparent;color:var(--red)}
+  .dmeta{color:var(--muted);font-size:11px;margin-left:auto;white-space:nowrap}
+  .more{color:var(--blue);font-size:11.5px;padding:6px 4px;font-weight:550;cursor:pointer}
+
+  /* changes */
+  .fbar{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin-bottom:13px;
+       background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       box-shadow:var(--shadow);padding:9px 12px}
+  .fchips{display:flex;gap:5px;flex-wrap:wrap}
+  .chip{border:1px solid var(--line);background:var(--surface2);border-radius:16px;
+       padding:3px 11px;font-size:11.5px;color:var(--ink2);font-weight:550}
+  .chip.on{background:var(--blue);border-color:var(--blue);color:#fff}
+  .fdate{color:var(--muted);font-size:11.5px;display:inline-flex;align-items:center;gap:5px}
+  .fdate input{font:inherit;color:var(--ink);background:var(--surface2);
+       border:1px solid var(--line);border-radius:7px;padding:3px 7px}
+  .card{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       box-shadow:var(--shadow);padding:12px 15px;margin-bottom:9px;display:grid;
+       grid-template-columns:104px 1fr auto;gap:13px;align-items:start}
+  .badge{font-size:10px;font-weight:700;border-radius:6px;padding:3px 7px;text-align:center;letter-spacing:.03em}
+  .badge.new{background:var(--green-soft);color:var(--green)}
+  .badge.revised{background:var(--amber-soft);color:var(--amber)}
+  .badge.superseded{background:var(--red-soft);color:var(--red)}
+  .badge.deadline{background:var(--blue-soft);color:var(--blue)}
+  .breg{font-size:10.5px;color:var(--muted);margin-top:4px;text-align:center}
+  .card h4{font-size:13px;font-weight:600}
+  .card p{color:var(--ink2);font-size:12px;margin-top:2px}
+  .day{margin:16px 0 8px;font-size:10.5px;text-transform:uppercase;letter-spacing:.06em;
+       color:var(--muted);font-weight:650}
+
+  /* runs */
+  .live{background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+       box-shadow:var(--shadow);padding:13px 16px;margin-bottom:14px}
+  .pulse{width:8px;height:8px;border-radius:50%;background:var(--blue);display:inline-block;
+       animation:pu 1.4s infinite;margin-right:8px}
+  @keyframes pu{0%,100%{opacity:1}50%{opacity:.35}}
+  table{border-collapse:collapse;width:100%;background:var(--surface);border:1px solid var(--line);
+       border-radius:var(--radius);overflow:hidden;box-shadow:var(--shadow)}
+  th{font-size:10px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);
+       text-align:left;padding:8px 12px;background:var(--surface2);border-bottom:1px solid var(--line2)}
+  td{padding:7px 12px;border-bottom:1px solid var(--line2);font-size:12px;color:var(--ink2)}
+  tr:last-child td{border-bottom:none}
+  td b{color:var(--ink)}
+  .num{font-variant-numeric:tabular-nums;text-align:right}
+  th.num{text-align:right}
+  h3.sec{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin:16px 0 8px}
+
+  /* drawer */
+  .scrim{position:fixed;inset:0;background:rgba(10,14,20,.45);z-index:40;display:none}
+  .scrim.show{display:block}
+  .drawer{position:fixed;top:0;right:-760px;width:min(720px,96vw);height:100%;z-index:50;
+       background:var(--surface);box-shadow:-12px 0 40px rgba(0,0,0,.25);
+       transition:right .2s ease;display:flex;flex-direction:column}
+  .drawer.show{right:0}
+  .drhead{padding:16px 20px 0;border-bottom:1px solid var(--line);position:relative}
+  .drtitle{font-size:15px;font-weight:650;margin-bottom:3px;padding-right:36px}
+  .drsub{color:var(--muted);font-size:11.5px;margin-bottom:10px}
+  .drclose{position:absolute;top:12px;right:14px;font-size:18px;color:var(--muted);padding:6px}
+  .tabs{display:flex;gap:2px}
+  .tab{padding:7px 13px;font-weight:550;font-size:12px;color:var(--ink2);
+       border-bottom:2px solid transparent}
+  .tab.on{color:var(--blue);border-color:var(--blue)}
+  .drbody{flex:1;overflow:auto;padding:16px 20px}
+  .drbody pre{background:var(--surface2);border:1px solid var(--line2);border-radius:8px;
+       padding:12px;font-size:11.5px;overflow:auto;color:var(--ink2);white-space:pre-wrap;
+       font-family:ui-monospace,Menlo,monospace}
+  /* rendered document (rich markdown) */
+  .md{font-size:13.5px;line-height:1.65;color:var(--ink)}
+  .md h1{font-size:19px;margin:4px 0 10px;line-height:1.3}
+  .md h2{font-size:16px;margin:18px 0 7px;padding-bottom:4px;border-bottom:1px solid var(--line2)}
+  .md h3{font-size:14px;margin:14px 0 5px}
+  .md h4,.md h5{font-size:13px;margin:12px 0 4px}
+  .md p{margin:7px 0;color:var(--ink2)}
+  .md li{margin:3px 0;color:var(--ink2)}
+  .md ul,.md ol{padding-left:22px;margin:6px 0}
+  .md a{color:var(--blue)}
+  .md blockquote{border-left:3px solid var(--line);margin:8px 0;padding:2px 12px;color:var(--muted)}
+  .md code{background:var(--surface2);border:1px solid var(--line2);border-radius:4px;
+       padding:0 4px;font-family:ui-monospace,Menlo,monospace;font-size:12px}
+  .md pre code{border:none;background:none;padding:0}
+  .md table{border-collapse:collapse;margin:10px 0;width:auto;min-width:60%;box-shadow:none}
+  .md th,.md td{border:1px solid var(--line);padding:5px 10px;font-size:12.5px;text-align:left}
+  .md th{background:var(--surface2);color:var(--ink)}
+  .md hr{border:none;border-top:1px solid var(--line);margin:14px 0}
+  .md img{max-width:100%}
+  .kv{display:grid;grid-template-columns:130px 1fr;gap:4px 12px;font-size:12px}
+  .kv .k{color:var(--muted)}
+  .kv .v{color:var(--ink);word-break:break-all}
+  .dl{color:var(--green)}.rm{color:var(--red)}
+  /* overview (first-run simple mode) */
+  .headline{font-size:15.5px;font-weight:600;line-height:1.5;margin-bottom:16px;
+       padding:14px 18px;background:var(--surface);border:1px solid var(--line);
+       border-left:3px solid var(--blue);border-radius:var(--radius);box-shadow:var(--shadow)}
+  .simple-card{background:var(--surface);border:1px solid var(--line);
+       border-radius:var(--radius);box-shadow:var(--shadow);padding:14px 16px;margin-bottom:14px}
+  .simple-head{display:flex;align-items:center;gap:10px;margin-bottom:10px;font-size:13.5px}
+  .prio{display:inline-flex;align-items:center;gap:5px;font-size:10.5px;font-weight:700;
+       border-radius:6px;padding:2px 8px;letter-spacing:.02em}
+  .prio.Critical{background:var(--red-soft);color:var(--red)}
+  .prio.High{background:var(--amber-soft);color:var(--amber)}
+  .prio.Medium{background:var(--blue-soft);color:var(--blue)}
+  .prio.Low,.prio.Informational{background:var(--grey-soft);color:var(--muted)}
+  .pitem{display:flex;align-items:flex-start;gap:10px;padding:9px 4px;
+       border-bottom:1px solid var(--line2);cursor:pointer}
+  .pitem:last-child{border-bottom:none}
+  .pitem:hover{background:var(--blue-soft)}
+  .pitem .why{color:var(--muted);font-size:11px;margin-top:2px}
+  .dot{width:9px;height:9px;border-radius:50%;display:inline-block;margin-right:7px}
+  .dot.ok{background:var(--green)}.dot.bad{background:var(--amber)}
+  /* explorer tree */
+  .fsrow{display:flex;align-items:center;gap:7px;padding:4px 8px;border-radius:6px;
+       cursor:pointer;font-size:12.5px;color:var(--ink2)}
+  .fsrow:hover{background:var(--blue-soft)}
+  .fsrow .fsname{font-weight:550;color:var(--ink)}
+  .fsrow.file .fsname{color:var(--blue);font-weight:500}
+  .fsrow .fsmeta{margin-left:auto;color:var(--muted);font-size:11px;font-variant-numeric:tabular-nums}
+  .fskids{margin-left:18px;border-left:1px solid var(--line2);padding-left:6px;display:none}
+  .fsopen>.fskids{display:block}
+  .fsopen>.fsrow .caret{transform:rotate(90deg)}
+  /* modal */
+  .modal{position:fixed;inset:0;z-index:60;display:none;place-items:center;
+       background:rgba(10,14,20,.45)}
+  .modal.show{display:grid}
+  .modal-card{background:var(--surface);border-radius:14px;box-shadow:0 24px 80px rgba(0,0,0,.35);
+       width:520px;max-width:94vw;padding:20px;max-height:88vh;overflow:auto}
+  .mrow{display:flex;gap:10px;margin-top:9px;align-items:flex-start}
+  .mrow label{width:92px;color:var(--muted);font-size:12px;padding-top:7px;flex-shrink:0}
+  .mrow input,.mrow select,.mrow textarea{flex:1;font:inherit;color:var(--ink);
+       background:var(--surface2);border:1px solid var(--line);border-radius:7px;
+       padding:6px 9px;width:100%}
+  .toast{position:fixed;bottom:22px;left:50%;transform:translateX(-50%) translateY(80px);
+       background:var(--ink);color:var(--bg);border-radius:10px;padding:9px 16px;font-size:12.5px;
+       z-index:70;transition:transform .25s}
+  .toast.show{transform:translateX(-50%) translateY(0)}
+  .empty{color:var(--muted);font-size:12px;padding:10px 4px}
+  @media (max-width:900px){.tiles{grid-template-columns:repeat(2,1fr)}
+    .ihead{grid-template-columns:20px 1fr 90px 60px}.hide-sm{display:none}}
+
+  /* home: two model cards */
+  .home-hero{margin:26px 0 18px;font-size:21px;font-weight:700}
+  .home-sub{color:var(--muted);font-size:13px;margin:-10px 0 22px}
+  .mcards{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  @media(max-width:820px){.mcards{grid-template-columns:1fr}}
+  .mcard{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+    padding:22px;cursor:pointer;transition:box-shadow .15s,transform .15s;position:relative}
+  .mcard:hover{box-shadow:0 6px 22px rgba(15,40,80,.10);transform:translateY(-2px)}
+  .mcard .mic{font-size:26px}
+  .mcard h2{margin:10px 0 4px;font-size:17px}
+  .mcard p{color:var(--muted);font-size:12.5px;margin:0 0 14px;line-height:1.5}
+  .mcard .mstats{display:flex;gap:22px;flex-wrap:wrap}
+  .mcard .mstats b{display:block;font-size:19px}
+  .mcard .mstats span{font-size:11px;color:var(--muted)}
+  .mcard .go{position:absolute;top:20px;right:20px;color:var(--blue);font-weight:600;font-size:13px}
+  /* news page */
+  .chips{display:flex;gap:6px;flex-wrap:wrap}
+  .chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;
+    padding:3px 11px;font-size:11.5px;cursor:pointer;color:var(--ink)}
+  .chip.on{background:var(--blue);border-color:var(--blue);color:#fff}
+  .story{display:flex;gap:12px;padding:11px 4px;border-bottom:1px solid var(--line)}
+  .story:last-child{border-bottom:0}
+  .story .n{color:var(--muted);font-size:12px;width:18px;flex:none;padding-top:2px}
+  .story h4{margin:0 0 3px;font-size:13.5px;font-weight:600;cursor:pointer}
+  .story h4:hover{color:var(--blue)}
+  .story .meta{font-size:11px;color:var(--muted);margin-bottom:3px}
+  .story .sum{font-size:12px;color:var(--ink);opacity:.85;line-height:1.45}
+  .tbadge{display:inline-block;border-radius:5px;padding:1px 7px;font-size:10px;
+    font-weight:700;margin-right:7px;vertical-align:1px}
+  .t-credit{background:#fde8e8;color:#b42318}.t-rates{background:#e8edfd;color:#1d3fb4}
+  .t-banking{background:#e6f4ea;color:#137333}.t-economy{background:#fef3e2;color:#a05a00}
+  .t-deals{background:#f3e8fd;color:#7a1fa2}.t-energy{background:#e2f5f5;color:#0a7c74}
+  .t-markets{background:#eef1f5;color:#3c4a5d}.t-general{background:#eef1f5;color:#6b7686}
+  [data-theme="dark"] .t-credit{background:#3a1616;color:#ff9e91}
+  [data-theme="dark"] .t-rates{background:#16203a;color:#9eb5ff}
+  [data-theme="dark"] .t-banking{background:#12291a;color:#7fd99a}
+  [data-theme="dark"] .t-economy{background:#33250e;color:#ffc97a}
+  [data-theme="dark"] .t-deals{background:#2a1633;color:#dba7f5}
+  [data-theme="dark"] .t-energy{background:#0e2b29;color:#7fe0d8}
+  [data-theme="dark"] .t-markets,[data-theme="dark"] .t-general{background:#232a33;color:#aeb9c8}
+  .news-grid{display:grid;grid-template-columns:minmax(0,1fr) 270px;gap:16px}
+  @media(max-width:1000px){.news-grid{grid-template-columns:1fr}}
+  .npanel{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:14px 16px}
+  .npanel h3{margin:0 0 8px;font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted)}
+  .srcrow{display:flex;justify-content:space-between;font-size:12px;padding:3px 0}
+  .volbar{display:flex;align-items:flex-end;gap:3px;height:52px;margin-top:6px}
+  .volbar>div{flex:1;background:var(--blue);opacity:.75;border-radius:2px 2px 0 0;min-height:2px;cursor:pointer}
+  .volbar>div.sel{opacity:1;outline:2px solid var(--blue)}
+  .daynav{display:flex;gap:6px;align-items:center}
+
+  /* ── executive pages: home + the two lane deep-dives ── */
+  .xhero{margin:22px 0 6px;font-size:22px;font-weight:700;letter-spacing:-.02em}
+  .xsub{color:var(--muted);font-size:13px;margin-bottom:20px;max-width:820px;line-height:1.55}
+  .xdate{float:right;color:var(--muted);font-size:11px;text-align:right;line-height:1.45}
+  .xtiles{display:grid;grid-template-columns:repeat(6,1fr);gap:10px;margin:0 0 16px}
+  @media(max-width:900px){.xtiles{grid-template-columns:repeat(3,1fr)}}
+  .xcard{background:var(--surface);border:1px solid var(--line);border-radius:12px;
+    padding:15px 17px;margin-bottom:14px;box-shadow:var(--shadow)}
+  .xcard h3{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);
+    margin-bottom:11px;font-weight:600}
+  .xcard h3 .plain{text-transform:none;letter-spacing:0;font-weight:400}
+  .xgrid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:900px){.xgrid{grid-template-columns:1fr}}
+  .xbar{display:grid;grid-template-columns:var(--lw,140px) 1fr 56px;gap:8px;align-items:center;
+    margin:6px 0;font-size:12.5px}
+  .xbar .lbl{color:var(--ink2);text-align:right;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+  .xbar .lbl b{margin-right:5px;color:var(--c)}
+  .xbar .track{display:block;height:13px}
+  .xbar .fill{display:block;position:relative;height:13px;border-radius:0 4px 4px 0;
+    background:var(--c,var(--blue))}
+  .xbar .sub{position:absolute;right:0;top:0;height:13px;background:var(--muted);
+    border-radius:0 4px 4px 0;box-shadow:-2px 0 0 var(--surface)}
+  .xbar .val{font-variant-numeric:tabular-nums;font-weight:650;font-size:12px}
+  .xbar.clickable{cursor:pointer}
+  .xbar.clickable:hover .lbl{color:var(--blue)}
+  .xlegend{font-size:11px;color:var(--muted);display:flex;gap:14px;margin-bottom:7px}
+  .xlegend i{display:inline-block;width:10px;height:10px;border-radius:2px;margin-right:5px;
+    vertical-align:-1px;font-style:normal}
+  .xcols{display:flex;align-items:flex-end;gap:7px;margin-top:4px}
+  .xcols .c{flex:1;display:flex;flex-direction:column;justify-content:flex-end;align-items:center;
+    gap:3px;cursor:pointer}
+  .xcols .c:hover .bar{opacity:.75}
+  .xcols .bar{width:100%;background:var(--blue);border-radius:4px 4px 0 0;min-height:3px}
+  .xcols .v{font-size:11px;font-weight:650;font-variant-numeric:tabular-nums}
+  .xcols .d{font-size:9.5px;color:var(--muted)}
+  .xnote{font-size:11px;color:var(--muted);margin-top:9px;line-height:1.5}
+  .xlist{list-style:none}
+  .xlist li{padding:6px 0;border-bottom:1px solid var(--line);font-size:12.5px;cursor:pointer}
+  .xlist li:last-child{border-bottom:0}
+  .xlist li:hover b{color:var(--blue)}
+  .xlist .sc{float:right;font-weight:700;color:var(--red);font-variant-numeric:tabular-nums}
+  .xlist .rz{display:block;color:var(--muted);font-size:11px;margin-top:2px}
+  .xstory{border-left:3px solid var(--c,var(--red));padding:7px 0 7px 11px;margin:8px 0;
+    background:var(--surface2);border-radius:0 8px 8px 0;cursor:pointer}
+  .xstory:hover b{color:var(--blue)}
+  .xstory b{font-size:12.5px}
+  .xstory .m{font-size:10.5px;color:var(--muted);margin-top:3px}
+  /* the two lane cards on home */
+  .lanes{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin-bottom:16px}
+  @media(max-width:900px){.lanes{grid-template-columns:1fr}}
+  .lane{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:20px;
+    cursor:pointer;transition:box-shadow .15s,transform .15s;position:relative;box-shadow:var(--shadow)}
+  .lane:hover{box-shadow:0 6px 22px rgba(15,40,80,.10);transform:translateY(-2px);border-color:var(--blue)}
+  .lane .ic{font-size:24px}
+  .lane h2{margin:9px 0 4px;font-size:16.5px}
+  .lane p{color:var(--muted);font-size:12.5px;margin:0 0 13px;line-height:1.5}
+  .lane .st{display:flex;gap:20px;flex-wrap:wrap}
+  .lane .st b{display:block;font-size:18px;letter-spacing:-.02em}
+  .lane .st span{font-size:10.5px;color:var(--muted)}
+  .lane .go{position:absolute;top:18px;right:18px;color:var(--blue);font-weight:600;font-size:12.5px}
+  /* "where to go next" launchers */
+  .jump{display:grid;grid-template-columns:repeat(auto-fit,minmax(158px,1fr));gap:9px}
+  .jump a{display:block;border:1px solid var(--line);border-radius:10px;padding:11px 13px;
+    background:var(--surface2);cursor:pointer;color:var(--ink)}
+  .jump a:hover{border-color:var(--blue);background:var(--blue-soft)}
+  .jump a b{display:block;font-size:12.5px;margin-bottom:2px}
+  .jump a span{font-size:11px;color:var(--muted);line-height:1.4;display:block}
+  .navsep{width:1px;height:20px;background:var(--line);margin:0 4px;align-self:center}
+
+  /* ── two-level navigation ── */
+  .top{height:52px}
+  .nav button{padding:6px 12px}
+  .lanebar{background:var(--surface);border-bottom:1px solid var(--line);
+    padding:0 24px;height:42px;display:none;align-items:center;gap:3px;
+    position:sticky;top:52px;z-index:29}
+  .lanebar.on{display:flex}
+  .lanebar .who{font-weight:650;font-size:12.5px;margin-right:14px;display:flex;
+    align-items:center;gap:6px;white-space:nowrap}
+  .lanebar button{padding:5px 11px;border-radius:7px;font-size:12.5px;color:var(--ink2);
+    font-weight:550;white-space:nowrap}
+  .lanebar button:hover{background:var(--surface2);color:var(--ink)}
+  .lanebar button.on{background:var(--blue-soft);color:var(--blue)}
+  .lanebar .scope{margin-left:auto;font-size:11px;color:var(--muted);white-space:nowrap}
+  /* first-time orientation */
+  .intro{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--blue);
+    border-radius:0 10px 10px 0;padding:11px 15px;margin:0 0 16px;font-size:12.5px;
+    color:var(--ink2);line-height:1.55;display:flex;gap:10px;align-items:flex-start}
+  .intro b{color:var(--ink)}
+  .intro .x{margin-left:auto;color:var(--muted);cursor:pointer;font-size:15px;line-height:1;
+    padding:0 2px;flex:none}
+  .ptitle{font-size:17px;font-weight:680;letter-spacing:-.02em;margin:2px 0 3px}
+  .psub{color:var(--muted);font-size:12.5px;margin-bottom:14px;max-width:760px;line-height:1.5}
+  .steps{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-bottom:16px}
+  @media(max-width:900px){.steps{grid-template-columns:1fr}}
+  .step-c{background:var(--surface2);border:1px solid var(--line);border-radius:10px;padding:12px 14px}
+  .step-c b{display:block;font-size:12.5px;margin-bottom:3px}
+  .step-c span{font-size:11.5px;color:var(--muted);line-height:1.45;display:block}
+  .step-c em{font-style:normal;color:var(--blue);font-weight:600;font-size:11px;
+    display:block;margin-top:6px;cursor:pointer}
+
+  /* ── auth gate ── */
+  #authGate{position:fixed;inset:0;background:var(--bg);z-index:100;display:none;
+    align-items:center;justify-content:center;padding:20px}
+  #authGate.on{display:flex}
+  .authbox{background:var(--surface);border:1px solid var(--line);border-radius:14px;
+    padding:26px 28px;width:100%;max-width:390px;box-shadow:0 8px 30px rgba(15,40,80,.12)}
+  .authbox h2{font-size:17px;margin-bottom:3px}
+  .authbox .sub{color:var(--muted);font-size:12.5px;margin-bottom:16px;line-height:1.5}
+  .authbox label{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;
+    color:var(--muted);margin:10px 0 4px}
+  .authbox input{width:100%;font:inherit;color:var(--ink);background:var(--surface2);
+    border:1px solid var(--line);border-radius:8px;padding:8px 11px}
+  .authbox input:focus{outline:none;border-color:var(--blue)}
+  .authbox .go{width:100%;margin-top:16px;background:var(--blue);color:#fff;border-radius:9px;
+    padding:9px;font-weight:650;font-size:13px}
+  .authbox .alt{margin-top:12px;font-size:12px;color:var(--muted);text-align:center}
+  .authbox .alt b{color:var(--blue);cursor:pointer}
+  .autherr{margin-top:12px;background:var(--red-soft);color:var(--red);border-radius:8px;
+    padding:8px 11px;font-size:12px;display:none}
+  .autherr.on{display:block}
+  /* ── personas tab ── */
+  .pgrid{display:grid;grid-template-columns:300px 1fr;gap:16px}
+  @media(max-width:900px){.pgrid{grid-template-columns:1fr}}
+  .plist .pitem{border:1px solid var(--line);border-radius:10px;padding:10px 13px;margin-bottom:8px;
+    cursor:pointer;background:var(--surface)}
+  .plist .pitem.on{border-color:var(--blue);box-shadow:0 0 0 1px var(--blue)}
+  .plist .pitem b{font-size:13px;display:block}
+  .plist .pitem span{font-size:11px;color:var(--muted)}
+  .pform label{display:block;font-size:11px;text-transform:uppercase;letter-spacing:.05em;
+    color:var(--muted);margin:12px 0 4px}
+  .pform input,.pform textarea,.pform select{width:100%;font:inherit;color:var(--ink);
+    background:var(--surface2);border:1px solid var(--line);border-radius:8px;padding:7px 10px}
+  .pform textarea{min-height:110px;font:12px ui-monospace,Menlo,monospace;resize:vertical}
+  .pform .row{display:flex;gap:10px}.pform .row>*{flex:1}
+  .pform .hint{font-size:11px;color:var(--muted);margin-top:4px}
+  .pv{background:var(--surface2);border:1px solid var(--line);border-radius:10px;padding:11px 14px;margin-top:14px}
+  .pv h4{font-size:11px;text-transform:uppercase;letter-spacing:.05em;color:var(--muted);margin-bottom:6px}
+  .pv .r{font-size:12px;padding:2px 0;color:var(--ink2)}
+  .pv .r b{color:var(--ink)}
+  .whoami{display:flex;align-items:center;gap:8px;font-size:12px;color:var(--muted)}
+  .whoami b{color:var(--ink)}
+
+  /* ── my day ── */
+  .md-head{display:flex;align-items:baseline;gap:10px;flex-wrap:wrap;margin:4px 0 2px}
+  .md-head b{font-size:19px;letter-spacing:-.02em}
+  .md-head .chip{font-size:10px;font-weight:700;color:var(--blue);background:var(--blue-soft);
+    border-radius:5px;padding:2px 8px}
+  .md-head .day{color:var(--muted);font-size:11.5px;margin-left:auto}
+  .md-upd{border:1px solid var(--line);border-left:3px solid var(--red);border-radius:0 8px 8px 0;
+    background:var(--surface);padding:8px 12px;font-size:12.5px;margin:10px 0}
+  .md-upd b{color:var(--red)}
+  .md-lede{font-size:14px;line-height:1.6;color:var(--ink2);margin:12px 0 16px;max-width:880px}
+  .md-lede b{color:var(--ink)}
+  .md-ev{border-left:3px solid var(--c,var(--muted));background:var(--surface);
+    border-radius:0 9px 9px 0;padding:10px 14px;margin:8px 0;cursor:pointer;
+    border-top:1px solid var(--line);border-right:1px solid var(--line);border-bottom:1px solid var(--line)}
+  .md-ev:hover b{color:var(--blue)}
+  .md-ev b{font-size:13.5px}
+  .md-ev .m{font-size:11px;color:var(--muted);margin-top:3px}
+  .md-ev .m .sev{font-weight:700;color:var(--c)}
+  .md-quiet{border:1px dashed var(--line);border-radius:9px;padding:10px 14px;
+    font-size:12.5px;color:var(--muted);background:var(--surface)}
+  .md-quiet b{color:var(--green)}
+  .md-ledger{margin-top:18px;border-top:1px dashed var(--line);padding-top:10px;
+    font-size:11px;color:var(--muted);line-height:1.6}
+  .md-empty{background:var(--surface);border:1px solid var(--line);border-radius:12px;
+    padding:26px;text-align:center}
+  .md-empty h3{font-size:15px;margin-bottom:6px}
+  .md-empty p{color:var(--muted);font-size:12.5px;margin-bottom:14px}
+  /* ── health ── */
+  .hsec{background:var(--surface);border:1px solid var(--line);border-radius:12px;
+    padding:14px 16px;margin-bottom:14px}
+  .hsec h3{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);margin-bottom:10px}
+  .stagebar{display:flex;gap:7px;flex-wrap:wrap}
+  .stagebar span{border:1px solid var(--line);border-radius:8px;padding:6px 11px;
+    font-size:11.5px;background:var(--surface2)}
+  .stagebar b{color:var(--green)}
+  /* ── ask ── */
+  .ask-chip{display:inline-flex;align-items:center;gap:7px;border:1px solid var(--blue);
+    border-radius:999px;padding:5px 13px;font-size:11.5px;color:var(--blue);
+    background:var(--blue-soft);margin-bottom:14px}
+  .ask-box{background:var(--surface);border:1px solid var(--line);border-radius:12px;padding:16px 18px}
+  .ask-box code{background:var(--surface2);padding:1px 6px;border-radius:5px;font-size:11.5px}
+
+  .md-switch{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin:2px 0 6px}
+  .md-switch button{border:1px solid var(--line);border-radius:999px;padding:4px 12px;
+    font-size:12px;background:var(--surface);color:var(--ink2)}
+  .md-switch button.on{background:var(--blue);border-color:var(--blue);color:#fff}
+  .md-switch button:hover{border-color:var(--blue)}
+  .starters{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:14px 0}
+  @media(max-width:860px){.starters{grid-template-columns:1fr}}
+  .starter{border:1px solid var(--line);border-radius:11px;padding:13px 15px;
+    background:var(--surface);cursor:pointer;text-align:left}
+  .starter:hover{border-color:var(--blue);background:var(--blue-soft)}
+  .starter b{display:block;font-size:13px;margin-bottom:3px}
+  .starter span{font-size:11.5px;color:var(--muted);line-height:1.45;display:block}
+
+  /* ── small screens: the app is read on phones between meetings ──
+     Every wide thing must either collapse or scroll INSIDE its own box; the
+     page body must never scroll sideways. */
+  @media(max-width:760px){
+    .page{padding:12px 14px 60px}
+    .top{height:auto;flex-wrap:wrap;padding:8px 14px;gap:8px}
+    .nav{flex-wrap:wrap;gap:3px}
+    .nav button{padding:5px 9px;font-size:12px}
+    .lanebar{height:auto;flex-wrap:wrap;padding:8px 14px;position:static}
+    .lanebar .scope{margin-left:0;width:100%}
+    .tiles,.xtiles{grid-template-columns:repeat(2,1fr)}
+    .grid2,.xgrid,.pgrid,.starters,.steps,.lanes,.comps,.mcards{grid-template-columns:1fr}
+    .xbar,.hbar{grid-template-columns:minmax(0,1fr) 2fr 46px}
+    .xbar .lbl,.hbar .lbl{font-size:11px}
+    table{display:block;overflow-x:auto;white-space:nowrap}
+    .fbar{gap:5px}
+    .fbar input,.fbar select{min-width:0;flex:1 1 130px}
+    .drawer{width:100%;max-width:100%}
+    .md-head .day{margin-left:0;width:100%}
+    .form{grid-template-columns:1fr}
+    .form label{text-align:left}
+  }
+  /* a grid child with long content must be allowed to shrink, or it pushes
+     the whole page wider than the screen */
+  .grid2>*,.xgrid>*,.pgrid>*,.tiles>*,.xtiles>*{min-width:0}
+  .view{max-width:100%}
+
+  /* ── desks: every persona at a glance ── */
+  .dk-hero{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;margin:2px 0 4px}
+  .dk-hero b{font-size:19px;letter-spacing:-.02em}
+  .dk-hero .win{margin-left:auto;color:var(--muted);font-size:11.5px}
+  .dk-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px}
+  @media(max-width:1000px){.dk-grid{grid-template-columns:repeat(2,1fr)}}
+  @media(max-width:760px){.dk-grid{grid-template-columns:1fr}}
+  .dk{border:1px solid var(--line);border-radius:12px;background:var(--surface);
+    padding:14px 16px;cursor:pointer;box-shadow:var(--shadow);position:relative;
+    border-top:3px solid var(--c,var(--line))}
+  .dk:hover{border-color:var(--blue)}
+  .dk h4{font-size:13.5px;margin:0 0 2px}
+  .dk .sub{font-size:10.5px;color:var(--muted);margin-bottom:9px}
+  .dk .counts{display:flex;gap:14px;margin-bottom:9px}
+  .dk .counts div{font-size:10px;color:var(--muted);text-transform:uppercase;letter-spacing:.04em}
+  .dk .counts b{display:block;font-size:17px;letter-spacing:-.02em}
+  .dk .top{font-size:12px;line-height:1.45;color:var(--ink2);border-top:1px solid var(--line);
+    padding-top:8px}
+  .dk .top b{color:var(--ink);font-weight:600}
+  .dk .why{font-size:10.5px;color:var(--muted);margin-top:3px}
+  .dk .quiet{font-size:12px;color:var(--green)}
+  .dk-bar{display:flex;align-items:flex-end;gap:4px;height:36px;margin:10px 0 2px}
+  .dk-bar div{flex:1;background:var(--blue);border-radius:2px 2px 0 0;min-height:2px;opacity:.75}
+  .dk-bar div:last-child{opacity:1}
+
+  .md-maybe{display:inline-block;background:var(--amber-soft);color:var(--amber);
+    border-radius:5px;padding:1px 7px;font-size:10px;font-weight:700;margin-left:6px}
+
+  /* ── ask: grounded chat ── */
+  .ask-wrap{display:grid;grid-template-columns:minmax(0,1fr) 300px;gap:16px}
+  @media(max-width:900px){.ask-wrap{grid-template-columns:1fr}}
+  .ask-thread{min-height:220px;max-height:52vh;overflow:auto;padding-right:4px}
+  .ask-msg{max-width:80%;border-radius:12px;padding:10px 14px;margin:9px 0;
+    font-size:12.8px;line-height:1.55}
+  .ask-msg.me{background:var(--blue);color:#fff;margin-left:auto;border-bottom-right-radius:4px}
+  .ask-msg.ai{background:var(--surface);border:1px solid var(--line);color:var(--ink2);
+    border-bottom-left-radius:4px}
+  .ask-msg.ai.warn{border-color:var(--amber)}
+  .ask-msg.ai.pending{opacity:.6}
+  .ask-msg .cite{color:var(--blue);font-weight:700;cursor:pointer;font-size:11px;
+    vertical-align:2px}
+  .ask-msg .gen{display:block;margin-top:7px;font-size:10px;color:var(--muted)}
+  .ask-form{display:flex;gap:8px;margin-top:12px}
+  .ask-form input{flex:1;font:inherit;color:var(--ink);background:var(--surface2);
+    border:1px solid var(--line);border-radius:9px;padding:9px 12px}
+  .ask-form input:focus{outline:none;border-color:var(--blue)}
+  .ask-src{background:var(--surface);border:1px solid var(--line);border-radius:11px;
+    padding:12px 14px}
+  .ask-src h4{font-size:10.5px;text-transform:uppercase;letter-spacing:.05em;
+    color:var(--muted);margin-bottom:8px}
+  .ask-src .s{font-size:11.5px;padding:6px 0;border-bottom:1px solid var(--line);line-height:1.45}
+  .ask-src .s:last-child{border-bottom:0}
+  .ask-src .s b{color:var(--blue)}
+  .ask-src .s a{font-size:10.5px}
+  .ask-sug{display:flex;gap:6px;flex-wrap:wrap;margin:10px 0 2px}
+  .ask-sug button{border:1px solid var(--line);border-radius:999px;padding:4px 11px;
+    font-size:11.5px;color:var(--ink2);background:var(--surface)}
+  .ask-sug button:hover{border-color:var(--blue);color:var(--blue)}
+
+  /* ── compact SaaS density pass ──
+     The content was right but the page was loud: oversized type, tall rows and
+     long scrolls where a glance should do. Sections cap their height and scroll
+     inside themselves, so a page fits a screen and the eye stays put. */
+  .page{max-width:1400px;padding:14px 20px 40px}
+  h3.sec{margin:12px 0 6px;font-size:10.5px}
+  .tiles,.xtiles{gap:8px;margin-bottom:12px}
+  .tile{padding:8px 11px}
+  .tile b{font-size:17px}
+  .tile span{font-size:10.5px}
+  .card,.xcard,.hsec,.simple-card{padding:12px 14px;margin-bottom:10px;border-radius:10px}
+  .xcard h3,.hsec h3{margin-bottom:8px}
+  table{font-size:11.5px}
+  th{padding:4px 7px}
+  td{padding:5px 7px}
+  .ptitle{font-size:15px;margin:0 0 2px}
+  .psub{font-size:11.5px;margin-bottom:10px}
+  .xhero,.md-head b,.dk-hero b{font-size:16px}
+  .xsub{font-size:12px;margin-bottom:12px}
+  .md-lede{font-size:13px;margin:8px 0 12px}
+  .md-ev{padding:7px 11px;margin:5px 0}
+  .md-ev b{font-size:12.5px}
+  .story{padding:5px 0}
+  .fbar{gap:5px;margin-bottom:8px}
+  .fbar select,.fbar input{padding:3px 8px;font-size:11.5px}
+  /* long lists scroll inside their own box instead of stretching the page */
+  .scrollbox{max-height:340px;overflow:auto}
+  .scrollbox.short{max-height:230px}
+  .halfgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+  @media(max-width:1000px){.halfgrid{grid-template-columns:1fr}}
+  /* ── brand + slim header ── */
+  .top{height:46px;padding:0 16px;gap:10px}
+  .brand{font-size:12.5px;gap:7px;font-weight:700;letter-spacing:-.01em}
+  .brand .logo{width:21px;height:21px;font-size:10px;border-radius:6px}
+  .brand small{display:block;font-size:9px;color:var(--muted);font-weight:400;
+    letter-spacing:.02em;margin-top:-1px}
+  .nav button{padding:5px 11px;font-size:12px}
+  .top .mini{font-size:10.5px;padding:2px 8px;border-radius:6px}
+  .lanebar{top:46px;height:36px;padding:0 16px}
+  .lanebar button{padding:4px 10px;font-size:12px}
+  .lanebar .who{font-size:12px;margin-right:10px}
+  /* ── chat as a collapsible left panel ── */
+  .chatdock{position:fixed;left:0;top:46px;bottom:0;width:0;background:var(--surface);
+    border-right:1px solid var(--line);z-index:28;overflow:hidden;transition:width .16s ease}
+  .chatdock.open{width:390px}
+  @media(max-width:900px){.chatdock.open{width:100%}}
+  .chatdock .inner{width:390px;max-width:100vw;height:100%;display:flex;flex-direction:column;
+    padding:12px 14px}
+  @media(max-width:900px){.chatdock .inner{width:100%}}
+  .chatdock h3{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);
+    display:flex;align-items:center;gap:8px;margin-bottom:8px}
+  .chatdock h3 .x{margin-left:auto;cursor:pointer;color:var(--muted);font-size:14px}
+  .chattoggle{position:fixed;left:0;bottom:18px;z-index:29;border:1px solid var(--line);
+    border-left:0;border-radius:0 9px 9px 0;background:var(--blue);color:#fff;
+    padding:9px 12px;font-size:12px;font-weight:650;cursor:pointer;box-shadow:var(--shadow)}
+  .chattoggle.shifted{left:390px}
+  @media(max-width:900px){.chattoggle.shifted{left:auto;right:14px}}
+  body.chatopen .page{margin-left:390px}
+  @media(max-width:900px){body.chatopen .page{margin-left:0}}
+  .ctxtoggle{display:flex;align-items:center;gap:6px;font-size:10.5px;color:var(--muted);
+    margin-bottom:8px}
+  .ctxtoggle button{border:1px solid var(--line);border-radius:999px;padding:2px 9px;
+    font-size:10.5px;color:var(--ink2);background:var(--surface2)}
+  .ctxtoggle button.on{background:var(--blue);border-color:var(--blue);color:#fff}
+</style>
+</head>
+<body>
+<div class="top">
+  <div class="brand"><div class="logo">R</div><span>riskGPT<small>financial web data aggregator</small></span></div>
+  <div class="nav">
+    <button class="on" id="nHome" onclick="show('home')">Home</button>
+    <button id="nOvw" onclick="show('ovw')">🏛️ Regulatory</button>
+    <button id="nNews" onclick="show('newslane')">📰 Financial News</button>
+    <button id="nHea" onclick="show('hea')">Health</button>
+  </div>
+  <div class="spacer"></div>
+  <label style="color:var(--muted);font-size:12px">Window
+    <select id="days" onchange="loadAll()"><option>7</option><option>14</option><option>30</option></select>
+  </label>
+  <span class="pill ok mini" id="integrity">…</span>
+  <span id="whoami"></span>
+</div>
+
+<div id="authGate">
+  <div class="authbox">
+    <h2 id="authTitle">Sign in</h2>
+    <div class="sub" id="authSub">Market &amp; Regulatory Intelligence — on-prem.</div>
+    <label for="authName" id="authNameLabel" style="display:none">Your name</label>
+    <input id="authName" placeholder="Credit Oversight" style="display:none" autocomplete="name">
+    <label for="authEmail">Email</label>
+    <input id="authEmail" type="email" placeholder="you@bank.com" autocomplete="username">
+    <label for="authPw">Password</label>
+    <input id="authPw" type="password" placeholder="at least 10 characters" autocomplete="current-password"
+      onkeydown="if(event.key==='Enter')authSubmit()">
+    <button class="go" id="authGo" onclick="authSubmit()">Sign in</button>
+    <div class="autherr" id="authErr"></div>
+    <div class="alt" id="authAlt">No account? <b onclick="authMode('signup')">Create one</b></div>
+  </div>
+</div>
+
+<div class="chatdock" id="chatdock">
+  <div class="inner">
+    <h3>Ask riskGPT <span class="x" onclick="toggleChat(false)">✕</span></h3>
+    <div class="ctxtoggle">
+      <span>Page context</span>
+      <button id="ctxActive" class="on" onclick="setCtxMode('active')">Active</button>
+      <button id="ctxPassive" onclick="setCtxMode('passive')">Passive</button>
+      <span id="ctxWhere" style="margin-left:auto"></span>
+    </div>
+    <div id="askCtx"></div>
+    <div class="ask-thread" id="askThread" style="flex:1;max-height:none"></div>
+    <div class="ask-sug" id="askSug"></div>
+    <div class="ask-form">
+      <input id="askInput" placeholder="Ask about this page…"
+        onkeydown="if(event.key==='Enter')askSend()">
+      <button class="btn primary" onclick="askSend()">Ask</button>
+    </div>
+    <div class="ask-src scrollbox short" id="askSources" style="margin-top:10px"></div>
+  </div>
+</div>
+<button class="chattoggle" id="chatToggle" onclick="toggleChat()">💬 Ask</button>
+
+<div class="lanebar" id="lanebar">
+  <span class="who" id="laneWho"></span>
+  <span id="laneTabs" style="display:flex;gap:3px;overflow-x:auto"></span>
+  <span class="scope" id="laneScope"></span>
+</div>
+
+<div class="page">
+  <div class="view on" id="v-home">
+    <div class="xdate" id="xhDate">live production data</div>
+    <div class="xhero">Market &amp; Regulatory Intelligence</div>
+    <div class="xsub">This platform watches two things every day so you don't have to:
+      <b>what financial regulators publish</b>, and <b>what the financial press is reporting</b>.
+      Everything is collected automatically, kept with full history, and ordered by how much it
+      matters to credit risk — not by how recent it is.</div>
+    <div class="intro" id="introHome">
+      <span>👋</span>
+      <span><b>New here?</b> Start with one of the two lanes below. Each opens a summary page,
+        and its own menu bar appears at the top with everything inside that lane —
+        the sources it watches, the documents it holds, what changed recently, and how collection is running.
+        Every chart is clickable: clicking a bar takes you to the documents behind it.</span>
+      <span class="x" onclick="this.parentElement.style.display='none'" title="dismiss">×</span>
+    </div>
+    <div class="xtiles" id="xhTiles"></div>
+    <div class="lanes" id="xhLanes"></div>
+    <div class="xgrid">
+      <div class="xcard"><h3 id="xhRegionsHead">Corpus by coverage area</h3>
+        <div id="xhRegions" class="empty">loading…</div>
+        <div class="xnote">Click any area to browse its documents.</div></div>
+      <div class="xcard"><h3>Regulatory materiality — deterministic score</h3>
+        <div id="xhBands" class="empty">loading…</div>
+        <div class="xnote">score = doc-type base × regulator tier + topic + deadline proximity +
+          revision size. Click a band to see those documents.</div></div>
+    </div>
+    <div class="xcard"><h3>Where to start</h3>
+      <div class="steps">
+        <div class="step-c"><b>1 · See what's urgent</b>
+          <span>The highest-priority regulatory documents from the last 7 days, ranked by materiality.</span>
+          <em onclick="enterLane('reg','ovw')">Open the regulatory lane →</em></div>
+        <div class="step-c"><b>2 · Read this morning's news</b>
+          <span>Today's stories from 25 financial wires, ordered by credit-risk relevance.</span>
+          <em onclick="enterLane('news','feed')">Open today's stories →</em></div>
+        <div class="step-c"><b>3 · Look something up</b>
+          <span>Search the full library by regulator, topic, document type, priority or date.</span>
+          <em onclick="enterLane('reg','brw')">Browse documents →</em></div>
+      </div></div>
+
+    <div class="xgrid">
+      <div class="xcard"><h3>Financial news — daily volume</h3>
+        <div class="xcols" id="xhVol"></div>
+        <div class="xnote">Click a day to open that day's ranked story feed.</div></div>
+      <div class="xcard"><h3>Operational footprint</h3>
+        <div id="xhOps"></div></div>
+    </div>
+  </div>
+
+  <div class="view" id="v-ovw">
+    <div class="xdate" id="xrDate">live production data</div>
+    <div class="xhero">🏛️ Regulatory Intelligence</div>
+    <div class="xsub">Binding rules, guidance, consultations and enforcement from
+      <b id="xrCount">30 regulators</b> — versioned in an append-only archive, diffed
+      line-by-line, and ranked by materiality.</div>
+    <div class="xtiles" id="xrTiles"></div>
+    <div class="xgrid">
+      <div class="xcard"><h3>Deepest holdings <span class="plain" id="xrLeagueSub"></span></h3>
+        <div class="xlegend"><span><i style="background:var(--blue)"></i>documents</span>
+          <span><i style="background:var(--muted)"></i>of which policy PDFs</span></div>
+        <div id="xrLeague" class="empty">loading…</div>
+        <div class="xnote" id="xrLeagueNote"></div></div>
+      <div class="xcard"><h3>What the corpus contains — by document type</h3>
+        <div id="xrTypes" class="empty">loading…</div>
+        <div class="xnote">Typing is conservative: a page is labelled “final rule” only when its
+          URL pattern proves it. Click a type to browse it.</div>
+        <h3 style="margin-top:16px">Materiality bands</h3>
+        <div id="xrBands"></div></div>
+    </div>
+    <div class="xgrid">
+      <div class="xcard"><h3>Highest-materiality holdings right now</h3>
+        <ul class="xlist" id="xrTop"></ul></div>
+      <div class="xcard"><h3>Change tracking — the audit trail</h3>
+        <div id="xrArchived"></div>
+        <div class="xnote">When a rule page changes, the prior text is archived first, then diffed —
+          nothing is overwritten. Click a regulator to see its changes.</div></div>
+    </div>
+    <div class="xcard"><h3>Where to go next</h3>
+      <div class="jump">
+        <a onclick="show('cov')"><b>Coverage tree →</b><span>Every regulator by region, with freshness and per-source run controls</span></a>
+        <a onclick="jumpCorpus('')"><b>Browse the corpus →</b><span>Filter 5,969 documents by region, institution, type, band and date</span></a>
+        <a onclick="show('chg')"><b>Changes feed →</b><span>What was published or revised, priority-ranked</span></a>
+        <a onclick="show('run')"><b>Collection runs →</b><span>Daily run health, pass rate, live progress</span></a>
+        <a onclick="show('exp')"><b>File explorer →</b><span>The raw archive as a nested folder tree</span></a>
+        <a onclick="enterLane('reg','run')"><b>Run collection →</b><span>Trigger a run for one source or all, and add a document by hand</span></a>
+      </div></div>
+    <div id="ovwHead" class="headline" style="display:none"></div>
+    <div class="tiles" id="ovwTiles" style="display:none"></div>
+    <div id="ovwPriority"></div>
+    <div class="simple-card">
+      <div class="simple-head"><b>Sources</b>
+        <span style="color:var(--muted);font-size:12px">what we hold from each regulator — click a row to browse it</span>
+        <span class="spacer" style="flex:1"></span>
+        <button class="btn sm" onclick="show('cov')">Detailed coverage →</button></div>
+      <div id="ovwTable" class="empty">loading…</div>
+    </div>
+  </div>
+
+  <div class="view" id="v-newslane">
+    <div class="xdate" id="xnDate">live production data</div>
+    <div class="xhero">📰 Financial News</div>
+    <div class="xsub"><b id="xnCount">25 verified wires</b> worldwide, up to 50 stories each per day,
+      ranked by what actually moves obligor credit risk — not by recency. Copyright-safe by construction:
+      headline + publisher summary + link, never the article body.</div>
+    <div class="xtiles" id="xnTiles"></div>
+    <div class="xgrid">
+      <div class="xcard"><h3>The credit-analyst ranking lens</h3>
+        <div id="xnLens" class="empty">loading…</div>
+        <div class="xnote">Bar length and the number on the right are the topic's <b>weight</b> —
+          how much a story of that kind moves credit risk. The figure in brackets is how many of
+          <b>today's</b> stories landed in that bucket. A story's final rank adds keyword density and a
+          home-market bonus (Canada +6, US +3). Click any topic to read its stories.</div></div>
+      <div class="xcard"><h3>What the lens surfaced <span class="plain" id="xnDay"></span></h3>
+        <div id="xnProof"></div>
+        <div class="xnote">Top-ranked stories today, each with the reason it scored where it did.</div></div>
+    </div>
+    <div class="xgrid">
+      <div class="xcard"><h3>Daily volume</h3>
+        <div class="xcols" id="xnVol"></div>
+        <div class="xnote">Click a day to open that day's feed — “what was the market saying when this
+          deal was underwritten?” is a click, not an archive request.</div>
+        <h3 style="margin-top:16px">Coverage by region</h3>
+        <div id="xnRegions"></div></div>
+      <div class="xcard"><h3>The wires <span class="plain" id="xnSrcSub"></span></h3>
+        <div id="xnSources" style="max-height:290px;overflow:auto"></div>
+        <div class="xnote">Volume differences are editorial, not technical — high-frequency wires hit the
+          50-story cap daily; weeklies publish a handful. Click a wire to browse its stories.</div></div>
+    </div>
+    <div class="xcard"><h3>Where to go next</h3>
+      <div class="jump">
+        <a onclick="show('feed')"><b>Today's story feed →</b><span>All stories ranked, with topic/region filters, search and day navigation</span></a>
+        <a onclick="jumpCorpus('Financial News')"><b>Browse news corpus →</b><span>Every story ever collected, filterable by wire and date</span></a>
+        <a onclick="show('cov')"><b>Wire coverage →</b><span>All 25 sources with counts, freshness and per-wire run controls</span></a>
+        <a onclick="show('run')"><b>Collection runs →</b><span>Daily ingestion health across the wires</span></a>
+      </div></div>
+  </div>
+
+  <div class="view" id="v-feed">
+    <div class="ptitle" data-t="v-feed">Today's stories</div>
+    <div class="psub">Every story collected for the selected day, ranked by credit-risk relevance. Filter by topic or region, search headlines, or step back through previous days.</div>
+    <div class="fbar">
+      <div class="daynav">
+        <button class="btn sm" onclick="newsDay(-1)">◀</button>
+        <b id="nwDay" style="font-size:13px">…</b>
+        <button class="btn sm" onclick="newsDay(1)">▶</button>
+        <button class="btn sm" onclick="loadNews()">Today</button>
+      </div>
+      <input id="nwQ" placeholder="Search headlines…" style="flex:1;min-width:160px;font:inherit;
+        color:var(--ink);background:var(--surface2);border:1px solid var(--line);
+        border-radius:7px;padding:4px 9px" oninput="renderNews()">
+      <span class="chips" id="nwRegions"></span>
+    </div>
+    <div class="chips" id="nwTopics" style="margin:10px 0 14px"></div>
+    <div class="news-grid">
+      <div>
+        <div class="npanel"><h3 id="nwTopTitle">Top stories</h3><div id="nwTop" class="empty">loading…</div></div>
+        <div id="nwSections"></div>
+      </div>
+      <div>
+        <div class="npanel"><h3>Last 14 days</h3><div class="volbar" id="nwVol"></div>
+          <div style="font-size:10.5px;color:var(--muted);margin-top:4px">stories per day — click a bar</div></div>
+        <div class="npanel" style="margin-top:14px"><h3>Sources today</h3><div id="nwSources"></div></div>
+      </div>
+    </div>
+  </div>
+
+  <div class="view" id="v-myday">
+    <div id="mydayBody" class="empty">loading…</div>
+  </div>
+
+  <div class="view" id="v-hea">
+    <div class="ptitle" data-t="v-hea">System health</div>
+    <div class="psub">Everything the platform team needs in one place: is collection current,
+      does the data reconcile, which sources need attention, and is the daily generation running.</div>
+    <div class="tiles" id="heaTiles"></div>
+    <div class="hsec"><h3>Pipeline — last cycle, every stage accounted</h3>
+      <div class="stagebar" id="heaStages"></div>
+      <div class="md-quiet" style="margin-top:9px" id="heaConserve"></div></div>
+    <div class="halfgrid">
+      <div class="hsec"><h3>Sources needing attention</h3>
+        <div id="heaSources" class="scrollbox short"></div></div>
+      <div class="hsec"><h3>Daily generation — the AI layer</h3>
+        <div id="heaGen"></div>
+        <h3 style="margin-top:12px">Collection runs</h3>
+        <div id="heaRuns"></div></div>
+    </div>
+  </div>
+
+  <div class="view" id="v-per">
+    <div class="ptitle" data-t="v-per">Personas</div>
+    <div class="psub">Describe what you are responsible for — the names you follow, the topics that matter,
+      the rules you own. The page shapes itself from that; there is nothing to lay out.
+      Changes apply at the next morning generation.</div>
+    <div class="pgrid">
+      <div>
+        <div class="plist" id="perList"></div>
+        <button class="btn sm primary" style="width:100%" onclick="perNew()">＋ New persona</button>
+      </div>
+      <div class="pform">
+        <div class="row">
+          <div><label for="perName">Name</label><input id="perName" placeholder="Credit Oversight"></div>
+          <div><label for="perLane">Lane</label>
+            <select id="perLane"><option value="news">📰 Financial News</option>
+              <option value="regulatory">🏛️ Regulatory</option></select></div>
+        </div>
+        <label for="perEntities">Watchlist — obligors, issuers, counterparties</label>
+        <textarea id="perEntities" placeholder="Goodfood,consumer&#10;WestJet,airlines&#10;Suncor,energy"></textarea>
+        <div class="hint">One per line, or paste CSV (name, sector). 1 name or 10,000 — matching cost is the same.</div>
+        <div class="row">
+          <div><label for="perTopics">Topic weights</label>
+            <input id="perTopics" placeholder="credit:60, ccr:50, rates:30"></div>
+          <div><label for="perThreshold">Serious threshold</label>
+            <input id="perThreshold" type="number" value="50"></div>
+        </div>
+        <label for="perFamilies">Rule families (regulatory lane)</label>
+        <input id="perFamilies" placeholder="osfi-car, b-13, fincen-aml">
+        <div class="pv" id="perPreview"></div>
+        <button class="btn primary" style="margin-top:14px" onclick="perSave()">Save persona</button>
+        <span id="perMsg" style="margin-left:10px;font-size:12px;color:var(--muted)"></span>
+      </div>
+    </div>
+  </div>
+
+  <div class="view" id="v-cov">
+    <div class="ptitle" data-t="v-cov">Sources we watch</div>
+    <div class="psub">Every source this lane collects from, grouped by region. Open a region to see each source, how many documents we hold from it, when it last ran, and whether it is healthy. Use ▶ Run to collect from one source right now.</div>
+    <div class="tiles" id="tiles"></div>
+    <div id="tree" class="empty">loading…</div>
+  </div>
+
+  <div class="view" id="v-brw">
+    <div class="ptitle" data-t="v-brw">Documents</div>
+    <div class="psub">The searchable library of everything collected in this lane. Filter by region, institution, file type, document type, priority band or date — then click any row to read it.</div>
+    <div class="fbar">
+      <select id="bRegion" onchange="fillBInsts();loadCorpus(true)">
+        <option value="">All continents</option></select>
+      <select id="bInst" onchange="loadCorpus(true)">
+        <option value="">All institutions</option></select>
+      <select id="bKind" onchange="loadCorpus(true)">
+        <option value="">All file types</option>
+        <option value="web">Web (HTML)</option>
+        <option value="policy_pdf">Policy PDF</option></select>
+      <select id="bType" onchange="loadCorpus(true)">
+        <option value="">All doc types</option></select>
+      <select id="bStatus" onchange="loadCorpus(true)">
+        <option value="">All statuses</option></select>
+      <select id="bBand" onchange="loadCorpus(true)">
+        <option value="">All priorities</option>
+        <option value="Critical">Critical</option>
+        <option value="High">High</option>
+        <option value="Medium">Medium</option>
+        <option value="Low">Low</option></select>
+      <input id="bQ" placeholder="Search title / reference…" style="flex:1;min-width:160px;
+        font:inherit;color:var(--ink);background:var(--surface2);border:1px solid var(--line);
+        border-radius:7px;padding:4px 9px" onkeydown="if(event.key==='Enter')loadCorpus(true)">
+      <label class="fdate">From <input type="date" id="bFrom" onchange="loadCorpus(true)"></label>
+      <label class="fdate">To <input type="date" id="bTo" onchange="loadCorpus(true)"></label>
+      <button class="btn sm" onclick="clearCorpus()">Clear</button>
+      <button class="btn sm primary" onclick="openAddDoc()">＋ Add document</button>
+    </div>
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:9px">
+      <span id="bCount" style="color:var(--muted);font-size:12px"></span>
+      <span class="spacer" style="flex:1"></span>
+      <button class="btn sm" id="bPrev" onclick="pageCorpus(-1)">← Prev</button>
+      <button class="btn sm" id="bNext" onclick="pageCorpus(1)">Next →</button>
+    </div>
+    <div id="bTable" class="empty">loading…</div>
+  </div>
+
+  <div class="view" id="v-exp">
+    <div class="ptitle" data-t="v-exp">File explorer</div>
+    <div class="psub">The raw archive exactly as it sits on disk — original files, converted markdown and run manifests. Mostly for audit and engineering; the Documents page is easier for daily work.</div>
+    <div style="display:flex;align-items:center;gap:10px;margin-bottom:12px">
+      <span style="color:var(--muted);font-size:12px">Corpus storage · <code style="font-size:11px">data/web_aggregator/</code>
+        — regulator → current | archive → doc_type → year → document → artifacts</span>
+      <span class="spacer" style="flex:1"></span>
+      <button class="btn sm" onclick="loadExplorer()">↻ Refresh</button>
+    </div>
+    <div style="background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+         box-shadow:var(--shadow);padding:10px 8px"><div id="fsTree" class="empty">loading…</div></div>
+  </div>
+
+  <div class="view" id="v-chg">
+    <div class="ptitle" data-t="v-chg">What changed</div>
+    <div class="psub">Documents published or revised inside the time window, highest priority first. A revised document can be opened as a line-by-line diff against its previous version.</div>
+    <div class="tiles" id="chgTiles"></div>
+    <div class="fbar">
+      <select id="fRegion" onchange="fillInsts();loadChanges()">
+        <option value="">All regions</option></select>
+      <select id="fInst" onchange="loadChanges()">
+        <option value="">All institutions</option></select>
+      <select id="fKind" onchange="loadChanges()">
+        <option value="">Web + PDF</option>
+        <option value="web">Website content</option>
+        <option value="policy_pdf">Policy PDFs</option></select>
+      <span class="fchips" id="fChips">
+        <button class="chip on" data-k="" onclick="chipKind(this)">All changes</button>
+        <button class="chip" data-k="new" onclick="chipKind(this)">New</button>
+        <button class="chip" data-k="revised" onclick="chipKind(this)">Revised</button>
+        <button class="chip" data-k="superseded" onclick="chipKind(this)">Superseded</button>
+        <button class="chip" data-k="deadline" onclick="chipKind(this)">Deadlines</button>
+      </span>
+      <label class="fdate">From <input type="date" id="fFrom" onchange="loadChanges()"></label>
+      <label class="fdate">To <input type="date" id="fTo" onchange="loadChanges()"></label>
+      <button class="btn sm" onclick="clearChgFilters()">Clear</button>
+    </div>
+    <div id="chgFeed" class="empty">loading…</div>
+  </div>
+
+  <div class="view" id="v-run">
+    <div class="ptitle" data-t="v-run">Collection</div>
+    <div class="psub">Run collection, watch it happen, and see whether the data is
+      current. Everything that triggers a fetch lives on this page.</div>
+    <div id="todayDelta"></div>
+
+    <div class="xcard">
+      <h3>Run collection <span class="plain" id="runScopeNote"></span></h3>
+      <div class="fbar">
+        <select id="runPick"><option value="all">All sources in this lane</option></select>
+        <label class="fdate">for date <input type="date" id="runDate"></label>
+        <input id="runCap" type="number" min="1" placeholder="max docs (optional)"
+          style="width:150px;font:inherit;color:var(--ink);background:var(--surface2);
+                 border:1px solid var(--line);border-radius:7px;padding:3px 8px">
+        <button class="btn primary sm" onclick="doRun()">▶ Run</button>
+        <button class="btn sm" onclick="openAddDoc()">＋ Add document</button>
+        <span id="runMsg" style="font-size:11.5px;color:var(--muted)"></span>
+      </div>
+      <div id="liveRuns"></div>
+    </div>
+
+    <div class="halfgrid">
+      <div class="xcard"><h3>Recent runs <span class="plain">· newest first</span></h3>
+        <div id="recentRuns" class="empty scrollbox">loading…</div></div>
+      <div class="xcard"><h3>Day over day <span class="plain" id="trendNote"></span></h3>
+        <div id="trendChart"></div>
+        <h3 style="margin-top:12px">By data source <span class="plain">· this window</span></h3>
+        <div id="trendSources" class="scrollbox short"></div></div>
+    </div>
+
+    <div class="xcard"><h3>Daily delta</h3>
+      <div id="delta" class="empty scrollbox short">loading…</div></div>
+  </div>
+</div>
+
+<div class="scrim" id="scrim" onclick="closeDrawer()"></div>
+<div class="drawer" id="drawer">
+  <div class="drhead">
+    <button class="drclose" onclick="closeDrawer()">✕</button>
+    <div class="drtitle" id="drTitle"></div>
+    <div class="drsub" id="drSub"></div>
+    <div class="tabs" id="drTabs"></div>
+  </div>
+  <div class="drbody" id="drBody"></div>
+</div>
+<!-- add-document modal (manual interjection lane) -->
+<div class="modal" id="addModal">
+  <div class="modal-card">
+    <h3 style="font-size:14px;margin-bottom:10px">Add / update a document manually</h3>
+    <div class="mrow"><label>Institution</label><select id="adReg"></select></div>
+    <div class="mrow"><label>Source URL *</label>
+      <input id="adUrl" placeholder="https://regulator.gov/… (provenance anchor)"></div>
+    <div class="mrow"><label>Title</label><input id="adTitle" placeholder="auto-detected if blank"></div>
+    <div class="mrow"><label>Doc type</label><select id="adType">
+      <option>guidance</option><option>final_rule</option><option>consultation</option>
+      <option>announcement</option><option>enforcement</option><option>speech</option>
+      <option>report</option></select></div>
+    <div class="mrow"><label>Reference #</label><input id="adRef" placeholder="e.g. B-13 (optional)"></div>
+    <div class="mrow"><label>Content</label>
+      <div style="flex:1">
+        <textarea id="adMd" rows="5" placeholder="Paste corrected markdown… (leave empty to fetch the URL, or attach a file below)"></textarea>
+        <input type="file" id="adFile" accept=".pdf,.html,.htm" style="margin-top:6px;font-size:12px">
+      </div></div>
+    <p style="color:var(--muted);font-size:11.5px;margin-top:8px">Goes through the same
+      versioning pipeline: updating an existing URL archives the prior version.
+      Tagged <b>manual</b> with your operator identity; visible on the Runs page.</p>
+    <div style="display:flex;justify-content:flex-end;gap:8px;margin-top:14px">
+      <button class="btn" onclick="closeAddDoc()">Cancel</button>
+      <button class="btn primary" onclick="submitAddDoc()">Add document</button>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script>
+const API="/api/regagg";
+const $=id=>document.getElementById(id);
+const esc=s=>(s??"").toString().replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmt=n=>(n??0).toLocaleString();
+async function j(u,{timeout=15000,retries=1}={}){
+  for(let attempt=0;;attempt++){
+    const ac=new AbortController();
+    const timer=setTimeout(()=>ac.abort(),timeout);
+    try{
+      const r=await fetch(API+u,{signal:ac.signal});
+      if(!r.ok)throw new Error(u+" -> "+r.status);
+      return await r.json();
+    }catch(e){
+      if(attempt>=retries)throw e;      // surface it; callers show the failure
+    }finally{clearTimeout(timer);}
+  }
+}
+let _t;function toast(m){const t=$("toast");t.textContent=m;t.classList.add("show");
+  clearTimeout(_t);_t=setTimeout(()=>t.classList.remove("show"),2600)}
+/* ── the hierarchy: two lanes, each with its own subtopics ──
+   Shared pages (documents/changes/collection/files) appear under BOTH lanes
+   and are scoped to whichever lane you entered from — that scope is stated
+   in the lane bar, never left implicit. */
+const LANES={
+  reg:{icon:"🏛️",name:"Regulatory Intelligence",cat:"regulatory",
+    tabs:[["ovw","Overview"],["myday","My Day"],["cov","Regulators"],
+          ["brw","Documents"],["chg","What changed"],["run","Collection"],
+          ["exp","Files"],["per","Personas"]]},
+  news:{icon:"📰",name:"Financial News",cat:"news",
+    tabs:[["newslane","Overview"],["myday","My Day"],["feed","Today's stories"],
+          ["brw","All stories"],["cov","Wires"],["run","Collection"],
+          ["per","Personas"]]},
+};
+const HOME_OF={ovw:"reg",cov:"reg",brw:"reg",chg:"reg",run:"reg",exp:"reg",
+               newslane:"news",feed:"news",myday:"news",per:"news"};
+let LANE=null;                       // which lane the user is inside
+function laneScope(){return LANE?LANES[LANE].cat:null}
+
+async function enterLane(lane,view){
+  await window.READY;          // the tree drives lane-scoped rendering
+  LANE=lane;
+  const shared=["brw","cov","chg","run","exp","myday","per"].includes(view);
+  show(view,true,{keepLane:true});
+  if(shared)await applyLaneScope(view);
+}
+async function applyLaneScope(view){
+  if(view==="myday"){return loadMyDay();}
+  if(view==="per"){return loadPersonas();}
+  if(view==="brw"){window._corpusLoaded=1;
+    ["bRegion","bInst","bKind","bType","bStatus","bBand","bQ","bFrom","bTo"]
+      .forEach(i=>{if($(i))$(i).value="";});
+    if(typeof fillBInsts==="function")fillBInsts();
+    await loadCorpus(true);}
+  if(view==="chg"){await loadChanges();}
+  if(view==="run"){await Promise.all([loadRunControls(),loadTrend(),loadRuns()]);}
+  if(view==="cov"){renderTree();}
+}
+const RETITLE={news:{"v-cov":["Wires we watch",
+    "Every financial-news wire this lane collects from. Open a group to see each wire, how many "+
+    "stories we hold from it, when it last ran, and whether it is healthy."],
+  "v-brw":["All stories",
+    "Every story ever collected from the 25 wires — searchable and filterable by wire, "+
+    "date and topic. Click a row to read the headline, summary and link."],
+  "v-run":["Collection health",
+    "One row per wire per day: how many stories were detected and stored. "+
+    "Use this to confirm the morning's news actually landed."]}};
+function retitle(view){
+  const vid="v-"+view, node=document.querySelector(`.ptitle[data-t="${vid}"]`);
+  if(!node)return;
+  const over=(RETITLE[LANE]||{})[vid];
+  if(!node.dataset.orig){node.dataset.orig=node.textContent;
+    node.nextElementSibling.dataset.orig=node.nextElementSibling.textContent;}
+  node.textContent=over?over[0]:node.dataset.orig;
+  node.nextElementSibling.textContent=over?over[1]:node.nextElementSibling.dataset.orig;
+}
+
+function renderLaneBar(view){
+  const lane=LANE||HOME_OF[view];
+  if(!lane||view==="home"){$("lanebar").classList.remove("on");return;}
+  LANE=lane;const L=LANES[lane];
+  $("lanebar").classList.add("on");
+  $("laneWho").innerHTML=`<span>${L.icon}</span>${esc(L.name)}`;
+  $("laneTabs").innerHTML=L.tabs.map(([v,label])=>
+    `<button class="${v===view?"on":""}" onclick="enterLane('${lane}','${v}')">${esc(label)}</button>`).join("");
+  const scoped=["brw","cov","chg","run","exp"].includes(view);
+  $("laneScope").textContent=scoped
+    ? `showing ${lane==="news"?"financial-news wires":"regulators"} only`
+    : "";
+}
+
+function show(which,push=true,opts={}){
+  const VIEWS=["myday","home","ovw","newslane","feed","cov","brw","exp","chg","run","per","hea"];
+  VIEWS.forEach(v=>$("v-"+v).classList.toggle("on",v===which));
+  if(push){window._ourHash=which==="home"?"":which;
+           location.hash=window._ourHash;}
+  if(["home","hea"].includes(which))LANE=null;
+  else if(!opts.keepLane)LANE=HOME_OF[which]||LANE;
+  // top bar carries the LANE, not the page — level 2 lives in the lane bar
+  const TOPNAV={home:"nHome",hea:"nHea"};
+  const topOn=TOPNAV[which]||((LANE||HOME_OF[which])==="news"?"nNews":"nOvw");
+  ["nHome","nOvw","nNews","nHea"].forEach(
+    id=>$(id).classList.toggle("on",id===topOn));
+  renderLaneBar(which);
+  retitle(which);
+  window.scrollTo(0,0);
+  if(which==="newslane"&&!window._newsLaneLoaded){window._newsLaneLoaded=1;loadNewsLane();}
+  if(which==="ovw"&&!window._regLaneLoaded){window._regLaneLoaded=1;loadRegLane();}
+  if(which==="feed"&&!window._newsLoaded){window._newsLoaded=1;loadNews();}
+  if(which==="per"){loadPersonas();}
+  if(which==="myday"){loadMyDay();}
+  if(which==="hea"){loadHealth();}
+  if(which==="run"){loadRunControls();loadTrend();}
+  if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
+  if(which==="exp"&&!window._expLoaded){window._expLoaded=1;loadExplorer();}
+}
+
+/* ── my day: the generated page ───────────────────────────── */
+const SEV_C={serious:"var(--red)",watch:"var(--amber)"};
+let MYDAY=null,MYDAY_PID=null;
+function mydaySwitcher(list,current){
+  if(!list||list.length<2)return "";
+  return `<div class="md-switch">`+list.map(p=>
+    `<button class="${p.persona_id===current?"on":""}"
+       onclick="MYDAY_PID='${p.persona_id}';loadMyDay()">
+       ${p.lane==="news"?"📰":"🏛️"} ${esc(p.name)}</button>`).join("")+`</div>`;
+}
+async function loadMyDay(day){
+  const el=$("mydayBody");
+  try{
+    const qs=new URLSearchParams();
+    if(day)qs.set("day",day);
+    // a lane shows the personas that belong to it — a news desk's page does
+    // not belong under Regulatory and vice versa
+    const plist=await j(`/personas`);
+    const all=(plist||{}).personas||[];
+    const inLane=LANE?all.filter(p=>p.lane===LANES[LANE].cat):all;
+    if(MYDAY_PID&&!inLane.some(p=>p.persona_id===MYDAY_PID))MYDAY_PID=null;
+    if(!MYDAY_PID&&inLane.length)MYDAY_PID=inLane[0].persona_id;
+    if(MYDAY_PID)qs.set("persona_id",MYDAY_PID);
+    const page=await j(`/myday${qs.toString()?`?${qs}`:""}`);
+    MYDAY=page;MYDAY.all_personas=inLane;
+  }catch(e){el.className="";el.innerHTML=`<div class="md-empty"><h3>Could not build your page</h3>
+    <p>${esc(e.message)}</p></div>`;return;}
+  el.className="";
+  if(!MYDAY.persona){
+    let starters=[];
+    try{starters=(await j(`/personas/starters`)).starters||[];}catch(e){}
+    el.innerHTML=`<div class="md-empty"><h3>Tell us what you follow</h3>
+      <p>Your daily page is built from a persona — the names, topics and rules
+         you are responsible for. This lane has none yet; start from one of these,
+         or build your own.</p>
+      <div class="starters">`+starters.map(s=>
+        `<button class="starter" onclick="useStarter('${s.key}')">
+           <b>${s.lane==="news"?"📰":"🏛️"} ${esc(s.name)}</b>
+           <span>${esc(s.blurb)}</span></button>`).join("")+`</div>
+      <button class="btn" onclick="show('per')">Build one from scratch →</button></div>`;
+    window._starters=starters;
+    return;}
+  const spec=MYDAY.spec||{},led=MYDAY.ledger||{},items=(MYDAY.dossier||{}).items||[];
+  const byKey={};items.forEach(i=>byKey[i.cluster_key]=i);
+  let html=mydaySwitcher(MYDAY.all_personas,MYDAY.persona.persona_id);
+  html+=`<div class="md-head"><b>${esc(MYDAY.persona.name)}</b>
+    <span class="chip">${fmt(MYDAY.persona.entity_count)} names · ${esc(spec.layout||"")
+      .replace(/_/g," ")}</span>
+    <span class="day">${esc(spec.day||"")} · generated ${MYDAY.cached?"earlier today":"just now"}
+      · ${esc(MYDAY.generator||"")} · read-only</span></div>`;
+  if(MYDAY.day_note)html+=`<div class="md-quiet" style="margin:8px 0">${esc(MYDAY.day_note)}</div>`;
+  if(MYDAY.updated_note)html+=`<div class="md-upd"><b>Updated</b> — ${esc(MYDAY.updated_note)}</div>`;
+  for(const sec of (spec.sections||[])){
+    if(sec.component==="lede")html+=`<div class="md-lede">${esc(sec.text||"")}</div>`;
+    else if(sec.component==="stats")html+=`<div class="tiles">`+
+      (sec.stats||[]).map(s=>tile(fmt(s.value),esc(s.label),
+        s.tone==="crit"?"bad":s.tone==="warn"?"warn":s.tone==="good"?"up":"")).join("")+`</div>`;
+    else if(sec.component==="event_list"){
+      html+=`<h3 class="sec">${esc(sec.title||"")}</h3>`;
+      for(const key of (sec.items||[])){
+        const i=byKey[key];if(!i)continue;
+        html+=`<div class="md-ev" style="--c:${SEV_C[i.severity]||"var(--muted)"}"
+          onclick="openMyDayItem('${esc(key)}')">
+          <b>${esc(i.title||"")}</b>
+          <div class="m"><span class="sev">${esc((i.event_type||"").replace(/_/g," ").toUpperCase())}</span>
+            ${i.entities.length?" · "+esc(i.entities.join(", ")):""}
+            ${(i.possible_entities||[]).map(pe=>
+              `<span class="md-maybe" title="${esc(pe.reason||"")}">possible: ${esc(pe.name)} — verify</span>`).join("")}
+            ${i.rule_families.length?" · "+esc(i.rule_families.join(", ")):""}
+            · ${i.corroboration} source${i.corroboration>1?"s":""} · ${esc(i.why||"")}</div></div>`;}}
+    else if(sec.component==="rule_state"){
+      const changed=new Set(sec.changed||[]);
+      html+=`<h3 class="sec">Your rule families</h3>`;
+      html+=`<div class="md-quiet">`+(changed.size
+        ? `${changed.size} of ${(sec.families||[]).length} watched families moved today.`
+        : `<b>Unchanged:</b> ${esc((sec.families||[]).join(" · "))} — verified against
+           ${fmt(led.scanned_documents||0)} documents collected for ${esc(spec.day||"")}.`)+`</div>`;}
+    else if(sec.component==="quiet_note")html+=`<div class="md-quiet"><b>All quiet.</b> ${esc(sec.text||"")}</div>`;
+    else if(sec.component==="ledger"){
+      const s=sec.ledger||{};
+      html+=`<div class="md-ledger">Coverage ledger: ${fmt(s.shown||0)} shown of
+        ${fmt(s.matched||0)} matched · ${fmt(s.quiet_entities||0)} of
+        ${fmt(s.watchlist_size||0)} watched names quiet ·
+        ${fmt(s.suppressed_below_floor||0)} below your noise floor ·
+        ${fmt(s.suppressed_overflow||0)} beyond your page limit ·
+        ${s.entities_possible?`${fmt(s.entities_possible)} possible mention${s.entities_possible>1?"s":""} flagged to verify · `:""}
+        built from ${fmt(s.scanned_documents||0)} documents.
+        ${spec.fallback_reason?"<br>Narrative fell back to the deterministic template.":""}</div>`;}
+  }
+  el.innerHTML=html;
+}
+async function openMyDayItem(key){
+  try{
+    const qs=new URLSearchParams();
+    if(MYDAY&&MYDAY.persona)qs.set("persona_id",MYDAY.persona.persona_id);
+    if(MYDAY&&MYDAY.spec&&MYDAY.spec.day)qs.set("day",MYDAY.spec.day);
+    const item=await j(`/myday/item/${encodeURIComponent(key)}?${qs}`);
+    ASKCTX={kind:"story cluster",title:item.title,contextKind:"cluster",
+            cluster_key:key,day:(MYDAY&&MYDAY.spec)?MYDAY.spec.day:null};
+    if(item.docs&&item.docs.length)openDoc(item.docs[0].regulator_id,item.docs[0].doc_id);
+  }catch(e){toast("Could not open that item.");console.error("openMyDayItem",e);}
+}
+
+/* ── desks: every persona at a glance ────────────────────── */
+async function loadDesks(){
+  const el=$("desksBody");
+  let d;
+  try{d=await j(`/desks`);}catch(e){
+    el.className="";el.innerHTML=`<div class="md-empty"><h3>Could not load desks</h3>
+      <p>${esc(e.message)}</p></div>`;return;}
+  el.className="";
+  if(!d.desks.length){
+    el.innerHTML=`<div class="md-empty"><h3>No desks yet</h3>
+      <p>Each persona you create appears here as a desk.</p>
+      <button class="btn primary" onclick="show('per')">Create a persona →</button></div>`;
+    return;}
+  const stories=d.window.reduce((a,w)=>a+w.count,0);
+  const max=Math.max(...d.window.map(w=>w.count),1);
+  el.innerHTML=`
+    <div class="dk-hero"><b>Desks</b>
+      <span class="chip" style="font-size:10px;font-weight:700;color:var(--blue);
+        background:var(--blue-soft);border-radius:5px;padding:2px 8px">
+        ${d.desks.length} desks · ${fmt(d.totals.serious)} serious · ${fmt(d.totals.watch)} watch</span>
+      <span class="win">${d.window_days} day${d.window_days===1?"":"s"} of collection ·
+        ${fmt(stories)} stories · read-only</span></div>
+    <div class="psub">One card per desk, most urgent first. A desk with nothing to report
+      says so — that is the answer, not an empty box. Click a desk to open its page.</div>
+    <div class="dk-bar" title="stories collected per day">
+      ${d.window.map(w=>`<div style="height:${Math.max(2,Math.round(w.count/max*36))}px"
+        title="${w.day}: ${w.count}"></div>`).join("")}</div>
+    <div style="font-size:10.5px;color:var(--muted)">
+      ${d.window.length?`${d.window[0].day} → ${d.window[d.window.length-1].day}`:""}</div>
+    <div class="dk-grid">`+d.desks.map(x=>{
+      const c=x.serious?"var(--red)":x.watch?"var(--amber)":"var(--green)";
+      return `<div class="dk" style="--c:${c}" onclick="MYDAY_PID='${x.persona_id}';show('myday')">
+        <h4>${x.lane==="news"?"📰":"🏛️"} ${esc(x.name)}</h4>
+        <div class="sub">${fmt(x.watchlist)} names watched · ${fmt(x.scanned)} documents scanned ·
+          ${esc((x.generator||"").startsWith("llm")?"AI narrative":"deterministic")}</div>
+        <div class="counts">
+          <div><b style="color:var(--red)">${x.serious}</b>serious</div>
+          <div><b style="color:var(--amber)">${x.watch}</b>watch</div>
+          <div><b style="color:var(--green)">${fmt(x.quiet)}</b>quiet</div>
+          <div><b>${fmt(x.matched)}</b>matched</div></div>
+        ${x.top?`<div class="top"><b>${esc(x.top.title.slice(0,110))}</b>
+          <div class="why">${esc((x.top.event_type||"").replace(/_/g," "))}
+            ${x.top.entities.length?"· "+esc(x.top.entities.slice(0,2).join(", ")):""}
+            · ${x.top.corroboration} source${x.top.corroboration>1?"s":""}</div></div>`
+        :`<div class="top"><span class="quiet">Nothing to report — ${fmt(x.scanned)} documents
+            checked, none matched this desk.</span></div>`}
+      </div>`;}).join("")+`</div>`;
+}
+
+/* ── ask (context-pinned chat) ────────────────────────────── */
+let ASKCTX=null;
+let ASKTHREAD=[],ASKSOURCES=[],CTXMODE="active";
+function toggleChat(force){
+  const open=force===undefined?!document.body.classList.contains("chatopen"):force;
+  document.body.classList.toggle("chatopen",open);
+  $("chatdock").classList.toggle("open",open);
+  $("chatToggle").classList.toggle("shifted",open);
+  $("chatToggle").textContent=open?"✕ Close":"💬 Ask";
+  if(open)renderAsk();
+}
+function setCtxMode(m){
+  CTXMODE=m;
+  $("ctxActive").classList.toggle("on",m==="active");
+  $("ctxPassive").classList.toggle("on",m==="passive");
+  renderAsk();
+}
+// what the person is looking at right now — the assistant should start there
+function pageContext(){
+  const view=(document.querySelector(".view.on")||{}).id||"";
+  const names={"v-myday":"My Day","v-home":"Home","v-ovw":"Regulatory overview",
+    "v-newslane":"Financial News overview","v-feed":"Today's stories",
+    "v-brw":"Documents","v-cov":"Sources","v-chg":"What changed",
+    "v-run":"Collection","v-hea":"Health","v-per":"Personas","v-exp":"Files"};
+  return {view,label:names[view]||"the app",lane:LANE,
+          persona_id:(MYDAY&&MYDAY.persona)?MYDAY.persona.persona_id:MYDAY_PID,
+          day:(MYDAY&&MYDAY.spec)?MYDAY.spec.day:null};
+}
+const ASK_SUGGESTIONS={
+  day:["What should I look at first, and why?",
+       "Which of these touch names I follow?",
+       "Is anything here corroborated by more than one source?"],
+  cluster:["What do we actually know, and what is still unconfirmed?",
+           "Did the story change between the first and latest report?",
+           "Draft a two-line note for the desk, facts only."],
+  document:["What changed, and does it affect timelines?",
+            "Summarise this for someone who has not read it.",
+            "What obligations does this create, if any?"],
+};
+function renderAsk(){
+  const pc=pageContext();
+  const w=$("ctxWhere");if(w)w.textContent=CTXMODE==="active"?`reading: ${pc.label}`:"corpus only";
+  const kind=ASKCTX?ASKCTX.kind:"your page";
+  $("askCtx").innerHTML=ASKCTX
+    ? `<div class="ask-chip">📎 Context: ${esc(ASKCTX.kind)} — ${esc((ASKCTX.title||"").slice(0,90))}
+        <span style="color:var(--muted);cursor:pointer" onclick="askClear()">✕</span></div>`
+    : `<div class="ask-chip" style="border-color:var(--line);background:var(--surface2);color:var(--muted)">
+         Asking about today's page — open an item from My Day to narrow it</div>`;
+  const sug=ASK_SUGGESTIONS[(ASKCTX&&ASKCTX.contextKind)||"day"]||[];
+  $("askSug").innerHTML=ASKTHREAD.length?"":sug.map(q=>
+    `<button onclick="$('askInput').value=${JSON.stringify(q).replace(/"/g,"&quot;")};askSend()">${esc(q)}</button>`).join("");
+  $("askThread").innerHTML=ASKTHREAD.map(m=>{
+    if(m.role==="me")return `<div class="ask-msg me">${esc(m.text)}</div>`;
+    let withCites=esc(m.text)
+      .replace(/^### (.+)$/gm,'<b>$1</b>')
+      .replace(/^## (.+)$/gm,'<b>$1</b>')
+      .replace(/\*\*(.+?)\*\*/g,'<b>$1</b>')
+      .replace(/^- /gm,'· ')
+      .replace(/\n/g,'<br>')
+      .replace(/\[(\d+)\]/g,(s,n)=>`<span class="cite" onclick="askOpenSource(${n})">[${n}]</span>`)
+      .replace(/\[([0-9a-f]{12,})\]/g,
+        (s,id)=>`<span class="cite" title="open document" onclick="askOpenDoc('${id}')">[doc]</span>`);
+    return `<div class="ask-msg ai${m.ok?"":" warn"}${m.pending?" pending":""}">${withCites}
+      <span class="gen">${esc(m.gen||"")}</span></div>`;}).join("");
+  $("askThread").scrollTop=$("askThread").scrollHeight;
+  $("askSources").innerHTML=`<h4>Sources${ASKSOURCES.length?` (${ASKSOURCES.length})`:""}</h4>`+
+    (ASKSOURCES.length?ASKSOURCES.map(s=>
+      `<div class="s"><b>[${s.n}]</b> ${esc((s.title||"").slice(0,110))}
+        <div style="color:var(--muted)">${esc(s.publisher||"")}${s.published?" · "+esc(s.published):""}
+        ${s.doc_id?` · <a onclick="openDoc('${s.regulator_id}','${s.doc_id}')">open</a>`:""}
+        ${s.url?` · <a href="${esc(s.url)}" target="_blank" rel="noopener">source ↗</a>`:""}</div></div>`).join("")
+     :`<div class="s" style="color:var(--muted)">Ask a question to see the evidence it used.</div>`);
+}
+function askClear(){ASKCTX=null;ASKTHREAD=[];ASKSOURCES=[];renderAsk();}
+async function askOpenDoc(docId){
+  try{
+    const r=await j(`/corpus/doc/${encodeURIComponent(docId)}`);
+    if(r&&r.regulator_id)openDoc(r.regulator_id,docId);
+  }catch(e){toast("Could not open that document.");}
+}
+function askOpenSource(n){
+  const s=ASKSOURCES.find(x=>x.n===Number(n));
+  if(s&&s.doc_id)openDoc(s.regulator_id,s.doc_id);
+}
+async function askSend(){
+  const q=($("askInput").value||"").trim();
+  if(!q)return;
+  $("askInput").value="";
+  ASKTHREAD.push({role:"me",text:q});
+  ASKTHREAD.push({role:"ai",text:"…",ok:true,gen:"thinking",pending:true});
+  renderAsk();
+  const pc=pageContext();
+  const body={question:q,context_kind:(ASKCTX&&ASKCTX.contextKind)||"day",
+              context_mode:CTXMODE,page:pc};
+  if(pc.day&&!body.day)body.day=pc.day;
+  if(ASKCTX){
+    if(ASKCTX.contextKind==="cluster"){body.cluster_key=ASKCTX.cluster_key;body.day=ASKCTX.day;}
+    if(ASKCTX.contextKind==="document"){body.regulator_id=ASKCTX.regulator_id;body.doc_id=ASKCTX.doc_id;}
+  }
+  if(pc.persona_id)body.persona_id=pc.persona_id;
+  try{
+    const r=await fetch(API+"/ask",{method:"POST",
+      headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+    const d=await r.json().catch(()=>({}));
+    ASKTHREAD.pop();
+    const steps=(d.steps||[]).map(s=>s.tool.replace("corpus_",""));
+    const route=steps.length
+      ? `${steps.length} tool call${steps.length>1?"s":""}: ${[...new Set(steps)].join(" → ")}`
+      : "";
+    ASKTHREAD.push({role:"ai",text:d.answer||"No answer.",ok:!!d.ok,
+                    gen:(d.generator||"").startsWith("agent")
+                          ? (route||"searched the corpus")
+                        :d.generator==="llm:deepseek"?"answered from the sources below"
+                        :d.generator==="rejected"?"withheld — could not be verified"
+                        :d.generator==="unconfigured"?"no model configured"
+                        :esc(d.generator||"")});
+    ASKSOURCES=d.sources||[];
+    if(d.context&&!ASKCTX)ASKCTX={kind:d.context.kind,title:d.context.title,contextKind:"day"};
+  }catch(e){
+    ASKTHREAD.pop();
+    ASKTHREAD.push({role:"ai",text:"Could not reach the assistant. "+e.message,ok:false,gen:""});
+  }
+  renderAsk();
+}
+
+/* ── health: one pane for the platform team ───────────────── */
+async function loadHealth(){
+  const [ov,runs,tree]=await Promise.all([j(`/exec/summary`),j(`/runs-overview`),j(`/tree?days=7`)]);
+  const T=ov.tiles||{},R=runs||{};
+  $("heaTiles").innerHTML=
+    tile(`${T.pass_rate??0}%`,"run pass rate",(T.pass_rate??0)>=90?"up":"warn")+
+    tile(fmt(T.runs||0),"collection runs")+
+    tile(`${T.regulators||0}+${T.news_sources||0}`,"sources configured")+
+    tile(fmt(T.documents||0),"documents held")+
+    tile(fmt(T.versions||0),"versions on file")+
+    tile(fmt(T.archived||0),"archived (audit trail)");
+  $("heaStages").innerHTML=[
+    ["detect","clean"],["fetch","magic-byte PDF checks"],["version","archive-first"],
+    ["score","reason on every doc"],["extract","stored per document"],
+    ["project markdown","resynced nightly"],["reconcile","DB = storage = manifests"],
+  ].map(([a,b])=>`<span>${a} <b>${b}</b></span>`).join("");
+  $("heaConserve").innerHTML=`<b>Conservation:</b> detected = ingested + deduped +
+    cap-dropped + errors, checked every run by the reconciler. Truncation is counted, never silent.`;
+  const attention=(tree.regions||[]).flatMap(r=>(r.institutions||[])
+    .filter(i=>i.status&&i.status!=="ok").map(i=>({...i,region:r.region})));
+  $("heaSources").innerHTML=attention.length
+    ? `<table><tr><th>source</th><th>region</th><th>status</th><th>last run</th></tr>`+
+      attention.map(i=>`<tr><td><b>${esc(i.regulator_id)}</b></td><td>${esc(i.region)}</td>
+        <td><span class="pill ${esc(i.status)}">${esc(i.status)}</span></td>
+        <td>${esc(i.last_run?new Date(i.last_run).toLocaleString():"never")}</td></tr>`).join("")+`</table>`
+    : `<div class="md-quiet"><b>All sources fresh.</b> None past its staleness window.</div>`;
+  const gen=(R.today_failing!=null)?R:{};
+  $("heaGen").innerHTML=`<div class="md-quiet">
+    Daily pages are generated per persona and cached — one truth per day, read-only.
+    Generator in use: <b>${esc(window.GENERATOR||"template (deterministic)")}</b>.
+    Every generated page is validated for coverage, citations and numbers before it renders;
+    a page that fails validation falls back to the deterministic template rather than shipping.</div>`;
+  $("heaRuns").innerHTML=$("runFeed")?$("runFeed").innerHTML:"";
+  if(!$("heaRuns").innerHTML){
+    $("heaRuns").innerHTML=`<div class="md-quiet">${fmt(R.today||0)} runs today ·
+      pass rate ${R.pass_rate??"—"}% · ${fmt(R.today_failing||0)} failing.
+      Full run history is on the Collection runs page.</div>`;}
+}
+
+/* ── identity: sign in / sign up ──────────────────────────── */
+let ME=null,AUTHMODE="login";
+function authMode(m){
+  AUTHMODE=m;
+  const signup=m==="signup";
+  $("authTitle").textContent=signup?"Create your account":"Sign in";
+  $("authSub").textContent=signup
+    ? "The first account on a new install becomes the administrator."
+    : "Market & Regulatory Intelligence — on-prem.";
+  $("authGo").textContent=signup?"Create account":"Sign in";
+  $("authName").style.display=$("authNameLabel").style.display=signup?"block":"none";
+  $("authPw").setAttribute("autocomplete",signup?"new-password":"current-password");
+  $("authAlt").innerHTML=signup
+    ? `Already have an account? <b onclick="authMode('login')">Sign in</b>`
+    : `No account? <b onclick="authMode('signup')">Create one</b>`;
+  $("authErr").classList.remove("on");
+}
+async function authSubmit(){
+  const email=$("authEmail").value.trim(),password=$("authPw").value;
+  const body=AUTHMODE==="signup"
+    ? {email,password,display_name:$("authName").value.trim()} : {email,password};
+  try{
+    const r=await fetch(API+`/auth/${AUTHMODE}`,{method:"POST",
+      headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+    const d=await r.json().catch(()=>({}));
+    // expected outcomes come back 200 with ok:false and a human message
+    if(!r.ok||d.ok===false)throw new Error(d.error||d.detail||"Could not sign in.");
+    ME=d.user;$("authGate").classList.remove("on");renderMe();
+    window.READY=loadAll().then(()=>{applyHash();return true;})
+      .catch(err=>{console.error("initial load failed:",err);
+                   toast("Could not load your data — retrying…");
+                   return loadAll().then(()=>{applyHash();return true;});});
+    await window.READY;
+  }catch(e){$("authErr").textContent=e.message;$("authErr").classList.add("on");}
+}
+async function authLogout(){
+  await fetch(API+"/auth/logout",{method:"POST"});
+  ME=null;location.reload();
+}
+function renderMe(){
+  const el=$("whoami");if(!el)return;
+  el.innerHTML=ME?`<button class="btn mini" onclick="authLogout()"
+    title="${esc(ME.display_name)}">Sign out</button>`:"";
+}
+async function requireAuth(){
+  try{
+    const d=await (await fetch(API+"/auth/me")).json();
+    ME=d.user;
+  }catch(e){ME=null;}
+  if(!ME){authMode("login");$("authGate").classList.add("on");return false;}
+  renderMe();return true;
+}
+
+/* ── personas ─────────────────────────────────────────────── */
+let PERSONAS=[],PERSEL=null,PERNEW=false;
+function parseWeights(s){
+  const out={};
+  (s||"").split(/[,\n]/).forEach(pair=>{
+    const [k,v]=pair.split(":").map(x=>(x||"").trim());
+    if(k&&v&&!isNaN(+v))out[k.toLowerCase()]=+v;});
+  return out;
+}
+function fmtWeights(o){return Object.entries(o||{}).map(([k,v])=>`${k}:${v}`).join(", ")}
+async function loadPersonas(){
+  if(!ME)return;
+  const d=await j("/personas");
+  PERSONAS=d.personas||[];
+  $("perList").innerHTML=PERSONAS.length?PERSONAS.map(p=>
+    `<div class="pitem ${p.persona_id===PERSEL?"on":""}" onclick="perPick('${p.persona_id}')">
+      <b>${esc(p.name)}</b>
+      <span>${p.lane==="news"?"📰 news":"🏛️ regulatory"} · ${fmt(p.entity_count)} names ·
+        ${esc(p.layout.replace(/_/g," "))}${p.can_edit?"":" · shared, view-only"}</span>
+     </div>`).join(""):`<div class="empty" style="padding:10px">No personas yet — create one.</div>`;
+  if(!PERSEL&&!PERNEW&&PERSONAS.length)perPick(PERSONAS[0].persona_id);
+  else perPreview();
+}
+async function perPick(id){
+  PERSEL=id;PERNEW=false;
+  const p=await j(`/personas/${id}`);
+  $("perName").value=p.name;$("perLane").value=p.lane;
+  $("perEntities").value=(p.entities_preview||[]).join("\n");
+  $("perTopics").value=fmtWeights((p.config.salience||{}).topic_weights);
+  $("perThreshold").value=(p.config.salience||{}).serious_threshold??50;
+  $("perFamilies").value=((p.config.scope||{}).rule_families||[]).join(", ");
+  loadPersonas();perPreview(p);
+}
+function useStarter(key){
+  const s=(window._starters||[]).find(x=>x.key===key);
+  show("per");
+  PERSEL=null;PERNEW=true;
+  if(!s)return;
+  $("perName").value=s.name;
+  $("perLane").value=s.lane;
+  $("perEntities").value=s.example_entities||"";
+  const sal=(s.config||{}).salience||{};
+  $("perTopics").value=fmtWeights(sal.topic_weights);
+  $("perThreshold").value=sal.serious_threshold||50;
+  $("perFamilies").value=((s.config||{}).scope||{}).rule_families?
+    ((s.config||{}).scope||{}).rule_families.join(", "):"";
+  $("perMsg").textContent="Starter loaded — replace the example names with yours, then save.";
+  perPreview();
+}
+function perNew(){
+  PERSEL=null;PERNEW=true;
+  ["perName","perEntities","perTopics","perFamilies"].forEach(i=>$(i).value="");
+  $("perThreshold").value=50;$("perMsg").textContent="";
+  loadPersonas();perPreview();
+}
+function perPreview(p){
+  const names=$("perEntities").value.split("\n").filter(x=>x.trim()).length;
+  const fams=$("perFamilies").value.split(",").filter(x=>x.trim()).length;
+  const layout=names>=50?"exception first":fams?"change first":"narrative first";
+  $("perPreview").innerHTML=`<h4>Preview — how your page will be built</h4>
+    <div class="r">Layout: <b>${layout}</b> — derived from your scope, not chosen</div>
+    <div class="r">Watchlist: <b>${fmt(names)}</b> names · rule families: <b>${fams}</b></div>
+    <div class="r">${names>=50?"A book this size gets an exception report: only names with events, plus a quiet count."
+      :fams?"Rule-family changes lead the page; everything else is context."
+      :"Few names, so the page leads with the day's storyline in prose."}</div>`;
+}
+async function perSave(){
+  const cfg={scope:{rule_families:$("perFamilies").value.split(",").map(x=>x.trim()).filter(Boolean)},
+             salience:{topic_weights:parseWeights($("perTopics").value),
+                       serious_threshold:+$("perThreshold").value||50}};
+  const body={name:$("perName").value.trim()||"Untitled persona",lane:$("perLane").value,
+              config:cfg,entities_raw:$("perEntities").value,persona_id:PERSEL};
+  const r=await fetch(API+"/personas",{method:"POST",
+    headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+  const d=await r.json();
+  if(!r.ok){$("perMsg").textContent=d.detail||"Could not save.";return;}
+  PERSEL=d.persona_id;PERNEW=false;
+  $("perMsg").textContent=`Saved · v${d.version_n} · ${fmt(d.entity_count)} names`;
+  loadPersonas();
+}
+["perEntities","perFamilies"].forEach(id=>{
+  document.addEventListener("input",e=>{if(e.target&&e.target.id===id)perPreview();});
+});
+
+/* ── collection: run it, watch it, see the trend ───────────── */
+async function loadRunControls(){
+  const sel=$("runPick");if(!sel)return;
+  const cat=laneScope();
+  const tree=window._tree;
+  const inLane=(tree?tree.regions:[]).filter(r=>
+    !cat||((r.region==="Financial News")===(cat==="news")));
+  const srcs=inLane.flatMap(r=>r.institutions||[]);
+  sel.innerHTML=`<option value="all">All ${cat==="news"?"wires":"regulators"} `+
+    `(${srcs.length})</option>`+
+    srcs.map(s=>`<option value="${esc(s.regulator_id)}">${esc(s.name||s.regulator_id)}</option>`).join("");
+  $("runScopeNote").textContent=cat==="news"
+    ? "· financial news wires" : cat==="regulatory" ? "· regulators" : "";
+  if(!$("runDate").value)$("runDate").value=new Date().toISOString().slice(0,10);
+}
+async function doRun(){
+  const pick=$("runPick").value, day=$("runDate").value||null;
+  const cap=parseInt($("runCap").value,10);
+  const body={scope:pick==="all"?"all":"ids",date:day};
+  if(pick!=="all")body.ids=[pick];
+  if(!isNaN(cap)&&cap>0)body.max_docs=cap;
+  $("runMsg").textContent="starting…";
+  try{
+    const r=await fetch(API+"/rerun",{method:"POST",
+      headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+    const d=await r.json().catch(()=>({}));
+    $("runMsg").textContent=d.queued===false
+      ? "a run is already in progress"
+      : `started ${pick==="all"?"all sources":pick} for ${d.date||day}`;
+    setTimeout(loadRuns,1500);
+  }catch(e){$("runMsg").textContent="could not start: "+e.message;}
+}
+async function loadTrend(){
+  const el=$("trendChart");if(!el)return;
+  const cat=laneScope();
+  const d=await j(`/runs-trend?days=14${cat?`&category=${cat}`:""}`);
+  $("trendNote").textContent=`· ${d.days} day${d.days===1?"":"s"} of runs`;
+  const max=Math.max(...d.series.flatMap(s=>[s.detected,s.ingested]),1);
+  el.innerHTML=`<div class="xlegend">
+      <span><i style="background:var(--blue)"></i>detected</span>
+      <span><i style="background:var(--green)"></i>ingested</span>
+      <span><i style="background:var(--red)"></i>errors</span></div>
+    <div class="cols" style="height:74px;display:flex;align-items:flex-end;gap:6px">`+
+    d.series.map(s=>`<div style="flex:1;text-align:center" title="${s.date}: detected ${s.detected}, fetched ${s.fetched}, ingested ${s.ingested}, errors ${s.errors}">
+      <div style="display:flex;gap:2px;align-items:flex-end;justify-content:center;height:56px">
+        <div style="width:7px;background:var(--blue);height:${Math.max(2,Math.round(s.detected/max*56))}px;border-radius:2px 2px 0 0"></div>
+        <div style="width:7px;background:var(--green);height:${Math.max(2,Math.round(s.ingested/max*56))}px;border-radius:2px 2px 0 0"></div>
+        ${s.errors?`<div style="width:4px;background:var(--red);height:${Math.max(2,Math.round(s.errors/max*56))}px"></div>`:""}
+      </div>
+      <div style="font-size:9px;color:var(--muted)">${s.date.slice(5)}</div></div>`).join("")+`</div>`;
+  $("trendSources").innerHTML=`<table><tr><th>data source</th><th>runs</th>
+      <th>detected</th><th>fetched</th><th>ingested</th><th>errors</th><th>last run</th></tr>`+
+    d.per_source.map(s=>`<tr><td><b>${esc(s.name)}</b></td><td>${s.runs}</td>
+      <td>${fmt(s.detected)}</td><td>${fmt(s.fetched)}</td><td>${fmt(s.ingested)}</td>
+      <td>${s.errors?`<span style="color:var(--red)">${s.errors}</span>`:"0"}</td>
+      <td>${esc(s.last_run)}</td></tr>`).join("")+`</table>`;
+}
+
+/* ── executive pages: every section bound to /exec/* ──────── */
+const BAND_C={Critical:"var(--red)",High:"#ec835a",Medium:"var(--amber)",Low:"var(--green)"};
+const TOPIC_C={credit:"var(--red)",rates:"#ec835a",banking:"var(--amber)",economy:"var(--blue)",
+               deals:"var(--blue)",energy:"var(--blue)",markets:"var(--muted)",general:"var(--muted)"};
+function xtile(v,l,cls=""){return `<div class="tile"><b class="${cls}">${v}</b><span>${l}</span></div>`}
+function xbars(rows,{color,labelWidth=140,click}={}){
+  const max=Math.max(...rows.map(r=>r.value),1);
+  return rows.map((r,i)=>{
+    const c=color?(typeof color==="function"?color(r,i):color):"var(--blue)";
+    const sub=r.sub?`<span class="sub" style="width:${(r.sub/r.value*100).toFixed(1)}%"></span>`:"";
+    return `<div class="xbar${click?" clickable":""}" style="--c:${c};--lw:${labelWidth}px"
+      ${click?`onclick="${click(r).replace(/"/g,"&quot;")}"`:""} title="${esc(r.title||r.label)}">
+      <span class="lbl">${r.dot?"<b>⬤</b>":""}${esc(r.label)}</span>
+      <span class="track"><span class="fill" style="width:${Math.max(1.5,r.value/max*100).toFixed(1)}%">${sub}</span></span>
+      <span class="val">${fmt(r.value)}</span></div>`}).join("");
+}
+function xcolumns(days,onclick){
+  const max=Math.max(...days.map(d=>d.count),1);
+  return days.map(d=>`<div class="c" onclick="${onclick(d)}" title="${d.day}: ${d.count} stories">
+    <span class="v">${d.count}</span>
+    <span class="bar" style="height:${Math.max(3,Math.round(d.count/max*70))}px"></span>
+    <span class="d">${d.day.slice(5)}</span></div>`).join("");
+}
+async function jumpCorpus(region,extra={}){
+  await window.READY;          // region options come from the coverage tree
+  // claim the lazy-load flag FIRST: show() would otherwise fire its own
+  // unfiltered fetch whose late response clobbers the filtered one.
+  window._corpusLoaded=1;
+  LANE=extra.lane||(region==="Financial News"?"news":region?"reg":(LANE||"reg"));
+  show("brw",true,{keepLane:true});
+  const set=(id,v)=>{const el=$(id);if(el){el.value=v||"";}};
+  set("bRegion",region);
+  if(typeof fillBInsts==="function")fillBInsts();
+  set("bInst",extra.inst);set("bType",extra.doc_type);set("bKind",extra.kind);
+  set("bBand",extra.band);
+  if($("bQ"))$("bQ").value="";
+  loadCorpus(true);
+}
+function jumpBand(band){return jumpCorpus("",{band,lane:"reg"});}
+
+async function loadHomeExec(){
+  const d=await j(`/exec/summary?days=1`);const T=d.tiles;
+  $("xhDate").innerHTML=`as of ${new Date().toISOString().slice(0,10)}<br>live production database`;
+  $("xhTiles").innerHTML=
+    xtile(fmt(T.documents),"documents held")+
+    xtile(`${T.regulators} + ${T.news_sources}`,"regulators + news wires")+
+    xtile(fmt(T.policy_pdfs),"policy PDFs parsed")+
+    xtile(fmt(T.critical),"critical-band rules")+
+    xtile(fmt(T.archived),"archived versions (audit)")+
+    xtile(`${T.pass_rate}%`,"collection pass rate",T.pass_rate>=90?"up":"warn");
+  const L=d.lanes;
+  $("xhLanes").innerHTML=`
+    <div class="lane" onclick="show('ovw')"><span class="go">Open →</span><div class="ic">🏛️</div>
+      <h2>Regulatory Intelligence</h2>
+      <p>Binding rules, guidance, consultations and enforcement from ${L.regulatory.sources} regulators across
+         Canada, the US, EU &amp; UK, APAC and the standard-setters — versioned, diffed and ranked by materiality.</p>
+      <div class="st"><div><b>${fmt(L.regulatory.documents)}</b><span>documents</span></div>
+        <div><b>${L.regulatory.collecting}/${L.regulatory.sources}</b><span>sources collecting</span></div>
+        <div><b>${fmt(d.bands.Critical||0)}</b><span>critical band</span></div></div></div>
+    <div class="lane" onclick="show('newslane')"><span class="go">Open →</span><div class="ic">📰</div>
+      <h2>Financial News</h2>
+      <p>Top stories from ${L.news.sources} verified financial news wires worldwide, refreshed daily and ranked
+         through a credit-analyst lens — credit events and central banks first, noise last.</p>
+      <div class="st"><div><b>${fmt(L.news.documents)}</b><span>stories</span></div>
+        <div><b>${L.news.collecting}/${L.news.sources}</b><span>wires collecting</span></div>
+        <div><b>${fmt((d.news_volume.slice(-1)[0]||{}).count||0)}</b><span>latest day</span></div></div></div>`;
+  $("xhRegionsHead").innerHTML=`Corpus by coverage area <span class="plain">— ${fmt(T.documents)} documents</span>`;
+  $("xhRegions").className="";
+  $("xhRegions").innerHTML=xbars(d.regions.map(r=>({label:r.region,value:r.count})),
+    {click:r=>`jumpCorpus('${r.label}')`});
+  $("xhBands").innerHTML=xbars(["Critical","High","Medium","Low"].filter(b=>d.bands[b])
+    .map(b=>({label:b,value:d.bands[b],dot:1})),
+    {color:r=>BAND_C[r.label],labelWidth:96,click:r=>`jumpBand('${r.label}')`});
+  $("xhVol").innerHTML=xcolumns(d.news_volume,dd=>`loadNews('${dd.day}');show('feed')`);
+  $("xhOps").innerHTML=xbars([
+    {label:"Documents",value:T.documents},{label:"Versions on file",value:T.versions},
+    {label:"Archived versions",value:T.archived},{label:"Collection runs",value:T.runs},
+  ],{labelWidth:130})+
+    `<div class="xnote">${T.pass_rate}% of ${fmt(T.runs)} runs succeeded ·
+      +${fmt(T.new)} documents in the last ${T.days} day${T.days===1?"":"s"} ·
+      every document carries its source URL and version history.</div>`;
+}
+
+async function loadRegLane(){
+  const d=await j(`/exec/regulatory`);const T=d.tiles;
+  $("xrDate").innerHTML=`as of ${new Date().toISOString().slice(0,10)}<br>live production database`;
+  $("xrCount").textContent=`${T.sources} regulators`;
+  $("xrTiles").innerHTML=
+    xtile(fmt(T.documents),"documents held")+
+    xtile(`${T.collecting}/${T.sources}`,"regulators collecting")+
+    xtile(fmt(T.policy_pdfs),"policy PDFs parsed")+
+    xtile(fmt(T.versions),"versions on file")+
+    xtile(fmt(T.archived),"rule changes archived")+
+    xtile(fmt(d.bands.Critical||0),"critical band","bad");
+  $("xrLeagueSub").textContent=`— top ${d.league.length} of ${d.league.length+d.league_rest}`;
+  $("xrLeague").className="";
+  $("xrLeague").innerHTML=xbars(d.league.map(r=>({
+      label:r.regulator_id.toUpperCase(),title:`${r.name} (${r.jurisdiction})`,
+      value:r.documents,sub:r.policy_pdfs})),
+    {labelWidth:110,click:r=>`jumpCorpus('',{inst:'${r.label.toLowerCase()}'})`});
+  $("xrLeagueNote").textContent=`+ ${d.league_rest} more regulators. Click a bar to browse that regulator's documents.`;
+  $("xrTypes").className="";
+  $("xrTypes").innerHTML=xbars(d.doc_types.map(x=>({label:x.doc_type.replace(/_/g," "),value:x.count})),
+    {labelWidth:120,click:r=>`jumpCorpus('',{doc_type:'${r.label.replace(/ /g,"_")}'})`});
+  $("xrBands").innerHTML=xbars(["Critical","High","Medium","Low"].filter(b=>d.bands[b])
+    .map(b=>({label:b,value:d.bands[b],dot:1})),
+    {color:r=>BAND_C[r.label],labelWidth:96,click:r=>`jumpBand('${r.label}')`});
+  $("xrTop").innerHTML=d.top_docs.map(x=>
+    `<li onclick="openDoc('${x.regulator_id}','${x.doc_id}')"><span class="sc">${x.score}</span>
+      <b>${esc(x.title||"")}</b>
+      <span class="rz">${esc(x.regulator_id)} · ${esc(x.reason||"")}</span></li>`).join("")
+    ||'<li class="empty">no critical-band documents</li>';
+  $("xrArchived").innerHTML=xbars(d.archived_by.map(x=>({label:x.regulator_id.toUpperCase(),
+      title:x.name,value:x.count})),{labelWidth:110,click:r=>`show('chg')`})
+    ||'<div class="empty">no archived versions yet</div>';
+}
+
+async function loadNewsLane(){
+  const d=await j(`/exec/news`);const T=d.tiles;
+  $("xnDate").innerHTML=`as of ${d.day||"—"}<br>live production database`;
+  $("xnCount").textContent=`${T.sources} verified wires`;
+  $("xnDay").textContent=d.day?`— ${d.day}`:"";
+  $("xnTiles").innerHTML=
+    xtile(fmt(T.stories),"stories collected")+
+    xtile(T.sources,"verified wires")+
+    xtile(fmt(T.today),"stories today")+
+    xtile(`${T.reporting_today}/${T.sources}`,"wires reporting today")+
+    xtile(T.cap,"daily cap per wire")+
+    xtile(T.scraped,"articles scraped","up");
+  $("xnLens").className="";
+  $("xnLens").innerHTML=xbars(d.lens.map(x=>({
+      label:`${x.label}${x.count?` (${x.count})`:""}`,value:x.weight,dot:1,
+      key:x.key,title:`${x.label}: weight ${x.weight}; ${x.count} stories today`})),
+    {color:r=>TOPIC_C[r.key],labelWidth:180,click:r=>`openTopic('${r.key}')`});
+  $("xnProof").innerHTML=d.proof.length?d.proof.map(s=>
+    `<div class="xstory" style="--c:${TOPIC_C[s.topic]||"var(--muted)"}"
+       onclick="openDoc('${s.regulator_id}','${s.doc_id}')">
+      <b>${esc(s.title||"")}</b>
+      <div class="m">${esc(s.source)} · ${esc(s.region)} · rank ${s.rank} — <i>${esc(s.why)}</i></div>
+    </div>`).join(""):'<div class="empty">no stories yet today</div>';
+  $("xnVol").innerHTML=xcolumns(d.volume,dd=>`loadNews('${dd.day}');show('feed')`);
+  $("xnRegions").innerHTML=xbars(d.regions.map(r=>({label:r.region,value:r.count})),{labelWidth:120});
+  const rep=d.sources.filter(s=>s.count);
+  $("xnSrcSub").textContent=`— ${rep.length} of ${d.sources.length} have delivered stories`;
+  $("xnSources").innerHTML=xbars(d.sources.map(s=>({label:s.name,value:s.count,title:s.name})),
+    {labelWidth:170,click:r=>`jumpCorpus('Financial News')`});
+}
+function openTopic(key){show("feed");nwTopic=key;if(NW)renderNews();}
+
+/* ── financial news (credit-analyst lens) ─────────────────── */
+let NW=null,nwRegion="",nwTopic="";
+async function loadNews(day){
+  NW=await j(`/news${day?`?day=${day}`:""}`);nwRegion="";nwTopic="";
+  $("nwDay").textContent=NW.day||"no stories yet";
+  $("nwRegions").innerHTML=["",...NW.regions].map(r=>
+    `<span class="chip ${r===nwRegion?"on":""}" onclick="nwRegion=nwRegion==='${r}'?'':'${r}';renderNews()">${r||"All regions"}</span>`).join("");
+  const days=[...NW.days].reverse(),max=Math.max(...days.map(d=>d.count),1);
+  $("nwVol").innerHTML=days.map(d=>
+    `<div class="${d.day===NW.day?"sel":""}" style="height:${Math.max(4,d.count/max*100)}%"
+      title="${d.day}: ${d.count}" onclick="loadNews('${d.day}')"></div>`).join("");
+  renderNews();
+}
+function newsDay(dir){
+  if(!NW)return;
+  const ds=NW.days.map(d=>d.day).sort();          // oldest -> newest
+  const i=ds.indexOf(NW.day)+dir;
+  if(i>=0&&i<ds.length)loadNews(ds[i]);
+}
+function nwFiltered(){
+  const q=($("nwQ").value||"").toLowerCase();
+  return NW.stories.filter(s=>
+    (!nwRegion||s.region===nwRegion)&&(!nwTopic||s.topic===nwTopic)&&
+    (!q||`${s.title} ${s.excerpt} ${s.source}`.toLowerCase().includes(q)));
+}
+function storyRow(s,i){
+  return `<div class="story">${i!=null?`<span class="n">${i+1}</span>`:""}
+    <div style="min-width:0">
+      <h4 onclick="openDoc('${s.regulator_id}','${s.doc_id}')">${esc(s.title||"")}</h4>
+      <div class="meta"><span class="tbadge t-${s.topic}">${esc(s.topic_label)}</span>
+        ${esc(s.source)} · ${esc(s.region)}${s.url?` · <a href="${s.url}" target="_blank" rel="noopener">source ↗</a>`:""}</div>
+      ${s.excerpt?`<div class="sum">${esc(s.excerpt)}</div>`:""}
+    </div></div>`;
+}
+function renderNews(){
+  if(!NW)return;
+  $("nwTopics").innerHTML=[{key:"",label:"All topics",count:NW.stories.length},...NW.topics].map(tp=>
+    `<span class="chip ${tp.key===nwTopic?"on":""}"
+       onclick="nwTopic=nwTopic==='${tp.key}'?'':'${tp.key}';renderNews()">${tp.label} (${tp.count})</span>`).join("");
+  const list=nwFiltered();
+  const top=list.slice(0,10);
+  $("nwTopTitle").textContent=`Top stories — ${NW.day||""}`;
+  $("nwTop").className="";
+  $("nwTop").innerHTML=top.length?top.map((s,i)=>storyRow(s,i)).join(""):`<div class="empty">no stories match</div>`;
+  const rest=list.slice(10),byT={};
+  for(const s of rest)(byT[s.topic_label]=byT[s.topic_label]||[]).push(s);
+  $("nwSections").innerHTML=Object.entries(byT).map(([lab,ss])=>
+    `<div class="npanel" style="margin-top:14px"><h3>${esc(lab)} (${ss.length})</h3>
+       ${ss.map(s=>storyRow(s)).join("")}</div>`).join("");
+  $("nwSources").innerHTML=NW.sources.map(s=>
+    `<div class="srcrow"><span>${esc(s.name)}</span><b>${s.count}</b></div>`).join("");
+}
+
+
+/* ── file explorer (nested corpus tree) ───────────────────── */
+const fmtSize=b=>b==null?"":b<1024?b+" B":b<1048576?(b/1024).toFixed(0)+" KB":(b/1048576).toFixed(1)+" MB";
+async function loadExplorer(){
+  $("fsTree").className="";
+  $("fsTree").innerHTML=await fsChildren("");
+}
+async function fsChildren(path){
+  const d=await j(`/fs?path=${encodeURIComponent(path)}`);
+  return d.entries.map(e=>{
+    const p=path?`${path}/${e.name}`:e.name;
+    const id="fs_"+btoa(p).replace(/[^a-zA-Z0-9]/g,"");
+    if(e.dir)return `<div id="${id}">
+      <div class="fsrow" onclick="fsToggle('${id}','${p.replace(/'/g,"\\'")}')">
+        <span class="caret">▶</span><span>📁</span>
+        <span class="fsname">${esc(e.name)}</span>
+        <span class="fsmeta">${e.children} items</span></div>
+      <div class="fskids"><div class="empty" style="padding:4px 8px">…</div></div></div>`;
+    const icon=e.name.endsWith(".pdf")?"📕":e.name.endsWith(".md")?"📝":
+               e.name.endsWith(".json")?"🧾":"🌐";
+    return `<div class="fsrow file" onclick="fsOpen('${p.replace(/'/g,"\\'")}')">
+      <span style="width:16px"></span><span>${icon}</span>
+      <span class="fsname">${esc(e.name)}</span>
+      <span class="fsmeta">${fmtSize(e.size)}</span></div>`;
+  }).join("")||"<div class='empty'>empty</div>";
+}
+async function fsToggle(id,path){
+  const el=$(id);
+  el.classList.toggle("fsopen");
+  if(el.classList.contains("fsopen")&&!el.dataset.loaded){
+    el.dataset.loaded=1;
+    el.querySelector(".fskids").innerHTML=await fsChildren(path);
+  }
+}
+async function fsOpen(path){
+  const name=path.split("/").pop();
+  if(name.endsWith(".pdf")||name.startsWith("raw.")){
+    window.open(API+`/fs/file?path=${encodeURIComponent(path)}&download=1`,"_blank");
+    return;
+  }
+  const f=await j(`/fs/file?path=${encodeURIComponent(path)}`);
+  openPanel(name,`${esc(path)} · ${fmtSize(f.size)}`,
+    name.endsWith(".md")?[["Rendered","r"],["Raw","raw"]]:[["Content","raw"]],
+    k=>k==="r"?`<div class="md">${md2html(f.text)}</div>`
+             :`<pre>${esc(name.endsWith(".json")?JSON.stringify(JSON.parse(f.text||"{}"),null,2):f.text)}</pre>`);
+}
+
+/* ── add-document modal (manual lane) ─────────────────────── */
+function openAddDoc(){
+  const sel=$("adReg");
+  let insts=[];for(const r of (_treeData?.regions||[]))insts.push(...r.institutions);
+  sel.innerHTML=insts.map(x=>`<option value="${x.regulator_id}">${x.regulator_id} — ${esc(x.name)}</option>`).join("");
+  $("addModal").classList.add("show");
+}
+function closeAddDoc(){$("addModal").classList.remove("show")}
+async function submitAddDoc(){
+  const url=$("adUrl").value.trim();
+  if(!url){toast("Source URL is required (provenance anchor)");return;}
+  const common={regulator_id:$("adReg").value,url,title:$("adTitle").value||null,
+                doc_type:$("adType").value,reference_number:$("adRef").value||null};
+  const file=$("adFile").files[0];
+  let resp;
+  try{
+    if(file){
+      const fd=new FormData();
+      for(const [k,v] of Object.entries(common))if(v!=null)fd.append(k,v);
+      fd.append("file",file);
+      resp=await fetch(API+"/documents/upload",{method:"POST",
+        headers:{"X-Operator":"dashboard"},body:fd});
+    }else{
+      resp=await fetch(API+"/documents",{method:"POST",
+        headers:{"Content-Type":"application/json","X-Operator":"dashboard"},
+        body:JSON.stringify({...common,markdown:$("adMd").value||null})});
+    }
+    const body=await resp.json();
+    if(!resp.ok)throw new Error(body.detail||resp.status);
+    toast(`${body.action} — ${body.doc_id} v${body.version_n}`);
+    closeAddDoc();loadCorpus(true);
+  }catch(e){toast("Failed: "+e.message)}
+}
+
+const FULLNAMES={};   // regulator_id -> name (filled by tree)
+
+/* ── overview (simple mode) ───────────────────────────────── */
+async function loadOverview(){
+  const o=await j(`/overview?days=1`);
+  $("ovwHead").className="headline";
+  $("ovwHead").textContent=o.headline;
+  const t=o.totals;
+  $("ovwTiles").innerHTML=
+    tile(fmt(t.documents),"documents we hold")+
+    tile(`+${fmt(t.new)}`,"collected today","up")+
+    tile(`${fmt(t.web)} / ${fmt(t.pdf)}`,"web pages / policy PDFs")+
+    tile(`${t.regulators_tracking}/${t.regulators_total}`,"regulators collecting")+
+    tile(`${t.news_tracking??0}/${t.news_total??0}`,"news sources collecting")+
+    tile(fmt(items_len(o)),`high-priority (${o.priority_days}d)`,items_len(o)?"bad":"");
+  // priority items — the "what should I read" answer
+  const items=o.priority.items||[];
+  $("ovwPriority").innerHTML=`<div class="simple-card">
+    <div class="simple-head"><b>Needs your attention today</b>
+      <span style="color:var(--muted);font-size:12px">last ${o.priority_days} days, ranked by materiality — binding rules from our primary regulators first</span>
+      <span class="spacer" style="flex:1"></span>
+      <button class="btn sm" onclick="show('chg')">All changes →</button></div>
+    ${items.length?items.map(d=>`<div class="pitem" onclick='openDoc("${d.regulator_id}","${d.doc_id}")'>
+        <span class="prio ${d.materiality_band}">${d.materiality_band}</span>
+        <span style="flex:1">
+          <span style="color:var(--blue);font-weight:550">${esc(d.title).slice(0,95)}</span>
+          <span class="tag" style="margin-left:6px">${d.doc_type}</span>
+          <div class="why">${d.regulator_id} · ${esc(d.materiality_reason||"")}</div></span>
+      </div>`).join("")
+      :`<div class="empty">Nothing high-priority in the last ${o.priority_days} days — ${fmt(t.new)} routine documents collected today.</div>`}
+  </div>`;
+  // flat regulator table
+  $("ovwTable").className="";
+  $("ovwTable").innerHTML=`<table><tr><th>Regulator</th><th>Region</th>
+    <th class="num">Web pages</th><th class="num">Policy PDFs</th>
+    <th class="num">New today</th><th>Status</th></tr>`+
+    o.regulators.map(r=>`<tr style="cursor:pointer" onclick="browseMore('${r.regulator_id}','web')">
+      <td><b>${r.regulator_id}</b> <span style="color:var(--muted)">${esc(r.name).slice(0,42)}</span></td>
+      <td>${r.region}</td><td class="num">${fmt(r.web)}</td><td class="num">${fmt(r.pdf)}</td>
+      <td class="num">${r.new?`<b class="up">+${r.new}</b>`:"—"}</td>
+      <td><span class="dot ${r.healthy?"ok":"bad"}"></span>${r.health_label}</td></tr>`).join("")
+    +`</table>`;
+}
+
+/* ── coverage ─────────────────────────────────────────────── */
+async function loadTree(){
+  const days=$("days").value;
+  window._tree=await j(`/tree?days=${days}`);
+  fillChangeFilters(window._tree);  // changes filters share the coverage dimensions
+  renderTree();
+}
+function renderTree(){
+  const days=$("days").value, full=window._tree;
+  if(!full)return;
+  // the lane decides which regions belong on this page
+  const t=LANE?{...full,regions:full.regions.filter(r=>
+        (r.region==="Financial News")===(LANE==="news"))}:full;
+  const tot=LANE?t.regions.reduce((a,r)=>({regulators:a.regulators+r.rollup.institutions,
+      documents:a.documents+r.rollup.web+r.rollup.pdf,web:a.web+r.rollup.web,
+      pdf:a.pdf+r.rollup.pdf,new:a.new+r.rollup.new}),
+      {regulators:0,documents:0,web:0,pdf:0,new:0}):full.totals;
+  $("tiles").innerHTML=
+    tile(fmt(tot.regulators),LANE==="news"?"news wires monitored":"regulators monitored")+
+    tile(fmt(tot.documents),LANE==="news"?"stories collected":"documents in corpus")+
+    tile(`${fmt(tot.web)} / ${fmt(tot.pdf)}`,"web pages / policy PDFs")+
+    tile(`+${fmt(tot.new)}`,`new in ${days}d`,"up")+
+    tile(fmt(t.regions.reduce((a,r)=>a+r.rollup.attention,0)),"need attention","warn");
+  $("tree").className="";
+  $("tree").innerHTML=t.regions.map((r,i)=>{
+    const ru=r.rollup;
+    return `<div class="region" id="rg${i}">
+      <div class="rhead" onclick="tgl('rg${i}')">
+        <span class="caret">▶</span><span class="rname">${esc(r.region)}</span>
+        <span class="rollup"><span><b>${ru.institutions}</b> institutions</span>
+          <span><b>${fmt(ru.web)}</b> web</span><span><b>${fmt(ru.pdf)}</b> policy PDFs</span>
+          <span class="up"><b>+${fmt(ru.new)}</b> in ${days}d</span></span>
+        <span style="margin-left:auto;display:flex;gap:10px;align-items:center">
+          ${ru.attention?`<span class="pill stale">⏱ ${ru.attention} need attention</span>`
+                        :`<span class="pill ok">✓ all fresh</span>`}
+        </span></div>
+      <div class="rbody">${r.institutions.map((x,k)=>inst(x,i,k)).join("")}</div></div>`;
+  }).join("");
+}
+function items_len(o){return (o.priority.items||[]).length}
+function tile(v,l,cls=""){return `<div class="tile"><b class="${cls}">${v}</b><span>${l}</span></div>`}
+function inst(x,ri,ii){
+  FULLNAMES[x.regulator_id]=x.name;
+  const id=`in${ri}_${ii}`;
+  const lr=x.last_run?new Date(x.last_run).toLocaleString(undefined,{month:"short",day:"numeric",hour:"2-digit",minute:"2-digit"}):"never";
+  const stPill={ok:'<span class="pill ok">✓ fresh</span>',
+    ok_empty:'<span class="pill ok_empty">✓ 0 new</span>',
+    stale:`<span class="pill stale">⏱ stale ${x.stale_days}d</span>`,
+    failed:'<span class="pill failed">✗ failed</span>',
+    running:'<span class="pill running">▶ running</span>',
+    never_run:'<span class="pill never_run">— never run</span>'}[x.status]||x.status;
+  return `<div class="inst" id="${id}">
+    <div class="ihead" onclick="tglInst('${id}','${x.regulator_id}')">
+      <span class="caret">▶</span>
+      <span class="iname">${x.regulator_id}<span class="full">${esc(x.name)}</span></span>
+      <span class="cnum hide-sm">Web <b>${fmt(x.web.docs)}</b>${x.web.new?` · <span class="new">+${x.web.new}</span>`:""}</span>
+      <span class="cnum hide-sm">PDF <b>${fmt(x.pdf.docs)}</b>${x.pdf.new?` · <span class="new">+${x.pdf.new}</span>`:""}</span>
+      <span class="cnum hide-sm" style="font-size:11.5px">${lr}
+        ${x.coverage_pct!=null?`<br><span style="color:${x.coverage_pct>=90?"var(--green)":"var(--amber)"};font-weight:600">cov ${x.coverage_pct}%</span> <span style="color:var(--muted)">of ${fmt(x.last_detected)}</span>`:""}</span>
+      <span>${stPill}</span>
+      <span style="text-align:right"><button class="btn sm" onclick="event.stopPropagation();runScope('${x.regulator_id}')">▶ Run</button></span>
+    </div>
+    <div class="ibody" id="${id}_body"><div class="empty">loading…</div></div></div>`;
+}
+function tgl(id){$(id).classList.toggle("open")}
+async function tglInst(id,reg){
+  const el=$(id);el.classList.toggle("open");
+  if(!el.classList.contains("open")||el.dataset.loaded)return;
+  el.dataset.loaded=1;
+  const body=$(id+"_body");
+  try{
+    const [web,pdf]=await Promise.all([
+      j(`/browse/${reg}?kind=web&limit=8`), j(`/browse/${reg}?kind=policy_pdf&limit=8`)]);
+    body.innerHTML=srct(reg,"web",web)+srct(reg,"pdf",pdf);
+  }catch(e){body.innerHTML=`<div class="empty">failed to load: ${esc(e.message)}</div>`}
+}
+function srct(reg,kind,data){
+  const isWeb=kind==="web";
+  const n=data.facets.source_kind[isWeb?"web":"policy_pdf"]||0;
+  const docs=data.documents;
+  const id=`st_${reg}_${kind}`;
+  return `<div class="srct open" id="${id}">
+    <div class="shead" onclick="tgl('${id}')">
+      <span class="caret">▶</span>
+      <span class="sico ${isWeb?"web":"pdf"}">${isWeb?"🌐":"📄"}</span>
+      <span style="font-weight:600">${isWeb?"Website content":"Policy & guidance documents"}</span>
+      <span class="smeta">${fmt(n)} ${isWeb?"pages":"PDFs → markdown"}</span></div>
+    <div class="sbody">
+      ${docs.length?docs.map(d=>docRow(reg,d)).join(""):`<div class="empty">none captured yet</div>`}
+      ${n>docs.length?`<div class="more" onclick="browseMore('${reg}','${isWeb?"web":"policy_pdf"}')">Browse all ${fmt(n)} →</div>`:""}
+    </div></div>`;
+}
+function docRow(reg,d){
+  return `<div class="doc" onclick='openDoc("${reg}","${d.doc_id}")'>
+    <span class="dt">${esc(d.title)}</span>
+    <span class="tag">${d.doc_type}</span>
+    ${d.version_n>1?`<span class="tag v">v${d.version_n}</span>`:""}
+    ${d.status==="superseded"?`<span class="tag sup">superseded</span>`:""}
+    ${d.source_kind==="policy_pdf"?`<span class="tag pdf">PDF</span>`:""}
+    <span class="dmeta">${d.published_date||""}</span></div>`;
+}
+function browseMore(reg,kind){
+  // "Browse all →" opens the Corpus page prefiltered to this institution+file type
+  $("bInst").value=""; fillBInsts();
+  $("bRegion").value=""; fillBInsts();
+  $("bInst").value=reg; $("bKind").value=kind;
+  $("bType").value=""; $("bStatus").value=""; $("bQ").value="";
+  show("brw"); loadCorpus(true);
+}
+
+/* ── corpus page ─────────────────────────────────────────── */
+let _bOffset=0; const _bLimit=50;
+function fillBInsts(){
+  const region=$("bRegion").value, sel=$("bInst"), cur=sel.value;
+  let insts=[];
+  for(const r of (_treeData?.regions||[])){
+    if(!region||r.region===region) insts.push(...r.institutions);
+  }
+  sel.innerHTML='<option value="">All institutions</option>'+
+    insts.map(x=>`<option value="${x.regulator_id}"${x.regulator_id===cur?" selected":""}>`+
+      `${x.regulator_id} — ${esc(x.name)}</option>`).join("");
+}
+function _corpusParams(){
+  const p=new URLSearchParams({limit:_bLimit,offset:_bOffset});
+  if(laneScope())p.set("category",laneScope());
+  if($("bRegion").value)p.set("region",$("bRegion").value);
+  if($("bInst").value)p.set("regulators",$("bInst").value);
+  if($("bKind").value)p.set("kind",$("bKind").value);
+  if($("bType").value)p.set("doc_type",$("bType").value);
+  if($("bStatus").value)p.set("status",$("bStatus").value);
+  if($("bBand")&&$("bBand").value)p.set("band",$("bBand").value);
+  if($("bQ").value)p.set("q",$("bQ").value);
+  if($("bFrom").value)p.set("date_from",$("bFrom").value);
+  if($("bTo").value)p.set("date_to",$("bTo").value);
+  return p;
+}
+async function loadCorpus(reset=false){
+  if(reset)_bOffset=0;
+  const data=await j(`/corpus?`+_corpusParams().toString());
+  // fill doc_type/status selects from facets (keep current selection)
+  for(const [sel,f] of [["bType","doc_type"],["bStatus","status"]]){
+    const el=$(sel),cur=el.value;
+    el.innerHTML=`<option value="">All ${f==="doc_type"?"doc types":"statuses"}</option>`+
+      Object.entries(data.facets[f]).sort((a,b)=>b[1]-a[1]).map(([k,v])=>
+        `<option value="${k}"${k===cur?" selected":""}>${k} (${fmt(v)})</option>`).join("");
+  }
+  const from=data.total?_bOffset+1:0, to=Math.min(_bOffset+_bLimit,data.total);
+  $("bCount").textContent=`${fmt(from)}–${fmt(to)} of ${fmt(data.total)} documents`;
+  $("bCount").dataset.render=String((+($("bCount").dataset.render||0))+1);
+  $("bPrev").disabled=_bOffset<=0; $("bNext").disabled=to>=data.total;
+  $("bTable").className="";
+  $("bTable").innerHTML=`<table><tr><th>Document</th><th>Institution</th><th>Type</th>
+    <th>Status</th><th>File</th><th>Published</th><th>Added</th><th class="num">Ver</th></tr>`+
+    data.documents.map(d=>`<tr style="cursor:pointer" onclick='openDoc("${d.regulator_id}","${d.doc_id}")'>
+      <td><b style="color:var(--blue)">${esc(d.title).slice(0,110)}</b>
+        ${d.reference_number?`<span style="color:var(--muted);font-size:11px"> · ${esc(d.reference_number)}</span>`:""}
+        <a href="${esc(d.source_url)}" target="_blank" rel="noopener" title="Open source page"
+           onclick="event.stopPropagation()" style="font-size:11px;margin-left:4px">↗</a>
+        ${d.excerpt?`<div style="color:var(--muted);font-size:11.5px;font-weight:400;
+          margin-top:2px;max-width:560px;overflow:hidden;text-overflow:ellipsis;
+          display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical">${esc(d.excerpt)}</div>`:""}</td>
+      <td>${d.regulator_id}</td><td>${d.doc_type}</td>
+      <td><span class="pill ${d.status==="final"?"ok":d.status==="superseded"?"failed":"ok_empty"}">${d.status}</span></td>
+      <td>${d.source_kind==="policy_pdf"?'<span class="tag pdf">PDF</span>':'<span class="tag">web</span>'}</td>
+      <td>${d.published_date||"—"}</td>
+      <td>${(d.ingested_at||"").slice(0,10)||"—"}</td>
+      <td class="num">${d.version_n}</td></tr>`).join("")
+    +`</table>`;
+}
+function pageCorpus(dir){_bOffset=Math.max(0,_bOffset+dir*_bLimit);loadCorpus();}
+function clearCorpus(){["bRegion","bInst","bKind","bType","bStatus","bBand","bQ","bFrom","bTo"]
+  .forEach(i=>$(i).value="");fillBInsts();loadCorpus(true);}
+
+/* ── changes ─────────────────────────────────────────────── */
+let _treeData=null;
+function fillChangeFilters(t){
+  _treeData=t;
+  const rSel=$("fRegion");
+  const cur=rSel.value;
+  rSel.innerHTML='<option value="">All regions</option>'+
+    t.regions.map(r=>`<option${r.region===cur?" selected":""}>${esc(r.region)}</option>`).join("");
+  fillInsts(false);
+  // corpus page shares the same dimensions
+  const bR=$("bRegion"),bCur=bR.value;
+  bR.innerHTML='<option value="">All continents</option>'+
+    t.regions.map(r=>`<option${r.region===bCur?" selected":""}>${esc(r.region)}</option>`).join("");
+  fillBInsts();
+}
+function fillInsts(reset=true){
+  const region=$("fRegion").value;
+  const iSel=$("fInst");
+  const cur=reset?"":iSel.value;
+  let insts=[];
+  for(const r of (_treeData?.regions||[])){
+    if(!region||r.region===region) insts.push(...r.institutions);
+  }
+  iSel.innerHTML='<option value="">All institutions</option>'+
+    insts.map(x=>`<option value="${x.regulator_id}"${x.regulator_id===cur?" selected":""}>`+
+      `${x.regulator_id} — ${esc(x.name)}</option>`).join("");
+}
+let _kindSel=new Set();
+function chipKind(el){
+  const k=el.dataset.k;
+  const chips=[...document.querySelectorAll("#fChips .chip")];
+  if(!k){_kindSel.clear();chips.forEach(c=>c.classList.toggle("on",!c.dataset.k));}
+  else{
+    _kindSel.has(k)?_kindSel.delete(k):_kindSel.add(k);
+    chips.forEach(c=>c.classList.toggle("on",
+      c.dataset.k? _kindSel.has(c.dataset.k) : _kindSel.size===0));
+  }
+  loadChanges();
+}
+function clearChgFilters(){
+  $("fRegion").value="";fillInsts();$("fKind").value="";
+  $("fFrom").value="";$("fTo").value="";_kindSel.clear();
+  document.querySelectorAll("#fChips .chip").forEach(c=>
+    c.classList.toggle("on",!c.dataset.k));
+  loadChanges();
+}
+async function loadChanges(){
+  const days=$("days").value;
+  const p=new URLSearchParams({days});
+  if(laneScope())p.set("category",laneScope());
+  if($("fRegion").value)p.set("region",$("fRegion").value);
+  if($("fInst").value)p.set("regulators",$("fInst").value);
+  if($("fKind").value)p.set("source_kind",$("fKind").value);
+  if(_kindSel.size)p.set("kinds",[..._kindSel].join(","));
+  if($("fFrom").value)p.set("date_from",$("fFrom").value);
+  if($("fTo").value)p.set("date_to",$("fTo").value);
+  const c=await j(`/changes?`+p.toString());
+  $("chgTiles").innerHTML=
+    tile(fmt(c.changes.length),"changes in window")+
+    tile(fmt(c.counts.new||0),"new documents","up")+
+    tile(fmt(c.counts.revised||0),"revised (archived prior)","warn")+
+    tile(fmt(c.counts.superseded||0),"superseded","bad")+
+    tile(fmt(c.counts.deadline||0),"deadlines ahead","warn");
+  const byDay={};
+  for(const ch of c.changes){(byDay[(ch.at||"").slice(0,10)] ||= []).push(ch)}
+  $("chgFeed").className="";
+  $("chgFeed").innerHTML=Object.entries(byDay).map(([day,items])=>
+    `<div class="day">${day}</div>`+items.map(chgCard).join("")).join("")
+    ||"<div class='empty'>no changes in this window</div>";
+}
+function chgCard(ch){
+  const d=ch.doc;
+  // "NEW" meant "new to us", which reads as "newly published" — misleading for
+  // the thousands of documents that already existed when collection started.
+  // The honest label distinguishes first collection from an actual revision.
+  const badge={new:"FIRST COLLECTED",revised:`REVISED v${d.version_n}`,
+               superseded:"SUPERSEDED",deadline:"DEADLINE"}[ch.kind]||ch.kind;
+  return `<div class="card">
+    <div><div class="badge ${ch.kind}">${badge}</div>
+      <div class="breg">${ch.regulator_id}</div></div>
+    <div><h4><a onclick='openDoc("${ch.regulator_id}","${d.doc_id}");return false' href="#">${esc(d.title)}</a></h4>
+      <p>${d.doc_type}${d.reference_number?` · ${esc(d.reference_number)}`:""}
+         ${d.published_date?` · <b>published ${d.published_date}</b>`
+                           :` · <span style="color:var(--muted)">no publication date on the source</span>`}
+         ${ch.kind==="new"?` · first collected ${(ch.at||"").slice(0,10)}`:""}
+         ${d.comment_deadline?` · <b>comments due ${d.comment_deadline}</b>`:""}
+         ${d.source_kind==="policy_pdf"?" · PDF":""}</p></div>
+    <div style="display:flex;gap:6px">
+      ${ch.has_diff?`<button class="btn sm" onclick='openDiff("${ch.regulator_id}","${d.doc_id}")'>View diff</button>`:""}
+      <button class="btn sm" onclick='openDoc("${ch.regulator_id}","${d.doc_id}")'>Open</button></div></div>`;
+}
+
+/* ── runs ─────────────────────────────────────────────────── */
+let runTimer=null;
+async function loadRuns(){
+  const o=await j(`/runs-overview`);
+  const act=o.active;
+  // Today's delta summary — the humane headline ("98% pass, here's the 2%")
+  const t=o.today;
+  if(t){
+    const fails=(o.today_failing||[]).sort((a,b)=>b.errors-a.errors);
+    const failTxt=fails.length
+      ?fails.map(f=>`<b>${f.regulator_id}</b> ${f.errors} err${f.ingested?` (${f.ingested} docs still landed)`:""}`).join(" · ")
+      :"no fetch errors";
+    const cls=t.pass_rate>=95?"up":t.pass_rate>=80?"warn":"bad";
+    $("todayDelta").innerHTML=`<div class="live" style="border-left:3px solid var(--${cls==="up"?"green":cls==="warn"?"amber":"red"})">
+      <b>Today's delta</b> — <span class="${cls}" style="font-weight:680">${t.pass_rate}% fetch success</span>
+      · <b>+${fmt(t.new_docs)}</b> new docs · ${fmt(t.archived)} revisions archived
+      · ${fmt(t.errors)} errors across ${t.runs} runs
+      <div style="color:var(--muted);font-size:12px;margin-top:5px">Errors: ${failTxt}
+      <span style="opacity:.8">— per-URL details in each run's manifest; most are regulator-side 404s/429s</span></div></div>`;
+  } else { $("todayDelta").innerHTML=""; }
+  $("liveRuns").innerHTML=act.length?act.map(r=>{
+    const pct=r.detected?Math.min(99,Math.round(100*(r.fetched||0)/r.detected)):5;
+    return `<div class="live"><span class="pulse"></span>
+      <b>${r.regulator_id}</b> · run in progress
+      <span style="color:var(--muted);font-size:12px"> ${r.trigger}${r.operator?` · ${esc(r.operator)}`:""} · started ${new Date(r.started_at).toLocaleTimeString()}</span>
+      <div style="height:7px;border-radius:5px;background:var(--line2);margin:8px 0 4px;overflow:hidden">
+        <i style="display:block;height:100%;width:${pct}%;background:var(--blue);border-radius:5px"></i></div>
+      <span style="color:var(--muted);font-size:11.5px">detected ${fmt(r.detected)} · fetched ${fmt(r.fetched)} · ingested ${fmt(r.ingested)} · errors ${r.errors}</span>
+    </div>`}).join("")
+    :`<div class="live" style="border-style:dashed"><span style="color:var(--muted)">No run active — pick a source above and press ▶ Run. Progress appears here.</span></div>`;
+  $("recentRuns").className="";
+  $("recentRuns").innerHTML=`<table><tr><th>Regulator</th><th>Date</th><th>Trigger</th><th>Status</th>
+    <th class="num">Detected</th><th class="num">Fetched</th><th class="num">Ingested</th>
+    <th class="num">Archived</th><th class="num">Errors</th></tr>`+
+    o.recent.map(r=>`<tr><td><b>${r.regulator_id}</b></td><td>${r.logical_date}</td>
+      <td>${r.trigger}${r.operator?` · ${esc(r.operator)}`:""}</td>
+      <td><span class="pill ${r.status==="success"?(r.errors?"stale":"ok"):r.status==="success_empty"?"ok_empty":r.status==="failed"?"failed":"running"}">${r.status==="success"&&r.errors?`✓ success · ${r.errors} err`:r.status}</span></td>
+      <td class="num">${fmt(r.detected)}</td><td class="num">${fmt(r.fetched)}</td>
+      <td class="num"><b>${fmt(r.ingested)}</b></td><td class="num">${fmt(r.archived)}</td>
+      <td class="num">${r.errors||0}</td></tr>`).join("")+`</table>`;
+  $("delta").className="";
+  $("delta").innerHTML=`<table><tr><th>Date</th><th class="num">Runs</th>
+    <th class="num">New docs</th><th class="num">Versions archived</th><th class="num">Errors</th></tr>`+
+    o.daily_delta.map(d=>`<tr><td><b>${d.date}</b></td><td class="num">${d.runs}</td>
+      <td class="num"><b>${fmt(d.new_docs)}</b></td><td class="num">${fmt(d.archived)}</td>
+      <td class="num">${d.errors}</td></tr>`).join("")+`</table>`;
+  clearTimeout(runTimer);
+  runTimer=setTimeout(loadRuns, act.length?5000:30000);   // 5s live, 30s idle
+  // while a run is active, refresh the coverage tree + tiles too (every 30s)
+  if(act.length && Date.now()-(window._lastTree||0)>30000){
+    window._lastTree=Date.now(); loadTree();
+  }
+}
+
+/* ── run trigger ──────────────────────────────────────────── */
+async function runScope(scope){
+  const body=scope==="all"?{scope:"all"}:{scope:"ids",ids:[scope]};
+  const r=await fetch(API+"/rerun",{method:"POST",
+    headers:{"Content-Type":"application/json","X-Operator":"dashboard"},
+    body:JSON.stringify(body)});
+  toast(r.ok?`Run queued: ${scope}`:"Run trigger failed");
+  show("run");loadRuns();
+}
+
+/* ── drawer (doc + diff) ─────────────────────────────────── */
+function openPanel(title,sub,tabs,render){
+  $("drTitle").textContent=title;$("drSub").innerHTML=sub;
+  $("drTabs").innerHTML=tabs.map(([l,k],i)=>
+    `<button class="tab ${i?"":"on"}" data-k="${k}" onclick="selTab(this)">${l}</button>`).join("");
+  window._render=render;
+  $("drBody").innerHTML=render(tabs[0][1]);
+  $("scrim").classList.add("show");$("drawer").classList.add("show");
+}
+function selTab(el){document.querySelectorAll(".tab").forEach(t=>t.classList.remove("on"));
+  el.classList.add("on");$("drBody").innerHTML=window._render(el.dataset.k)}
+function closeDrawer(){$("scrim").classList.remove("show");$("drawer").classList.remove("show")}
+
+/* self-contained markdown -> HTML (headings, lists, tables, links, emphasis,
+   code, blockquotes). No external libs; input is escaped first. */
+function md2html(src){
+  if(!src)return"<p class='empty'>(empty document)</p>";
+  const lines=esc(src).replace(/\r/g,"").split("\n");
+  let out=[],i=0,listStack=[];
+  const closeLists=()=>{while(listStack.length)out.push(listStack.pop()==="ul"?"</ul>":"</ol>")};
+  const inline=t=>t
+    .replace(/`([^`]+)`/g,"<code>$1</code>")
+    .replace(/!\[([^\]]*)\]\(([^)\s]+)\)/g,'<img alt="$1" src="$2">')
+    .replace(/\[([^\]]+)\]\(([^)\s]+)\)/g,'<a href="$2" target="_blank" rel="noopener">$1</a>')
+    .replace(/\*\*([^*]+)\*\*/g,"<b>$1</b>")
+    .replace(/(^|\W)\*([^*\n]+)\*(?=\W|$)/g,"$1<i>$2</i>")
+    .replace(/(^|\W)_([^_\n]+)_(?=\W|$)/g,"$1<i>$2</i>");
+  while(i<lines.length){
+    let l=lines[i];
+    if(/^```/.test(l)){ closeLists(); let buf=[];i++;
+      while(i<lines.length&&!/^```/.test(lines[i]))buf.push(lines[i++]);
+      i++; out.push("<pre><code>"+buf.join("\n")+"</code></pre>"); continue; }
+    if(/^\s*$/.test(l)){ closeLists(); i++; continue; }
+    const h=l.match(/^(#{1,5})\s+(.*)/);
+    if(h){ closeLists(); out.push(`<h${h[1].length}>${inline(h[2])}</h${h[1].length}>`); i++; continue; }
+    if(/^(\-{3,}|\*{3,}|_{3,})\s*$/.test(l)){ closeLists(); out.push("<hr>"); i++; continue; }
+    if(/^&gt;\s?/.test(l)){ closeLists(); let buf=[];
+      while(i<lines.length&&/^&gt;\s?/.test(lines[i]))buf.push(lines[i++].replace(/^&gt;\s?/,""));
+      out.push("<blockquote>"+buf.map(inline).join("<br>")+"</blockquote>"); continue; }
+    // table: header row + separator
+    if(/^\|.*\|\s*$/.test(l)&&i+1<lines.length&&/^\|[\s\-:|]+\|\s*$/.test(lines[i+1])){
+      closeLists();
+      const cells=r=>r.replace(/^\||\|$/g,"").split("|").map(c=>inline(c.trim()));
+      let html="<table><tr>"+cells(l).map(c=>`<th>${c}</th>`).join("")+"</tr>"; i+=2;
+      while(i<lines.length&&/^\|.*\|\s*$/.test(lines[i]))
+        html+="<tr>"+cells(lines[i++]).map(c=>`<td>${c}</td>`).join("")+"</tr>";
+      out.push(html+"</table>"); continue; }
+    const ul=l.match(/^(\s*)[-*+]\s+(.*)/), ol=l.match(/^(\s*)\d+[.)]\s+(.*)/);
+    if(ul||ol){
+      const kind=ul?"ul":"ol";
+      if(listStack[listStack.length-1]!==kind){closeLists();out.push(`<${kind}>`);listStack.push(kind);}
+      out.push(`<li>${inline((ul||ol)[2])}</li>`); i++; continue; }
+    closeLists();
+    // paragraph: merge soft-wrapped lines
+    let buf=[l];i++;
+    while(i<lines.length&&!/^\s*$/.test(lines[i])&&!/^(#{1,5}\s|[-*+]\s|\d+[.)]\s|\||&gt;|```)/.test(lines[i]))
+      buf.push(lines[i++]);
+    out.push("<p>"+inline(buf.join(" "))+"</p>");
+  }
+  closeLists();
+  return out.join("\n");
+}
+
+async function openDoc(reg,docId){
+  const [summ,full,meta]=await Promise.all([
+    j(`/documents/${reg}/${docId}/content?mode=summary`),
+    j(`/documents/${reg}/${docId}/content?mode=full`),
+    j(`/documents/${reg}/${docId}/content?mode=meta`)]);
+  const m=meta.meta||{};
+  openPanel(m.title||docId,
+    `${reg} · ${m.doc_type||""} ${m.reference_number?"· "+esc(m.reference_number):""} · v${m.version_n||1}`,
+    [["Document","md"],["Summary","sum"],["Provenance","meta"],["Raw","raw"]],
+    k=>{
+      if(k==="md")return `<div class="md">${md2html((full.content||"").slice(0,80000))}</div>`;
+      if(k==="raw")return `<pre>${esc((full.content||"(empty)").slice(0,40000))}</pre>`;
+      if(k==="sum")return summ.content
+        ?`<div class="md">${md2html(summ.content)}</div>`
+        :`<p class="empty">(no summary generated — enrichment pending)</p>`;
+      const rows=[["doc_id",m.doc_id],["reference",m.reference_number],["status",m.status],
+        ["source_kind",m.source_kind|| (m.canonical_format||"web")],["published",m.published_date],
+        ["effective",m.effective_date],["comment deadline",m.comment_deadline],
+        ["version",`v${m.version_n} · ${m.version_ts||""}`],["ingested",m.ingested_at],
+        ["run",m.run_id],["content hash",m.content_hash],["tags",(m.tags||[]).join(", ")],
+        ["fetch method",m.fetch_method],
+        ["source URL",`<a href="${esc(m.source_url)}" target="_blank" rel="noopener">${esc(m.source_url)}</a>`],
+        ["final URL",m.final_url&&m.final_url!==m.source_url
+          ?`<a href="${esc(m.final_url)}" target="_blank" rel="noopener">${esc(m.final_url)}</a>`:null]];
+      return `<div class="kv">${rows.filter(r=>r[1]).map(([k2,v])=>
+        `<span class="k">${k2}</span><span class="v">${v}</span>`).join("")}</div>`;
+    });
+}
+async function openDiff(reg,docId){
+  const d=await j(`/documents/${reg}/${docId}/diff`);
+  if(d.error){toast(d.error);return}
+  openPanel(`Diff — ${docId}`,
+    `v${d.from_version} → v${d.to_version} · <span class="dl">+${d.added_lines}</span> / <span class="rm">−${d.removed_lines}</span> lines`,
+    [["Unified diff","diff"]],
+    ()=>`<pre>${d.diff.split("\n").map(l=>
+      l.startsWith("+")?`<span class="dl">${esc(l)}</span>`:
+      l.startsWith("-")?`<span class="rm">${esc(l)}</span>`:esc(l)).join("\n")}</pre>`);
+}
+
+/* ── boot ─────────────────────────────────────────────────── */
+async function loadAll(){
+  try{
+    const ig=await j(`/integrity`);
+    $("integrity").textContent=ig.ok?"✓ integrity clean":"✗ integrity issues";
+    $("integrity").className="pill "+(ig.ok?"ok":"failed");
+  }catch(e){$("integrity").textContent="integrity ?";}
+  // The tree must finish before any deep link can select a region: the filter
+  // <select> is populated FROM the tree, and setting .value on an empty select
+  // silently does nothing (a deep link then showed the unfiltered corpus).
+  const core=Promise.all([loadHomeExec(),loadTree()]);
+  loadOverview();loadChanges();loadRuns();
+  await core;
+}
+function applyHash(){
+  const h=location.hash.replace("#","");
+  const ALIAS={corpus:"brw",news:"newslane",reg:"ovw",regulatory:"ovw"};
+  if(["myday","ovw","news","newslane","feed","cov","brw","chg","run","corpus",
+      "exp","reg","regulatory","per","hea"].includes(h))show(ALIAS[h]||h,false);
+}
+// Boot: authenticate, load the core data, THEN honour the deep link — a link
+// followed straight into the sign-in screen must still land where it pointed.
+window.addEventListener("hashchange",()=>{
+  const h=location.hash.replace("#","");
+  if(!ME||h===window._ourHash)return;    // ignore our own navigation
+  applyHash();
+});
+window.READY=requireAuth().then(async ok=>{
+  if(!ok)return false;
+  await loadAll();
+  applyHash();
+  return true;
+});
+</script>
+</body>
+</html>
