@@ -1,0 +1,36 @@
+# When collection is expected to run.
+#
+# The scheduler itself lives outside the app — `scripts/regagg_daily_poll.py` is
+# the entrypoint a host cron or a cloud task calls. That means the app has no
+# way to know when it *should* have run, and so cannot tell a quiet weekend from
+# a dead scheduler. Both look like an empty day.
+#
+# This file closes that gap. It is a declaration, not a trigger: nothing here
+# starts a run. It exists so the UI can say "not scheduled" instead of leaving a
+# hole that reads as a fault, and can raise "missed" when a run that WAS due
+# never arrived.
+#
+# Keep it in step with the actual cron entry. If they drift, the Health page
+# will say so — a missed-run count that never drops usually means this file is
+# describing a schedule nobody is running.
+
+enabled: true
+
+# Local wall-clock time the daily poll is expected to start.
+at: "06:00"
+
+# IANA zone. The whole point of naming a zone rather than storing UTC is that
+# the desks read this in their own time, and DST shifts on its own.
+timezone: "America/Toronto"
+
+# Days a run is expected. Anything not listed is "not scheduled" — an expected
+# gap, rendered as such and never counted as a failure.
+days: [mon, tue, wed, thu, fri]
+
+# How long after `at` a run may still start before it counts as missed. Covers
+# a slow scheduler or a queue backlog without crying wolf.
+grace_minutes: 90
+
+# Dates that were never expected to run — holidays, planned maintenance. Same
+# treatment as a weekend.
+skip_dates: []

@@ -566,6 +566,33 @@ def create_admin_router() -> APIRouter:
         from sajha.regagg import queries_ui
         return queries_ui.runs_overview(runtime.get_session())
 
+    @router.get("/collection/overview")
+    def collection_overview(lane: Optional[str] = None, days: int = 7,
+                            trend_days: int = 30):
+        """Everything the Collection page shows, on one clock.
+
+        Assembled server-side rather than as five fetches, because the panels
+        make claims about the same instant — a today bar that says "not
+        scheduled" beside a matrix that already rolled to tomorrow would be
+        worse than either alone.
+        """
+        from sajha.regagg import collection
+        return collection.overview(runtime.get_session(), lane=lane,
+                                   days=max(1, min(days, 31)),
+                                   trend_days=max(7, min(trend_days, 120)))
+
+    @router.get("/health/overview")
+    def health_overview():
+        from sajha.regagg import health
+        return health.overview(runtime.get_session())
+
+    @router.get("/schedule")
+    def schedule_declared():
+        """The declared schedule. Read-only: editing it is a config change, so
+        it goes through review like the rest of the collection contract."""
+        from sajha.regagg import schedule as _s
+        return _s.get_schedule().describe()
+
     @router.get("/inventory/{regulator_id}")
     def inventory(regulator_id: str):
         from sajha.regagg import queries_ui

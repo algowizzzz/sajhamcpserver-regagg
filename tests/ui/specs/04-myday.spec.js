@@ -94,16 +94,31 @@ test.describe('My Day — the generated page', () => {
   });
 });
 
-test.describe('Health — the platform team pane', () => {
+test.describe('Health — can I trust the data', () => {
   test.beforeEach(async ({ page }) => { await signup(page); });
 
-  test('shows pipeline conservation, pass rate and source attention', async ({ page }) => {
+  test('leads with a verdict, not a wall of tiles', async ({ page }) => {
     await page.locator('#nHea').click();
-    await expect(page.locator('#heaTiles .tile')).toHaveCount(6);
-    await expect(page.locator('#heaStages span').first()).toBeVisible();
-    await expect(page.locator('#heaConserve')).toContainText('Conservation');
-    await expect(page.locator('#heaSources')).not.toBeEmpty();
-    await expect(page.locator('#heaGen')).toContainText('validated');
+    await expect(page.locator('#heaVerdict .h')).not.toBeEmpty();
+    // the verdict class is the triage signal — it must be one of the three
+    const cls = await page.locator('#heaVerdict').getAttribute('class');
+    expect(cls).toMatch(/healthy|watch|degraded/);
+  });
+
+  test('judges each category against its own staleness window', async ({ page }) => {
+    await page.locator('#nHea').click();
+    await expect(page.locator('#heaFresh')).toContainText('window');
+    await expect(page.locator('#heaFresh .fbarline')).not.toHaveCount(0);
+  });
+
+  test('states that the counters are not a partition', async ({ page }) => {
+    await page.locator('#nHea').click();
+    await expect(page.locator('#heaFunnel')).toContainText('not a partition');
+  });
+
+  test('every quality check says what it breaks', async ({ page }) => {
+    await page.locator('#nHea').click();
+    await expect(page.locator('#heaQuality .qrow').first()).toBeVisible();
   });
 });
 

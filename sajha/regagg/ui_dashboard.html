@@ -599,6 +599,166 @@
   .scrollbox.short{max-height:230px}
   .halfgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
   @media(max-width:1000px){.halfgrid{grid-template-columns:1fr}}
+
+  /* ── auto-fit pages ──────────────────────────────────────────────────────
+     A maintenance page you have to scroll is a page you skim. `.fitpage`
+     claims exactly the height left under the chrome and hands each panel a
+     share of it; only panel BODIES scroll, so the toolbar and the today bar
+     never leave the screen.
+     dvh, not vh: on mobile Safari vh counts the collapsing browser chrome and
+     clips the last panel out of reach.
+     min-height:0 on every flex/grid child is the part that is easy to miss —
+     without it a child refuses to shrink below its content and pushes the
+     page taller than the viewport, which is the bug this whole block exists
+     to prevent. */
+  /* header 46 + lane bar 42 + page padding 14/40, trimmed to 24 for fit pages */
+  :root{--chrome:126px}
+  body.nolane{--chrome:84px}
+  .page:has(.fitpage.on){padding-bottom:14px}
+  /* display lives on the .on variant only — a bare `.fitpage{display:flex}`
+     would out-rank `.view{display:none}` and reveal every hidden view */
+  .view.fitpage.on{display:flex;flex-direction:column}
+  .fitpage{height:calc(100dvh - var(--chrome));gap:9px;min-height:0;
+    overflow:hidden}
+  .fitrow{display:grid;gap:9px;min-height:0}
+  .fitrow.grow{flex:1}
+  .fitpanel{background:var(--surface);border:1px solid var(--line);
+    border-radius:var(--radius);box-shadow:var(--shadow);
+    display:flex;flex-direction:column;min-height:0;overflow:hidden}
+  .fitpanel>h3{margin:0;padding:8px 11px 6px;font-size:11.5px;font-weight:600;
+    letter-spacing:.04em;text-transform:uppercase;color:var(--muted);
+    display:flex;align-items:baseline;gap:7px;flex:none}
+  .fitpanel>h3 .plain{text-transform:none;letter-spacing:0;font-weight:400;
+    font-size:11px}
+  .fitbody{flex:1;min-height:0;overflow:auto;padding:0 11px 10px}
+  .fitbody.pad{padding-top:2px}
+  /* three columns, then two, then one — content reflows rather than shrinking
+     to unreadable */
+  .c3{grid-template-columns:repeat(3,minmax(0,1fr))}
+  .c2{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .c21{grid-template-columns:minmax(0,1.35fr) minmax(0,1fr)}
+  /* These three panels are short and text-light, so they hold three columns
+     well below the usual dashboard breakpoint. Dropping to two at 1600 left
+     the third alone on its own row with half the width empty. */
+  @media(max-width:1240px){
+    .c3{grid-template-columns:repeat(2,minmax(0,1fr))}
+    .c3>*:last-child{grid-column:1/-1}   /* the odd one spans, never half-empty */
+  }
+  @media(max-width:1100px){
+    .c3,.c2,.c21{grid-template-columns:minmax(0,1fr)}
+    .fitpage{height:auto;overflow:visible}   /* stacked: let the page scroll */
+    .fitbody{overflow:visible}
+  }
+  /* density — the analyst wants compact, most people do not */
+  body.dense{--fs:11.5px}
+  body.dense .fitbody{padding-bottom:7px}
+  body.dense table td,body.dense table th{padding-top:2px;padding-bottom:2px}
+
+  /* ── today bar: the answer to "is today done?" ── */
+  .todaybar{background:var(--surface);border:1px solid var(--line);
+    border-radius:var(--radius);box-shadow:var(--shadow);padding:9px 12px;
+    display:flex;align-items:center;gap:13px;flex-wrap:wrap;flex:none}
+  .todaybar .date{font-size:14.5px;font-weight:650;line-height:1.15}
+  .todaybar .date small{display:block;font-size:10.5px;color:var(--muted);
+    font-weight:400}
+  .todaybar .sep{width:1px;align-self:stretch;background:var(--line)}
+  .tstate{border-radius:7px;padding:5px 10px;line-height:1.25}
+  .tstate b{font-size:12.5px;display:block}
+  .tstate span{font-size:11px;opacity:.85}
+  .tstate.not_scheduled{background:#f1f5f9;color:#475569}
+  .tstate.due{background:#eff6ff;color:#1d4ed8}
+  .tstate.running{background:#eef2ff;color:#4338ca}
+  .tstate.complete{background:#ecfdf5;color:#047857}
+  .tstate.partial{background:#fffbeb;color:#b45309}
+  .tstate.missed{background:#fef2f2;color:#b91c1c}
+  .todaybar .fact{font-size:11.5px;line-height:1.35}
+  .todaybar .fact b{font-size:12px}
+  .todaybar .fact small{display:block;color:var(--muted);font-size:10.5px}
+
+  /* ── coverage matrix ── */
+  .cov{width:100%;border-collapse:separate;border-spacing:2px;font-size:11px}
+  .cov th{font-weight:500;color:var(--muted);font-size:10.5px;padding:1px 2px;
+    text-align:center;line-height:1.2}
+  .cov th.lbl{text-align:left;width:112px}
+  .cov td.lbl{font-weight:600;font-size:11.5px;white-space:nowrap}
+  .cov td.lbl small{color:var(--muted);font-weight:400;margin-left:4px}
+  .cell{border-radius:5px;padding:6px 0;text-align:center;font-weight:600;
+    cursor:pointer;font-size:11.5px}
+  .cell.not_scheduled{background:transparent;border:1px dashed var(--line);
+    color:var(--muted);font-weight:400;cursor:default}
+  .cell.complete{background:#ecfdf5;color:#047857}
+  .cell.partial{background:#fffbeb;color:#b45309}
+  .cell.missed{background:#fef2f2;color:#b91c1c}
+  .cell.due{background:#eff6ff;color:#1d4ed8;font-weight:400}
+  .cell.running{background:#eef2ff;color:#4338ca}
+  .covlegend{display:flex;gap:11px;flex-wrap:wrap;margin-top:6px;font-size:10.5px;
+    color:var(--muted);align-items:center}
+  .covlegend i{width:9px;height:9px;border-radius:2px;display:inline-block;
+    margin-right:3px;vertical-align:-1px}
+
+  /* ── sparkline cards ── */
+  .sparkgrid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:7px}
+  @media(max-width:900px){.sparkgrid{grid-template-columns:repeat(2,minmax(0,1fr))}}
+  .spark{border:1px solid var(--line);border-radius:7px;padding:5px 7px}
+  .spark .k{font-size:10.5px;color:var(--muted)}
+  .spark .v{font-size:16px;font-weight:650;line-height:1.1}
+  .spark .d{font-size:10.5px}
+  .spark svg{display:block;width:100%;height:24px;margin-top:1px}
+
+  /* ── run controls + source list ── */
+  .runbar{display:flex;align-items:center;gap:6px;flex-wrap:wrap;
+    padding:0 11px 7px;flex:none}
+  .runbar input[type=number]{width:88px;font:inherit;font-size:11.5px;
+    color:var(--ink);background:var(--surface2);border:1px solid var(--line);
+    border-radius:6px;padding:3px 7px}
+  .chips{display:flex;gap:4px;flex-wrap:wrap}
+  .chips .chip{font-size:11px;padding:3px 9px}
+  .srow{display:flex;align-items:center;gap:8px;padding:4px 0;
+    border-top:1px solid var(--line);font-size:11.5px}
+  .srow:first-child{border-top:none}
+  .srow input[type=checkbox]{margin:0;flex:none}
+  .srow .nm{font-weight:600;width:132px;overflow:hidden;text-overflow:ellipsis;
+    white-space:nowrap}
+  .srow .why{color:var(--muted);flex:1;overflow:hidden;text-overflow:ellipsis;
+    white-space:nowrap}
+  .bkt{border-radius:4px;padding:1px 6px;font-size:10px;font-weight:600;flex:none}
+  .bkt.failed{background:#fef2f2;color:#b91c1c}
+  .bkt.stale{background:#fffbeb;color:#b45309}
+  .bkt.silent{background:#f5f3ff;color:#6d28d9}
+  .bkt.never{background:#f1f5f9;color:#475569}
+  .bkt.ok{background:#ecfdf5;color:#047857}
+
+  /* ── health ── */
+  .verdict{border-radius:var(--radius);padding:9px 13px;display:flex;
+    align-items:center;gap:11px;flex-wrap:wrap;flex:none}
+  .verdict.healthy{background:#ecfdf5;color:#065f46}
+  .verdict.watch{background:#eff6ff;color:#1e40af}
+  .verdict.degraded{background:#fffbeb;color:#92400e}
+  .verdict .h{font-size:14px;font-weight:650}
+  .verdict .p{font-size:11.5px;opacity:.9}
+  .fresh{margin-bottom:9px}
+  .fresh .lbl{display:flex;justify-content:space-between;font-size:11.5px;
+    margin-bottom:3px}
+  .fresh .lbl small{color:var(--muted)}
+  .fbarline{display:flex;height:8px;border-radius:4px;overflow:hidden;
+    background:var(--surface2)}
+  .fbarline i{display:block}
+  .fbarline .ok{background:#10b981}.fbarline .ag{background:#f59e0b}
+  .fbarline .bad{background:#ef4444}
+  .funnel{display:flex;flex-direction:column;gap:4px;font-size:11.5px}
+  .funnel .fr{display:flex;align-items:center;gap:7px}
+  .funnel .fr .bar{height:7px;border-radius:4px;background:#3b82f6}
+  .funnel .fr .n{width:52px;text-align:right;font-weight:600}
+  .funnel .fr .k{width:76px;color:var(--muted);font-size:11px}
+  .qrow{display:flex;align-items:flex-start;gap:8px;padding:5px 0;
+    border-top:1px solid var(--line);font-size:11.5px}
+  .qrow:first-child{border-top:none}
+  .qrow .n{font-weight:650;width:58px;text-align:right;flex:none}
+  .qrow .sev{width:6px;align-self:stretch;border-radius:3px;flex:none}
+  .qrow .sev.high{background:#ef4444}.qrow .sev.medium{background:#f59e0b}
+  .qrow .sev.low{background:#94a3b8}.qrow .sev.none{background:#10b981}
+  .qrow .t b{display:block}
+  .qrow .t span{color:var(--muted);font-size:11px}
   /* ── brand + slim header ── */
   .top{height:46px;padding:0 16px;gap:10px}
   .brand{font-size:12.5px;gap:7px;font-weight:700;letter-spacing:-.01em}
@@ -649,6 +809,8 @@
     <select id="days" onchange="loadAll()"><option>7</option><option>14</option><option>30</option></select>
   </label>
   <span class="pill ok mini" id="integrity">…</span>
+  <button class="btn sm" id="densityBtn" onclick="toggleDensity()"
+    title="compact rows — remembered on this browser">▤</button>
   <span id="whoami"></span>
 </div>
 
@@ -869,21 +1031,36 @@
     <div id="mydayBody" class="empty">loading…</div>
   </div>
 
-  <div class="view" id="v-hea">
-    <div class="ptitle" data-t="v-hea">System health</div>
-    <div class="psub">Everything the platform team needs in one place: is collection current,
-      does the data reconcile, which sources need attention, and is the daily generation running.</div>
-    <div class="tiles" id="heaTiles"></div>
-    <div class="hsec"><h3>Pipeline — last cycle, every stage accounted</h3>
-      <div class="stagebar" id="heaStages"></div>
-      <div class="md-quiet" style="margin-top:9px" id="heaConserve"></div></div>
-    <div class="halfgrid">
-      <div class="hsec"><h3>Sources needing attention</h3>
-        <div id="heaSources" class="scrollbox short"></div></div>
-      <div class="hsec"><h3>Daily generation — the AI layer</h3>
-        <div id="heaGen"></div>
-        <h3 style="margin-top:12px">Collection runs</h3>
-        <div id="heaRuns"></div></div>
+  <div class="view fitpage" id="v-hea">
+    <div id="heaVerdict" class="verdict">loading…</div>
+
+    <div class="fitrow c3" style="flex:none">
+      <div class="fitpanel" style="max-height:172px">
+        <h3>Freshness <span class="plain">· each category against its own window</span></h3>
+        <div class="fitbody pad"><div id="heaFresh"></div></div>
+      </div>
+      <div class="fitpanel" style="max-height:172px">
+        <h3>Collection funnel <span class="plain" id="heaFunnelDay"></span></h3>
+        <div class="fitbody pad"><div id="heaFunnel"></div></div>
+      </div>
+      <div class="fitpanel" style="max-height:172px">
+        <h3>Schedule reliability <span class="plain" id="heaRelWin"></span></h3>
+        <div class="fitbody pad"><div id="heaRel"></div></div>
+      </div>
+    </div>
+
+    <div class="fitrow c21 grow">
+      <div class="fitpanel">
+        <h3>Needs attention
+          <span class="plain">· ranked by how long the data has been wrong</span>
+          <span class="spacer" style="flex:1"></span>
+          <span id="heaAttnMsg" style="font-size:11px;color:var(--muted);text-transform:none;letter-spacing:0"></span></h3>
+        <div class="fitbody"><div id="heaAttn" class="empty">loading…</div></div>
+      </div>
+      <div class="fitpanel">
+        <h3>Data quality <span class="plain">· defects in what we already hold</span></h3>
+        <div class="fitbody"><div id="heaQuality" class="empty">loading…</div></div>
+      </div>
     </div>
   </div>
 
@@ -1008,38 +1185,46 @@
     <div id="chgFeed" class="empty scrollbox">loading…</div>
   </div>
 
-  <div class="view" id="v-run">
-    <div class="ptitle" data-t="v-run">Collection</div>
-    <div class="psub">Run collection, watch it happen, and see whether the data is
-      current. Everything that triggers a fetch lives on this page.</div>
-    <div id="todayDelta"></div>
+  <div class="view fitpage" id="v-run">
+    <div id="todayBar" class="todaybar">loading…</div>
 
-    <div class="xcard">
-      <h3>Run collection <span class="plain" id="runScopeNote"></span></h3>
-      <div class="fbar">
-        <select id="runPick"><option value="all">All sources in this lane</option></select>
-        <label class="fdate">for date <input type="date" id="runDate"></label>
-        <input id="runCap" type="number" min="1" placeholder="max docs (optional)"
-          style="width:150px;font:inherit;color:var(--ink);background:var(--surface2);
-                 border:1px solid var(--line);border-radius:7px;padding:3px 8px">
-        <button class="btn primary sm" onclick="doRun()">▶ Run</button>
-        <button class="btn sm" onclick="openAddDoc()">＋ Add document</button>
-        <span id="runMsg" style="font-size:11.5px;color:var(--muted)"></span>
+    <div class="fitrow c21" style="flex:none">
+      <div class="fitpanel" style="max-height:190px">
+        <h3>Coverage by category
+          <span class="plain">· sources with a clean run · click a cell for who is missing</span></h3>
+        <div class="fitbody pad"><div id="covMatrix" class="empty">loading…</div></div>
       </div>
-      <div id="liveRuns"></div>
+      <div class="fitpanel" style="max-height:190px">
+        <h3>Volume <span class="plain" id="trendNote">· 30 days</span></h3>
+        <div class="fitbody pad"><div id="trendCards" class="sparkgrid"></div></div>
+      </div>
     </div>
 
-    <div class="halfgrid">
-      <div class="xcard"><h3>Recent runs <span class="plain">· newest first</span></h3>
-        <div id="recentRuns" class="empty scrollbox">loading…</div></div>
-      <div class="xcard"><h3>Day over day <span class="plain" id="trendNote"></span></h3>
-        <div id="trendChart"></div>
-        <h3 style="margin-top:12px">By data source <span class="plain">· this window</span></h3>
-        <div id="trendSources" class="scrollbox short"></div></div>
+    <div class="fitrow c21 grow">
+      <div class="fitpanel">
+        <h3>Run and rerun <span class="plain">· one, some, or all</span>
+          <span class="spacer" style="flex:1"></span>
+          <span id="runMsg" style="font-size:11px;color:var(--muted);text-transform:none;letter-spacing:0"></span></h3>
+        <div class="runbar">
+          <span class="chips" id="runChips"></span>
+          <span class="spacer" style="flex:1"></span>
+          <label class="fdate">for <input type="date" id="runDate"></label>
+          <input id="runCap" type="number" min="1" placeholder="max docs">
+          <button class="btn primary sm" onclick="doRun()" id="runGo">▶ Run</button>
+          <button class="btn sm" onclick="openAddDoc()">＋ Add doc</button>
+        </div>
+        <div class="fitbody"><div id="srcList" class="empty">loading…</div></div>
+      </div>
+      <div class="fitpanel">
+        <h3 id="arrivedTitle">What arrived</h3>
+        <div class="fitbody pad">
+          <div id="arrivedTiles" class="minitiles"></div>
+          <div id="arrivedList"></div>
+          <h3 style="padding:10px 0 4px">Live queue</h3>
+          <div id="liveRuns" class="empty" style="font-size:11.5px">nothing running</div>
+        </div>
+      </div>
     </div>
-
-    <div class="xcard"><h3>Daily delta</h3>
-      <div id="delta" class="empty scrollbox short">loading…</div></div>
   </div>
 </div>
 
@@ -1122,6 +1307,21 @@ const HOME_OF={ovw:"reg",cov:"reg",brw:"reg",chg:"reg",run:"reg",exp:"reg",
 let LANE=null;                       // which lane the user is inside
 function laneScope(){return LANE?LANES[LANE].cat:null}
 
+/* Density is a per-person preference, not a per-session one — the analyst who
+   wants 40 rows on screen wants them tomorrow too. */
+function toggleDensity(){
+  const on=document.body.classList.toggle("dense");
+  try{ localStorage.setItem("riskgpt.dense", on?"1":"0"); }catch(e){}
+  const b=$("densityBtn"); if(b)b.classList.toggle("primary",on);
+}
+(function(){
+  try{ if(localStorage.getItem("riskgpt.dense")==="1"){
+    document.body.classList.add("dense");
+    document.addEventListener("DOMContentLoaded",()=>{
+      const b=$("densityBtn"); if(b)b.classList.add("primary");});
+  }}catch(e){}
+})();
+
 async function enterLane(lane,view){
   await window.READY;          // the tree drives lane-scoped rendering
   LANE=lane;
@@ -1138,7 +1338,7 @@ async function applyLaneScope(view){
     if(typeof fillBInsts==="function")fillBInsts();
     await loadCorpus(true);}
   if(view==="chg"){await loadChanges();}
-  if(view==="run"){await Promise.all([loadRunControls(),loadTrend(),loadRuns()]);}
+  if(view==="run"){await loadCollection();}
   if(view==="cov"){renderTree();}
 }
 const RETITLE={news:{"v-cov":["Wires we watch",
@@ -1195,7 +1395,7 @@ function show(which,push=true,opts={}){
   if(which==="per"){loadPersonas();}
   if(which==="myday"){loadMyDay();}
   if(which==="hea"){loadHealth();}
-  if(which==="run"){loadRunControls();loadTrend();}
+  if(which==="run"){loadCollection();}
   if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
   if(which==="exp"&&!window._expLoaded){window._expLoaded=1;loadExplorer();}
 }
@@ -1484,42 +1684,120 @@ async function askSend(){
 }
 
 /* ── health: one pane for the platform team ───────────────── */
+/* ── health: can I trust what is in here ───────────────────
+   Collection answers "did it run". This answers whether a green run left good
+   data behind — the two failures a pass rate cannot see are a source that
+   succeeds and returns nothing, and a document that lands without the fields
+   the rest of the product needs. */
+let HEA=null;
+
 async function loadHealth(){
-  const [ov,runs,tree]=await Promise.all([j(`/exec/summary`),j(`/runs-overview`),j(`/tree?days=7`)]);
-  const T=ov.tiles||{},R=runs||{};
-  $("heaTiles").innerHTML=
-    tile(`${T.pass_rate??0}%`,"run pass rate",(T.pass_rate??0)>=90?"up":"warn")+
-    tile(fmt(T.runs||0),"collection runs")+
-    tile(`${T.regulators||0}+${T.news_sources||0}`,"sources configured")+
-    tile(fmt(T.documents||0),"documents held")+
-    tile(fmt(T.versions||0),"versions on file")+
-    tile(fmt(T.archived||0),"archived (audit trail)");
-  $("heaStages").innerHTML=[
-    ["detect","clean"],["fetch","magic-byte PDF checks"],["version","archive-first"],
-    ["score","reason on every doc"],["extract","stored per document"],
-    ["project markdown","resynced nightly"],["reconcile","DB = storage = manifests"],
-  ].map(([a,b])=>`<span>${a} <b>${b}</b></span>`).join("");
-  $("heaConserve").innerHTML=`<b>Conservation:</b> detected = ingested + deduped +
-    cap-dropped + errors, checked every run by the reconciler. Truncation is counted, never silent.`;
-  const attention=(tree.regions||[]).flatMap(r=>(r.institutions||[])
-    .filter(i=>i.status&&i.status!=="ok").map(i=>({...i,region:r.region})));
-  $("heaSources").innerHTML=attention.length
-    ? `<table><tr><th>source</th><th>region</th><th>status</th><th>last run</th></tr>`+
-      attention.map(i=>`<tr><td><b>${esc(i.regulator_id)}</b></td><td>${esc(i.region)}</td>
-        <td><span class="pill ${esc(i.status)}">${esc(i.status)}</span></td>
-        <td>${esc(i.last_run?new Date(i.last_run).toLocaleString():"never")}</td></tr>`).join("")+`</table>`
-    : `<div class="md-quiet"><b>All sources fresh.</b> None past its staleness window.</div>`;
-  $("heaGen").innerHTML=`<div class="md-quiet">
-    Daily pages are generated per persona and cached — one truth per day, read-only.
-    Generator in use: <b>${esc(window.GENERATOR||"template (deterministic)")}</b>.
-    Every generated page is validated for coverage, citations and numbers before it renders;
-    a page that fails validation falls back to the deterministic template rather than shipping.</div>`;
-  $("heaRuns").innerHTML=$("runFeed")?$("runFeed").innerHTML:"";
-  if(!$("heaRuns").innerHTML){
-    const t=R.today||{}, failing=(R.today_failing||[]).length;
-    $("heaRuns").innerHTML=`<div class="md-quiet">${fmt(t.runs||0)} runs today ·
-      pass rate ${t.pass_rate??"—"}% · ${fmt(t.new_docs||0)} new docs ·
-      ${fmt(failing)} failing. Full run history is on the Collection page.</div>`;}
+  try{ HEA=await j(`/health/overview`); }
+  catch(e){ $("heaVerdict").className="verdict degraded";
+    $("heaVerdict").innerHTML=`<span class="h">Could not load health</span>
+      <span class="p">${esc(e.message)}</span>`; return; }
+  renderVerdict(); renderFresh(); renderFunnel(); renderRel();
+  renderAttention(); renderQuality();
+}
+
+function renderVerdict(){
+  const v=HEA.verdict;
+  $("heaVerdict").className="verdict "+esc(v.level);
+  $("heaVerdict").innerHTML=
+    `<span class="h">${esc(v.headline)}</span>
+     <span class="p">${v.points.length?esc(v.points.join(" · ")):"nothing outstanding"}</span>
+     <span class="spacer" style="flex:1"></span>`+
+    (HEA.attention_count?`<button class="btn sm" onclick="enterLane(laneScope()||'reg','run')">Go fix ${HEA.attention_count} →</button>`:"");
+}
+
+function renderFresh(){
+  $("heaFresh").innerHTML=(HEA.freshness.categories||[]).map(c=>{
+    const pc=n=>c.total?Math.round(n/c.total*100):0;
+    return `<div class="fresh">
+      <div class="lbl"><span>${esc(c.label)} <small>window ${c.window_days}d</small></span>
+        <small>${c.fresh} of ${c.total} fresh</small></div>
+      <div class="fbarline">
+        <i class="ok" style="width:${pc(c.fresh)}%"></i>
+        <i class="ag" style="width:${pc(c.aging)}%"></i>
+        <i class="bad" style="width:${pc(c.past)}%"></i></div></div>`;
+  }).join("")+`<div class="covlegend">
+      <span><i style="background:#10b981"></i>within window</span>
+      <span><i style="background:#f59e0b"></i>returning nothing</span>
+      <span><i style="background:#ef4444"></i>past window</span></div>`;
+}
+
+function renderFunnel(){
+  const f=HEA.funnel;
+  $("heaFunnelDay").textContent=`· ${f.date}`;
+  const max=Math.max(f.detected,1);
+  const row=(k,v,extra="")=>`<div class="fr"><span class="k">${k}</span>
+    <span class="n">${fmt(v)}</span>
+    <span class="bar" style="width:${Math.max(2,Math.round(v/max*100))}%"></span>
+    <span style="color:var(--muted);font-size:10.5px">${extra}</span></div>`;
+  $("heaFunnel").innerHTML=`<div class="funnel">
+      ${row("detected",f.detected)}
+      ${row("fetched",f.fetched,f.not_fetched?`${fmt(f.not_fetched)} not fetched`:"")}
+      ${row("ingested",f.ingested,f.unchanged?`${fmt(f.unchanged)} unchanged`:"")}
+      ${row("archived",f.archived,"revisions")}
+    </div>
+    <div style="font-size:10.5px;color:var(--muted);margin-top:6px;line-height:1.45"
+         title="${esc(f.note)}">
+      independent counters, not a partition${f.inconsistent_count?
+        ` · <span style="color:var(--red)">${f.inconsistent_count} run(s) report more ingested + archived than fetched</span>`:""}</div>`;
+}
+
+function renderRel(){
+  const r=HEA.reliability, d=r.declared||{};
+  $("heaRelWin").textContent=`· since ${r.since}`;
+  const pts=(r.per_day||[]).map(x=>x.pass_rate);
+  $("heaRel").innerHTML=
+    `<div class="sparkgrid" style="grid-template-columns:repeat(2,minmax(0,1fr))">
+      <div class="spark"><div class="k">run pass rate</div>
+        <div class="v" style="color:${r.pass_rate>=90?"var(--green)":"var(--red)"}">${r.pass_rate}%</div>
+        <svg viewBox="0 0 118 24" preserveAspectRatio="none"><polyline fill="none"
+          stroke="var(--green)" stroke-width="1.5" points="${sparkPath(pts)}"/></svg></div>
+      <div class="spark"><div class="k">missed scheduled runs</div>
+        <div class="v" style="color:${r.missed_count?"var(--red)":"var(--green)"}">${r.missed_count}</div>
+        <div class="d">${r.runs} runs recorded</div></div>
+    </div>
+    <div style="font-size:11px;margin-top:6px;line-height:1.5">`+
+    (r.by_category||[]).map(c=>`<div><b>${esc(c.label)}</b> ${c.fired}/${c.expected_days} fired`+
+      (c.missed_count?` · <span style="color:var(--red)">missed ${c.missed.map(esc).join(", ")}</span>`:"")+
+      `</div>`).join("")+
+    `<div style="color:var(--muted);margin-top:4px">declared: ${esc(d.at||"—")} ${esc(d.timezone||"")}
+      · ${(d.days||[]).join(" ")}${d.note?` — ${esc(d.note)}`:""}</div></div>`;
+}
+
+function renderAttention(){
+  const rows=HEA.attention||[];
+  $("heaAttnMsg").textContent=rows.length?`${rows.length} of ${rows.length+(HEA.counts.ok||0)} sources`:"";
+  $("heaAttn").classList.toggle("empty",!rows.length);
+  if(!rows.length){$("heaAttn").innerHTML="every source is inside its window";return;}
+  $("heaAttn").innerHTML=`<table><tr><th>data source</th><th>category</th><th>state</th>
+      <th>last clean</th><th>why</th><th></th></tr>`+
+    rows.map(s=>`<tr>
+      <td><b title="${esc(s.name)}">${esc(s.regulator_id)}</b></td>
+      <td style="color:var(--muted)">${esc(s.category)}</td>
+      <td><span class="bkt ${esc(s.bucket)}">${esc(BUCKET_LABEL[s.bucket]||s.bucket)}</span></td>
+      <td>${esc(s.last_clean||"never")}</td>
+      <td style="color:var(--muted)">${esc(s.note)}</td>
+      <td style="text-align:right"><button class="btn sm"
+        onclick="rerunIds(['${esc(s.regulator_id)}'])">Rerun</button></td></tr>`).join("")+`</table>`;
+}
+
+function renderQuality(){
+  const q=HEA.quality;
+  const open=q.checks.filter(c=>c.count), clean=q.checks.filter(c=>!c.count);
+  $("heaQuality").classList.remove("empty");
+  $("heaQuality").innerHTML=open.map(c=>`<div class="qrow">
+      <span class="sev ${esc(c.severity)}"></span>
+      <span class="n">${fmt(c.count)}</span>
+      <span class="t"><b>${esc(c.headline)} <span style="font-weight:400;color:var(--muted)">${c.pct}% of ${fmt(c.of)}</span></b>
+        <span>${esc(c.breaks)}${c.action?` — <i>${esc(c.action)}</i>`:""}</span></span>
+    </div>`).join("")+
+    (clean.length?`<div class="qrow"><span class="sev none"></span>
+      <span class="n">0</span><span class="t"><b>clean</b>
+      <span>${clean.map(c=>esc(c.headline)).join(" · ")}</span></span></div>`:"");
 }
 
 /* ── identity: sign in / sign up ──────────────────────────── */
@@ -1660,61 +1938,197 @@ async function perSave(){
 });
 
 /* ── collection: run it, watch it, see the trend ───────────── */
-async function loadRunControls(){
-  const sel=$("runPick");if(!sel)return;
+/* ── collection: is today done, and what do I rerun ────────
+   One fetch for the page. The panels make claims about the same instant, so
+   they have to share a clock — a today bar reading "not scheduled" beside a
+   matrix that had already rolled over would be worse than either alone. */
+let COLL=null, SEL=new Set(), BUCKET="";
+
+async function loadCollection(){
   const cat=laneScope();
-  const tree=window._tree;
-  const inLane=(tree?tree.regions:[]).filter(r=>
-    !cat||((r.region==="Financial News")===(cat==="news")));
-  const srcs=inLane.flatMap(r=>r.institutions||[]);
-  sel.innerHTML=`<option value="all">All ${cat==="news"?"wires":"regulators"} `+
-    `(${srcs.length})</option>`+
-    srcs.map(s=>`<option value="${esc(s.regulator_id)}">${esc(s.name||s.regulator_id)}</option>`).join("");
-  $("runScopeNote").textContent=cat==="news"
-    ? "· financial news wires" : cat==="regulatory" ? "· regulators" : "";
-  if(!$("runDate").value)$("runDate").value=new Date().toISOString().slice(0,10);
+  try{ COLL=await j(`/collection/overview?days=7${cat?`&lane=${cat}`:""}`); }
+  catch(e){ $("todayBar").innerHTML=`<span style="color:var(--red)">Could not load collection status — ${esc(e.message)}</span>`; return; }
+  renderTodayBar(); renderMatrix(); renderSparks(); renderSources(); renderArrived();
+  if(!$("runDate").value)$("runDate").value=COLL.today.date;
 }
-async function doRun(){
-  const pick=$("runPick").value, day=$("runDate").value||null;
+
+function renderTodayBar(){
+  const t=COLL.today, s=COLL.schedule, la=COLL.last_activity;
+  // A bare YYYY-MM-DD is parsed as UTC midnight and then rendered in local
+  // time, which shows the previous day west of Greenwich. Logical dates are
+  // calendar days, not instants, so build them as local dates.
+  const niceDay=iso=>{ if(!iso)return ""; const [y,m,d]=iso.slice(0,10).split("-").map(Number);
+    return new Date(y,m-1,d).toLocaleDateString(undefined,
+      {weekday:"short",day:"numeric",month:"short"}); };
+  const nice=iso=>{ if(!iso)return ""; return iso.length<=10 ? niceDay(iso)
+    : new Date(iso).toLocaleDateString(undefined,
+        {weekday:"short",day:"numeric",month:"short"}); };
+  const until=iso=>{ if(!iso)return ""; const ms=new Date(iso)-new Date();
+    if(ms<0)return ""; const h=Math.floor(ms/36e5), m=Math.round(ms%36e5/6e4);
+    return h>=24?`in ${Math.floor(h/24)}d ${h%24}h`:h?`in ${h}h ${m}m`:`in ${m}m`; };
+  const head={not_scheduled:"Not scheduled today",due:"Due today",running:"Running now",
+    complete:"Collected",partial:"Collected with gaps",missed:"Missed"}[t.state]||t.state;
+  const sub=t.state==="due"&&s.next_run_at?`${t.reason} · ${until(s.next_run_at)}`
+    :t.state==="not_scheduled"&&s.next_run_at?`next ${nice(s.next_run_at)} ${s.at} · ${until(s.next_run_at)}`
+    :t.reason;
+  const cats=(COLL.by_category||[]).map(c=>
+    `${esc(c.label)} <b>${c.days_ago===0?"today":c.days_ago==null?"never":c.days_ago+"d ago"}</b>`).join(" · ");
+  $("todayBar").innerHTML=
+    `<div class="date">${esc(t.date_long||t.date)}<small>today · ${t.total} sources</small></div>
+     <div class="sep"></div>
+     <div class="tstate ${esc(t.state)}"><b>${esc(head)}</b><span>${esc(sub)}</span></div>
+     <div class="sep"></div>
+     <div class="fact"><small>last activity</small>
+       ${la?`<b>${esc(nice(la.date))}</b> · ${la.sources}/${la.total} sources${la.duration_s!=null?` · ${la.duration_s}s`:""}`
+           :"<b>none on record</b>"}</div>
+     <div class="fact"><small>last run by category</small>${cats}</div>
+     <span class="spacer" style="flex:1"></span>
+     <button class="btn primary sm" onclick="runAll()">▶ Run all now</button>`;
+}
+
+const CELL_TITLE={not_scheduled:"not scheduled",complete:"all clean",partial:"ran with gaps",
+  missed:"expected, nothing recorded",due:"due later today",running:"running"};
+
+function renderMatrix(){
+  const m=COLL.matrix;
+  const head=m.days.map(d=>`<th>${d.is_today?"Today":esc(d.weekday)}<br>${d.day}</th>`).join("");
+  const rows=m.rows.map(r=>`<tr><td class="lbl">${esc(r.label)}<small>${r.total}</small></td>`+
+    r.cells.map(c=>`<td><div class="cell ${esc(c.state)}"
+      title="${esc(c.date)} — ${esc(CELL_TITLE[c.state]||c.state)}: ${esc(c.reason)}"
+      onclick="cellDetail('${esc(r.key)}','${esc(c.date)}')">${
+        c.state==="not_scheduled"?"—":c.state==="due"?"·":c.ran}</div></td>`).join("")+`</tr>`).join("");
+  $("covMatrix").classList.remove("empty");
+  $("covMatrix").innerHTML=`<table class="cov"><tr><th class="lbl"></th>${head}</tr>${rows}</table>
+    <div class="covlegend">
+      <span><i style="background:#a7f3d0"></i>all clean</span>
+      <span><i style="background:#fde68a"></i>ran with gaps</span>
+      <span><i style="background:#fecaca"></i>missed</span>
+      <span><i style="border:1px dashed var(--line)"></i>not scheduled — an expected gap, never a fault</span>
+    </div>`;
+}
+
+function cellDetail(key,date){
+  const row=COLL.matrix.rows.find(r=>r.key===key);
+  const c=row&&row.cells.find(x=>x.date===date);
+  if(!c)return;
+  const miss=(c.missing||[]);
+  openPanel(`${row.label} · ${date}`,
+    `${esc(CELL_TITLE[c.state]||c.state)} — ${esc(c.reason)}`,
+    [["Detail","d"]],
+    ()=>`<p style="font-size:12.5px">${c.ran} of ${c.total} sources ran${
+        c.failed?` · <b style="color:var(--red)">${c.failed} failed</b>`:""}${
+        c.empty?` · ${c.empty} returned nothing`:""}.</p>`+
+      (miss.length?`<h4 style="margin:12px 0 6px;font-size:12px">Did not run (${miss.length})</h4>
+         <div style="font-size:11.5px;line-height:1.8">${miss.map(esc).join(", ")}</div>
+         <button class="btn primary sm" style="margin-top:12px"
+           onclick='rerunIds(${JSON.stringify(miss)},"${date}")'>▶ Run these ${miss.length}</button>`
+        :`<p class="md-quiet" style="font-size:11.5px">Every source reported.</p>`));
+}
+
+const SPARK={detected:"var(--blue)",fetched:"var(--blue)",ingested:"var(--green)",errors:"var(--red)"};
+function sparkPath(vals,w=118,h=24){
+  if(!vals.length)return "";
+  const max=Math.max(...vals,1), n=vals.length;
+  return vals.map((v,i)=>`${(n<2?0:i/(n-1)*(w-2)+1).toFixed(1)},${(h-1-v/max*(h-3)).toFixed(1)}`).join(" ");
+}
+function renderSparks(){
+  const t=COLL.trend; if(!t||!t.days.length){$("trendCards").innerHTML="";return;}
+  // Name the day the headline figures belong to. On a weekend the last run was
+  // days ago, and a number labelled "today" that is really Tuesday's is worse
+  // than no number.
+  $("trendNote").textContent=`· ${t.days.length} days · latest ${
+    t.is_today?"today":(t.latest_date||"—")}`;
+  $("trendCards").innerHTML=["detected","fetched","ingested","errors"].map(k=>{
+    const now=(t.latest||{})[k]||0, avg=(t.avg7||{})[k];
+    const delta=(avg===null||avg===undefined||!avg)?null:Math.round((now-avg)/avg*100);
+    const good=k==="errors"?(now<=avg):(now>=avg);
+    return `<div class="spark"><div class="k">${k}</div>
+      <div class="v">${fmt(now)}</div>
+      <div class="d" style="color:${delta===null?"var(--muted)":good?"var(--green)":"var(--red)"}">${
+        delta===null?"no baseline yet":`${delta>0?"+":""}${delta}% vs prior 7 runs`}</div>
+      <svg viewBox="0 0 118 24" preserveAspectRatio="none"><polyline fill="none"
+        stroke="${SPARK[k]}" stroke-width="1.5" points="${sparkPath(t.series[k]||[])}"/></svg></div>`;
+  }).join("");
+}
+
+const BUCKET_LABEL={failed:"Failed",stale:"Stale",silent:"Silent",never:"Never run",ok:"OK"};
+function renderSources(){
+  const c=COLL.candidates, counts=c.counts;
+  $("runChips").innerHTML=
+    `<button class="chip ${BUCKET?"":"on"}" onclick="setBucket('')">All ${c.sources.length}</button>`+
+    ["failed","stale","silent","never"].filter(b=>counts[b]).map(b=>
+      `<button class="chip ${BUCKET===b?"on":""}" onclick="setBucket('${b}')">${BUCKET_LABEL[b]} ${counts[b]}</button>`).join("");
+  const rows=c.sources.filter(s=>!BUCKET||s.bucket===BUCKET);
+  $("srcList").classList.remove("empty");
+  $("srcList").innerHTML=rows.length?rows.map(s=>`<div class="srow">
+      <input type="checkbox" ${SEL.has(s.regulator_id)?"checked":""}
+        aria-label="select ${esc(s.regulator_id)}" onchange="toggleSrc('${esc(s.regulator_id)}',this.checked)">
+      <span class="nm" title="${esc(s.name)}">${esc(s.regulator_id)}</span>
+      <span class="bkt ${esc(s.bucket)}">${esc(BUCKET_LABEL[s.bucket]||s.bucket)}</span>
+      <span class="why">${esc(s.note||(s.last_clean?`clean ${s.last_clean}`:""))}</span>
+      <button class="btn sm" onclick="rerunIds(['${esc(s.regulator_id)}'])">Rerun</button>
+    </div>`).join(""):`<div class="empty">nothing in this bucket</div>`;
+  updateRunBtn();
+}
+function setBucket(b){BUCKET=b;renderSources();}
+function toggleSrc(id,on){on?SEL.add(id):SEL.delete(id);updateRunBtn();}
+function updateRunBtn(){
+  const b=$("runGo"); if(!b)return;
+  b.textContent=SEL.size?`▶ Run ${SEL.size} selected`:"▶ Run all";
+}
+
+function renderArrived(){
+  const a=COLL.arrived;
+  if(!a||!a.date){$("arrivedTiles").innerHTML="";$("arrivedList").innerHTML=
+    `<div class="empty" style="font-size:11.5px">nothing collected yet</div>`;return;}
+  $("arrivedTitle").innerHTML=`What arrived <span class="plain">· ${esc(a.date)}</span>`;
+  const t=a.totals;
+  $("arrivedTiles").innerHTML=`<div class="sparkgrid">
+    ${[["new docs",t.new_docs],["revised",t.revised],["critical",t.critical],
+       ["sources",t.sources_reporting]].map(([k,v])=>
+      `<div class="spark"><div class="k">${k}</div><div class="v">${fmt(v)}</div></div>`).join("")}</div>`;
+  $("arrivedList").innerHTML=`<table style="margin-top:7px"><tr>
+      <th>data source</th><th style="text-align:right">new</th>
+      <th style="text-align:right">rev</th><th style="text-align:right">vs 7d avg</th></tr>`+
+    a.by_source.map(s=>`<tr><td title="${esc(s.name)}">${esc(s.regulator_id)}</td>
+      <td style="text-align:right">${fmt(s.new)}</td>
+      <td style="text-align:right">${s.revised||""}</td>
+      <td style="text-align:right;color:${s.vs_avg7==null?"var(--muted)":s.vs_avg7>=0?"var(--green)":"var(--red)"}">${
+        s.vs_avg7==null?"—":(s.vs_avg7>0?"+":"")+s.vs_avg7}</td></tr>`).join("")+
+    (a.more?`<tr><td style="color:var(--muted)">${a.more} more</td>
+      <td style="text-align:right;color:var(--muted)">${fmt(a.more_new)}</td>
+      <td style="text-align:right;color:var(--muted)">${a.more_revised||""}</td><td></td></tr>`:"")+
+    `</table>`;
+  const live=COLL.live||[];
+  $("liveRuns").classList.toggle("empty",!live.length);
+  $("liveRuns").innerHTML=live.length?live.map(r=>{
+    const pct=r.detected?Math.min(100,Math.round(r.fetched/r.detected*100)):0;
+    return `<div style="display:flex;align-items:center;gap:7px;margin-bottom:4px;font-size:11.5px">
+      <span style="width:110px;overflow:hidden;text-overflow:ellipsis">${esc(r.regulator_id)}</span>
+      <span style="flex:1;height:5px;background:var(--surface2);border-radius:3px;overflow:hidden">
+        <i style="display:block;height:100%;width:${pct}%;background:var(--blue)"></i></span>
+      <span style="color:var(--muted);width:96px;text-align:right">${r.fetched}/${r.detected||"?"}</span></div>`;
+  }).join(""):"nothing running";
+}
+
+async function runAll(){ await rerunIds(null); }
+async function doRun(){ await rerunIds(SEL.size?[...SEL]:null); }
+async function rerunIds(ids,date){
+  const day=date||$("runDate").value||null;
   const cap=parseInt($("runCap").value,10);
-  const body={scope:pick==="all"?"all":"ids",date:day};
-  if(pick!=="all")body.ids=[pick];
+  const body={scope:ids&&ids.length?"ids":"all",date:day};
+  if(ids&&ids.length)body.ids=ids;
   if(!isNaN(cap)&&cap>0)body.max_docs=cap;
   $("runMsg").textContent="starting…";
   try{
     const r=await fetch(API+"/rerun",{method:"POST",
       headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
     const d=await r.json().catch(()=>({}));
-    $("runMsg").textContent=d.queued===false
-      ? "a run is already in progress"
-      : `started ${pick==="all"?"all sources":pick} for ${d.date||day}`;
-    setTimeout(loadRuns,1500);
+    $("runMsg").textContent=d.queued===false?"a run is already in progress"
+      :`started ${ids&&ids.length?ids.length+" source(s)":"all sources"} for ${d.date||day}`;
+    SEL.clear(); closeDrawer();
+    setTimeout(loadCollection,1500);
   }catch(e){$("runMsg").textContent="could not start: "+e.message;}
-}
-async function loadTrend(){
-  const el=$("trendChart");if(!el)return;
-  const cat=laneScope();
-  const d=await j(`/runs-trend?days=14${cat?`&category=${cat}`:""}`);
-  $("trendNote").textContent=`· ${d.days} day${d.days===1?"":"s"} of runs`;
-  const max=Math.max(...d.series.flatMap(s=>[s.detected,s.ingested]),1);
-  el.innerHTML=`<div class="xlegend">
-      <span><i style="background:var(--blue)"></i>detected</span>
-      <span><i style="background:var(--green)"></i>ingested</span>
-      <span><i style="background:var(--red)"></i>errors</span></div>
-    <div class="cols" style="height:74px;display:flex;align-items:flex-end;gap:6px">`+
-    d.series.map(s=>`<div style="flex:1;text-align:center" title="${s.date}: detected ${s.detected}, fetched ${s.fetched}, ingested ${s.ingested}, errors ${s.errors}">
-      <div style="display:flex;gap:2px;align-items:flex-end;justify-content:center;height:56px">
-        <div style="width:7px;background:var(--blue);height:${Math.max(2,Math.round(s.detected/max*56))}px;border-radius:2px 2px 0 0"></div>
-        <div style="width:7px;background:var(--green);height:${Math.max(2,Math.round(s.ingested/max*56))}px;border-radius:2px 2px 0 0"></div>
-        ${s.errors?`<div style="width:4px;background:var(--red);height:${Math.max(2,Math.round(s.errors/max*56))}px"></div>`:""}
-      </div>
-      <div style="font-size:9px;color:var(--muted)">${s.date.slice(5)}</div></div>`).join("")+`</div>`;
-  $("trendSources").innerHTML=`<table><tr><th>data source</th><th>runs</th>
-      <th>detected</th><th>fetched</th><th>ingested</th><th>errors</th><th>last run</th></tr>`+
-    d.per_source.map(s=>`<tr><td><b>${esc(s.name)}</b></td><td>${s.runs}</td>
-      <td>${fmt(s.detected)}</td><td>${fmt(s.fetched)}</td><td>${fmt(s.ingested)}</td>
-      <td>${s.errors?`<span style="color:var(--red)">${s.errors}</span>`:"0"}</td>
-      <td>${esc(s.last_run)}</td></tr>`).join("")+`</table>`;
 }
 
 /* ── executive pages: every section bound to /exec/* ──────── */
@@ -2309,61 +2723,26 @@ function chgCard(ch){
       <button class="btn sm" onclick='openDoc("${ch.regulator_id}","${d.doc_id}")'>Open</button></div></div>`;
 }
 
-/* ── runs ─────────────────────────────────────────────────── */
+/* ── runs: keep the collection page live while anything is running ──
+   Polls fast only while a run is in flight. An idle maintenance page that
+   re-fetches every five seconds costs more than it tells anyone. */
 let runTimer=null;
 async function loadRuns(){
-  const o=await j(`/runs-overview`);
-  const act=o.active;
-  // Today's delta summary — the humane headline ("98% pass, here's the 2%")
-  const t=o.today;
-  if(t){
-    const fails=(o.today_failing||[]).sort((a,b)=>b.errors-a.errors);
-    const failTxt=fails.length
-      ?fails.map(f=>`<b>${f.regulator_id}</b> ${f.errors} err${f.ingested?` (${f.ingested} docs still landed)`:""}`).join(" · ")
-      :"no fetch errors";
-    const cls=t.pass_rate>=95?"up":t.pass_rate>=80?"warn":"bad";
-    $("todayDelta").innerHTML=`<div class="live" style="border-left:3px solid var(--${cls==="up"?"green":cls==="warn"?"amber":"red"})">
-      <b>Today's delta</b> — <span class="${cls}" style="font-weight:680">${t.pass_rate}% fetch success</span>
-      · <b>+${fmt(t.new_docs)}</b> new docs · ${fmt(t.archived)} revisions archived
-      · ${fmt(t.errors)} errors across ${t.runs} runs
-      <div style="color:var(--muted);font-size:12px;margin-top:5px">Errors: ${failTxt}
-      <span style="opacity:.8">— per-URL details in each run's manifest; most are regulator-side 404s/429s</span></div></div>`;
-  } else { $("todayDelta").innerHTML=""; }
-  $("liveRuns").innerHTML=act.length?act.map(r=>{
-    const pct=r.detected?Math.min(99,Math.round(100*(r.fetched||0)/r.detected)):5;
-    return `<div class="live"><span class="pulse"></span>
-      <b>${r.regulator_id}</b> · run in progress
-      <span style="color:var(--muted);font-size:12px"> ${r.trigger}${r.operator?` · ${esc(r.operator)}`:""} · started ${new Date(r.started_at).toLocaleTimeString()}</span>
-      <div style="height:7px;border-radius:5px;background:var(--line2);margin:8px 0 4px;overflow:hidden">
-        <i style="display:block;height:100%;width:${pct}%;background:var(--blue);border-radius:5px"></i></div>
-      <span style="color:var(--muted);font-size:11.5px">detected ${fmt(r.detected)} · fetched ${fmt(r.fetched)} · ingested ${fmt(r.ingested)} · errors ${r.errors}</span>
-    </div>`}).join("")
-    :`<div class="live" style="border-style:dashed"><span style="color:var(--muted)">No run active — pick a source above and press ▶ Run. Progress appears here.</span></div>`;
-  $("recentRuns").classList.remove("empty");
-  $("recentRuns").innerHTML=`<table><tr><th>Data source</th><th>Date</th><th>Trigger</th><th>Status</th>
-    <th class="num">Detected</th><th class="num">Fetched</th><th class="num">Ingested</th>
-    <th class="num">Archived</th><th class="num">Errors</th></tr>`+
-    o.recent.map(r=>`<tr><td><b>${r.regulator_id}</b></td><td>${r.logical_date}</td>
-      <td>${r.trigger}${r.operator?` · ${esc(r.operator)}`:""}</td>
-      <td><span class="pill ${r.status==="success"?(r.errors?"stale":"ok"):r.status==="success_empty"?"ok_empty":r.status==="failed"?"failed":"running"}">${r.status==="success"&&r.errors?`✓ success · ${r.errors} err`:r.status}</span></td>
-      <td class="num">${fmt(r.detected)}</td><td class="num">${fmt(r.fetched)}</td>
-      <td class="num"><b>${fmt(r.ingested)}</b></td><td class="num">${fmt(r.archived)}</td>
-      <td class="num">${r.errors||0}</td></tr>`).join("")+`</table>`;
-  $("delta").classList.remove("empty");
-  $("delta").innerHTML=`<table><tr><th>Date</th><th class="num">Runs</th>
-    <th class="num">New docs</th><th class="num">Versions archived</th><th class="num">Errors</th></tr>`+
-    o.daily_delta.map(d=>`<tr><td><b>${d.date}</b></td><td class="num">${d.runs}</td>
-      <td class="num"><b>${fmt(d.new_docs)}</b></td><td class="num">${fmt(d.archived)}</td>
-      <td class="num">${d.errors}</td></tr>`).join("")+`</table>`;
   clearTimeout(runTimer);
-  runTimer=setTimeout(loadRuns, act.length?5000:30000);   // 5s live, 30s idle
-  // while a run is active, refresh the coverage tree + tiles too (every 30s)
-  if(act.length && Date.now()-(window._lastTree||0)>30000){
-    window._lastTree=Date.now(); loadTree();
+  const onRun=(document.querySelector(".view.on")||{}).id==="v-run";
+  let active=0;
+  try{
+    if(onRun){ await loadCollection(); active=(COLL&&COLL.live||[]).length; }
+    else { active=((await j(`/runs-overview`)).active||[]).length; }
+  }catch(e){ /* a transient failure must not stop the poll loop */ }
+  runTimer=setTimeout(loadRuns, active?5000:30000);
+  if(active && Date.now()-(window._lastTree||0)>30000){
+    window._lastTree=Date.now(); if(typeof loadTree==="function")loadTree();
   }
 }
 
-/* ── run trigger ──────────────────────────────────────────── */
+/* Deep link from a chart or a coverage row: queue the run, then land on the
+   page that shows it happening. */
 async function runScope(scope){
   const body=scope==="all"?{scope:"all"}:{scope:"ids",ids:[scope]};
   const r=await fetch(API+"/rerun",{method:"POST",
