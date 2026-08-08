@@ -10,14 +10,14 @@
     --ink:#16202e; --ink2:#4a5568; --muted:#8291a5; --line:#e3e8ef; --line2:#eef1f6;
     --blue:#0f5aa9; --blue-soft:#e8f0fa; --green:#177a4c; --green-soft:#e7f4ed;
     --amber:#9a6a00; --amber-soft:#fdf3dd; --red:#b3261e; --red-soft:#fceceb;
-    --grey-soft:#eef0f4; --shadow:0 1px 2px rgba(22,32,46,.05),0 4px 16px rgba(22,32,46,.06);
+    --grey-soft:#eef0f4; --scroll:#c3cddb; --shadow:0 1px 2px rgba(22,32,46,.05),0 4px 16px rgba(22,32,46,.06);
     --radius:10px;
   }
   @media (prefers-color-scheme:dark){:root{
     --bg:#0f1218; --surface:#171b22; --surface2:#1c212a; --ink:#e7ebf2; --ink2:#aab3c0;
     --muted:#7e8896; --line:#262c36; --line2:#20252e; --blue:#5b8def; --blue-soft:#1c2a42;
     --green:#4cc38a; --green-soft:#15302355; --amber:#e0b34d; --amber-soft:#3a300f55;
-    --red:#e5736b; --red-soft:#3d1b1955; --grey-soft:#242a33;
+    --red:#e5736b; --red-soft:#3d1b1955; --grey-soft:#242a33; --scroll:#3d4552;
     --shadow:0 1px 2px rgba(0,0,0,.3)}}
   *{box-sizing:border-box;margin:0}
   body{font:12.5px/1.45 -apple-system,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;
@@ -595,8 +595,28 @@
   .fbar{gap:5px;margin-bottom:8px}
   .fbar select,.fbar input{padding:3px 8px;font-size:11.5px}
   /* long lists scroll inside their own box instead of stretching the page */
-  .scrollbox{max-height:340px;overflow:auto}
-  .scrollbox.short{max-height:230px}
+  /* A capped box is right for a SIDE panel and wrong for the thing you came to
+     read. Capping the change feed at 340px put 16,000px of content behind a
+     letterbox on a page that would not itself scroll — technically reachable,
+     practically not. `.mainlist` marks the primary content of a page: it flows
+     at full height and the window scrolls, which is what everyone expects. */
+  .mainlist{max-height:none;overflow:visible}
+  /* Side panels stay bounded, but relative to the screen rather than a fixed
+     340px — on a tall monitor that was leaving half the panel empty. */
+  .scrollbox{max-height:clamp(200px,calc(100dvh - 380px),560px);overflow:auto}
+  .scrollbox.short{max-height:clamp(160px,calc(100dvh - 520px),300px)}
+  /* macOS hides overlay scrollbars until you scroll, so a bounded panel reads
+     as clipped rather than scrollable. Show a thin persistent one. */
+  .scrollbox{scrollbar-width:thin;scrollbar-color:var(--scroll) transparent}
+  .scrollbox::-webkit-scrollbar{width:9px}
+  .scrollbox::-webkit-scrollbar-thumb{background:var(--scroll);border-radius:5px;
+    border:2px solid var(--surface)}
+  .scrollbox::-webkit-scrollbar-track{background:transparent}
+  .fitbody{scrollbar-width:thin;scrollbar-color:var(--scroll) transparent}
+  .fitbody::-webkit-scrollbar{width:9px}
+  .fitbody::-webkit-scrollbar-thumb{background:var(--scroll);border-radius:5px;
+    border:2px solid var(--surface)}
+  .fitbody::-webkit-scrollbar-track{background:transparent}
   .halfgrid{display:grid;grid-template-columns:1fr 1fr;gap:10px}
   @media(max-width:1000px){.halfgrid{grid-template-columns:1fr}}
 
@@ -1016,8 +1036,8 @@
     <div class="chips" id="nwTopics" style="margin:10px 0 14px"></div>
     <div class="news-grid">
       <div>
-        <div class="npanel"><h3 id="nwTopTitle">Top stories</h3><div id="nwTop" class="empty scrollbox">loading…</div></div>
-        <div id="nwSections" class="scrollbox"></div>
+        <div class="npanel"><h3 id="nwTopTitle">Top stories</h3><div id="nwTop" class="empty mainlist">loading…</div></div>
+        <div id="nwSections" class="mainlist"></div>
       </div>
       <div>
         <div class="npanel"><h3>Last 14 days</h3><div class="volbar" id="nwVol"></div>
@@ -1103,7 +1123,7 @@
     <div class="ptitle" data-t="v-cov">Sources we watch</div>
     <div class="psub">Every source this lane collects from, grouped by region. Open a region to see each source, how many documents we hold from it, when it last ran, and whether it is healthy. Use ▶ Run to collect from one source right now.</div>
     <div class="tiles" id="tiles"></div>
-    <div id="tree" class="empty scrollbox">loading…</div>
+    <div id="tree" class="empty mainlist">loading…</div>
   </div>
 
   <div class="view" id="v-brw">
@@ -1142,7 +1162,7 @@
       <button class="btn sm" id="bPrev" onclick="pageCorpus(-1)">← Prev</button>
       <button class="btn sm" id="bNext" onclick="pageCorpus(1)">Next →</button>
     </div>
-    <div id="bTable" class="empty scrollbox">loading…</div>
+    <div id="bTable" class="empty mainlist">loading…</div>
   </div>
 
   <div class="view" id="v-exp">
@@ -1155,7 +1175,7 @@
       <button class="btn sm" onclick="loadExplorer()">↻ Refresh</button>
     </div>
     <div style="background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
-         box-shadow:var(--shadow);padding:10px 8px"><div id="fsTree" class="empty scrollbox">loading…</div></div>
+         box-shadow:var(--shadow);padding:10px 8px"><div id="fsTree" class="empty mainlist">loading…</div></div>
   </div>
 
   <div class="view" id="v-chg">
@@ -1182,7 +1202,7 @@
       <label class="fdate">To <input type="date" id="fTo" onchange="loadChanges()"></label>
       <button class="btn sm" onclick="clearChgFilters()">Clear</button>
     </div>
-    <div id="chgFeed" class="empty scrollbox">loading…</div>
+    <div id="chgFeed" class="empty mainlist">loading…</div>
   </div>
 
   <div class="view fitpage" id="v-run">

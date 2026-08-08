@@ -118,6 +118,57 @@ test.describe('auto-fit — neither page may scroll the window', () => {
       expect(overflow).toBe('visible');
     });
 
+  // The failure this caught: the change feed had 16,000px of content behind a
+  // 340px box on a page that would not itself scroll. Every element was
+  // present and technically reachable, so nothing else noticed — you just
+  // could not get at what you came to read.
+  const VIEWS = [
+    ['home', null], ['reg', 'ovw'], ['reg', 'cov'], ['reg', 'brw'],
+    ['reg', 'chg'], ['reg', 'run'], ['reg', 'exp'],
+    ['news', 'feed'], ['news', 'myday'], ['news', 'per'], ['hea', null],
+  ];
+
+  test('no page traps its content behind a letterbox', async ({ page }) => {
+    await page.setViewportSize({ width: 1440, height: 900 });
+    const trapped = [];
+    for (const [lane, sub] of VIEWS) {
+      await page.evaluate(([l, s]) => (s ? enterLane(l, s) : show(l)), [lane, sub]);
+      await page.waitForTimeout(1200);
+      const r = await page.evaluate(() => {
+        const v = document.querySelector('.view.on');
+        if (!v) return null;
+        let worst = 0;
+        v.querySelectorAll('*').forEach((el) => {
+          const over = el.scrollHeight - el.clientHeight;
+          if (over > 2 && el.clientHeight &&
+              /auto|scroll/.test(getComputedStyle(el).overflowY)) {
+            worst = Math.max(worst, over);
+          }
+        });
+        return { id: v.id, worst,
+                 pageScroll: document.documentElement.scrollHeight - window.innerHeight };
+      });
+      // Either the window scrolls, or no single panel may swallow a screenful.
+      if (r && r.pageScroll <= 2 && r.worst > 800) {
+        trapped.push(`${r.id}: ${r.worst}px hidden, page does not scroll`);
+      }
+    }
+    expect(trapped, trapped.join(' | ')).toHaveLength(0);
+  });
+
+  test('a page whose primary content is a list lets the window scroll',
+    async ({ page }) => {
+      await page.setViewportSize({ width: 1440, height: 900 });
+      for (const id of ['chgFeed', 'bTable', 'tree', 'fsTree']) {
+        const capped = await page.evaluate((elId) => {
+          const el = document.getElementById(elId);
+          if (!el) return null;
+          return getComputedStyle(el).maxHeight;
+        }, id);
+        if (capped !== null) expect(capped, `#${id} is capped`).toBe('none');
+      }
+    });
+
   test('density is remembered across a reload', async ({ page }) => {
     await page.locator('#densityBtn').click();
     await expect(page.locator('body')).toHaveClass(/dense/);
