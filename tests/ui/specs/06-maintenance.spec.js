@@ -177,3 +177,88 @@ test.describe('auto-fit — neither page may scroll the window', () => {
     await expect(page.locator('body')).toHaveClass(/dense/);
   });
 });
+
+test.describe('the chat panel resizes', () => {
+  test.beforeEach(async ({ page }) => {
+    await signup(page);
+    await page.setViewportSize({ width: 1440, height: 900 });
+    await page.evaluate(() => { localStorage.removeItem('riskgpt.dockw'); });
+    await page.evaluate(() => { DOCK_PREF = 390; applyDockWidth(); toggleChat(true); });
+  });
+
+  const dockw = (page) => page.evaluate(() =>
+    parseInt(getComputedStyle(document.documentElement).getPropertyValue('--dockw'), 10));
+
+  test('dragging the grip widens the panel and the page follows it', async ({ page }) => {
+    expect(await dockw(page)).toBe(390);
+    await page.evaluate(() => {
+      const g = document.getElementById('dockGrip');
+      g.dispatchEvent(new PointerEvent('pointerdown', { bubbles: true, clientX: 390, button: 0 }));
+      window.dispatchEvent(new PointerEvent('pointermove', { bubbles: true, clientX: 620 }));
+      window.dispatchEvent(new PointerEvent('pointerup', { bubbles: true, clientX: 620 }));
+    });
+    expect(await dockw(page)).toBe(620);
+    // one variable drives panel, page offset and toggle — they cannot drift
+    const margin = await page.evaluate(() =>
+      parseInt(getComputedStyle(document.querySelector('.page')).marginLeft, 10));
+    expect(margin).toBe(620);
+  });
+
+  test('it will not shrink past legibility or swallow the page', async ({ page }) => {
+    await page.evaluate(() => setDockWidth(50));
+    expect(await dockw(page)).toBe(280);
+    await page.evaluate(() => setDockWidth(4000));
+    const max = await page.evaluate(() => dockMax());
+    expect(await dockw(page)).toBe(max);
+    expect(max).toBeLessThan(900);   // never more than the page it sits beside
+  });
+
+  test('the chosen width survives a reload', async ({ page }) => {
+    await page.evaluate(() => setDockWidth(520));
+    await page.reload();
+    await page.evaluate(() => window.READY);
+    expect(await dockw(page)).toBe(520);
+  });
+
+  test('a narrow window borrows the width back rather than overwriting it',
+    async ({ page }) => {
+      // the bug: clamping in place lost the preference, so widening never
+      // restored it — unplug a monitor once and the panel stayed narrow
+      await page.evaluate(() => setDockWidth(700));
+      await page.setViewportSize({ width: 900, height: 800 });
+      await page.waitForTimeout(250);
+      const shown = await dockw(page);
+      expect(shown).toBeLessThan(700);
+      expect(await page.evaluate(() => localStorage.getItem('riskgpt.dockw'))).toBe('700');
+      await page.setViewportSize({ width: 1440, height: 900 });
+      await page.waitForTimeout(250);
+      expect(await dockw(page)).toBe(700);
+    });
+
+  test('keyboard resizing works and double-click resets', async ({ page }) => {
+    await page.evaluate(() => {
+      const g = document.getElementById('dockGrip');
+      g.dispatchEvent(new KeyboardEvent('keydown', { key: 'ArrowRight', bubbles: true }));
+    });
+    expect(await dockw(page)).toBe(402);
+    await page.evaluate(() => {
+      document.getElementById('dockGrip')
+        .dispatchEvent(new MouseEvent('dblclick', { bubbles: true }));
+    });
+    expect(await dockw(page)).toBe(390);
+  });
+
+  test('the grip is only reachable while the panel is open', async ({ page }) => {
+    await expect(page.locator('#dockGrip')).toBeVisible();
+    await page.evaluate(() => toggleChat(false));
+    await expect(page.locator('#dockGrip')).toBeHidden();
+  });
+
+  test('old density behaviour is untouched', async ({ page }) => {
+    await page.locator('#densityBtn').click();
+    await expect(page.locator('body')).toHaveClass(/dense/);
+    await page.reload();
+    await page.evaluate(() => window.READY);
+    await expect(page.locator('body')).toHaveClass(/dense/);
+  });
+});

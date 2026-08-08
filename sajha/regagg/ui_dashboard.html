@@ -10,7 +10,7 @@
     --ink:#16202e; --ink2:#4a5568; --muted:#8291a5; --line:#e3e8ef; --line2:#eef1f6;
     --blue:#0f5aa9; --blue-soft:#e8f0fa; --green:#177a4c; --green-soft:#e7f4ed;
     --amber:#9a6a00; --amber-soft:#fdf3dd; --red:#b3261e; --red-soft:#fceceb;
-    --grey-soft:#eef0f4; --scroll:#c3cddb; --shadow:0 1px 2px rgba(22,32,46,.05),0 4px 16px rgba(22,32,46,.06);
+    --grey-soft:#eef0f4; --scroll:#c3cddb; --dockw:390px; --shadow:0 1px 2px rgba(22,32,46,.05),0 4px 16px rgba(22,32,46,.06);
     --radius:10px;
   }
   @media (prefers-color-scheme:dark){:root{
@@ -790,23 +790,41 @@
   .lanebar{top:46px;height:36px;padding:0 16px}
   .lanebar button{padding:4px 10px;font-size:12px}
   .lanebar .who{font-size:12px;margin-right:10px}
-  /* ── chat as a collapsible left panel ── */
+  /* ── chat as a collapsible, resizable left panel ──
+     One variable drives the panel, the page offset and the toggle button, so
+     dragging the grip moves all three together and there is no second place
+     to forget. */
   .chatdock{position:fixed;left:0;top:46px;bottom:0;width:0;background:var(--surface);
     border-right:1px solid var(--line);z-index:28;overflow:hidden;transition:width .16s ease}
-  .chatdock.open{width:390px}
+  .chatdock.open{width:var(--dockw)}
   @media(max-width:900px){.chatdock.open{width:100%}}
-  .chatdock .inner{width:390px;max-width:100vw;height:100%;display:flex;flex-direction:column;
-    padding:12px 14px}
+  .chatdock .inner{width:var(--dockw);max-width:100vw;height:100%;display:flex;
+    flex-direction:column;padding:12px 14px}
   @media(max-width:900px){.chatdock .inner{width:100%}}
+  /* While dragging, an eased width animates behind the pointer and the panel
+     appears to lag. Killing the transition for the duration is the whole fix. */
+  body.dockdrag .chatdock,body.dockdrag .page,body.dockdrag .chattoggle{transition:none}
+  body.dockdrag{cursor:col-resize;user-select:none}
+  /* The grip is wider than it looks: an 8px target is fiddly, a 3px line is
+     what reads well, so the hit area is padded and only the centre is drawn. */
+  .dockgrip{position:absolute;top:0;right:0;bottom:0;width:9px;cursor:col-resize;
+    display:none;z-index:2;background:transparent;border:0;padding:0}
+  .chatdock.open .dockgrip{display:block}
+  .dockgrip::after{content:"";position:absolute;top:0;bottom:0;right:0;width:3px;
+    background:transparent;transition:background .12s}
+  .dockgrip:hover::after,.dockgrip:focus-visible::after,
+  body.dockdrag .dockgrip::after{background:var(--blue)}
+  .dockgrip:focus-visible{outline:none}
+  @media(max-width:900px){.chatdock.open .dockgrip{display:none}}
   .chatdock h3{font-size:11px;text-transform:uppercase;letter-spacing:.06em;color:var(--muted);
     display:flex;align-items:center;gap:8px;margin-bottom:8px}
   .chatdock h3 .x{margin-left:auto;cursor:pointer;color:var(--muted);font-size:14px}
   .chattoggle{position:fixed;left:0;bottom:18px;z-index:29;border:1px solid var(--line);
     border-left:0;border-radius:0 9px 9px 0;background:var(--blue);color:#fff;
     padding:9px 12px;font-size:12px;font-weight:650;cursor:pointer;box-shadow:var(--shadow)}
-  .chattoggle.shifted{left:390px}
+  .chattoggle.shifted{left:var(--dockw)}
   @media(max-width:900px){.chattoggle.shifted{left:auto;right:14px}}
-  body.chatopen .page{margin-left:390px}
+  body.chatopen .page{margin-left:var(--dockw)}
   @media(max-width:900px){body.chatopen .page{margin-left:0}}
   .ctxtoggle{display:flex;align-items:center;gap:6px;font-size:10.5px;color:var(--muted);
     margin-bottom:8px}
@@ -852,6 +870,8 @@
 </div>
 
 <div class="chatdock" id="chatdock">
+  <button class="dockgrip" id="dockGrip" aria-label="Resize the chat panel"
+    title="Drag to resize · double-click to reset · arrow keys also work"></button>
   <div class="inner">
     <h3>Ask riskGPT <span class="x" onclick="toggleChat(false)">✕</span></h3>
     <div class="ctxtoggle">
@@ -1582,6 +1602,83 @@ function toggleChat(force){
   $("chatToggle").classList.toggle("shifted",open);
   $("chatToggle").textContent=open?"✕ Close":"💬 Ask";
   if(open)renderAsk();
+}
+
+/* ── resizing the chat panel ──────────────────────────────
+   Width is a preference, not session state: someone who wants a wide panel to
+   read a long answer wants it wide tomorrow too. Bounds are enforced on read
+   as well as on write, so a stored value that no longer fits the screen — a
+   laptop after an external monitor — comes back usable instead of covering
+   the page. */
+const DOCK_MIN=280, DOCK_DEFAULT=390;
+// The width the person chose, kept apart from the width we can currently show.
+// Clamping in place would be lossy: narrow the window once and the preference
+// is overwritten by the clamp, so widening again never brings it back.
+let DOCK_PREF=DOCK_DEFAULT;
+function dockMax(){
+  // innerWidth is 0 before the first layout in some embedded viewports;
+  // clamping against it would collapse the panel to the minimum on load.
+  const vw=innerWidth||1440;
+  return Math.max(DOCK_MIN, Math.min(760, Math.round(vw*0.62)));
+}
+function clampDock(px){ return Math.round(Math.max(DOCK_MIN, Math.min(dockMax(), px))); }
+function applyDockWidth(){
+  const w=clampDock(DOCK_PREF);
+  document.documentElement.style.setProperty("--dockw", w+"px");
+  const g=$("dockGrip");
+  if(g){ g.setAttribute("aria-valuenow",w); g.setAttribute("aria-valuemax",dockMax());
+    g.title=`${w}px — drag to resize · double-click to reset · arrow keys also work`; }
+  return w;
+}
+function setDockWidth(px,{save=true}={}){
+  DOCK_PREF=Math.round(px);
+  const w=applyDockWidth();
+  if(save){ try{ localStorage.setItem("riskgpt.dockw", DOCK_PREF); }catch(e){} }
+  return w;
+}
+function restoreDockWidth(){
+  try{ const v=parseInt(localStorage.getItem("riskgpt.dockw"),10);
+       if(!isNaN(v))DOCK_PREF=v; }catch(e){}
+  applyDockWidth();
+}
+function initDockResize(){
+  const grip=$("dockGrip"); if(!grip)return;
+  grip.setAttribute("role","separator");
+  grip.setAttribute("aria-orientation","vertical");
+  grip.setAttribute("aria-valuemin",DOCK_MIN);
+  restoreDockWidth();
+
+  let dragging=false;
+  const move=e=>{ if(!dragging)return; e.preventDefault();
+    setDockWidth(e.clientX,{save:false}); };
+  const stop=e=>{ if(!dragging)return; dragging=false;
+    document.body.classList.remove("dockdrag");
+    window.removeEventListener("pointermove",move);
+    window.removeEventListener("pointerup",stop);
+    window.removeEventListener("pointercancel",stop);
+    setDockWidth(e&&e.clientX!=null?clampDock(e.clientX):DOCK_PREF); };
+
+  grip.addEventListener("pointerdown",e=>{
+    if(e.button)return;                       // left button only
+    dragging=true; document.body.classList.add("dockdrag");
+    // listen on window, not the grip: the pointer routinely outruns a 9px
+    // target and the drag would drop the moment it did
+    window.addEventListener("pointermove",move);
+    window.addEventListener("pointerup",stop);
+    window.addEventListener("pointercancel",stop);
+    e.preventDefault();
+  });
+  grip.addEventListener("dblclick",()=>setDockWidth(DOCK_DEFAULT));
+  grip.addEventListener("keydown",e=>{
+    const cur=clampDock(DOCK_PREF), step=e.shiftKey?48:12;
+    if(e.key==="ArrowRight"){setDockWidth(cur+step);e.preventDefault();}
+    else if(e.key==="ArrowLeft"){setDockWidth(cur-step);e.preventDefault();}
+    else if(e.key==="Home"){setDockWidth(DOCK_DEFAULT);e.preventDefault();}
+  });
+  // A width that suits an external monitor can swallow a laptop screen. Re-clamp
+  // the PREFERENCE for display without overwriting it, so unplugging the monitor
+  // narrows the panel and plugging it back in restores the chosen width.
+  window.addEventListener("resize",applyDockWidth);
 }
 function setCtxMode(m){
   CTXMODE=m;
@@ -2901,6 +2998,10 @@ window.addEventListener("hashchange",()=>{
   if(!ME||h===window._ourHash)return;    // ignore our own navigation
   applyHash();
 });
+// The stored panel width is applied before auth resolves, so the panel does
+// not open at the default and jump to the saved size a moment later.
+initDockResize();
+
 window.READY=requireAuth().then(async ok=>{
   if(!ok)return false;
   await loadAll();
