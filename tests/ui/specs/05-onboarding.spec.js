@@ -21,7 +21,7 @@ test.describe('onboarding and multi-persona', () => {
     await page.locator('button:has-text("Save persona")').click();
     await expect(page.locator('#perMsg')).toContainText('Saved');
     await page.evaluate(() => enterLane('news', 'myday'));
-    await expect(page.locator('.md-lede')).toBeVisible();
+    await expect(page.locator('.mdlede')).toBeVisible();
   });
 
   test('the rules starter produces a regulatory persona', async ({ page }) => {
@@ -46,10 +46,12 @@ test.describe('onboarding and multi-persona', () => {
     await expect(page.locator('#perMsg')).toContainText('Saved');
 
     await page.evaluate(() => enterLane('news', 'myday'));
-    await expect(page.locator('.md-switch button')).toHaveCount(2);
-    const first = await page.locator('.md-head b').textContent();
-    await page.locator('.md-switch button').nth(1).click();
-    await expect(page.locator('.md-head b')).not.toHaveText(first);
+    await expect(page.locator('#mydayHead select option')).toHaveCount(2);
+    // the dropdown IS the switcher now — selecting rebuilds the page beneath it
+    const first = await page.locator('#mydayHead select').inputValue();
+    await page.locator('#mydayHead select').selectOption({ index: 1 });
+    await expect(page.locator('#mydayHead select')).not.toHaveValue(first);
+    await expect(page.locator('#mydayCols .fitpanel')).toHaveCount(3);
   });
 
   test('one persona shows no switcher — no controls without a choice', async ({ page }) => {
@@ -58,7 +60,7 @@ test.describe('onboarding and multi-persona', () => {
     await page.locator('#perEntities').fill('Goodfood');
     await page.locator('button:has-text("Save persona")').click();
     await page.evaluate(() => enterLane('news', 'myday'));
-    await expect(page.locator('.md-switch')).toHaveCount(0);
+    await expect(page.locator('#mydayHead select')).toHaveCount(0);
   });
 });
 

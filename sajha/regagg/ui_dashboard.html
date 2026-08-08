@@ -779,6 +779,58 @@
   .qrow .sev.low{background:#94a3b8}.qrow .sev.none{background:#10b981}
   .qrow .t b{display:block}
   .qrow .t span{color:var(--muted);font-size:11px}
+
+  /* ── My Day ──────────────────────────────────────────────────────────────
+     Three columns because that is how the page is triaged: act, read, note.
+     Stacking them meant Watch began below the fold on every screen. */
+  .mdsel{font:inherit;font-size:12.5px;font-weight:650;color:var(--ink);
+    background:var(--surface2);border:1px solid var(--line);border-radius:7px;
+    padding:4px 9px;max-width:290px}
+  .mdledger{display:flex;align-items:baseline;gap:7px;font-size:12px;flex-wrap:wrap}
+  .mdledger b{font-size:15px;font-weight:680}
+  .mdledger .sep{color:var(--line2)}
+  .focusbar{display:flex;align-items:center;gap:6px;flex-wrap:wrap;flex:none;
+    background:var(--surface);border:1px solid var(--line);border-radius:var(--radius);
+    box-shadow:var(--shadow);padding:7px 10px}
+  .focusbar input[type=text]{flex:1;min-width:200px;font:inherit;font-size:12px;
+    color:var(--ink);background:var(--surface2);border:1px solid var(--line);
+    border-radius:6px;padding:4px 9px}
+  .focusbar .tag{background:var(--blue-soft);color:var(--blue);border-radius:6px;
+    padding:2px 8px;font-size:11.5px;cursor:pointer;white-space:nowrap}
+  .focusbar .tag:hover{text-decoration:line-through}
+  .focusbar .addt{border:1px dashed var(--line);color:var(--muted);border-radius:6px;
+    padding:2px 8px;font-size:11.5px;background:none;font-family:inherit;cursor:pointer}
+  /* The narrative earns two lines. A generated paragraph that runs to four
+     pushes the cards down on every screen, and nobody reads the fourth. */
+  .mdlede{flex:none;background:var(--blue-soft);color:var(--blue);
+    border-radius:var(--radius);padding:7px 11px;font-size:12.5px;line-height:1.5;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;
+    overflow:hidden;cursor:pointer}
+  .mdlede.open{-webkit-line-clamp:unset;overflow:visible}
+  /* The aside is a footnote, not a third of the page. */
+  #mydayCols{grid-template-columns:minmax(0,1.15fr) minmax(0,1.15fr) minmax(0,0.85fr)}
+  @media(max-width:1240px){#mydayCols{grid-template-columns:repeat(2,minmax(0,1fr))}
+    #mydayCols>*:last-child{grid-column:1/-1}}
+  @media(max-width:1100px){#mydayCols{grid-template-columns:minmax(0,1fr)}}
+  .mdlede.focused{background:var(--amber-soft);color:var(--amber)}
+  .mdcol h3 .n{margin-left:auto;font-weight:400;color:var(--muted)}
+  .mdcard{padding:7px 0;border-top:1px solid var(--line);cursor:pointer}
+  .mdcard:first-child{border-top:none}
+  .mdcard:hover .t{color:var(--blue)}
+  .mdcard .t{font-weight:640;font-size:12.5px;line-height:1.35;display:block}
+  .mdcard .p{font-size:11.5px;color:var(--ink2);line-height:1.5;margin-top:2px;
+    display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+  .mdcard .m{font-size:11px;color:var(--muted);margin-top:3px}
+  .mdcard .m .ent{background:var(--grey-soft);border-radius:4px;padding:1px 5px;
+    margin-left:4px;color:var(--ink2)}
+  .mdcard .m .maybe{background:var(--amber-soft);color:var(--amber);border-radius:4px;
+    padding:1px 5px;margin-left:4px}
+  .mdquiet{font-size:12px;line-height:1.7}
+  .mdquiet a{color:var(--ink);cursor:pointer;display:block}
+  .mdquiet a:hover{color:var(--blue)}
+  .mdquiet .s{color:var(--muted)}
+  .mdnote{font-size:11.5px;color:var(--ink2);line-height:1.6}
+  .mdnote b{color:var(--ink)}
   /* ── brand + slim header ── */
   .top{height:46px;padding:0 16px;gap:10px}
   .brand{font-size:12.5px;gap:7px;font-weight:700;letter-spacing:-.01em}
@@ -1067,8 +1119,12 @@
     </div>
   </div>
 
-  <div class="view" id="v-myday">
-    <div id="mydayBody" class="empty">loading…</div>
+  <div class="view fitpage" id="v-myday">
+    <div id="mydayHead" class="todaybar">loading…</div>
+    <div id="mydayFocus" class="focusbar"></div>
+    <div id="mydayLede" class="mdlede"></div>
+    <div id="mydayCols" class="fitrow c3 grow"></div>
+    <div id="mydayEmpty" class="empty" style="display:none"></div>
   </div>
 
   <div class="view fitpage" id="v-hea">
@@ -1443,15 +1499,29 @@ function show(which,push=true,opts={}){
 /* ── my day: the generated page ───────────────────────────── */
 const SEV_C={serious:"var(--red)",watch:"var(--amber)"};
 let MYDAY=null,MYDAY_PID=null;
-function mydaySwitcher(list,current){
-  if(!list||list.length<2)return "";
-  return `<div class="md-switch">`+list.map(p=>
-    `<button class="${p.persona_id===current?"on":""}"
-       onclick="MYDAY_PID='${p.persona_id}';loadMyDay()">
-       ${p.lane==="news"?"📰":"🏛️"} ${esc(p.name)}</button>`).join("")+`</div>`;
+/* ── My Day ────────────────────────────────────────────────
+   Three columns, because the page is triaged in three moves: act on it, read
+   it before Monday, note that it happened. Stacked, Watch started below the
+   fold on every screen, so the middle of the page was the part nobody saw.
+   Each card carries the opening of its own document so the click is a choice
+   rather than the only way to find out what happened. */
+let MYDAY_FOCUS=null;            // the ephemeral view, or null for the day's page
+let FOCUS_ENT=[], FOCUS_SRC=[];
+
+function personaPicker(list,current){
+  if(!list||!list.length)return "";
+  if(list.length<2){
+    const p=list[0];
+    return `<b style="font-size:13px">${esc(p.name)}</b>`;
+  }
+  return `<select class="mdsel" aria-label="Persona"
+     onchange="MYDAY_PID=this.value;MYDAY_FOCUS=null;loadMyDay()">`+
+    list.map(p=>`<option value="${esc(p.persona_id)}" ${p.persona_id===current?"selected":""}
+      >${esc(p.name)}</option>`).join("")+`</select>`;
 }
+
 async function loadMyDay(day){
-  const el=$("mydayBody");
+  const head=$("mydayHead"), empty=$("mydayEmpty");
   try{
     const qs=new URLSearchParams();
     if(day)qs.set("day",day);
@@ -1465,72 +1535,178 @@ async function loadMyDay(day){
     if(MYDAY_PID)qs.set("persona_id",MYDAY_PID);
     const page=await j(`/myday${qs.toString()?`?${qs}`:""}`);
     MYDAY=page;MYDAY.all_personas=inLane;
-  }catch(e){el.classList.remove("empty");el.innerHTML=`<div class="md-empty"><h3>Could not build your page</h3>
-    <p>${esc(e.message)}</p></div>`;return;}
-  el.classList.remove("empty");
-  if(!MYDAY.persona){
-    let starters=[];
-    try{starters=(await j(`/personas/starters`)).starters||[];}catch(e){}
-    el.innerHTML=`<div class="md-empty"><h3>Tell us what you follow</h3>
-      <p>Your daily page is built from a persona — the names, topics and rules
-         you are responsible for. This lane has none yet; start from one of these,
-         or build your own.</p>
-      <div class="starters">`+starters.map(s=>
-        `<button class="starter" onclick="useStarter('${s.key}')">
-           <b>${s.lane==="news"?"📰":"🏛️"} ${esc(s.name)}</b>
-           <span>${esc(s.blurb)}</span></button>`).join("")+`</div>
-      <button class="btn" onclick="show('per')">Build one from scratch →</button></div>`;
-    window._starters=starters;
+  }catch(e){
+    head.innerHTML=`<span style="color:var(--red)">Could not build your page — ${esc(e.message)}</span>`;
     return;}
-  const spec=MYDAY.spec||{},led=MYDAY.ledger||{},items=(MYDAY.dossier||{}).items||[];
-  const byKey={};items.forEach(i=>byKey[i.cluster_key]=i);
-  let html=mydaySwitcher(MYDAY.all_personas,MYDAY.persona.persona_id);
-  html+=`<div class="md-head"><b>${esc(MYDAY.persona.name)}</b>
-    <span class="chip">${fmt(MYDAY.persona.entity_count)} names · ${esc(spec.layout||"")
-      .replace(/_/g," ")}</span>
-    <span class="day">${esc(spec.day||"")} · generated ${MYDAY.cached?"earlier today":"just now"}
-      · ${esc(MYDAY.generator||"")} · read-only</span></div>`;
-  if(MYDAY.day_note)html+=`<div class="md-quiet" style="margin:8px 0">${esc(MYDAY.day_note)}</div>`;
-  if(MYDAY.updated_note)html+=`<div class="md-upd"><b>Updated</b> — ${esc(MYDAY.updated_note)}</div>`;
-  for(const sec of (spec.sections||[])){
-    if(sec.component==="lede")html+=`<div class="md-lede">${esc(sec.text||"")}</div>`;
-    else if(sec.component==="stats")html+=`<div class="tiles">`+
-      (sec.stats||[]).map(s=>tile(fmt(s.value),esc(s.label),
-        s.tone==="crit"?"bad":s.tone==="warn"?"warn":s.tone==="good"?"up":"")).join("")+`</div>`;
-    else if(sec.component==="event_list"){
-      html+=`<h3 class="sec">${esc(sec.title||"")}</h3>`;
-      for(const key of (sec.items||[])){
-        const i=byKey[key];if(!i)continue;
-        html+=`<div class="md-ev" style="--c:${SEV_C[i.severity]||"var(--muted)"}"
-          onclick="openMyDayItem('${esc(key)}')">
-          <b>${esc(i.title||"")}</b>
-          <div class="m"><span class="sev">${esc((i.event_type||"").replace(/_/g," ").toUpperCase())}</span>
-            ${i.entities.length?" · "+esc(i.entities.join(", ")):""}
-            ${(i.possible_entities||[]).map(pe=>
-              `<span class="md-maybe" title="${esc(pe.reason||"")}">possible: ${esc(pe.name)} — verify</span>`).join("")}
-            ${i.rule_families.length?" · "+esc(i.rule_families.join(", ")):""}
-            · ${i.corroboration} source${i.corroboration>1?"s":""} · ${esc(i.why||"")}</div></div>`;}}
-    else if(sec.component==="rule_state"){
-      const changed=new Set(sec.changed||[]);
-      html+=`<h3 class="sec">Your rule families</h3>`;
-      html+=`<div class="md-quiet">`+(changed.size
-        ? `${changed.size} of ${(sec.families||[]).length} watched families moved today.`
-        : `<b>Unchanged:</b> ${esc((sec.families||[]).join(" · "))} — verified against
-           ${fmt(led.scanned_documents||0)} documents collected for ${esc(spec.day||"")}.`)+`</div>`;}
-    else if(sec.component==="quiet_note")html+=`<div class="md-quiet"><b>All quiet.</b> ${esc(sec.text||"")}</div>`;
-    else if(sec.component==="ledger"){
-      const s=sec.ledger||{};
-      html+=`<div class="md-ledger">Coverage ledger: ${fmt(s.shown||0)} shown of
-        ${fmt(s.matched||0)} matched · ${fmt(s.quiet_entities||0)} of
-        ${fmt(s.watchlist_size||0)} watched names quiet ·
-        ${fmt(s.suppressed_below_floor||0)} below your noise floor ·
-        ${fmt(s.suppressed_overflow||0)} beyond your page limit ·
-        ${s.entities_possible?`${fmt(s.entities_possible)} possible mention${s.entities_possible>1?"s":""} flagged to verify · `:""}
-        built from ${fmt(s.scanned_documents||0)} documents.
-        ${spec.fallback_reason?"<br>Narrative fell back to the deterministic template.":""}</div>`;}
-  }
-  el.innerHTML=html;
+  if(!MYDAY.persona){ return renderNoPersona(); }
+  empty.style.display="none";
+  renderMyDayHead(); renderFocusBar(); renderMyDayCols();
 }
+
+async function renderNoPersona(){
+  $("mydayHead").innerHTML=""; $("mydayFocus").innerHTML="";
+  $("mydayLede").innerHTML=""; $("mydayCols").innerHTML="";
+  const el=$("mydayEmpty"); el.style.display="";
+  let starters=[];
+  try{starters=(await j(`/personas/starters`)).starters||[];}catch(e){}
+  el.classList.remove("empty");
+  el.innerHTML=`<div class="md-empty"><h3>Tell us what you follow</h3>
+    <p>Your daily page is built from a persona — the names, topics and rules you
+       are responsible for. This lane has none yet.</p>
+    <div class="starters">`+starters.map(s=>
+      `<button class="starter" onclick="useStarter('${s.key}')">
+         <b>${esc(s.name)}</b><span>${esc(s.blurb)}</span></button>`).join("")+`</div>
+    <button class="btn" onclick="show('per')">Build one from scratch →</button></div>`;
+  window._starters=starters;
+}
+
+function renderMyDayHead(){
+  const spec=MYDAY.spec||{}, led=(MYDAY_FOCUS?MYDAY_FOCUS.ledger:MYDAY.ledger)||{};
+  const p=MYDAY.persona;
+  $("mydayHead").innerHTML=
+    `${personaPicker(MYDAY.all_personas,p.persona_id)}
+     <span style="font-size:11.5px;color:var(--muted)">${fmt(p.entity_count)} names</span>
+     <div class="sep"></div>
+     <span style="font-size:11.5px;color:var(--muted)">${esc(spec.day||"")} ·
+       generated ${MYDAY.cached?"earlier":"just now"} · ${esc(MYDAY.generator||"")} · read-only</span>
+     <span class="spacer" style="flex:1"></span>
+     <span class="mdledger">
+       <span><b style="color:var(--red)">${led.serious||0}</b> serious</span><span class="sep">·</span>
+       <span><b style="color:var(--amber)">${led.watch||0}</b> watch</span><span class="sep">·</span>
+       <span><b>${fmt(led.quiet_entities||0)}</b> quiet</span><span class="sep">·</span>
+       <span style="color:var(--muted)"><b style="color:var(--ink)">${fmt(led.matched||0)}</b>
+         of ${fmt(led.scanned_documents||0)} matched</span>
+     </span>`+
+    (MYDAY.day_note?`<div style="flex-basis:100%;font-size:11px;color:var(--muted)">${esc(MYDAY.day_note)}</div>`:"")+
+    (MYDAY.updated_note?`<div style="flex-basis:100%;font-size:11px;color:var(--amber)"><b>Updated</b> — ${esc(MYDAY.updated_note)}</div>`:"");
+}
+
+function renderFocusBar(){
+  const tags=(arr,kind)=>arr.map((t,i)=>
+    `<span class="tag" title="remove" onclick="dropFocusTerm('${kind}',${i})">${esc(t)} ✕</span>`).join("");
+  $("mydayFocus").innerHTML=
+    `<span style="font-size:11.5px;color:var(--muted)">Focus</span>
+     <input type="text" id="focusPrompt" placeholder="a question — orders and summarises, never adds"
+       value="${esc(MYDAY_FOCUS?MYDAY_FOCUS.criteria.prompt:"")}"
+       onkeydown="if(event.key==='Enter')applyFocus()">
+     ${tags(FOCUS_ENT,'ent')}
+     <button class="addt" onclick="addFocusTerm('ent')">+ entity</button>
+     ${tags(FOCUS_SRC,'src')}
+     <button class="addt" onclick="addFocusTerm('src')">+ source</button>
+     <button class="btn primary sm" onclick="applyFocus()">Focus</button>`+
+    (MYDAY_FOCUS?`<button class="btn sm" onclick="clearFocus()">✕ Back to today's page</button>`:"");
+}
+function addFocusTerm(kind){
+  const v=prompt(kind==='ent'?"Entity name (as you would write it)":"Source id, e.g. osfi");
+  if(!v)return;
+  (kind==='ent'?FOCUS_ENT:FOCUS_SRC).push(v.trim());
+  renderFocusBar();
+}
+function dropFocusTerm(kind,i){
+  (kind==='ent'?FOCUS_ENT:FOCUS_SRC).splice(i,1);
+  renderFocusBar(); if(MYDAY_FOCUS)applyFocus();
+}
+function clearFocus(){MYDAY_FOCUS=null;FOCUS_ENT=[];FOCUS_SRC=[];
+  renderMyDayHead();renderFocusBar();renderMyDayCols();}
+
+async function applyFocus(){
+  const q=($("focusPrompt")||{}).value||"";
+  if(!q.trim()&&!FOCUS_ENT.length&&!FOCUS_SRC.length)return clearFocus();
+  try{
+    const r=await fetch(API+"/myday/focus",{method:"POST",
+      headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({persona_id:MYDAY.persona.persona_id,
+        day:(MYDAY.spec||{}).day, prompt:q, entities:FOCUS_ENT, sources:FOCUS_SRC})});
+    if(!r.ok)throw new Error("HTTP "+r.status);
+    MYDAY_FOCUS=await r.json();
+  }catch(e){toast("Could not focus: "+e.message);return;}
+  renderMyDayHead();renderFocusBar();renderMyDayCols();
+}
+
+function mdCard(i){
+  const ents=(i.entities||[]).slice(0,3).map(e=>`<span class="ent">${esc(e)}</span>`).join("");
+  const maybe=(i.possible_entities||[]).slice(0,2).map(pe=>
+    `<span class="maybe" title="${esc(pe.reason||"ambiguous match")}">${esc(pe.name)}?</span>`).join("");
+  return `<div class="mdcard" onclick="openMyDayItem('${esc(i.cluster_key)}')">
+    <b class="t">${esc(i.title||"")}</b>
+    ${i.preview?`<div class="p">${esc(i.preview)}</div>`:""}
+    <div class="m">${esc((i.event_type||"").replace(/_/g," "))}
+      · ${i.corroboration} source${i.corroboration>1?"s":""}
+      ${i.preview_kind?`· ${esc(i.preview_kind)}`:""}${ents}${maybe}</div>
+  </div>`;
+}
+
+function mdPanel(title,note,body,accent){
+  return `<div class="fitpanel mdcol">
+    <h3>${accent?`<span style="width:4px;height:11px;background:${accent};border-radius:2px"></span>`:""}
+      ${esc(title)} <span class="plain">${esc(note||"")}</span></h3>
+    <div class="fitbody pad">${body}</div></div>`;
+}
+
+function renderMyDayCols(){
+  const spec=MYDAY.spec||{}, led=(MYDAY_FOCUS?MYDAY_FOCUS.ledger:MYDAY.ledger)||{};
+  const items=MYDAY_FOCUS?MYDAY_FOCUS.items:((MYDAY.dossier||{}).items||[]);
+  const serious=items.filter(i=>i.severity==="serious");
+  const watch=items.filter(i=>i.severity!=="serious");
+
+  // the lede: the page's own narrative, or the focus note when one is showing
+  const lede=$("mydayLede");
+  if(MYDAY_FOCUS){
+    lede.className="mdlede focused";
+    lede.innerHTML=`<b>Focused view</b> — ${esc(MYDAY_FOCUS.notice)}.`+
+      (MYDAY_FOCUS.note?`<br>${esc(MYDAY_FOCUS.note)}`:"")+
+      (MYDAY_FOCUS.reason?`<br><span style="opacity:.75">${esc(MYDAY_FOCUS.reason)}</span>`:"");
+  }else{
+    const sec=(spec.sections||[]).find(s=>s.component==="lede");
+    lede.className="mdlede";
+    lede.innerHTML=sec&&sec.text?esc(sec.text):"";
+    lede.onclick=()=>lede.classList.toggle("open");
+    lede.title="click to expand";
+    lede.style.display=sec&&sec.text?"":"none";
+  }
+  if(MYDAY_FOCUS)lede.style.display="";
+
+  const quietSec=(spec.sections||[]).find(s=>s.component==="quiet_note");
+  const ruleSec=(spec.sections||[]).find(s=>s.component==="rule_state");
+
+  // third column: what is NOT here, which is the reassurance half of the page
+  let aside="";
+  if(ruleSec){
+    const changed=new Set(ruleSec.changed||[]);
+    aside+=`<div class="mdnote" style="margin-bottom:9px">`+(changed.size
+      ? `<b>${changed.size} of ${(ruleSec.families||[]).length}</b> watched rule families moved today.`
+      : `<b>Unchanged:</b> ${esc((ruleSec.families||[]).join(" · "))} — checked against
+         ${fmt(led.scanned_documents||0)} documents.`)+`</div>`;
+  }
+  aside+=`<div class="mdnote">
+    <b>${fmt(led.quiet_entities||0)}</b> of ${fmt(led.watchlist_size||0)} watched names had no event.<br>
+    <b>${fmt((led.scanned_documents||0)-(led.matched||0))}</b> documents scanned, no watchlist name matched.<br>
+    ${led.suppressed_below_floor?`<b>${fmt(led.suppressed_below_floor)}</b> matched but sat below your noise floor.<br>`:""}
+    ${led.suppressed_overflow?`<b>${fmt(led.suppressed_overflow)}</b> beyond your page limit.<br>`:""}
+    ${led.entities_possible?`<span style="color:var(--amber)"><b>${fmt(led.entities_possible)}</b> possible name match${led.entities_possible>1?"es":""} held back as ambiguous — verify.</span><br>`:""}
+    ${spec.fallback_reason?`<span style="color:var(--amber)">Narrative fell back to the deterministic template.</span>`:""}
+  </div>`;
+  if(MYDAY_FOCUS&&MYDAY_FOCUS.filtering){
+    const f=MYDAY_FOCUS.filtering;
+    aside=`<div class="mdnote" style="margin-bottom:9px"><b>Your filter</b> kept
+      ${f.kept} of ${f.input} cards`+
+      (f.dropped_no_entity_match?` · ${f.dropped_no_entity_match} named no entity you asked for`:"")+
+      (f.dropped_no_source_match?` · ${f.dropped_no_source_match} came from another source`:"")+
+      `.</div>`+aside;
+  }
+
+  $("mydayCols").innerHTML=
+    mdPanel("Serious", serious.length?"· act today":"· nothing today",
+      serious.length?serious.map(mdCard).join(""):
+        `<div class="mdnote">Nothing crossed your serious threshold.</div>`,
+      "var(--red)")+
+    mdPanel("Watch", watch.length?"· read before you finish":"· nothing today",
+      watch.length?watch.map(mdCard).join(""):
+        `<div class="mdnote">${esc((quietSec&&quietSec.text)||"No items matched today.")}</div>`,
+      "var(--amber)")+
+    mdPanel("Not on this page", "· what was checked and set aside", aside, "var(--green)");
+}
+
 async function openMyDayItem(key){
   try{
     const qs=new URLSearchParams();

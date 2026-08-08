@@ -76,6 +76,39 @@ def _extraction_of(doc) -> dict:
             "backend": "on_read", "version": "0"}
 
 
+def _attach_previews(items: List[dict], regs: dict) -> None:
+    """Give each card the opening of its own top document.
+
+    Only the cards that will be shown, and only their first document — the
+    dossier is cached on the page, so previewing all six documents of twenty
+    clusters would multiply the stored page for text nobody sees.
+
+    The lane comes from the source's category, not the persona's: a preview of
+    a news story is the publisher's feed summary and may never be the article
+    body, and that rule follows the document rather than the reader.
+    """
+    from sajha.regagg import excerpt as _x
+    try:
+        from sajha.regagg import runtime
+        storage = runtime.get_storage()
+    except Exception:  # noqa: BLE001 — previews are never worth an outage
+        return
+    for item in items:
+        docs = item.get("docs") or []
+        if not docs:
+            continue
+        top = docs[0]
+        lane = getattr(regs.get(top.get("regulator_id")), "category", "regulatory")
+        text = _x.for_prefix(storage, top.get("s3_prefix"),
+                             title=top.get("title") or item.get("title") or "",
+                             lane=lane)
+        if text:
+            item["preview"] = text
+            item["preview_source"] = top.get("source") or top.get("regulator_id")
+            item["preview_kind"] = ("publisher summary" if lane == "news"
+                                    else "document opening")
+
+
 def build_dossier(session, persona: Persona, day: Optional[str] = None,
                   lookback_days: int = 1, now: Optional[datetime] = None,
                   max_items: Optional[int] = None) -> dict:
@@ -162,7 +195,10 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
         c["docs"].append({"regulator_id": d.regulator_id, "doc_id": d.doc_id,
                           "title": d.title, "url": d.source_url,
                           "source": getattr(regs.get(d.regulator_id), "name", d.regulator_id),
-                          "published": str(d.published_date or "")})
+                          "published": str(d.published_date or ""),
+                          # carried so a preview can be read later without a
+                          # second pass over the documents table
+                          "s3_prefix": d.s3_prefix})
         c["sources"].add(d.regulator_id)
         for h in matched_names:
             c["entities"][h["canonical"]] = h
@@ -228,6 +264,8 @@ def build_dossier(session, persona: Persona, day: Optional[str] = None,
     below_floor = [i for i in items if i["corroboration"] < min_corroboration]
     keep = [i for i in items if i["corroboration"] >= min_corroboration]
     shown, overflow = keep[:cap], keep[cap:]
+
+    _attach_previews(shown, regs)
 
     touched = {n for i in shown for n in i["entities"]}
     flagged = {p["name"] for i in shown for p in i.get("possible_entities", [])}

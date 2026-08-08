@@ -79,6 +79,15 @@ class RerunRequest(BaseModel):
     include: Optional[str] = None      # comma-separated URL regex (gap-fill scope)
 
 
+class FocusRequest(BaseModel):
+    """A lens over today's page. Entities and sources filter; prompt narrates."""
+    persona_id: Optional[str] = None
+    day: Optional[str] = None
+    prompt: Optional[str] = None
+    entities: Optional[List[str]] = None
+    sources: Optional[List[str]] = None
+
+
 def _audit(session, operator: str, action: str, rtype: str, rid: str, details: str = "") -> None:
     """Best-effort audit to the core audit_log (no-op if table absent in a test DB)."""
     try:
@@ -565,6 +574,29 @@ def create_admin_router() -> APIRouter:
     def runs_over():
         from sajha.regagg import queries_ui
         return queries_ui.runs_overview(runtime.get_session())
+
+    @router.post("/myday/focus")
+    def myday_focus(req: FocusRequest, request: Request):
+        """An ephemeral focused view. Never writes, never replaces the day's page.
+
+        POST because it carries a free-text prompt, not because it changes
+        anything — nothing here touches the cached PageSpec.
+        """
+        from sajha.regagg import focus as _f, myday as _m, personas as _p
+        user = _require_user(request)
+        session = runtime.get_session()
+        if req.persona_id:
+            p, err = _p.get_persona(session, req.persona_id, user.user_id)
+            if err:
+                raise HTTPException(404, err)
+        else:
+            mine = _p.list_personas(session, user.user_id)
+            if not mine:
+                raise HTTPException(404, "no persona")
+            p = mine[0]
+        page = _m.build_my_day(session, p, day=req.day)
+        return _f.focus(page, prompt=req.prompt or "",
+                        entities=req.entities, sources=req.sources)
 
     @router.get("/collection/overview")
     def collection_overview(lane: Optional[str] = None, days: int = 7,
