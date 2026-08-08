@@ -378,11 +378,41 @@ class PageSpec(Base):
     )
 
 
+class EntityScan(Base):
+    """One entity's news for one day, as returned by the external search.
+
+    Cached per persona, day and entity because every row costs a billed search.
+    A sweep re-run fills only the gaps, so opening the page twice, or retrying
+    after a partial failure, does not spend the budget again.
+
+    `status` carries why a row is empty, which is the whole point of keeping a
+    row for every entity: "no news found" and "the search failed" and "we ran
+    out of budget before reaching this name" are three different facts, and a
+    blank cell states none of them.
+    """
+    __tablename__ = "reg_entity_scans"
+
+    persona_id = Column(String(64), primary_key=True)
+    day = Column(String(10), primary_key=True)
+    entity = Column(String(255), primary_key=True)
+    status = Column(String(16), nullable=False, default="ok")   # ok|none|error|skipped
+    mode = Column(String(8), nullable=False, default="live")    # live | demo
+    detail = Column(Text)
+    hits = Column(JSONFlex, nullable=False, default=list)       # raw search results
+    columns = Column(JSONFlex, nullable=False, default=dict)    # classified values
+    classified = Column(Boolean, nullable=False, default=False)
+    searched_at = Column(DateTime(timezone=True), nullable=False, default=_utcnow)
+
+    __table_args__ = (
+        Index("ix_reg_entity_scans_day", "persona_id", "day"),
+    )
+
+
 # Every corpus table, in dependency order (used by verify + reconcile jobs).
 REGAGG_MODELS = [
     Regulator, SeenUrl, Document, DocumentVersion, DocumentTag,
     DocumentEdge, PendingEdge, Run, Watermark,
-    RegUser, Persona, PersonaEntity, PersonaVersion, PageSpec,
+    RegUser, Persona, PersonaEntity, PersonaVersion, PageSpec, EntityScan,
 ]
 
 __all__ = [m.__name__ for m in REGAGG_MODELS] + ["REGAGG_MODELS", "JSONFlex"]

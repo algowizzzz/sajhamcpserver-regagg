@@ -807,6 +807,9 @@
     display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;
     overflow:hidden;cursor:pointer}
   .mdlede.open{-webkit-line-clamp:unset;overflow:visible}
+  .etsummary{flex:none;background:var(--blue-soft);color:var(--blue);
+    border-radius:var(--radius);padding:7px 11px;font-size:12.5px;
+    line-height:1.5}
   /* The aside is a footnote, not a third of the page. */
   #mydayCols{grid-template-columns:minmax(0,1.15fr) minmax(0,1.15fr) minmax(0,0.85fr)}
   @media(max-width:1240px){#mydayCols{grid-template-columns:repeat(2,minmax(0,1fr))}
@@ -831,6 +834,37 @@
   .mdquiet .s{color:var(--muted)}
   .mdnote{font-size:11.5px;color:var(--ink2);line-height:1.6}
   .mdnote b{color:var(--ink)}
+
+  /* ── entity table ────────────────────────────────────────────────────────
+     The demo banner is deliberately loud and cannot be dismissed. Someone will
+     screenshot this table into a credit paper; the one thing that must survive
+     the screenshot is that the headlines are invented. */
+  .demobanner{flex:none;background:#7c2d12;color:#fff;border-radius:var(--radius);
+    padding:7px 12px;font-size:12px;font-weight:600;display:flex;gap:9px;
+    align-items:center}
+  .demobanner span{font-weight:400;opacity:.9}
+  .ettable{width:100%;border-collapse:collapse;font-size:11.5px}
+  .ettable th{position:sticky;top:0;background:var(--surface);text-align:left;
+    font-weight:600;color:var(--muted);font-size:10.5px;text-transform:uppercase;
+    letter-spacing:.04em;padding:5px 7px;border-bottom:1px solid var(--line);z-index:1}
+  .ettable td{padding:5px 7px;border-bottom:1px solid var(--line2);
+    vertical-align:top}
+  .ettable tr:hover td{background:var(--surface2)}
+  .ettable .nm{font-weight:640;white-space:nowrap}
+  .ettable .ti a{color:var(--ink);font-weight:600}
+  .ettable .ti a:hover{color:var(--blue)}
+  .ettable .sn{color:var(--ink2);line-height:1.45;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .ettable .src{color:var(--muted);white-space:nowrap;font-size:10.5px}
+  .etv{border-radius:4px;padding:1px 6px;font-size:10.5px;white-space:nowrap}
+  .etv.unknown{background:var(--grey-soft);color:var(--muted)}
+  .etv.on{background:var(--blue-soft);color:var(--blue)}
+  .etst{border-radius:4px;padding:1px 6px;font-size:10px;font-weight:600}
+  .etst.ok{background:var(--green-soft);color:var(--green)}
+  .etst.none{background:var(--grey-soft);color:var(--muted)}
+  .etst.error{background:var(--red-soft);color:var(--red)}
+  .etst.skipped{background:var(--amber-soft);color:var(--amber)}
+  .etst.pending{background:var(--surface2);color:var(--muted)}
   /* ── brand + slim header ── */
   .top{height:46px;padding:0 16px;gap:10px}
   .brand{font-size:12.5px;gap:7px;font-weight:700;letter-spacing:-.01em}
@@ -1127,6 +1161,25 @@
     <div id="mydayEmpty" class="empty" style="display:none"></div>
   </div>
 
+  <div class="view fitpage" id="v-etab">
+    <div id="etDemo" class="demobanner" style="display:none"></div>
+    <div id="etHead" class="todaybar">loading…</div>
+    <div id="etSummary" class="etsummary" style="display:none"></div>
+    <div class="fitpanel grow" style="min-height:0">
+      <h3>Watchlist <span class="plain" id="etNote"></span>
+        <span class="spacer" style="flex:1"></span>
+        <span id="etMsg" style="font-size:11px;color:var(--muted);text-transform:none;letter-spacing:0"></span></h3>
+      <div class="runbar">
+        <input type="text" id="etQ" placeholder="filter by name or headline"
+          oninput="etDebounce()" style="flex:1;min-width:160px;font:inherit;font-size:11.5px;
+          color:var(--ink);background:var(--surface2);border:1px solid var(--line);
+          border-radius:6px;padding:3px 8px">
+        <span class="chips" id="etChips"></span>
+      </div>
+      <div class="fitbody" id="etBody"><div class="empty">loading…</div></div>
+    </div>
+  </div>
+
   <div class="view fitpage" id="v-hea">
     <div id="heaVerdict" class="verdict">loading…</div>
 
@@ -1188,6 +1241,14 @@
         </div>
         <label for="perFamilies">Rule families (regulatory lane)</label>
         <input id="perFamilies" placeholder="osfi-car, b-13, fincen-aml">
+        <label for="perColumns">Entity table columns
+          <span style="font-weight:400;color:var(--muted)">— YAML or JSON. Each column
+          declares its allowed values; anything the model returns outside them becomes
+          "unknown" rather than a guess.</span></label>
+        <textarea id="perColumns" spellcheck="false" style="min-height:120px;
+          font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:11.5px"
+          placeholder="columns:&#10;  - name: event&#10;    values: [major, minor, none]"></textarea>
+        <div id="perColMsg" style="font-size:11.5px;color:var(--muted);margin-top:-4px"></div>
         <div class="pv" id="perPreview"></div>
         <button class="btn primary" style="margin-top:14px" onclick="perSave()">Save persona</button>
         <span id="perMsg" style="margin-left:10px;font-size:12px;color:var(--muted)"></span>
@@ -1390,15 +1451,17 @@ let _t;function toast(m){const t=$("toast");t.textContent=m;t.classList.add("sho
    in the lane bar, never left implicit. */
 const LANES={
   reg:{icon:"🏛️",name:"Regulatory Intelligence",cat:"regulatory",
-    tabs:[["ovw","Overview"],["myday","My Day"],["cov","Regulators"],
+    tabs:[["ovw","Overview"],["myday","My Day"],["etab","Entity table"],
+          ["cov","Regulators"],
           ["brw","Documents"],["chg","What changed"],["run","Collection"],
           ["exp","Files"],["per","Personas"]]},
   news:{icon:"📰",name:"Financial News",cat:"news",
-    tabs:[["newslane","Overview"],["myday","My Day"],["feed","Today's stories"],
+    tabs:[["newslane","Overview"],["myday","My Day"],["etab","Entity table"],
+          ["feed","Today's stories"],
           ["brw","All stories"],["cov","Wires"],["run","Collection"],
           ["per","Personas"]]},
 };
-const HOME_OF={ovw:"reg",cov:"reg",brw:"reg",chg:"reg",run:"reg",exp:"reg",
+const HOME_OF={ovw:"reg",cov:"reg",brw:"reg",chg:"reg",run:"reg",exp:"reg",etab:"news",
                newslane:"news",feed:"news",myday:"news",per:"news"};
 let LANE=null;                       // which lane the user is inside
 function laneScope(){return LANE?LANES[LANE].cat:null}
@@ -1435,6 +1498,7 @@ async function applyLaneScope(view){
     await loadCorpus(true);}
   if(view==="chg"){await loadChanges();}
   if(view==="run"){await loadCollection();}
+  if(view==="etab"){await loadEntityTable();}
   if(view==="cov"){renderTree();}
 }
 const RETITLE={news:{"v-cov":["Wires we watch",
@@ -1471,7 +1535,7 @@ function renderLaneBar(view){
 }
 
 function show(which,push=true,opts={}){
-  const VIEWS=["myday","home","ovw","newslane","feed","cov","brw","exp","chg","run","per","hea"];
+  const VIEWS=["myday","etab","home","ovw","newslane","feed","cov","brw","exp","chg","run","per","hea"];
   VIEWS.forEach(v=>$("v-"+v).classList.toggle("on",v===which));
   if(push){window._ourHash=which==="home"?"":which;
            location.hash=window._ourHash;}
@@ -1491,6 +1555,7 @@ function show(which,push=true,opts={}){
   if(which==="per"){loadPersonas();}
   if(which==="myday"){loadMyDay();}
   if(which==="hea"){loadHealth();}
+  if(which==="etab"){loadEntityTable();}
   if(which==="run"){loadCollection();}
   if(which==="brw"&&!window._corpusLoaded){window._corpusLoaded=1;loadCorpus(true);}
   if(which==="exp"&&!window._expLoaded){window._expLoaded=1;loadExplorer();}
@@ -1977,6 +2042,117 @@ async function askSend(){
 }
 
 /* ── health: one pane for the platform team ───────────────── */
+/* ── entity table ──────────────────────────────────────────
+   One row per watched name, including the names with nothing to report —
+   those are the reassurance. A table of only the hits would be a list of
+   stories pretending to be a review of the book.
+   Reading the table never spends anything; the sweep is the only thing that
+   calls out, and it is always an explicit click. */
+let ETAB=null, ET_STATUS="", ET_Q="", ET_TIMER=null;
+
+async function loadEntityTable(){
+  const qs=new URLSearchParams({summary:"true"});
+  if(MYDAY_PID)qs.set("persona_id",MYDAY_PID);
+  if(ET_STATUS)qs.set("status",ET_STATUS);
+  if(ET_Q)qs.set("q",ET_Q);
+  try{ ETAB=await j(`/entities/table?${qs}`); }
+  catch(e){ $("etBody").innerHTML=`<div class="empty">Could not load: ${esc(e.message)}</div>`;
+    return; }
+  renderEntityTable();
+}
+function etDebounce(){
+  clearTimeout(ET_TIMER);
+  ET_TIMER=setTimeout(()=>{ET_Q=($("etQ")||{}).value||"";loadEntityTable();},250);
+}
+function etStatus(v){ET_STATUS=v===ET_STATUS?"":v;loadEntityTable();}
+
+async function etSweep(refresh){
+  const est=(ETAB&&ETAB.estimate)||{};
+  if(ETAB&&ETAB.configured){
+    // real money: say the number before the click, not after
+    const n=refresh?ETAB.total:(ETAB.counts.pending||ETAB.total);
+    if(!confirm(`Search ${n} name(s) via Tavily — about ${n} credit(s). Continue?`))return;
+  }
+  $("etMsg").textContent="searching…";
+  try{
+    const r=await fetch(API+"/entities/sweep",{method:"POST",
+      headers:{"Content-Type":"application/json"},
+      body:JSON.stringify({persona_id:MYDAY_PID,refresh:!!refresh,classify:true})});
+    const d=await r.json();
+    if(!r.ok)throw new Error(d.detail||("HTTP "+r.status));
+    $("etMsg").textContent=`${d.searched} searched · ${d.credits} credit(s)`+
+      (d.cached?` · ${d.cached} already cached`:"")+
+      (d.skipped?` · ${d.skipped} not reached`:"")+
+      (d.errors?` · ${d.errors} failed`:"");
+  }catch(e){$("etMsg").textContent="sweep failed: "+e.message;}
+  loadEntityTable();
+}
+
+function renderEntityTable(){
+  const d=ETAB, c=d.counts||{};
+  const dem=$("etDemo");
+  if(d.mode==="demo"||!d.configured){
+    dem.style.display="";
+    dem.innerHTML=`⚠ Demo data — these headlines are invented
+      <span>No TAVILY_API_KEY is set, so the sweep generated placeholder stories.
+      Nothing here describes a real event. Set the key and re-run to replace them.</span>`;
+  } else dem.style.display="none";
+
+  $("etHead").innerHTML=
+    `<div class="date">Entity table<small>${esc((d.persona||{}).name||"")} ·
+       ${fmt(d.total)} names · ${esc(d.day||"")}</small></div>
+     <div class="sep"></div>
+     <span class="mdledger">
+       <span><b style="color:var(--green)">${fmt(c.ok||0)}</b> with news</span><span class="sep">·</span>
+       <span><b>${fmt(c.none||0)}</b> quiet</span><span class="sep">·</span>
+       <span><b style="color:var(--muted)">${fmt(c.pending||0)}</b> not searched</span>
+       ${c.error?`<span class="sep">·</span><span><b style="color:var(--red)">${fmt(c.error)}</b> failed</span>`:""}
+       ${c.skipped?`<span class="sep">·</span><span><b style="color:var(--amber)">${fmt(c.skipped)}</b> over budget</span>`:""}
+     </span>
+     <span class="spacer" style="flex:1"></span>
+     <span style="font-size:11px;color:var(--muted)">${esc((d.estimate||{}).note||"")}</span>
+     <button class="btn primary sm" onclick="etSweep(false)">▶ Run sweep</button>
+     <button class="btn sm" onclick="etSweep(true)">↻ Re-search all</button>`;
+
+  const h=d.headline||{};
+  const sum=$("etSummary");
+  if(h.summary){ sum.style.display=""; sum.className="etsummary";
+    sum.innerHTML=esc(h.summary)+(h.generated?"":
+      `<span style="opacity:.7"> — ${esc(h.reason||"counted, not written")}</span>`);
+  } else sum.style.display="none";
+
+  $("etChips").innerHTML=["ok","none","pending","error","skipped"]
+    .filter(k=>c[k]).map(k=>`<button class="chip ${ET_STATUS===k?"on":""}"
+      onclick="etStatus('${k}')">${k==="ok"?"With news":k==="none"?"Quiet":
+        k==="pending"?"Not searched":k==="error"?"Failed":"Over budget"} ${c[k]}</button>`).join("");
+  $("etNote").textContent=`· showing ${fmt(d.showing)} of ${fmt(d.total)}`+
+    (d.schema_problems&&d.schema_problems.length?` · schema: ${d.schema_problems[0]}`:"");
+
+  const cols=d.columns||[];
+  const head=`<tr><th style="width:150px">Entity</th><th>Headline</th>
+    <th style="width:88px">Source</th>`+
+    cols.map(c2=>`<th style="width:96px">${esc(c2.label)}</th>`).join("")+
+    `<th style="width:74px">Status</th></tr>`;
+  const body=(d.rows||[]).map(r=>{
+    const cell=cols.map(c2=>{
+      const v=(r.columns||{})[c2.name]||"";
+      return `<td>${v?`<span class="etv ${v==="unknown"?"unknown":"on"}">${esc(v)}</span>`:""}</td>`;
+    }).join("");
+    return `<tr>
+      <td class="nm">${esc(r.entity)}</td>
+      <td class="ti">${r.title?`<a href="${esc(r.url)}" target="_blank" rel="noopener">${esc(r.title)}</a>
+          <div class="sn">${esc(r.snippet)}</div>`
+        :`<span style="color:var(--muted)">${esc(r.detail||"—")}</span>`}</td>
+      <td class="src">${esc(r.source||"")}${r.published?`<br>${esc(r.published)}`:""}</td>
+      ${cell}
+      <td><span class="etst ${esc(r.status)}">${esc(r.status)}</span></td></tr>`;
+  }).join("");
+  $("etBody").classList.remove("empty");
+  $("etBody").innerHTML=(d.rows||[]).length
+    ? `<table class="ettable">${head}${body}</table>`
+    : `<div class="empty">No entities on this persona — add names on the Personas tab.</div>`;
+}
+
 /* ── health: can I trust what is in here ───────────────────
    Collection answers "did it run". This answers whether a green run left good
    data behind — the two failures a pass rate cannot see are a source that
@@ -2177,6 +2353,7 @@ async function perPick(id){
   $("perTopics").value=fmtWeights((p.config.salience||{}).topic_weights);
   $("perThreshold").value=(p.config.salience||{}).serious_threshold??50;
   $("perFamilies").value=((p.config.scope||{}).rule_families||[]).join(", ");
+  $("perColumns").value=((p.config.table||{}).columns)||"";
   loadPersonas();perPreview(p);
 }
 function useStarter(key){
@@ -2215,7 +2392,10 @@ function perPreview(p){
 async function perSave(){
   const cfg={scope:{rule_families:$("perFamilies").value.split(",").map(x=>x.trim()).filter(Boolean)},
              salience:{topic_weights:parseWeights($("perTopics").value),
-                       serious_threshold:+$("perThreshold").value||50}};
+                       serious_threshold:+$("perThreshold").value||50},
+             // stored verbatim so the author's own YAML comes back as they wrote
+             // it — parsing on save would round-trip their comments away
+             table:{columns:$("perColumns").value}};
   const body={name:$("perName").value.trim()||"Untitled persona",lane:$("perLane").value,
               config:cfg,entities_raw:$("perEntities").value,persona_id:PERSEL};
   const r=await fetch(API+"/personas",{method:"POST",

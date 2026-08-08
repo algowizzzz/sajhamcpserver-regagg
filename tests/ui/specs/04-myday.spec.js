@@ -32,7 +32,7 @@ test.describe('My Day — the generated page', () => {
   test('builds a page from real corpus data with a coverage ledger', async ({ page }) => {
     await makePersona(page, { name: 'Credit book', entities: 'Goodfood\nWestJet\nSuncor' });
     await page.evaluate(() => enterLane('news', 'myday'));
-    await expect(page.locator('.mdlede')).toBeVisible();
+    await expect(page.locator('#mydayLede')).toBeVisible();
     // the headline ledger is one line; the accounting behind it lives in the
     // third column, which is the half of the page that says what is NOT here
     const ledger = await page.locator('.mdledger').textContent();
@@ -60,10 +60,10 @@ test.describe('My Day — the generated page', () => {
   test('the page is read-only and stable: reopening shows the same page', async ({ page }) => {
     await makePersona(page, { name: 'Stable', entities: 'Goodfood' });
     await page.evaluate(() => enterLane('news', 'myday'));
-    const lede = await page.locator('.mdlede').textContent();
+    const lede = await page.locator('#mydayLede').textContent();
     await page.locator('#nHome').click();
     await page.evaluate(() => enterLane('news', 'myday'));
-    await expect(page.locator('.mdlede')).toHaveText(lede);
+    await expect(page.locator('#mydayLede')).toHaveText(lede);
     await expect(page.locator('#mydayHead')).toContainText('read-only');
   });
 
@@ -96,7 +96,7 @@ test.describe('My Day — the generated page', () => {
       entities: ['Goodfood', ...Array.from({length:80},(_,i)=>`Obligor ${i}`)].join('\n') });
     await page.evaluate(() => enterLane('news', 'myday'));
     await expect(page.locator('#mydayHead')).toContainText('names');
-    await expect(page.locator('.mdlede')).toContainText('were quiet');
+    await expect(page.locator('#mydayLede')).toContainText('were quiet');
   });
 });
 

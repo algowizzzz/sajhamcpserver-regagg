@@ -21,7 +21,7 @@ test.describe('onboarding and multi-persona', () => {
     await page.locator('button:has-text("Save persona")').click();
     await expect(page.locator('#perMsg')).toContainText('Saved');
     await page.evaluate(() => enterLane('news', 'myday'));
-    await expect(page.locator('.mdlede')).toBeVisible();
+    await expect(page.locator('#mydayLede')).toBeVisible();
   });
 
   test('the rules starter produces a regulatory persona', async ({ page }) => {

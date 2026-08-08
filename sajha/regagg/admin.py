@@ -79,6 +79,17 @@ class RerunRequest(BaseModel):
     include: Optional[str] = None      # comma-separated URL regex (gap-fill scope)
 
 
+class SweepRequest(BaseModel):
+    """A billed run, so every knob that affects the bill is explicit."""
+    persona_id: Optional[str] = None
+    day: Optional[str] = None
+    budget: int = 600                  # hard ceiling on searches for this sweep
+    depth: str = "basic"               # advanced costs roughly double
+    days: int = 7
+    refresh: bool = False              # re-search names already cached today
+    classify: bool = True
+
+
 class FocusRequest(BaseModel):
     """A lens over today's page. Entities and sources filter; prompt narrates."""
     persona_id: Optional[str] = None
@@ -597,6 +608,57 @@ def create_admin_router() -> APIRouter:
         page = _m.build_my_day(session, p, day=req.day)
         return _f.focus(page, prompt=req.prompt or "",
                         entities=req.entities, sources=req.sources)
+
+    def _persona_or_404(session, user, persona_id):
+        from sajha.regagg import personas as _p
+        if persona_id:
+            p, err = _p.get_persona(session, persona_id, user.user_id)
+            if err:
+                raise HTTPException(404, err)
+            return p
+        mine = _p.list_personas(session, user.user_id)
+        if not mine:
+            raise HTTPException(404, "no persona")
+        return mine[0]
+
+    @router.get("/entities/table")
+    def entities_table(request: Request, persona_id: Optional[str] = None,
+                       day: Optional[str] = None, status: Optional[str] = None,
+                       q: str = "", summary: bool = False):
+        """One row per watched entity. Reads cache only — never spends."""
+        from sajha.regagg import entity_table as _et
+        user = _require_user(request)
+        session = runtime.get_session()
+        p = _persona_or_404(session, user, persona_id)
+        data = _et.table(session, p, day=day, status=status, q=q)
+        data["persona"] = {"persona_id": p.persona_id, "name": p.name}
+        if summary:
+            data["headline"] = _et.summarise(data["rows"], total=data["total"])
+        return data
+
+    @router.post("/entities/sweep")
+    def entities_sweep(req: SweepRequest, request: Request,
+                       x_operator: str = Header("anonymous")):
+        """Run the searches. Explicitly triggered because it costs money.
+
+        Never called on page load: the table endpoint reads cache, this one
+        spends. A sweep fills only the gaps unless refresh is asked for.
+        """
+        from sajha.regagg import entity_table as _et
+        user = _require_user(request)
+        session = runtime.get_session()
+        p = _persona_or_404(session, user, req.persona_id)
+        _audit(session, x_operator, "regagg.entity_sweep", "persona",
+               p.persona_id, f"budget={req.budget} depth={req.depth}")
+        out = _et.sweep(session, p, day=req.day,
+                        budget=max(1, min(int(req.budget or 600), 2000)),
+                        depth=req.depth or "basic", days=int(req.days or 7),
+                        refresh=bool(req.refresh))
+        # Classify whatever rows exist. Gating this on a live API key meant the
+        # judged columns stayed empty in demo mode, hiding half the feature.
+        if req.classify and out.get("entities"):
+            out["classification"] = _et.classify(session, p, day=out["day"])
+        return out
 
     @router.get("/collection/overview")
     def collection_overview(lane: Optional[str] = None, days: int = 7,
