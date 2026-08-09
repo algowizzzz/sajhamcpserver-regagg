@@ -25,14 +25,14 @@ traces to a row you can open.
 
 | Dimension | Value |
 |---|---|
-| Corpus | **7,018** documents · 7,018 markdown files · 269 MB |
+| Corpus | **7,353** documents · 100% extracted · 63% carry a publication date |
 | Sources | **55** — 30 regulators + 25 news wires |
 | Versions on file | 7,536 (append-only history) |
-| Collection runs recorded | 127 |
+| Collection runs recorded | 157 |
 | Personas | 12 |
 | Database tables | 15 `reg_*` tables, SQLite dev / Postgres on-prem |
-| Python tests | **257**, `./.venv/bin/python -m pytest tests/regagg -q` (~7s) |
-| Browser tests | **75**, `bash tests/ui/run_suite.sh` (~4 min) |
+| Python tests | **299**, `./.venv/bin/python -m pytest tests/regagg -q` (~8s) |
+| Browser tests | **76**, `bash tests/ui/run_suite.sh` (~7 min) |
 | MCP tools | 22 — 12 `reg_*` + 10 `corpus_*` |
 | Server | `./.venv/bin/python run_server.py --port 3005` → UI at `/api/regagg/ui` |
 | Branch | `feat/regagg-aggregator` · remote `mine` = algowizzzz/sajhamcpserver-regagg |

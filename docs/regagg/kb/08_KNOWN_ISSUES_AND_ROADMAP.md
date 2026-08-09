@@ -5,7 +5,7 @@
 | # | Issue | State / path |
 |---|---|---|
 | 1 | ~~74% of documents have no publication date~~ | **Improved 2026-08-09: 26% → 65% dated.** `scripts/regagg_backfill_dates.py` recovered 2,747 of 5,219 (932 from URL paths, 1,815 from document text), each tagged `date:url` or `date:text` so an inferred date is distinguishable from a collected one. The remaining 2,472 carry no date anywhere we hold |
-| 2 | **85% have no extraction** (5,969 of 7,018) | No entities, no event type → invisible to entity lookup and to persona watchlists. Fix: `scripts/regagg_extract_backfill.py` over the corpus |
+| 2 | ~~85% have no extraction~~ | **Fixed 2026-08-09: 15% → 100%.** All 7,353 documents extracted; 1,306 now name a watchlist company, up from 464. The first pass lost its work to a SQLite lock held by a concurrent collection run — the script batches its commits and retries a lock now |
 | 3 | ~~87% of runs finish before they start~~ | **Fixed 2026-08-09.** `pipeline.run_regulator` stamped `finished_at` from the caller's fleet-wide `now`; it now records the real completion moment. Historic rows keep the bad values — duration is reported only for runs collected after the fix |
 | 4 | ~~6 runs with contradictory counters~~ | **Resolved 2026-08-09 — the check was wrong, not the data.** `ingested` and `archived` are event counters and one document can be created and have a version archived in the same run. All six were legitimate. Health now flags only the real impossibility, `fetched > detected` |
 | 5 | **FederalRegister.gov bot-gates its web host** | Mitigated: API abstracts (64) + metadata stubs (436), `content_source` flagged. Proper fix: GPO govinfo.gov bulk data |

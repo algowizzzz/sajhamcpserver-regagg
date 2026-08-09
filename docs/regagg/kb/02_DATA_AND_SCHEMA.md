@@ -43,7 +43,7 @@ ingest plus a nightly `resync()` self-heal.
 
 `corpus_index.py` builds its BM25/TF-IDF index from these files, keyed on file
 count + newest mtime, so a poll that adds documents is picked up without a
-restart. Roughly 4 seconds to index 7,018 documents; 82,062 terms.
+restart. Roughly 4 seconds to index 7,353 documents.
 
 ## Database — 15 tables
 
@@ -56,13 +56,13 @@ SQLite in dev, Postgres on-prem. `JSONFlex = JSON().with_variant(JSONB,
 | Table | Rows | Role |
 |---|---|---|
 | `reg_regulators` | 55 | the source registry: jurisdiction, connector, `category`, `active`, `staleness_alert_days`, full parsed YAML in `config` |
-| `reg_seen_urls` | 7,017 | change detection: url → hash, etag, lastmod, doc_id |
-| `reg_documents` | 7,018 | exactly one current row per document |
-| `reg_document_versions` | 7,536 | full history; invariant: exactly one `state='current'` per doc |
-| `reg_document_tags` | 18,962 | tags with a `source` (config / rule / llm / manual) |
-| `reg_document_edges` | 176 | citation graph: implements, supersedes, amends… |
-| `reg_pending_edges` | 759 | citations that did not resolve yet; retried nightly |
-| `reg_runs` | 127 | every run: counts, status, trigger, operator |
+| `reg_seen_urls` | 7,352 | change detection: url → hash, etag, lastmod, doc_id |
+| `reg_documents` | 7,353 | exactly one current row per document |
+| `reg_document_versions` | 7,974 | full history; invariant: exactly one `state='current'` per doc |
+| `reg_document_tags` | 30,391 | tags with a `source` (config / rule / llm / manual) |
+| `reg_document_edges` | 180 | citation graph: implements, supersedes, amends… |
+| `reg_pending_edges` | 903 | citations that did not resolve yet; retried nightly |
+| `reg_runs` | 157 | every run: counts, status, trigger, operator |
 | `reg_watermarks` | 0 | API poller position (unused by current connectors) |
 
 ### People and pages
@@ -80,18 +80,17 @@ SQLite in dev, Postgres on-prem. `JSONFlex = JSON().with_variant(JSONB,
 
 **`reg_runs`** — `detected, fetched, ingested, archived, errors`.
 
-> These are **independent counters, not a partition.** Measured across all 127
-> runs: `fetched <= detected` and `errors <= detected` always hold, but
-> `ingested + archived` exceeds `fetched` in 6 runs (a document can be created
-> *and* have a version archived in the same run), and `detected != fetched +
-> errors` in 23. Any code that presents them as a balancing identity is wrong.
-> `health.funnel()` shows what was measured and reports the inconsistent runs
-> as a defect rather than hiding them in arithmetic.
+> These are **event counters, not a partition.** `fetched <= detected` and
+> `errors <= detected` always hold, but `ingested + archived` can exceed
+> `fetched` — a document can be created *and* have a version archived in one
+> run — and `detected != fetched + errors`. Both are legitimate. Any code that
+> presents them as a balancing identity is wrong; `health.funnel()` shows what
+> was measured and flags only the real impossibility, `fetched > detected`.
 
-Also: `finished_at < started_at` on **110 of 127 runs** — the poller stamps one
-batch finish before the per-source starts. Duration is therefore unusable and
-`collection._duration_s()` returns `None` rather than a wrong number. This is
-tracked as a defect on the Health page.
+Also: `finished_at < started_at` on runs collected before 2026-08-09 — the
+poller stamped one batch finish before the per-source starts. Fixed at source;
+`collection._duration_s()` still returns `None` rather than a wrong number for
+the historic rows.
 
 **`reg_runs.status`** — `failed` only when nothing landed or >20% errored.
 Scattered per-URL errors (regulator-side 404s/429s) stay `success` with an
@@ -136,12 +135,13 @@ tables and `scripts/regagg_migrate.py` adds missing columns:
 
 Measured 2026-08-09. Surfaced on the Health page, not hidden here.
 
+Backfilled 2026-08-09; the first two were the largest limitations in the system.
+
 | Defect | Count | What it breaks |
 |---|---|---|
-| documents with no `published_date` | 5,219 of 7,018 (74%) | any "what changed in the last N days" question silently misses them |
-| documents with no `extraction` | 5,969 of 7,018 (85%) | invisible to entity lookup and to persona watchlists |
-| runs with `finished_at < started_at` | 110 of 127 (87%) | run duration cannot be computed |
-| runs whose counters contradict | 6 | `ingested + archived > fetched` |
+| documents with no `published_date` | 2,702 of 7,353 (37%) — **was 74%** | any "what changed in the last N days" question misses them. The rest carry no date anywhere we hold |
+| documents with no `extraction` | 0 of 7,353 — **was 85%** | resolved; 1,306 documents now name a watchlist company, up from 464 |
+| runs with `finished_at < started_at` | 110 of 157 — **was 87%** | historic rows only; fixed at source, so every new run has a usable duration |
 | sources with a spelled-out jurisdiction | 10 of 55 | harmless today (news is grouped by category first) but the column feeds region rollups |
 | orphaned versions / untitled docs / missing hashes | 0 | — |
 
