@@ -283,3 +283,35 @@ directly.
 
 **State at close:** 257 Python + 75 browser tests green; 7,018 documents;
 55 sources; 22 MCP tools.
+
+### Session 2026-08-09 (later) — closing the open list
+
+**The host had no scheduler.** Not a stopped cron — none had ever existed. The
+runs labelled `trigger=schedule` had all been launched by hand, so the Health
+page was counting missed runs against a promise no process was keeping.
+`scheduler_install.py` now installs a user-level job from the UI, generated
+from `regagg_schedule.yaml` so the two cannot drift, on launchd or systemd. A
+second independent job polls the news lane intraday.
+
+**Both data gaps closed.** Extraction 15% → 100% (1,306 documents now name a
+watchlist company, up from 464); publication dates 26% → 63%, with the
+remainder genuinely carrying no date anywhere we hold. Run timestamps fixed at
+source — `finished_at` was the caller's fleet-wide clock, bound before the loop.
+
+**Regulatory collection recovered:** 438 documents across 30 sources, the first
+since 2026-08-04.
+
+**Three corrections to earlier work.** The "6 runs with contradictory counters"
+was a bad check, not bad data — those counters are event counters and may
+legitimately exceed the whole. The KB claimed the server was localhost-only; it
+binds `0.0.0.0` with the shipped admin account present, now a high-severity
+Health check. And my objection to putting scheduler control in the UI was
+mostly wrong: the app already spawns subprocesses, and platform detection took
+thirty lines.
+
+**One self-inflicted loss.** Running the extraction backfill and a collection
+run together locked SQLite and cost ten minutes of paid LLM calls at a single
+end-of-pass commit. The script batches its commits now.
+
+**State at close:** 299 pytest + 76 Playwright green · 7,353 documents · 100%
+extracted · 63% dated · pushed to `mine` at `1c37f559`.

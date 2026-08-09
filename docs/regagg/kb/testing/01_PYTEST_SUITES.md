@@ -1,4 +1,4 @@
-# Python suites — 257 tests
+# Python suites — 299 tests
 
 ```bash
 ./.venv/bin/python -m pytest tests/regagg -q        # all, ~7s
@@ -30,10 +30,11 @@ while the run still reports success.
 html→md; **PDF detected by magic bytes** (a bot block page served as `.pdf`
 regressed this once); URL-title humaniser.
 
-### `test_rules_and_capture.py` — 7
+### `test_rules_and_capture.py` — 8
 Reference grammars (B-13, SR 26-3, CAR-Ch4, NI 31-103). Sentence-scoped
 supersede detection. PDF harvest and `source_kind`. Meta-source dedup. Backfill
-cutoff. Markdown projection layout and frontmatter.
+cutoff. Markdown projection layout and frontmatter. Plus: **a run records
+when it actually finished**, not the caller's fleet-wide timestamp.
 
 ### `test_orchestrator.py` — 2
 Fleet fan-out with failure isolation; rerun subset with operator audit.
@@ -68,7 +69,7 @@ unscheduled day, next-run-skips-weekend, DST handled by the zone, missing or
 broken config does not take the page down, and **with no declaration nothing is
 ever late**.
 
-### `test_collection_health.py` — 17
+### `test_collection_health.py` — 18
 Coverage matrix (weekend ≠ failure; a category that did not run is missed even
 when the other did; a cell names who is missing; a rerun clears an earlier
 failure). Today bar (never claims "complete" over a partial day; duration
@@ -76,7 +77,26 @@ omitted rather than wrong). Rerun buckets (silent, never-run, fail streak, each
 category against its own window). Health (**reliability and the matrix cannot
 disagree**; nothing is late before the first run ever recorded; the funnel
 reports what holds without inventing an identity; quality percentages use the
-right population).
+right population; **only a real impossibility is flagged** — `ingested +
+archived > fetched` is legitimate and flagging it manufactured a defect).
+
+### `test_scheduler_install.py` — 19
+The unit is generated from the declaration, never typed. The timezone
+conversion is real (06:00 Toronto → 05:00 on a Chicago host, and a conversion
+that crosses midnight reports the day shift). The plist uses the venv
+interpreter, carries no empty secrets, and fires only on declared days.
+`status()` separates installed from loaded, and reports the absence of a
+scheduler rather than guessing. The daily and intraday jobs use different
+labels and paths, so installing one never disturbs the other.
+*Protects:* the host had no scheduler at all while the app reported missed runs
+against the declaration.
+
+### `test_date_recovery.py` — 20
+Dates from URL paths and from the opening of a document. The refusals matter
+more than the finds: an effective date, a comment deadline, a "last updated"
+line, a date past today, and anything below the opening are all rejected.
+*Protects:* a wrong date files a document in the wrong week and is never
+questioned again; a missing one merely excludes it from a window.
 
 ### `test_excerpt.py` — 13
 Letterhead is never the preview; a labelled `Subject:` beats a guess; a table
@@ -122,8 +142,9 @@ tree / browse / changes / diff / runs / inventory. **Filter-before-LIMIT
 regression.** Manual add and update (v2). Multipart PDF upload. **fs jail —
 path traversal returns 400.**
 
-### `test_admin.py` — 5
-Coverage matrix, drill-down, audited rerun and toggle, integrity.
+### `test_admin.py` — 6
+Coverage matrix, drill-down, audited rerun and toggle, integrity, and
+**"Run all" on a lane page runs only that lane**.
 
 ### `test_auth_personas.py` — 9
 Signup, login, password rules, persona ownership and sharing.

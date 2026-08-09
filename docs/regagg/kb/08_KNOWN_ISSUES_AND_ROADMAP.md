@@ -76,20 +76,65 @@ became a new document. `doc_id` is derived from the URL.
 
 **14. Filter in SQL before LIMIT.** Shipped once; there is a test.
 
-## Roadmap, in the order I would do it
+**15. The declared schedule was never installed anywhere.** There was no
+crontab and no launchd agent on the host at all — the runs labelled
+`trigger=schedule` had been launched by hand, and the Health page was counting
+missed runs against a promise no process was keeping. A declaration is not a
+scheduler; `scheduler_install.py` now generates the job *from* the declaration
+so they cannot disagree.
 
-1. **Backfill publication dates and extraction** (issues 1–2). Everything
-   downstream — "what's new", entity lookup, persona matching — is limited by
-   these two, and both are one script away.
-2. **Fix run timestamps** (issue 3) so duration becomes a usable signal.
-3. **Email digest.** Designed but deliberately unbuilt — see the connectivity
-   requirements at the end of this file.
-4. **Wire a real `TAVILY_API_KEY`** and re-run the entity sweep so the table
-   leaves demo mode.
-5. **Move the schedule to cloud scheduling** with a concurrency guard, and keep
-   `regagg_schedule.yaml` in step.
-6. **Harden auth** before any non-local exposure (issue 11).
-7. Playwright fetch path for JS-heavy sources (issue 10).
+**16. launchd has no timezones.** `StartCalendarInterval` fires in host-local
+time. The declared 06:00 America/Toronto on a Chicago machine would have run an
+hour late, silently and forever. The time is converted at render, and the panel
+states the conversion.
+
+**17. Two writers, one SQLite file.** An extraction backfill and a collection
+run at the same time: the run held the write lock, the backfill's single
+end-of-pass commit failed with "database is locked", and ten minutes of paid
+LLM calls were lost. The extraction had all succeeded — only the write died.
+The script commits every 200 rows and retries a lock now.
+
+**18. A check that manufactured a defect.** Health flagged six runs as having
+"contradictory counters" because `ingested + archived > fetched`. All six were
+legitimate: those are event counters, and one document can be created and have
+a version archived in the same run. The check would have sent someone to
+reconcile clean data. Only `fetched > detected` is a real impossibility.
+
+**19. "Run all" on a lane page ran the whole fleet.** It sent `scope:"all"`
+with no filter, so the Regulatory page's button re-polled all 25 news wires.
+A control on a lane page reads as lane-scoped.
+
+## Roadmap
+
+**Done 2026-08-09** — the first three entries of the previous roadmap:
+extraction 15% → 100%, publication dates 26% → 63%, run timestamps fixed at
+source, and the scheduler installed from the UI on this host.
+
+### Blocked on someone with credentials
+
+| # | Item | What it needs |
+|---|---|---|
+| 1 | **Email digest** | Azure AD app registration with `Mail.Send` (application, admin-consented), sender mailbox, send time and timezone, recipients. **And `CLAUDE.md` amended** — it currently forbids the engine from sending email outright, which contradicts the intent |
+| 2 | **Live entity table** | `TAVILY_API_KEY`. Until then the sweep produces labelled demo rows. ~$120/month at 500 names, basic depth |
+
+### Buildable
+
+| # | Item | Why |
+|---|---|---|
+| 3 | **Harden auth** (issue 11) | binds `0.0.0.0` with the shipped admin account — do this before the host is reachable from anywhere but a laptop |
+| 4 | Cloud scheduling with a concurrency guard | the launchd/systemd job is per-host; keep `regagg_schedule.yaml` as the single declaration either way |
+| 5 | Recover more publication dates | 2,702 documents still have none. The next tranche needs per-source rules, since the generic recogniser has taken what it safely can |
+| 6 | Playwright fetch path (issue 10) | for JS-heavy sources like MAS |
+| 7 | Untangle the 31 orphaned tool implementations (issue 14) | `tools_registry.py` and the studio import several directly |
+
+### Operational, not code
+
+- **Do not run two writers against SQLite.** A collection run holding the write
+  lock cost the extraction backfill ten minutes of paid LLM calls before the
+  script learned to commit in batches. Postgres removes the constraint.
+- **Keep `config/regagg_schedule.yaml` and the installed job in step.** They
+  cannot drift while the job is installed from the UI, because the unit is
+  generated from the declaration — but a hand-edited crontab elsewhere can.
 
 ## The email digest — what it needs before it can be built
 

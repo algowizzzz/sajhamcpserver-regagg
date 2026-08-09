@@ -1,12 +1,12 @@
 # Testing — index
 
-**332 automated tests: 257 Python + 75 browser.** Everything offline and
+**375 automated tests: 299 Python + 76 browser.** Everything offline and
 deterministic; network is always injected.
 
 | Suite | Count | Command | Time |
 |---|---|---|---|
-| Python | 257 | `./.venv/bin/python -m pytest tests/regagg -q` | ~7s |
-| Browser | 75 | `bash tests/ui/run_suite.sh` | ~4 min |
+| Python | 299 | `./.venv/bin/python -m pytest tests/regagg -q` | ~7s |
+| Browser | 76 | `bash tests/ui/run_suite.sh` | ~4 min |
 | Foundation gate | — | `./.venv/bin/python scripts/regagg_verify_foundation.py` | ~2s |
 
 Run both before any commit that touches `sajha/regagg/` or the dashboard.
@@ -15,7 +15,7 @@ Run both before any commit that touches `sajha/regagg/` or the dashboard.
 
 | File | Contents |
 |---|---|
-| `01_PYTEST_SUITES.md` | all 23 Python files: what each covers and what it protects against |
+| `01_PYTEST_SUITES.md` | all 25 Python files: what each covers and what it protects against |
 | `02_UI_SUITE.md` | the 6 browser specs, and how the harness works |
 | `03_RESULTS.md` | recorded results, coverage measurements, live acceptance runs |
 | `04_HOW_TO_TEST.md` | writing a new test, fixtures, common traps |

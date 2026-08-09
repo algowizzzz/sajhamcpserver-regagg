@@ -30,11 +30,39 @@ skip_dates: []                  # holidays, planned maintenance
 | `partial` | it ran, but some failed, returned nothing, or never started |
 | `missed` | expected, grace passed, nothing recorded |
 
-**Keep this file in step with the real cron entry.** If they drift the missed
-count climbs and the Health page says so. With no declaration, nothing is ever
-called late — silence about the schedule must not become an accusation.
+**Keep this file and the installed job in step.** They cannot drift when the
+job is installed from the UI, because the unit is generated from this file —
+but a hand-written crontab elsewhere can. If they drift the missed count climbs
+and the Health page says so. With no declaration, nothing is ever called late —
+silence about the schedule must not become an accusation.
 
-## Cron lines
+## Installing it — from the UI
+
+Health → Schedule reliability has one row per job with an Enable/Disable
+button. `sajha/regagg/scheduler_install.py` detects launchd or systemd and
+writes a **user-level** unit (no sudo) **generated from the declaration above**,
+so the two cannot drift; there is no field anywhere for a raw cron string.
+
+Two jobs, independent — enable either, both or neither:
+
+| Job | Script | When |
+|---|---|---|
+| `daily` | `regagg_daily_poll.py` | the declared `at` / `days`, all 55 sources |
+| `intraday` | `regagg_news_poll.py` | the `intraday` block; news lane only, skips the corpus sweep |
+
+**Timezones.** launchd fires in host-local time and has no concept of a zone,
+so the declared time is converted at render and the panel says so — `06:00
+America/Toronto` installs as `05:00` on a host set to `America/Chicago`. Check
+that line after installing; a silent one-hour error only shows up as a run
+arriving late.
+
+`status()` asks the operating system, not a flag of ours, so
+installed-but-unloaded and never-installed are different answers.
+
+Endpoints: `GET /scheduler/status`, `POST /scheduler/install?job=`,
+`POST /scheduler/uninstall?job=`.
+
+## Cron lines, if you prefer to do it by hand
 
 ```cron
 0 6 * * 1-5  cd <repo> && ./.venv/bin/python scripts/regagg_daily_poll.py >> logs/regagg_daily.log 2>&1
@@ -57,7 +85,9 @@ Prefer **systemd timers** over cron on the server: failures land in
 | `verify_sources.py` | live source verification — the trust gate, run before onboarding any source |
 | `regagg_add_doc.py` | manual add (URL / `--file` PDF / `--md`) |
 | `regagg_backfill_rules.py` | re-run deterministic enrichment over the corpus |
-| `regagg_extract_backfill.py` | backfill entity extraction — **the fix for the 85% gap** |
+| `regagg_extract_backfill.py` | backfill entity extraction; commits in batches and retries a lock |
+| `regagg_backfill_dates.py` | recover publication dates from URL paths and document text |
+| `regagg_refresh_pages.py` | rebuild cached My Day pages after a dossier change |
 | `regagg_score_materiality.py` | re-score after editing `_materiality.yaml` |
 | `regagg_gen_tool_configs.py` | regenerate `config/tools/reg_*.json` |
 | `regagg_create_worker.py` | register the `w-riskgpt` digital worker |
@@ -99,12 +129,25 @@ Never commit keys.
 **Restore drill** — copy `~/Backups/regagg/<date>/` over `data/` and
 `sajha.db`, start the server, check `/integrity`.
 
+**Backfills** — both are idempotent and dry-run by default:
+```bash
+./.venv/bin/python scripts/regagg_backfill_dates.py --apply     # publication dates
+./.venv/bin/python scripts/regagg_extract_backfill.py --workers 8
+./.venv/bin/python scripts/regagg_refresh_pages.py --apply      # rebuild cached My Day
+```
+
+> **Never run a backfill while a collection run is active.** SQLite allows one
+> writer. A run holding the lock cost the extraction pass ten minutes of paid
+> LLM calls before it learned to commit in batches. Check with
+> `pgrep -f regagg_ingest_live` first.
+
 ## After a deploy, in order
 
 1. `./.venv/bin/python -m scripts.regagg_migrate`
-2. `./.venv/bin/python -m pytest tests/regagg -q` → 257 passed
+2. `./.venv/bin/python -m pytest tests/regagg -q` → 299 passed
 3. Start the server, open `/api/regagg/ui`, check the Health verdict
-4. Confirm `config/regagg_schedule.yaml` matches the actual cron entry
+4. Enable the scheduler from Health, or confirm the host's own timer matches
+   `config/regagg_schedule.yaml`
 
 ## Backups
 

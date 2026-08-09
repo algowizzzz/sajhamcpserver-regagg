@@ -6,10 +6,24 @@ quoted, it came from that run.
 ## Automated suites — last full run 2026-08-09
 
 ```
-./.venv/bin/python -m pytest tests/regagg -q      →  257 passed in 7.34s
-bash tests/ui/run_suite.sh                        →   75 passed in 4.0m
+./.venv/bin/python -m pytest tests/regagg -q      →  299 passed in 7.5s
+bash tests/ui/run_suite.sh                        →   76 passed in 6.6m
 ./.venv/bin/python scripts/regagg_verify_foundation.py  →  gate green
 ```
+
+## Backfills, measured
+
+| | Before | After | How |
+|---|---|---|---|
+| Documents with an extraction | 1,089 (15%) | **7,353 (100%)** | `regagg_extract_backfill.py`, 6,264 in 799s at 8 workers, 2 provider errors |
+| Naming a watchlist company | 464 | **1,306** | consequence of the above |
+| Documents with a publication date | 26% | **63%** | `regagg_backfill_dates.py` — 932 from URL paths, 1,815 from text; 2,472 have none anywhere |
+| Runs with a usable duration | 17 of 127 | **47 of 157** | the timestamp fix; the 30 new runs all correct |
+| Corpus | 7,018 | **7,353** | regulatory recovery run, 438 documents across 30 sources |
+
+The first extraction attempt **lost all 5,929 results** to `database is locked`
+— a collection run held the SQLite write lock and the script committed once at
+the end. It commits every 200 rows with backoff now, and the re-run completed.
 
 Python tests by file:
 
@@ -53,17 +67,19 @@ a list of statute names, genuinely has no prose to preview.
 
 ### Corpus index
 
-7,018 documents indexed in ~4s; 82,062 distinct terms. Rebuilt when file count
-or newest mtime changes, so a poll is picked up without a restart.
+7,353 documents indexed in ~4s. Rebuilt when file count or newest mtime
+changes, so a poll is picked up without a restart.
 
-### Data quality (full corpus, 2026-08-09)
+### Data quality — before the backfills (2026-08-09, morning)
+
+Kept as the baseline the numbers above are measured against.
 
 | Check | Count | Of |
 |---|---|---|
 | No publication date | 5,219 | 7,018 (74%) |
 | No extraction | 5,969 | 7,018 (85%) |
 | Runs with `finished_at < started_at` | 110 | 127 (87%) |
-| Runs where `ingested + archived > fetched` | 6 | 127 |
+| ~~Runs where `ingested + archived > fetched`~~ | 6 | 127 — **not a defect**; event counters may exceed the whole |
 | Sources with spelled-out jurisdiction | 10 | 55 |
 | Orphaned versions / untitled / missing hash | 0 | — |
 

@@ -2,7 +2,7 @@
 
 **Audience:** the next developer or AI coding agent picking this up. Read this
 file, then the numbered files in order. You are **not** starting from scratch —
-this is a working, tested system holding 7,018 real documents.
+this is a working, tested system holding 7,353 real documents.
 
 Everything here was verified against the running system on **2026-08-09**. Where
 a number appears, it came from the database or a test run, not from memory. If
@@ -35,7 +35,12 @@ traces to a row you can open.
 | Browser tests | **76**, `bash tests/ui/run_suite.sh` (~7 min) |
 | MCP tools | 22 — 12 `reg_*` + 10 `corpus_*` |
 | Server | `./.venv/bin/python run_server.py --port 3005` → UI at `/api/regagg/ui` |
-| Branch | `feat/regagg-aggregator` · remote `mine` = algowizzzz/sajhamcpserver-regagg |
+| Branch | `feat/regagg-aggregator`, pushed · remote `mine` = algowizzzz/sajhamcpserver-regagg |
+| Last pushed | `1c37f559` — 2026-08-09. `main` on the fork tracks the same commit |
+
+> **Two remotes.** `mine` is the fork this work lives on. `origin` is the
+> upstream SAJHA project (ajsinha/sajhamcpserver) — **never push there**; this
+> branch is ~80 commits of a different product on top of it.
 
 ## The 60-second mental model
 
@@ -113,7 +118,7 @@ DEEPSEEK_API_KEY=<key> REGAGG_SECRET=<secret> \
 open http://localhost:3005/api/regagg/ui
 ```
 
-Then `./.venv/bin/python -m pytest tests/regagg -q` should print **257 passed**.
+Then `./.venv/bin/python -m pytest tests/regagg -q` should print **299 passed**.
 
 Environment variables that matter:
 
