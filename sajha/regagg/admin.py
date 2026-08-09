@@ -220,9 +220,43 @@ def create_admin_router() -> APIRouter:
                                 context_mode=req.context_mode)
             out["context"] = {"kind": "corpus",
                               "title": (req.page or {}).get("label") or "the corpus"}
-            out["sources"] = [{"n": i + 1, "title": d, "publisher": "",
-                               "doc_id": d, "regulator_id": ""}
-                              for i, d in enumerate((out.get("documents") or [])[:12])]
+            # Resolve the doc_ids the agent cited into something a person can
+            # read and click. Left unresolved these are 16 hex characters with
+            # no title and no link — enough to prove the answer was grounded,
+            # useless as a way to go and read the source.
+            from sajha.regagg.corpus_index import get_index
+            from sajha.regagg.models import Regulator
+            index = get_index()
+
+            # Cited first, seen second. `documents` is every doc_id the tools
+            # returned — mostly search hits the model never opened — so taking
+            # the first twelve of it showed evidence the answer did not use. The
+            # ids in the prose are the ones it actually stood on.
+            import re as _re
+            cited = list(dict.fromkeys(
+                _re.findall(r"\[([0-9a-f]{12,})\]", out.get("answer") or "")))
+            ordered = cited + [d for d in (out.get("documents") or [])
+                               if d not in set(cited)]
+
+            seen, sources = set(), []
+            for d in ordered:
+                if d in seen:
+                    continue
+                seen.add(d)
+                doc = index.get(doc_id=d)
+                reg_id = (doc or {}).get("source", "")
+                reg = session.get(Regulator, reg_id) if reg_id else None
+                sources.append({
+                    "n": len(sources) + 1,
+                    "title": (doc or {}).get("title") or d,
+                    "publisher": getattr(reg, "name", "") or reg_id,
+                    "published": (doc or {}).get("published", ""),
+                    "url": (doc or {}).get("source_url", ""),
+                    "doc_id": d, "regulator_id": reg_id,
+                })
+                if len(sources) >= 12:
+                    break
+            out["sources"] = sources
             return out
 
         persona = None

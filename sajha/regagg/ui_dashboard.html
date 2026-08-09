@@ -549,8 +549,34 @@
     border-bottom-left-radius:4px}
   .ask-msg.ai.warn{border-color:var(--amber)}
   .ask-msg.ai.pending{opacity:.6}
-  .ask-msg .cite{color:var(--blue);font-weight:700;cursor:pointer;font-size:11px;
-    vertical-align:2px}
+  /* A citation is a superscript number, not "[3]" — brackets in running prose
+     read as an editing mark and make a cited sentence look unfinished. */
+  .ask-msg .cite{color:var(--blue);font-weight:700;cursor:pointer;font-size:9.5px;
+    vertical-align:super;line-height:0;padding:0 1px}
+  .ask-msg .cite:hover{text-decoration:underline}
+  /* ── sources, inside the answer ──
+     They sit under the text they support rather than in a panel at the bottom
+     of the dock: by the time you scroll to a separate list you have lost which
+     sentence you were checking. */
+  .srcrow{display:flex;flex-direction:column;gap:3px;margin-top:9px;
+    padding-top:8px;border-top:1px solid var(--line)}
+  .srcchip{display:flex;align-items:baseline;gap:6px;font-size:11px;
+    padding:3px 6px;border-radius:6px;cursor:pointer;text-decoration:none;
+    color:var(--ink2);background:var(--surface2);border:1px solid transparent;
+    line-height:1.35}
+  .srcchip:hover{border-color:var(--line);background:var(--blue-soft)}
+  .srcchip i{font-style:normal;font-weight:700;color:var(--blue);font-size:9.5px;
+    min-width:11px;text-align:right;flex:none}
+  /* The title takes the room; the publisher is a caption. Reversed, a long
+     regulator name pushed every title down to one character. */
+  .srcchip b{font-weight:600;color:var(--ink);overflow:hidden;
+    text-overflow:ellipsis;white-space:nowrap;flex:1;min-width:0}
+  .srcchip span{color:var(--muted);white-space:nowrap;flex:none;max-width:110px;
+    overflow:hidden;text-overflow:ellipsis;font-size:10.5px}
+  .srcpub{font-size:10px;color:var(--muted);text-transform:uppercase;
+    letter-spacing:.04em;margin-bottom:1px}
+  .srcchip em{font-style:normal;color:var(--muted);margin-left:auto;flex:none;
+    font-size:10px}
   .ask-msg .gen{display:block;margin-top:7px;font-size:10px;color:var(--muted)}
   .ask-form{display:flex;gap:8px;margin-top:12px}
   .ask-form input{flex:1;font:inherit;color:var(--ink);background:var(--surface2);
@@ -974,7 +1000,6 @@
         onkeydown="if(event.key==='Enter')askSend()">
       <button class="btn primary" onclick="askSend()">Ask</button>
     </div>
-    <div class="ask-src scrollbox short" id="askSources" style="margin-top:10px"></div>
   </div>
 </div>
 <button class="chattoggle" id="chatToggle" onclick="toggleChat()">💬 Ask</button>
@@ -1835,7 +1860,7 @@ async function loadDesks(){
 
 /* ── ask (context-pinned chat) ────────────────────────────── */
 let ASKCTX=null;
-let ASKTHREAD=[],ASKSOURCES=[],CTXMODE="active";
+let ASKTHREAD=[],ASKSOURCES=[],CTXMODE="active";   // ASKSOURCES: last answer, for the pinned-context path
 function toggleChat(force){
   const open=force===undefined?!document.body.classList.contains("chatopen"):force;
   document.body.classList.toggle("chatopen",open);
@@ -1961,44 +1986,75 @@ function renderAsk(){
   const sug=ASK_SUGGESTIONS[(ASKCTX&&ASKCTX.contextKind)||"day"]||[];
   $("askSug").innerHTML=ASKTHREAD.length?"":sug.map(q=>
     `<button onclick="$('askInput').value=${JSON.stringify(q).replace(/"/g,"&quot;")};askSend()">${esc(q)}</button>`).join("");
-  $("askThread").innerHTML=ASKTHREAD.map(m=>{
-    if(m.role==="me")return `<div class="ask-msg me">${esc(m.text)}</div>`;
-    const docCites=[];
-    let withCites=esc(m.text)
-      .replace(/^### (.+)$/gm,'<b>$1</b>')
-      .replace(/^## (.+)$/gm,'<b>$1</b>')
-      .replace(/\*\*(.+?)\*\*/g,'<b>$1</b>')
-      .replace(/^- /gm,'· ')
-      .replace(/\n/g,'<br>')
-      .replace(/\[(\d+)\]/g,(s,n)=>`<span class="cite" onclick="askOpenSource(${n})">[${n}]</span>`)
-      // Doc ids are 16 hex characters — unreadable inline, but rendering them
-      // all as "[doc]" makes three different sources look like one. Number them
-      // in order of first appearance and keep the real id in the tooltip.
-      .replace(/\[([0-9a-f]{12,})\]/g,(s,id)=>{
-        let n=docCites.indexOf(id); if(n<0){docCites.push(id);n=docCites.length-1;}
-        return `<span class="cite" title="open document ${id}"
-          onclick="askOpenDoc('${id}')">[d${n+1}]</span>`;});
-    return `<div class="ask-msg ai${m.ok?"":" warn"}${m.pending?" pending":""}">${withCites}
-      <span class="gen">${esc(m.gen||"")}</span></div>`;}).join("");
+  $("askThread").innerHTML=ASKTHREAD.map(renderAskMsg).join("");
   $("askThread").scrollTop=$("askThread").scrollHeight;
-  $("askSources").innerHTML=`<h4>Sources${ASKSOURCES.length?` (${ASKSOURCES.length})`:""}</h4>`+
-    (ASKSOURCES.length?ASKSOURCES.map(s=>
-      `<div class="s"><b>[${s.n}]</b> ${esc((s.title||"").slice(0,110))}
-        <div style="color:var(--muted)">${esc(s.publisher||"")}${s.published?" · "+esc(s.published):""}
-        ${s.doc_id?` · <a onclick="openDoc('${s.regulator_id}','${s.doc_id}')">open</a>`:""}
-        ${s.url?` · <a href="${esc(s.url)}" target="_blank" rel="noopener">source ↗</a>`:""}</div></div>`).join("")
-     :`<div class="s" style="color:var(--muted)">Ask a question to see the evidence it used.</div>`);
 }
+
+/* One numbering for the whole answer.
+   The pack path cites [1][2]; the agent path cites raw 16-hex doc ids. Left
+   alone that is two schemes in one thread, and the reader has to work out that
+   [2] and [d2] are unrelated. Both are mapped onto the position of the source
+   in this message's own list, so the number in the sentence is the number on
+   the chip beneath it. */
+function renderAskMsg(m,mi){
+  if(m.role==="me")return `<div class="ask-msg me">${esc(m.text)}</div>`;
+  const srcs=m.sources||[];
+  const byDoc={}; srcs.forEach((s,i)=>{if(s.doc_id)byDoc[s.doc_id]=i+1;});
+  const used=new Set();
+  const cite=n=>{used.add(n);
+    return `<span class="cite" onclick="askOpenSrc(${mi},${n})"
+      title="${esc((srcs[n-1]||{}).title||"open source")}">${n}</span>`;};
+  let html=esc(m.text)
+    .replace(/^#{2,3} (.+)$/gm,'<b>$1</b>')
+    .replace(/\*\*(.+?)\*\*/g,'<b>$1</b>')
+    .replace(/^- /gm,'· ')
+    .replace(/\n/g,'<br>')
+    .replace(/\[(\d+)\]/g,(s,n)=>srcs[+n-1]?cite(+n):s)
+    // A citation we cannot resolve still means the sentence was grounded, so
+    // it degrades to a marker that opens the document by id rather than being
+    // deleted — silently dropping it would make a cited claim look uncited.
+    // The model groups ids as often as it cites them singly: [id1, id2, id3].
+    // Matching only the single form left the grouped ones on screen as raw hex.
+    .replace(/\[((?:[0-9a-f]{12,}(?:\s*,\s*)?)+)\]/g,(s,blob)=>
+      blob.split(/\s*,\s*/).filter(Boolean).map(id=>byDoc[id]?cite(byDoc[id])
+        :`<span class="cite" title="open document ${id}"
+           onclick="askOpenDoc('${id}')">·</span>`).join(""));
+  // Show the sources actually cited; if the model cited none, show them all —
+  // the evidence is the point, and hiding it because the prose was sloppy
+  // would punish the reader for the model's habits.
+  const show=srcs.filter((s,i)=>used.size?used.has(i+1):true);
+  return `<div class="ask-msg ai${m.ok?"":" warn"}${m.pending?" pending":""}">${html}
+    ${show.length?(()=>{
+      const pubs=new Set(show.map(x=>x.publisher||"").filter(Boolean));
+      const one=pubs.size===1?[...pubs][0]:"";
+      return `<div class="srcrow">`+
+        (one?`<div class="srcpub">${esc(one)}</div>`:"")+
+        show.map(s=>{
+          const pub=one?"":(s.publisher||(s.url?srcHost(s.url):""));
+          return `<a class="srcchip" ${s.url?`href="${esc(s.url)}" target="_blank" rel="noopener"`
+                                      :`onclick="askOpenSrc(${mi},${s.n})"`}
+            title="${esc(s.title||"")}${s.published?` · ${esc(s.published)}`:""}">
+            <i>${s.n}</i><b>${esc(s.title||"untitled")}</b>
+            ${pub?`<span>${esc(pub)}</span>`:""}${s.url?'<em>↗</em>':''}</a>`;
+        }).join("")+`</div>`;})():""}
+    <span class="gen">${esc(m.gen||"")}</span></div>`;
+}
+function srcHost(u){try{return new URL(u).hostname.replace("www.","");}catch(e){return "";}}
+function askOpenSrc(mi,n){
+  const s=((ASKTHREAD[mi]||{}).sources||[])[n-1];
+  if(!s)return;
+  if(s.url)return openLinkSafely(s.url);
+  if(s.doc_id&&s.regulator_id)return openDoc(s.regulator_id,s.doc_id);
+  if(s.doc_id)return askOpenDoc(s.doc_id);
+}
+function openLinkSafely(u){window.open(u,"_blank","noopener");}
+
 function askClear(){ASKCTX=null;ASKTHREAD=[];ASKSOURCES=[];renderAsk();}
 async function askOpenDoc(docId){
   try{
     const r=await j(`/corpus/doc/${encodeURIComponent(docId)}`);
     if(r&&r.regulator_id)openDoc(r.regulator_id,docId);
   }catch(e){toast("Could not open that document.");}
-}
-function askOpenSource(n){
-  const s=ASKSOURCES.find(x=>x.n===Number(n));
-  if(s&&s.doc_id)openDoc(s.regulator_id,s.doc_id);
 }
 async function askSend(){
   const q=($("askInput").value||"").trim();
@@ -2026,6 +2082,7 @@ async function askSend(){
       ? `${steps.length} tool call${steps.length>1?"s":""}: ${[...new Set(steps)].join(" → ")}`
       : "";
     ASKTHREAD.push({role:"ai",text:d.answer||"No answer.",ok:!!d.ok,
+                    sources:d.sources||[],
                     gen:(d.generator||"").startsWith("agent")
                           ? (route||"searched the corpus")
                         :d.generator==="llm:deepseek"?"answered from the sources below"

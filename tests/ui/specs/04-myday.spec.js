@@ -135,7 +135,9 @@ test.describe('Ask — grounded chat', () => {
     await page.evaluate(() => toggleChat(true));
     await expect(page.locator('#chatdock')).toHaveClass(/open/);
     await expect(page.locator('.ask-sug button').first()).toBeVisible();
-    await expect(page.locator('#askSources')).toContainText('Sources');
+    // sources now sit inside the answer they support, not in a panel at the
+    // bottom of the dock — see 06-maintenance for the rendering itself
+    await expect(page.locator('#askSources')).toHaveCount(0);
     // the context switch is part of the contract: the person chooses what it reads
     await expect(page.locator('#ctxActive')).toHaveClass(/on/);
     await page.locator('#ctxPassive').click();
