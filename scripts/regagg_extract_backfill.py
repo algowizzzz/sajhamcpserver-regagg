@@ -72,11 +72,37 @@ def main() -> int:
             if n % 50 == 0:
                 print(f"  {n:,}/{len(todo):,} ({time.time()-start:.0f}s)", flush=True)
 
-    for (rid, did), ex in results.items():
-        doc = session.get(Document, {"regulator_id": rid, "doc_id": did})
-        if doc is not None:
-            doc.extraction = ex
-    session.commit()
+    # Commit in batches, and survive a lock.
+    #
+    # A single commit at the end lost ten minutes of paid LLM calls the first
+    # time this ran: a collection run held the SQLite write lock and the whole
+    # transaction failed with "database is locked". The extraction itself had
+    # succeeded — only the write was lost. Batches mean a lock costs one batch,
+    # and a retry costs seconds rather than the whole pass.
+    import time as _t
+    written = failed = 0
+    items = list(results.items())
+    for start_i in range(0, len(items), 200):
+        chunk = items[start_i:start_i + 200]
+        for (rid, did), ex in chunk:
+            doc = session.get(Document, {"regulator_id": rid, "doc_id": did})
+            if doc is not None:
+                doc.extraction = ex
+        for attempt in range(5):
+            try:
+                session.commit()
+                written += len(chunk)
+                break
+            except Exception as e:  # noqa: BLE001
+                session.rollback()
+                if "locked" not in str(e).lower() or attempt == 4:
+                    failed += len(chunk)
+                    print(f"  batch at {start_i} failed: {str(e)[:80]}", flush=True)
+                    break
+                _t.sleep(2 * (attempt + 1))     # a collection run holds it briefly
+        if start_i and start_i % 1000 == 0:
+            print(f"  written {written:,}", flush=True)
+    print(f"  wrote {written:,}" + (f", lost {failed:,}" if failed else ""), flush=True)
 
     llm_errors = sum(1 for e in results.values() if e.get("llm_error"))
     named = sum(1 for e in results.values() if e.get("entities"))

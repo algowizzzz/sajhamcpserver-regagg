@@ -280,10 +280,12 @@ test.describe('chat sources live in the answer', () => {
     renderAsk();
   }, msg);
 
+  // news sources link out to the publisher; regulatory ones open the in-app
+  // drawer, which is where the diff and the provenance are
   const SRC = [
-    { n: 1, title: 'Warren presses OCC', publisher: 'American Banker',
+    { n: 1, title: 'Warren presses OCC', publisher: 'American Banker', lane: 'news',
       url: 'https://example.com/a', doc_id: 'aaaaaaaaaaaaaaaa', regulator_id: 'ab' },
-    { n: 2, title: 'CRA proposal', publisher: 'Reuters',
+    { n: 2, title: 'CRA proposal', publisher: 'Reuters', lane: 'news',
       url: 'https://example.com/b', doc_id: 'bbbbbbbbbbbbbbbb', regulator_id: 'rt' },
   ];
 
@@ -307,7 +309,7 @@ test.describe('chat sources live in the answer', () => {
     expect(body).not.toMatch(/[0-9a-f]{12,}/);
   });
 
-  test('a chip links to the article and opens it in a new tab', async ({ page }) => {
+  test('a news chip links to the article and opens it in a new tab', async ({ page }) => {
     await seed(page, { role: 'ai', ok: true, gen: 'test', sources: SRC,
       text: 'Point [aaaaaaaaaaaaaaaa].' });
     const chip = page.locator('#askThread .srcchip').first();
@@ -315,6 +317,20 @@ test.describe('chat sources live in the answer', () => {
     await expect(chip).toHaveAttribute('target', '_blank');
     await expect(chip).toHaveAttribute('rel', 'noopener');
   });
+
+  test('a regulatory chip opens the in-app drawer, not the publisher',
+    async ({ page }) => {
+      // the drawer carries the diff and the provenance; for a rule that is the
+      // thing worth reading, and the publisher page is a click away on shift
+      const reg = [{ n: 1, title: 'Guideline B-13', publisher: 'OSFI',
+                     lane: 'regulatory', url: 'https://osfi/b13',
+                     doc_id: 'cccccccccccccccc', regulator_id: 'osfi' }];
+      await seed(page, { role: 'ai', ok: true, gen: 'test', sources: reg,
+        text: 'Point [cccccccccccccccc].' });
+      const chip = page.locator('#askThread .srcchip').first();
+      await expect(chip).not.toHaveAttribute('href', /.+/);
+      await expect(chip.locator('em')).toHaveText('⧉');   // not the ↗ of a link out
+    });
 
   test('the title leads the chip, not the publisher', async ({ page }) => {
     // reversed, a long regulator name left every title one character wide
