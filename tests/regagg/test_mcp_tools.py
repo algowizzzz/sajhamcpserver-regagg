@@ -168,3 +168,97 @@ def test_corpus_changes_advertises_the_source_filter():
     """The model can only use a filter the schema tells it about."""
     cfg = json.loads(Path("config/tools/corpus_changes.json").read_text())
     assert "source" in cfg["inputSchema"]["properties"]
+
+
+def test_an_argument_the_tool_does_not_implement_is_rejected_not_ignored():
+    """The mechanism that should have caught the corpus_changes bug.
+
+    corpus_changes accepted `source` and ignored it. The worker asked for OSFI,
+    got fedreg and news back, and only noticed because it happened to read the
+    results closely. Validation is driven by each tool's own schema, so the
+    guard covers every tool without per-tool code.
+    """
+    from sajha.tools.impl.corpus_tools import CorpusStatsTool
+
+    schema = {"type": "object", "properties": {"days": {"type": "integer"}}}
+    tool = CorpusStatsTool(config={"name": "corpus_stats", "inputSchema": schema})
+
+    tool.validate_arguments({"days": 7})  # declared — fine
+
+    with pytest.raises(ValueError) as e:
+        tool.validate_arguments({"days": 7, "source": "osfi"})
+    msg = str(e.value)
+    assert "source" in msg                      # names what was wrong
+    assert "days" in msg                        # and what it could have used
+    assert "ignored" in msg.lower()             # and why it matters
+
+
+def test_a_schema_may_opt_out_of_strictness():
+    """Strictness is configuration, not a rule hard-coded in the base class."""
+    from sajha.tools.impl.corpus_tools import CorpusStatsTool
+
+    open_schema = {"type": "object", "properties": {"days": {"type": "integer"}},
+                   "additionalProperties": True}
+    tool = CorpusStatsTool(config={"name": "corpus_stats", "inputSchema": open_schema})
+    assert tool.validate_arguments({"days": 7, "anything": 1}) is True
+
+
+def test_the_agent_surfaces_a_rejected_argument_to_the_model():
+    """A rejection the model never sees is the same as a silent drop."""
+    from sajha.regagg import agent
+
+    out = agent._run_tool("corpus_read", {"source": "osfi"})
+    assert out.get("arguments_rejected") is True
+    assert "source" in out["error"] and "doc_id" in out["error"]
+
+
+def test_every_configured_tool_declares_the_parameters_it_accepts():
+    """A schema with no properties cannot reject anything — the same hole."""
+    import glob
+    open_tools = []
+    for f in sorted(glob.glob("config/tools/*.json")):
+        cfg = json.loads(Path(f).read_text())
+        schema = cfg.get("inputSchema") or {}
+        # `{}` is a real contract ("takes nothing"); a missing key is not
+        if schema.get("properties") is None and schema.get("type") == "object":
+            open_tools.append(cfg.get("name") or Path(f).stem)
+    assert not open_tools, (
+        f"these tools accept anything and can silently drop filters: {open_tools}"
+    )
+
+
+def test_corpus_schemas_declare_the_filters_their_search_paths_apply():
+    """The two contracts must not drift apart in either direction.
+
+    A filter the code applies but the schema hides is a capability nobody can
+    reach; a filter the schema promises but the code ignores is the bug that
+    started this. corpus_search_* pass **self._filters(arguments) straight into
+    the index, so everything _filters reads has to be declared.
+
+    corpus_changes is deliberately excluded: it only reaches _filters on its
+    fallback path, so declaring those keys would promise filtering that does
+    not happen on the normal path.
+    """
+    import glob
+    import re
+
+    src = Path("sajha/tools/impl/corpus_tools.py").read_text()
+    filter_keys = set(re.findall(r'a\.get\("([a-z_]+)"\)', src.split("def _filters")[1]
+                                 .split("class ")[0]))
+    filter_keys |= set(re.findall(r'for k in \("([^)]+)"\)',
+                                  src.split("def _filters")[1].split("class ")[0])[0]
+                       .replace('"', "").split(", ")) if "for k in (" in src else set()
+    assert {"source", "doc_type", "stage", "date_from", "date_to"} <= filter_keys
+
+    cfgs = {}
+    for f in glob.glob("config/tools/*.json"):
+        c = json.loads(Path(f).read_text())
+        cfgs[c["implementation"].rsplit(".", 1)[-1]] = c
+
+    gaps = {}
+    for cls in ("CorpusKeywordSearchTool", "CorpusBM25SearchTool", "CorpusSimilarTool"):
+        declared = set((cfgs[cls].get("inputSchema") or {}).get("properties") or {})
+        missing = sorted(filter_keys - declared)
+        if missing:
+            gaps[cfgs[cls]["name"]] = missing
+    assert not gaps, f"implemented but undeclared filters (unreachable): {gaps}"

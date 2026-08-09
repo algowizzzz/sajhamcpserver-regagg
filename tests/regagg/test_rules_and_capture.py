@@ -184,3 +184,34 @@ def test_projection_write_through_and_layout(session, storage, seed_regulator):
     # resync is idempotent and covers everything with content
     rep = projection.resync(session, storage)
     assert rep["projected"] >= 1
+
+
+def test_a_run_records_when_it_actually_finished(session, storage, seed_regulator):
+    """87% of runs on record finish before they start.
+
+    `run_regulator` stamped `finished_at` from the caller's `now` — the fleet's
+    logical timestamp, bound once before the loop — so every source in a batch
+    got the same finish time, taken before any of them began. Duration was
+    uncomputable and a slowing collection gave no warning.
+    """
+    from datetime import datetime, timedelta, timezone
+    from sajha.regagg.config_loader import load_one
+    from sajha.regagg.models import Run
+    from sajha.regagg.pipeline import run_regulator
+
+    seed_regulator("osfi", "CA", "sitemap_diff")
+    cfg = load_one(CONFIGS / "osfi.yaml")
+    # a logical `now` an hour in the past, exactly as a fleet run passes it
+    stale_now = datetime.now(timezone.utc) - timedelta(hours=1)
+    run_regulator(session, storage, cfg,
+                  lambda c: (lambda u: b"<urlset></urlset>"),
+                  lambda c: Fetcher(fixture_opener({})),
+                  "r-finish", date.today().isoformat(), now=stale_now)
+
+    run = session.get(Run, "r-finish")
+    assert run.finished_at is not None
+    assert run.finished_at >= run.started_at        # the whole point
+    # SQLite hands back naive datetimes; compare on the same footing
+    fin = run.finished_at.replace(tzinfo=timezone.utc) \
+        if run.finished_at.tzinfo is None else run.finished_at
+    assert fin > stale_now                          # not the caller's clock

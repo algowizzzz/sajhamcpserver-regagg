@@ -430,6 +430,11 @@ def _finalize_run(session, storage, regulator_id: str, run_id: str,
         run.ingested = manifest.ingested
         run.archived = manifest.archived
         run.errors = manifest.errors
-        run.finished_at = now
+        # The moment this source actually finished — not the caller's `now`,
+        # which is the fleet's logical timestamp and is bound once before the
+        # loop. Using it stamped every source in a batch with the same finish
+        # time, taken before any of them started: 87% of runs on record have
+        # finished_at earlier than started_at, and run duration was unusable.
+        run.finished_at = datetime.now(timezone.utc)
         run.manifest_path = f"{state}/run_manifests/{run_id}.json"
         session.commit()

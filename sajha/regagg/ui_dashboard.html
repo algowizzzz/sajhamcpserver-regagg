@@ -1209,15 +1209,15 @@
     <div id="heaVerdict" class="verdict">loading…</div>
 
     <div class="fitrow c3" style="flex:none">
-      <div class="fitpanel" style="max-height:172px">
+      <div class="fitpanel" style="max-height:218px">
         <h3>Freshness <span class="plain">· each category against its own window</span></h3>
         <div class="fitbody pad"><div id="heaFresh"></div></div>
       </div>
-      <div class="fitpanel" style="max-height:172px">
+      <div class="fitpanel" style="max-height:218px">
         <h3>Collection funnel <span class="plain" id="heaFunnelDay"></span></h3>
         <div class="fitbody pad"><div id="heaFunnel"></div></div>
       </div>
-      <div class="fitpanel" style="max-height:172px">
+      <div class="fitpanel" style="max-height:218px">
         <h3>Schedule reliability <span class="plain" id="heaRelWin"></span></h3>
         <div class="fitbody pad"><div id="heaRel"></div></div>
       </div>
@@ -2031,21 +2031,28 @@ function renderAskMsg(m,mi){
         (one?`<div class="srcpub">${esc(one)}</div>`:"")+
         show.map(s=>{
           const pub=one?"":(s.publisher||(s.url?srcHost(s.url):""));
-          return `<a class="srcchip" ${s.url?`href="${esc(s.url)}" target="_blank" rel="noopener"`
-                                      :`onclick="askOpenSrc(${mi},${s.n})"`}
+          // A regulatory document is better read in the drawer, which carries
+          // the diff and the provenance; a news story only exists at the
+          // publisher. Shift-click still takes you to the source either way.
+          const inApp=s.doc_id&&s.regulator_id&&s.lane!=="news";
+          return `<a class="srcchip" ${(s.url&&!inApp)
+                    ?`href="${esc(s.url)}" target="_blank" rel="noopener"`
+                    :`onclick="askOpenSrc(${mi},${s.n},event)"`}
             title="${esc(s.title||"")}${s.published?` · ${esc(s.published)}`:""}">
             <i>${s.n}</i><b>${esc(s.title||"untitled")}</b>
-            ${pub?`<span>${esc(pub)}</span>`:""}${s.url?'<em>↗</em>':''}</a>`;
+            ${pub?`<span>${esc(pub)}</span>`:""}${
+              (s.url&&!inApp)?'<em>↗</em>':(s.url?'<em title="shift-click for the publisher">⧉</em>':'')}</a>`;
         }).join("")+`</div>`;})():""}
     <span class="gen">${esc(m.gen||"")}</span></div>`;
 }
 function srcHost(u){try{return new URL(u).hostname.replace("www.","");}catch(e){return "";}}
-function askOpenSrc(mi,n){
+function askOpenSrc(mi,n,ev){
   const s=((ASKTHREAD[mi]||{}).sources||[])[n-1];
   if(!s)return;
-  if(s.url)return openLinkSafely(s.url);
+  if(ev&&ev.shiftKey&&s.url)return openLinkSafely(s.url);
   if(s.doc_id&&s.regulator_id)return openDoc(s.regulator_id,s.doc_id);
   if(s.doc_id)return askOpenDoc(s.doc_id);
+  if(s.url)return openLinkSafely(s.url);
 }
 function openLinkSafely(u){window.open(u,"_blank","noopener");}
 
@@ -2291,7 +2298,60 @@ function renderRel(){
       (c.missed_count?` · <span style="color:var(--red)">missed ${c.missed.map(esc).join(", ")}</span>`:"")+
       `</div>`).join("")+
     `<div style="color:var(--muted);margin-top:4px">declared: ${esc(d.at||"—")} ${esc(d.timezone||"")}
-      · ${(d.days||[]).join(" ")}${d.note?` — ${esc(d.note)}`:""}</div></div>`;
+      · ${(d.days||[]).join(" ")}${d.note?` — ${esc(d.note)}`:""}</div>
+     <div id="schedHost" style="margin-top:5px"></div></div>`;
+  renderSchedulerHost();
+}
+
+/* ── is the declared schedule actually installed on this host? ──
+   The declaration and the running job are two different facts and they drift.
+   On this machine they had drifted all the way: a weekday schedule declared,
+   and no scheduler at all — the runs labelled "schedule" had been launched by
+   hand. A page that reports missed runs against a promise nobody is keeping is
+   worse than one that says nothing. */
+let SCHEDHOST=null;
+async function renderSchedulerHost(){
+  const el=$("schedHost"); if(!el)return;
+  try{ SCHEDHOST=await j(`/scheduler/status`); }
+  catch(e){ el.innerHTML=""; return; }
+  const jobs=(SCHEDHOST||{}).jobs||{};
+  const row=(key,label,extra)=>{
+    const s=jobs[key]||{};
+    if(!s.declared_enabled&&!s.installed)
+      return `<div style="color:var(--muted)">${label} — not declared</div>`;
+    const on=s.installed&&s.loaded;
+    return `<div style="display:flex;align-items:center;gap:7px;flex-wrap:wrap;margin-top:2px">
+      <span style="color:${on?"var(--green)":"var(--red)"};font-weight:650">●</span>
+      <span style="font-weight:600">${label}</span>
+      <span style="color:var(--muted)">${esc(s.detail||"")}</span>
+      <span class="spacer" style="flex:1"></span>
+      ${SCHEDHOST.platform?`<button class="btn sm ${on?"":"primary"}"
+        onclick="schedInstall('${key}',${on?"false":"true"})">${on?"Disable":"Enable"}</button>`:""}
+    </div>`+(extra||"");
+  };
+  const t=(jobs.daily||{}).timing||{};
+  el.innerHTML=
+    (SCHEDHOST.platform?"":`<div style="color:var(--muted)">no launchd or systemd on this host</div>`)+
+    row("daily","Daily collection",
+      t.shifted?`<div style="color:var(--amber);margin-left:15px">${esc(t.note)} — installed at ${esc(t.local)} local</div>`:"")+
+    row("intraday","Intraday news",
+      (()=>{const d=(SCHEDHOST.jobs.intraday||{}).declared||{};
+        const iv=(d.intraday)||{};
+        return iv.hours&&iv.hours.length
+          ?`<div style="color:var(--muted);margin-left:15px">news lane only · ${iv.hours.join(", ")}:00 · every ${iv.every_hours}h</div>`:"";})());
+}
+async function schedInstall(job,enable){
+  const verb=enable?"install":"uninstall";
+  if(enable&&!confirm(`Install the ${job} job on this machine?\n\n`+
+     "A user-level job (no sudo) generated from config/regagg_schedule.yaml."))return;
+  $("schedHost").innerHTML=`<span style="color:var(--muted)">${verb}ing ${job}…</span>`;
+  try{
+    const r=await fetch(API+`/scheduler/${verb}?job=${job}`,{method:"POST",
+      headers:{"Content-Type":"application/json","X-Operator":"ui"}});
+    const d=await r.json();
+    toast(d.ok?d.detail||"done":"Could not "+verb+": "+(d.detail||r.status));
+  }catch(e){ toast("Could not "+verb+": "+e.message); }
+  renderSchedulerHost();
 }
 
 function renderAttention(){
@@ -2647,6 +2707,8 @@ async function rerunIds(ids,date){
   const day=date||$("runDate").value||null;
   const cap=parseInt($("runCap").value,10);
   const body={scope:ids&&ids.length?"ids":"all",date:day};
+  // a lane page runs its own lane, not the whole fleet
+  if(!(ids&&ids.length))body.lane=laneScope();
   if(ids&&ids.length)body.ids=ids;
   if(!isNaN(cap)&&cap>0)body.max_docs=cap;
   $("runMsg").textContent="starting…";

@@ -4,17 +4,17 @@
 
 | # | Issue | State / path |
 |---|---|---|
-| 1 | **74% of documents have no publication date** (5,219 of 7,018; 5,120 regulatory) | The single biggest limitation. Any "what changed in the last N days" question silently misses them, and the assistant says so unprompted. Fix: extract dates from document bodies during a backfill pass |
+| 1 | ~~74% of documents have no publication date~~ | **Improved 2026-08-09: 26% → 65% dated.** `scripts/regagg_backfill_dates.py` recovered 2,747 of 5,219 (932 from URL paths, 1,815 from document text), each tagged `date:url` or `date:text` so an inferred date is distinguishable from a collected one. The remaining 2,472 carry no date anywhere we hold |
 | 2 | **85% have no extraction** (5,969 of 7,018) | No entities, no event type → invisible to entity lookup and to persona watchlists. Fix: `scripts/regagg_extract_backfill.py` over the corpus |
-| 3 | **87% of runs have `finished_at < started_at`** (110 of 127) | The poller stamps one batch finish before the per-source starts, so duration is unusable and a slowing collection gives no warning. Fix: stamp per source on completion |
-| 4 | 6 runs report `ingested + archived > fetched` | Counters contradict; surfaced on Health rather than hidden |
+| 3 | ~~87% of runs finish before they start~~ | **Fixed 2026-08-09.** `pipeline.run_regulator` stamped `finished_at` from the caller's fleet-wide `now`; it now records the real completion moment. Historic rows keep the bad values — duration is reported only for runs collected after the fix |
+| 4 | ~~6 runs with contradictory counters~~ | **Resolved 2026-08-09 — the check was wrong, not the data.** `ingested` and `archived` are event counters and one document can be created and have a version archived in the same run. All six were legitimate. Health now flags only the real impossibility, `fetched > detected` |
 | 5 | **FederalRegister.gov bot-gates its web host** | Mitigated: API abstracts (64) + metadata stubs (436), `content_source` flagged. Proper fix: GPO govinfo.gov bulk data |
 | 6 | **amf_qc 403 bot-block** | 0 docs. Do **not** evade. Path: official contact for IP whitelisting, or a licensed feed |
 | 7 | Depth on giant sites (osc ~29k, csa ~6k) | By design: 500/day slices accrue, `--deep` weekly |
 | 8 | 6 scanned PDFs have no text layer | Owner decided no OCR (97% extract fine via pypdf) |
 | 9 | 10 sources spell out their jurisdiction (`Canada` vs `CA`) | Harmless today — news is grouped by category before jurisdiction is read — but the column feeds region rollups, so it is one refactor from mattering |
 | 10 | MAS thin (JS-heavy) | Candidate for a Playwright fetch path; spec'd, unbuilt |
-| 11 | SAJHA app ships default credentials; server is localhost-only | **Harden before any non-local exposure** |
+| 11 | **Server binds `0.0.0.0` with the shipped admin account present** | Verified 2026-08-09; the KB previously claimed localhost-only and was wrong. Surfaced on Health as a high-severity check. Bind to 127.0.0.1, change the password, add TLS |
 | 12 | `reg_trigger_run` gives agents run-start power | Deliberate. Disable the config or scope keys if agents must be read-only |
 | 13 | `w-riskgpt` has `reg_trigger_run` enabled | The in-app chat does not (it gets the 10 read-only `corpus_*` tools), but the registered worker does. Drop it from `enabled_tools` if that is not wanted |
 | 14 | 31 orphaned tool implementations in `sajha/tools/impl/` | No config → not registered, so they are inert. **Not deleted**: `tools_registry.py` imports `wikipedia_tool` and `yahoo_finance_tool` directly, and the studio imports `sharepoint_tool` |

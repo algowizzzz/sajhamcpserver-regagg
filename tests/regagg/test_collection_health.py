@@ -179,14 +179,25 @@ def test_nothing_is_late_before_the_first_run_ever_recorded(wired):
 
 
 def test_the_funnel_reports_what_holds_and_does_not_invent_an_identity(wired):
-    """detected/fetched/ingested are independent counters, not a partition."""
+    """detected/fetched/ingested are event counters, not a partition."""
     _run(wired, "osfi", "2026-08-07", detected=100, fetched=80, ingested=50,
          archived=40, errors=5)
     f = H.funnel(wired, day=FRI, now=_now("2026-08-07", 20))
     assert f["holds"]["fetched_le_detected"] is True
     assert f["not_fetched"] == 20
     assert f["unchanged"] == 0            # clamped, never negative
-    assert f["inconsistent_count"] == 1   # ingested+archived > fetched, reported
+    # ingested + archived exceeds fetched here, and that is LEGITIMATE: one
+    # document can be created and have a version archived in the same run.
+    # Flagging it manufactured a defect and sent someone to reconcile clean data.
+    assert f["inconsistent_count"] == 0
+
+
+def test_only_a_real_impossibility_is_flagged(wired):
+    """You cannot fetch more than you detected. That one is a genuine defect."""
+    _run(wired, "osfi", "2026-08-07", detected=10, fetched=99, ingested=1)
+    f = H.funnel(wired, day=FRI, now=_now("2026-08-07", 20))
+    assert f["inconsistent_count"] == 1
+    assert "fetched exceeds detected" in f["inconsistent_runs"][0]["why"]
 
 
 def test_quality_percentages_use_the_right_population(wired):

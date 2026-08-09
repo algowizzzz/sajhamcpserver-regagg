@@ -15,9 +15,10 @@ reported success.
 On conservation: the run counters are NOT a partition, and this module does not
 pretend otherwise. Measured over the corpus, ``fetched <= detected`` and
 ``errors <= detected`` hold, but ``ingested + archived`` can exceed ``fetched``
-and ``detected != fetched + errors``. So instead of asserting an identity that
-balances, the funnel is shown as measured and the runs whose counters
-contradict each other are reported as a defect.
+and ``detected != fetched + errors``. Both of those are legitimate — they are
+event counters, and one document can be created and have a version archived in
+the same run. So the funnel is shown as measured, and the only thing flagged as
+a defect is the one genuine impossibility: fetching more than was detected.
 """
 
 from __future__ import annotations
@@ -88,13 +89,18 @@ def funnel(session, *, day: Optional[_dt.date] = None,
     arc = sum(r.archived or 0 for r in runs)
     err = sum(r.errors or 0 for r in runs)
 
-    # runs whose own numbers cannot all be true at once
+    # The only genuine contradiction: you cannot fetch more than you detected.
+    #
+    # An earlier version flagged `ingested + archived > fetched` as inconsistent.
+    # It is not. Both are EVENT counters and one document can produce both in a
+    # single run — created, then a version archived when it is seen again. All
+    # six runs that tripped the old check were legitimate, so the check was
+    # manufacturing a defect and sending someone to reconcile clean data.
     inconsistent = [{"regulator_id": r.regulator_id, "date": r.logical_date.isoformat(),
                      "detected": r.detected, "fetched": r.fetched,
-                     "ingested": r.ingested, "archived": r.archived,
-                     "why": "ingested + archived exceeds fetched"}
+                     "why": "fetched exceeds detected"}
                     for r in _col._runs_since(session, day - _dt.timedelta(days=90), ids)
-                    if (r.ingested or 0) + (r.archived or 0) > (r.fetched or 0)]
+                    if (r.fetched or 0) > (r.detected or 0)]
 
     return {"date": day.isoformat(), "runs": len(runs),
             "detected": det, "fetched": fet, "ingested": ing,
@@ -105,9 +111,9 @@ def funnel(session, *, day: Optional[_dt.date] = None,
                       "errors_le_detected": err <= det},
             "inconsistent_runs": inconsistent[:10],
             "inconsistent_count": len(inconsistent),
-            "note": "these are independent counters, not a partition — errors "
-                    "can overlap fetched, and a document can be both ingested "
-                    "and archived in one run"}
+            "note": "event counters, not a partition — errors can overlap "
+                    "fetched, and one document can be both ingested and "
+                    "archived in a single run, so the parts may exceed the whole"}
 
 
 # ── data quality: defects in what we already hold ───────────────────────────
@@ -196,6 +202,32 @@ def quality(session) -> dict:
         "jurisdiction is read — but the column is the input to region rollups, "
         "so it is one refactor away from mattering", of=n_sources)
     checks[-1]["values"] = odd
+
+    # ── exposure ────────────────────────────────────────────────────────────
+    # Not a data defect, but it belongs on the page a platform team reads. The
+    # KB claimed this server was localhost-only; it is not — the default bind
+    # is 0.0.0.0, and the shipped admin account is still present.
+    import os as _os
+    try:
+        from sajha.core.config import get_settings as _gs
+        bind = getattr(_gs(), "server_host", "0.0.0.0")
+    except Exception:  # noqa: BLE001
+        bind = _os.getenv("SAJHA_SERVER_HOST", "0.0.0.0")
+    exposed = bind not in ("127.0.0.1", "localhost", "::1")
+    try:
+        from sajha.db.models import User as _U
+        stock = session.scalar(select(func.count()).select_from(_U)
+                               .where(_U.username == "admin")) or 0
+    except Exception:  # noqa: BLE001
+        stock = 0
+    add("network_exposure", 1 if (exposed and stock) else 0, "high",
+        f"reachable on {bind} with the shipped admin account present",
+        "anyone who can route to this host can attempt the default credentials; "
+        "the corpus and the run controls are behind that login",
+        "bind to 127.0.0.1, or change the admin password and put TLS in front",
+        of=1)
+    checks[-1]["bind"] = bind
+    checks[-1]["stock_admin"] = bool(stock)
 
     checks.sort(key=lambda c: ({"high": 0, "medium": 1, "low": 2}[c["severity"]],
                                -c["count"]))

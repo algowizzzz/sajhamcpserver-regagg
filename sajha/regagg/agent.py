@@ -20,6 +20,7 @@ Two things keep it honest:
 from __future__ import annotations
 
 import json
+import logging
 import re
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
@@ -40,6 +41,17 @@ HOW TO WORK
 - Read before you conclude. A search snippet is a pointer, not evidence.
 - If the corpus does not answer the question, say exactly that, and say what it
   DOES contain on the subject. Never fill a gap with general knowledge.
+
+WHEN A TOOL PUSHES BACK
+- A rejected argument names the parameters the tool does accept. Retry with one
+  of those. Do not fetch everything and filter it by eye instead — that looks
+  like it worked and quietly drops whatever you did not skim.
+- Check that a result matches the filter you asked for. If you requested one
+  source and other sources come back, the filter did not apply: say so in your
+  answer and treat the result as unscoped.
+- If you cannot scope a question with the tools you have, say that plainly.
+  An unscoped result presented as a scoped one is the one failure the reader
+  cannot detect for themselves.
 
 HOW TO ANSWER
 - Lead with the answer. Be specific and brief.
@@ -82,11 +94,28 @@ def _tool_specs(names: List[str]) -> List[dict]:
 
 
 def _run_tool(name: str, arguments: Dict[str, Any]) -> Any:
+    """Run a tool, but check the call against its contract first.
+
+    The schema the model was handed is the same one validated here, so a
+    parameter the tool does not implement comes back as a correctable error
+    on the first call instead of being dropped in silence. The model can
+    then retry with a filter that exists — or say the corpus cannot answer
+    the question — rather than reasoning over a result it believes is
+    narrower than it is.
+    """
     from sajha.tools.tools_registry import ToolsRegistry
     tool = ToolsRegistry().get_tool(name)
     if tool is None:
         return {"error": f"unknown tool {name}"}
-    return tool.execute(arguments or {})
+    arguments = arguments or {}
+    try:
+        tool.validate_arguments(arguments)
+    except ValueError as e:
+        # Log it too: a rejection only the model sees is a contract gap nobody
+        # gets to fix. Repeated entries here name the filter a tool should grow.
+        logging.getLogger(__name__).warning("tool contract: %s", e)
+        return {"error": str(e), "arguments_rejected": True}
+    return tool.execute(arguments)
 
 
 def page_brief(page: Optional[dict]) -> str:

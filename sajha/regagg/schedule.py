@@ -42,6 +42,30 @@ MISSED = "missed"
 
 
 @dataclass(frozen=True)
+class Intraday:
+    """The news-lane poll. Independent of the daily job by design: fresh wires
+    and a full corpus sweep are different jobs on different clocks."""
+
+    enabled: bool = False
+    every_hours: int = 3
+    start: str = "07:00"
+    end: str = "19:00"
+    days: Sequence[str] = field(default_factory=lambda: list(_DAYS[:5]))
+
+    def hours(self) -> List[int]:
+        """The hours it fires, host-local. Empty when disabled."""
+        if not self.enabled:
+            return []
+        try:
+            s = int(str(self.start).split(":")[0])
+            e = int(str(self.end).split(":")[0])
+        except (ValueError, TypeError):
+            s, e = 7, 19
+        step = max(1, min(int(self.every_hours or 3), 12))
+        return list(range(s, e + 1, step))
+
+
+@dataclass(frozen=True)
 class Schedule:
     """A declared expectation. Absent config means "we make no claim"."""
 
@@ -51,6 +75,7 @@ class Schedule:
     days: Sequence[str] = field(default_factory=lambda: list(_DAYS[:5]))
     grace_minutes: int = 90
     skip_dates: Sequence[str] = field(default_factory=tuple)
+    intraday: Intraday = field(default_factory=Intraday)
 
     # ── zone / time helpers ─────────────────────────────────────────────────
 
@@ -181,6 +206,11 @@ class Schedule:
         """The declaration itself, for the UI to show and for humans to check."""
         nxt = self.next_run_at(now)
         return {"enabled": self.enabled, "at": self.at, "timezone": self.timezone,
+                "intraday": {"enabled": self.intraday.enabled,
+                             "every_hours": self.intraday.every_hours,
+                             "between": [self.intraday.start, self.intraday.end],
+                             "days": list(self.intraday.days),
+                             "hours": self.intraday.hours()},
                 "days": list(self.days), "grace_minutes": self.grace_minutes,
                 "skip_dates": list(self.skip_dates or ()),
                 "next_run_at": nxt.isoformat() if nxt else None,
@@ -212,7 +242,18 @@ def load(path: Optional[Path] = None) -> Schedule:
     if isinstance(days, str):
         days = [d.strip() for d in days.split(",") if d.strip()]
     skip = raw.get("skip_dates") or []
+    intra_raw = raw.get("intraday") or {}
+    between = intra_raw.get("between") or ["07:00", "19:00"]
+    idays = intra_raw.get("days") or days
+    intraday = Intraday(
+        enabled=bool(intra_raw.get("enabled", False)),
+        every_hours=int(intra_raw.get("every_hours", 3) or 3),
+        start=str(between[0] if len(between) > 0 else "07:00"),
+        end=str(between[1] if len(between) > 1 else "19:00"),
+        days=[str(d).lower()[:3] for d in idays],
+    )
     return Schedule(
+        intraday=intraday,
         enabled=bool(raw.get("enabled", False)),
         at=str(raw.get("at", "06:00")),
         timezone=str(raw.get("timezone", "UTC")),

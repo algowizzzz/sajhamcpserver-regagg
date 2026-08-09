@@ -164,7 +164,11 @@ and endpoint gets a session from `runtime.get_session()`.
   route. Both were upstream gaps that were closed here.
 - The agent key is DB-only with allowlist `["reg_*", "corpus_*"]`, stored as a
   JSON **string**. Never commit keys.
-- The server is localhost-only. The SAJHA admin app still ships default
-  credentials — **harden before any non-local exposure**.
+- **The server binds to `0.0.0.0`, not localhost** — an earlier version of
+  this file claimed otherwise and was wrong. The shipped `admin` account is
+  still present. Anyone who can route to the host can attempt those
+  credentials, and the corpus and run controls sit behind that login. The
+  Health page now reports this as a high-severity check. Bind to `127.0.0.1`,
+  change the password, and put TLS in front before any non-local exposure.
 - Explorer/`fs` endpoints are read-only and jailed to the corpus root; path
   traversal returns 400 and there is a test for it.

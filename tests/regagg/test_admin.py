@@ -102,3 +102,34 @@ def test_toggle_flips_active_and_audits(client):
 def test_integrity_ok(client):
     body = client.get("/api/regagg/integrity").json()
     assert body["ok"] is True and body["invariant_violations"] == []
+
+
+def test_run_all_on_a_lane_page_runs_only_that_lane(client, session, seed_regulator):
+    """The Regulatory page's "Run all" was re-polling the 25 news wires too.
+
+    A button on a lane page reads as lane-scoped; sending scope:"all" with no
+    filter made it mean the whole fleet.
+    """
+    from sajha.regagg.models import Regulator
+    seed_regulator("wsj", "US", "sitemap_diff")     # the client fixture seeds osfi
+    session.get(Regulator, "wsj").category = "news"
+    session.commit()
+
+    seen = {}
+
+    def fake_trigger(**kw):
+        seen.update(kw)
+        return {"started": True}
+
+    from sajha.regagg import runtime
+    runtime.set_providers(rerun_trigger=lambda **kw: fake_trigger(**kw))
+    try:
+        r = client.post("/api/regagg/rerun", json={"scope": "all", "lane": "regulatory"})
+        assert r.status_code == 200
+        assert seen["ids"] == ["osfi"]          # the wire is not touched
+
+        seen.clear()
+        client.post("/api/regagg/rerun", json={"scope": "all"})
+        assert seen["ids"] is None              # no lane: still the whole fleet
+    finally:
+        runtime.set_providers(rerun_trigger=None)

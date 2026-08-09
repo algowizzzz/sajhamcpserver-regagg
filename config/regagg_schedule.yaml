@@ -34,3 +34,18 @@ grace_minutes: 90
 # Dates that were never expected to run — holidays, planned maintenance. Same
 # treatment as a weekend.
 skip_dates: []
+
+# ── intraday news ──────────────────────────────────────────────────────────
+# The daily pass re-enriches the whole corpus, which is wasteful six times a
+# day. This one collects the news lane only and skips the sweep, so a poll is a
+# few dozen feed fetches. It also makes the per-source story cap a PER-POLL
+# cap, which is what stops a busy news day scrolling past the collector.
+#
+# Independent of the daily job: enable either, both, or neither.
+intraday:
+  enabled: true
+  every_hours: 3
+  # Only within these hours, host-local, so the machine is not woken at 03:00
+  # for wires that publish on business hours anyway.
+  between: ["07:00", "19:00"]
+  days: [mon, tue, wed, thu, fri]

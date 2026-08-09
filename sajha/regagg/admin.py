@@ -73,6 +73,7 @@ class ManualDocRequest(BaseModel):
 
 class RerunRequest(BaseModel):
     scope: str = "all"                 # 'all' | 'ids'
+    lane: Optional[str] = None         # scope 'all' to one lane: news | regulatory
     date: Optional[str] = None         # logical date (defaults to today)
     ids: Optional[List[str]] = None
     max_docs: Optional[int] = None     # per-regulator cap for this run
@@ -253,6 +254,9 @@ def create_admin_router() -> APIRouter:
                     "published": (doc or {}).get("published", ""),
                     "url": (doc or {}).get("source_url", ""),
                     "doc_id": d, "regulator_id": reg_id,
+                    # the UI routes regulatory sources to the in-app drawer
+                    # (diff + provenance) and news to the publisher
+                    "lane": getattr(reg, "category", "regulatory"),
                 })
                 if len(sources) >= 12:
                     break
@@ -487,6 +491,16 @@ def create_admin_router() -> APIRouter:
             raise HTTPException(400, "scope must be 'all' or 'ids'")
         logical_date = req.date or date.today().isoformat()
         ids = req.ids if req.scope == "ids" else None
+        # "Run all" pressed on a lane page means all of THAT lane. Without this
+        # the Regulatory page's button also re-polled the 25 news wires, which
+        # is both surprising and slow.
+        if ids is None and req.lane:
+            ids = [r for (r,) in runtime.get_session().execute(
+                select(Regulator.regulator_id).where(
+                    Regulator.category == req.lane,
+                    Regulator.active.is_(True))).all()]
+            if not ids:
+                raise HTTPException(400, f"no active sources in lane '{req.lane}'")
         _audit(runtime.get_session(), x_operator, "regagg.rerun", "regulator",
                ",".join(ids) if ids else "all", f"date={logical_date}")
         trigger = runtime.get_rerun_trigger()
@@ -713,6 +727,41 @@ def create_admin_router() -> APIRouter:
     def health_overview():
         from sajha.regagg import health
         return health.overview(runtime.get_session())
+
+    @router.get("/scheduler/status")
+    def scheduler_status():
+        """Whether a scheduler is actually installed — asked of the OS.
+
+        Separate from `/schedule`, which reports what was *declared*. The whole
+        point is that those two can disagree, and until now nothing said so.
+        """
+        from sajha.regagg import scheduler_install as _si
+        return _si.status()
+
+    @router.post("/scheduler/install")
+    def scheduler_install_(request: Request, job: str = "daily",
+                           x_operator: str = Header("anonymous")):
+        """Install a job from the declaration. Persistent — hence audited."""
+        from sajha.regagg import scheduler_install as _si
+        _require_user(request)
+        if job not in _si.JOBS:
+            raise HTTPException(400, f"job must be one of {_si.JOBS}")
+        out = _si.install(job)
+        _audit(runtime.get_session(), x_operator, "regagg.scheduler_install",
+               "host", out.get("platform") or "-", out.get("detail", "")[:200])
+        return out
+
+    @router.post("/scheduler/uninstall")
+    def scheduler_uninstall_(request: Request, job: str = "daily",
+                             x_operator: str = Header("anonymous")):
+        from sajha.regagg import scheduler_install as _si
+        _require_user(request)
+        if job not in _si.JOBS:
+            raise HTTPException(400, f"job must be one of {_si.JOBS}")
+        out = _si.uninstall(job)
+        _audit(runtime.get_session(), x_operator, "regagg.scheduler_uninstall",
+               "host", "-", out.get("detail", "")[:200])
+        return out
 
     @router.get("/schedule")
     def schedule_declared():
