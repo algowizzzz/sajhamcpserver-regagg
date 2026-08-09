@@ -1,6 +1,0 @@
-Role,Allocation,Days / Sprint,SP Capacity / Sprint,Sprints,Notes
-Backend Engineer,100%,10,11,9,"Data layer, versioning, pipeline, ops; S7-9 needs AWS/platform skills (see assumption)"
-Full-stack Engineer,100%,10,11,9,"Dashboard UI, fetch layer, docs"
-AI Engineer,100%,10,11,9,"Connectors, enrichment, MCP tools, agentic"
-Business Analyst,25%,2.5,2,9,"Source sign-off, UX definitions, UAT"
-Project Manager,25%,2.5,0,9,"Ceremonies, RAID, reporting (non-pointed)"

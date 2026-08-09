@@ -25,6 +25,40 @@
       "limit": {
         "type": "integer",
         "default": 10
+      },
+      "doc_type": {
+        "description": "Restrict to one or more document types (e.g. 'guidance', 'final_rule', 'news_story').",
+        "oneOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          }
+        ]
+      },
+      "stage": {
+        "type": "string",
+        "enum": [
+          "web",
+          "policy"
+        ],
+        "description": "'policy' is parsed PDF/rule text; 'web' is collected pages."
+      },
+      "date_from": {
+        "type": "string",
+        "description": "Published on or after, YYYY-MM-DD."
+      },
+      "date_to": {
+        "type": "string",
+        "description": "Published on or before, YYYY-MM-DD."
+      },
+      "title_contains": {
+        "type": "string",
+        "description": "Case-insensitive substring of the title."
       }
     },
     "required": []

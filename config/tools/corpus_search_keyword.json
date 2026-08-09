@@ -37,6 +37,18 @@
       "limit": {
         "type": "integer",
         "default": 20
+      },
+      "stage": {
+        "type": "string",
+        "enum": [
+          "web",
+          "policy"
+        ],
+        "description": "'policy' is parsed PDF/rule text; 'web' is collected pages."
+      },
+      "title_contains": {
+        "type": "string",
+        "description": "Case-insensitive substring of the title."
       }
     },
     "required": [

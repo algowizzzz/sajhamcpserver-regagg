@@ -1,14 +1,30 @@
-# 01 — Architecture, Data Flow, Schema
+# 01 — Architecture
 
 ## Design lineage
-Original spec: the handover doc set (BRD/PRD/TRD/data-schema/UX/source-map)
-written for a standalone Postgres+MinIO+Redis+Prefect stack. **Deliberate
-deviation (owner-approved):** built *embedded* in the SAJHA MCP server instead,
-reusing its tool registry (config-driven dynamic discovery), storage
-abstraction, and auth. Scheduling/LLM/chatbot are owned by the user's external
-stack; this system is the **data layer + tracking UI + MCP surface**.
 
-## End-to-end data flow (one regulator, one run)
+The original spec described a standalone Postgres + MinIO + Redis + Prefect
+stack. **Deliberate, owner-approved deviation:** this was built *embedded* in
+the SAJHA MCP server, reusing its tool registry (config-driven dynamic
+discovery), storage abstraction and auth. That decision is why there is no
+separate service to deploy and why `JSONFlex` exists.
+
+## The one idea that shapes everything
+
+**Selection is deterministic; narration is generated.**
+
+Code decides what appears — which documents matched, which are serious, which
+sources are stale. The model only writes prose *about* that selection, and
+every generated sentence is validated against the evidence before it renders.
+When validation fails the system falls back to a deterministic template and
+says so.
+
+This is why the product is usable in a bank. An analyst can ask "why is this
+here?" of any card and get a mechanical answer (`why` on every dossier item:
+`credit event +55; 2 sources +10`). And it is why the failure mode of a bad LLM
+day is a plainer page, never a wrong one.
+
+## End-to-end data flow (one source, one run)
+
 ```
 YAML config ──► connector.detect(payloads)          # stateless; 3 engines:
                  │   sitemap_diff | rss | api        #  - lastmod fast-path skip
@@ -17,80 +33,138 @@ YAML config ──► connector.detect(payloads)          # stateless; 3 engines
                  │  meta-source dedup (fedreg vs agency copy, by reference)
                  ▼
              Fetcher (rate-limited, UA'd) ──► html_to_md | pdf_to_md(pypdf)
-                 │   PDF detection by %PDF magic bytes (never trust extension)
+                 │   PDF detected by %PDF magic bytes, never by extension
                  │   bot-block guard → API abstract / metadata stub fallback
                  ▼
              CorpusVersioning.ingest()               # THE critical path:
-                 │   new → current/, v1               #  6-step atomic protocol
-                 │   changed → archive old, v(n+1)    #  crash-safe (chaos-tested)
-                 │   same hash → no-op                #  reconcile() repairs
+                 │   new      → current/, v1         #  6-step atomic protocol
+                 │   changed  → archive old, v(n+1)  #  crash-safe, chaos-tested
+                 │   same hash→ no-op                #  reconcile() repairs
                  ▼
              rules.apply_rules()                     # deterministic enrichment:
                  │   reference numbers (B-13, SR 26-3, CAR-Ch4, NI 31-103…)
                  │   citation mining → graph edges (supersedes flips status)
                  ▼
+             materiality.score()                     # deterministic priority
+                 ▼
              projection.project_doc()                # write-through md mirror
                  ▼
-             seen_urls + reg_runs updated (mid-run counter flush every 10 docs)
+             seen_urls + reg_runs updated (counter flush every 10 docs)
 ```
+
 PDF harvesting: HTML pages yield same-domain PDF links (3/page, 40/run) which
-enter the same queue as `source_kind=policy_pdf` documents.
+enter the same queue as `source_kind=policy_pdf`.
 
-## Storage layout (canonical — data/web_aggregator/)
-```
-{regulator}/
-  _state/run_manifests/{run_id}.json      # per-URL log of every run
-  current/{doc_type}/{year}/{doc_id}/
-    raw.html|raw.pdf                      # original bytes, immutable
-    content.md                           # normalized markdown
-    meta.json                            # full provenance (see below)
-    summary.md                           # empty until LLM layer fills it
-  archive/{doc_type}/{year}/{doc_id}/{version_ts}/   # append-only history
-  staging/                               # transient; reconcile cleans crashes
-```
-meta.json carries: doc_id, title, reference_number, source_url, final_url,
-fetch_method, content_source (api_abstract|metadata_stub when bot-gated),
-content_hash (sha256), version_ts/version_n, ingested_at, run_id, ocr, tags.
+## Two lanes, one pipeline
 
-## Markdown projection (agent consumption — data/markdown/)
-```
-web/{regulator}/{doc_type}/{doc_id}.md      # HTML-converted
-policy/{regulator}/{doc_type}/{doc_id}.md   # PDF-converted
-```
-YAML frontmatter (title/regulator/reference/source_url/published/version) on
-every file. Maintained by write-through at ingest + nightly `resync()`
-self-heal. This is a PROJECTION of current/ only — history lives in canonical.
+`reg_regulators.category` is `regulatory` or `news`. The same pipeline serves
+both; the lane changes three things and nothing else:
 
-## Database (SQLite data/sajha.db; Postgres DDL ready in
-## db/scripts/postgresql/003_regagg_schema.sql)
-9 tables, all prefixed `reg_`, defined in `sajha/regagg/models.py` on the
-shared SQLAlchemy Base (auto-created at startup):
-| Table | Role |
+| | regulatory | news |
+|---|---|---|
+| What is stored | full document text, PDFs, versions | headline + the publisher's own feed summary + link |
+| Staleness window | 14 days | 3 days |
+| Persona matching | entities **and** rule families | entities only |
+
+**The news lane never stores article bodies.** That is a deliberate copyright
+position, not a gap. It is why `excerpt.py` has a separate branch per lane and
+why a news preview can be blank when a feed carries no summary.
+
+## Layer map
+
+```
+┌─ collection ─────────────────────────────────────────────────────────┐
+│ connectors · fetch · versioning · rules · materiality · projection   │
+│ orchestrator · pipeline · verify_sources                             │
+└──────────────────────────────────────────────────────────────────────┘
+┌─ selection (deterministic) ──────────────────────────────────────────┐
+│ extraction (entities, events) · matching (3-tier confidence)         │
+│ dossier (what goes on a page + why) · materiality · schedule         │
+└──────────────────────────────────────────────────────────────────────┘
+┌─ narration (generated, validated) ───────────────────────────────────┐
+│ myday.compose · ask · agent · focus.rank_by_prompt                   │
+│ entity_table.classify/summarise                                      │
+└──────────────────────────────────────────────────────────────────────┘
+┌─ surfaces ───────────────────────────────────────────────────────────┐
+│ admin.py (47 endpoints) · ui_dashboard.html · MCP tools · digital    │
+│ worker                                                               │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+## Modules, by job
+
+Line counts are a rough guide to where the weight is.
+
+**Collection**
+| Module | Job |
 |---|---|
-| reg_regulators | registry (jurisdiction, connector, active, staleness) |
-| reg_seen_urls | change detection (url → hash, lastmod, doc_id) |
-| reg_documents | ONE current row per doc (source_kind web/policy_pdf, status) |
-| reg_document_versions | full history; invariant: exactly one state='current' |
-| reg_document_tags | config/llm/rule/manual-sourced tags |
-| reg_document_edges | citation graph (implements/supersedes/…, confidence) |
-| reg_pending_edges | unresolved citations, retried nightly |
-| reg_runs | every run: counts, status, trigger, operator (audit) |
-| reg_watermarks | API poller position |
+| `connectors.py` (231) | three detection engines: sitemap_diff, rss, api |
+| `fetch.py` (137) | rate-limited fetch; html→md; pdf→md by magic bytes |
+| `versioning.py` (346) | the 6-step atomic ingest protocol + reconcile |
+| `rules.py` (189) | reference grammars, citation mining, supersede edges |
+| `materiality.py` (178) | deterministic priority score with a stated reason |
+| `projection.py` (88) | write-through markdown mirror |
+| `pipeline.py` (435) | wires the above into one run |
+| `orchestrator.py` (110) | fleet fan-out with failure isolation |
+| `verify_sources.py` (186) | the trust gate — run before onboarding a source |
 
-Run status semantics: `failed` ONLY when nothing landed or >20% errored;
-scattered per-URL errors (regulator-side 404s/429s) = `success` + error count.
+**Selection**
+| Module | Job |
+|---|---|
+| `extraction.py` (315) | entity index, event classification |
+| `matching.py` (247) | watchlist matching, three-tier confidence |
+| `dossier.py` (296) | what goes on a My Day page, and the `why` string |
+| `schedule.py` (240) | when a run was expected — the six-state machine |
+| `collection.py` (422) | coverage matrix, trends, rerun candidates |
+| `health.py` (324) | freshness, funnel, quality checks, reliability |
+| `corpus_index.py` (301) | lazily built BM25/TF-IDF index over the markdown |
+| `excerpt.py` (221) | the first thing in a document worth reading |
 
-## Key modules (sajha/regagg/)
-config_models/config_loader (pydantic, strict) · connectors · fetch ·
-pipeline · versioning (+reconcile/chaos) · rules (no-LLM enrichment) ·
-projection · enrichment (LLM slot; MockLLM used) · queries/queries_ui ·
-admin (API + dashboard) · runtime (thread-scoped session providers, rerun
-spawner) · manual (human override lane) · verify_sources · orchestrator.
+**Narration**
+| Module | Job |
+|---|---|
+| `myday.py` (361) | compose + validate the daily page spec |
+| `ask.py` (224) | pinned-artifact chat, no-citation-no-claim |
+| `agent.py` (257) | the agentic loop over corpus tools |
+| `focus.py` (221) | filter deterministically, reorder by prompt |
+| `entity_table.py` (313) | the sweep, classification, headline |
+| `table_schema.py` (204) | user-declared columns and their coercion |
+| `tavily.py` (215) | external news search + labelled stand-in |
 
-## Security model (current)
-- MCP `tools/call` REQUIRES auth; per-key tool allowlists ENFORCED at the
-  route (both were upstream gaps we closed). Discovery stays open.
-- Agent key: DB-only, allowlist `reg_*`. Rotated 2026-08-03; never commit keys.
-- Server is localhost-only; SAJHA admin still has default creds — HARDEN
-  (password, TLS, bind) before any non-local exposure.
-- Explorer/fs endpoints are read-only and jailed to the corpus root.
+**Surfaces**
+| Module | Job |
+|---|---|
+| `admin.py` (1001) | every endpoint, plus the UI route |
+| `ui_dashboard.html` | the entire front end — one file, no build step |
+| `queries_ui.py` (928) | the read models the pages are built from |
+| `runtime.py` (172) | contextvar-scoped session providers |
+| `auth.py` (157) | sessions, users, persona ownership |
+
+## Why the UI is one file
+
+`ui_dashboard.html` is a single self-contained file with no build step and no
+CDN dependencies. On-prem installs are frequently offline and frequently behind
+a proxy that will not fetch a script. It is served fresh per request, so
+editing it and reloading the browser is the whole dev loop.
+
+The cost is that it is large. The mitigation is that it is organised in the same
+order as the product: CSS grouped by page, then markup per view, then one
+`load*()` per view. If you are adding a page, copy the shape of `v-hea`.
+
+## Concurrency and sessions
+
+`runtime.py` provides **contextvar-scoped** sessions, not thread-locals.
+FastAPI runs sync endpoints in a threadpool, and thread-locals do not propagate
+into it — that combination exhausted the connection pool once. Every tool call
+and endpoint gets a session from `runtime.get_session()`.
+
+## Security posture
+
+- MCP `tools/call` requires auth; per-key tool allowlists are enforced at the
+  route. Both were upstream gaps that were closed here.
+- The agent key is DB-only with allowlist `["reg_*", "corpus_*"]`, stored as a
+  JSON **string**. Never commit keys.
+- The server is localhost-only. The SAJHA admin app still ships default
+  credentials — **harden before any non-local exposure**.
+- Explorer/`fs` endpoints are read-only and jailed to the corpus root; path
+  traversal returns 400 and there is a test for it.

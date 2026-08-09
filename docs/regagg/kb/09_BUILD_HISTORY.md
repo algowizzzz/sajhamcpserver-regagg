@@ -204,3 +204,82 @@ alongside the 30 regulators. Design decisions:
   American Banker, BBC, Guardian, FT, Economist, France 24 (Reuters retired its
   public feed), Nikkei Asia, SCMP, Economic Times. All 20 verified live
   2026-08-05; first ingest 536 stories, 0 errors. Suite: 105 tests green.
+
+---
+
+## Sessions 2026-08-07 → 2026-08-09 — the product layer
+
+The corpus was done; these sessions built what sits on top of it. Every item
+below has tests; the war stories are in `08_KNOWN_ISSUES_AND_ROADMAP.md`.
+
+### Entity matching rewritten (three-tier confidence)
+Recall was 68% with a false positive — "Meta", "Uber", "AMD", "JP Morgan"
+missed while "Apple Hospitality REIT" matched "Apple Inc.". Rewritten as
+confirmed / possible / none, so ambiguity is an outcome rather than a coin
+flip. 100% recall on 22 variants, 0 false confirmations on 8 confusable pairs.
+The first version was 80× slower; candidate indexes by first token and
+name-head fixed it.
+
+### `corpus_*` tools and the digital worker
+Ten tools over the markdown projection — list, read, read-many, keyword, BM25,
+TF-IDF similar, changes, entity lookup, stats — with no embedding service
+required. `agent.py` runs an agentic loop over them; `w-riskgpt` registered in
+the agent platform with all 22 tools, discovered from the registry rather than
+hard-coded.
+
+### Tool contracts validated from their own schemas
+`corpus_changes` accepted a `source` filter and ignored it; the worker noticed
+and reconstructed the answer by hand. Now an argument a tool does not implement
+is rejected with a message naming the accepted parameters, driven by each
+tool's `inputSchema`. Building the guard surfaced four more tools whose
+implemented filters were never advertised.
+
+### The schedule declared to the app
+`config/regagg_schedule.yaml`. The scheduler is external, so an empty day was
+ambiguous — a quiet Saturday and a dead scheduler looked identical. Six states
+now, and an unscheduled gap is drawn as expected rather than as a fault.
+
+### Collection and Health rebuilt
+Built for the person accountable for freshness. Building them against real data
+contradicted three things the old pages claimed: the run counters are not a
+partition, run duration is unusable (87% of runs finish before they start), and
+reliability disagreed with the coverage matrix because it pooled both
+categories. It immediately surfaced that regulatory collection had been down
+for three scheduled days.
+
+### My Day rebuilt as three columns
+Persona chips → a dropdown; five stat tiles → one line; stacked sections →
+serious / watch / not-on-this-page, each scrolling in place. Every card gained
+a preview from its own document, which needed a lane-aware excerpt extractor:
+the news lane stores only the publisher's summary, and the first 300 characters
+of an OSFI guideline is a postal address.
+
+### The focus bar
+Entities and sources filter deterministically; a prompt may only reorder and
+narrate. A focused view is ephemeral and never overwrites the cached daily
+page, which is a record someone may already have acted on.
+
+### The entity table
+One row per watched name — 500 entities, 500 rows, including the quiet ones.
+Columns declared by the desk in YAML, filled by the model, coerced against the
+declared set so a near-miss becomes `unknown`. Reading spends nothing; the
+sweep is an explicit click with the credit count shown first. Without a Tavily
+key it produces demo rows marked at three levels plus an undismissable banner.
+
+### Layout and chat polish
+Auto-fit pages that never scroll the window, with the `mainlist` / `scrollbox`
+split after 16,238px of change feed was found trapped behind a 340px box. A
+resizable chat dock whose stored width survives a narrow window. Chat sources
+moved into the answer bubble as links to the article — which exposed that the
+sources shown were not the sources used.
+
+### Documentation and cleanup (2026-08-09)
+This knowledge base rewritten from `docs/regagg/kb/`'s 2026-08-04 state, plus a
+`testing/` subfolder. Removed 520 KB of superseded material: 11 design mockups,
+the stale sprint/status PM pack and its generator, an old verification report.
+Deliberately **not** removed: 31 orphaned tool implementations under
+`sajha/tools/impl/`, because `tools_registry.py` and the studio import several
+directly.
+
+**State at close:** 257 Python + 75 browser tests green; 7,018 documents;
+55 sources; 22 MCP tools.
