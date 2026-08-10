@@ -76,6 +76,15 @@ def main() -> int:
                     help="override include_patterns (comma-separated regex) — "
                          "used for targeted gap-fill passes, e.g. '/en/guidance/'")
     ap.add_argument("--operator", default=None, help="audit attribution for the run")
+    ap.add_argument("--date", dest="logical_date", default=None,
+                    help="logical date to file this run under (default: today). "
+                         "Used to backfill a missed day: the documents are whatever "
+                         "the source publishes now, but the run closes the gap in "
+                         "the coverage matrix. started_at still records the real "
+                         "wall-clock time, so the two are never confused.")
+    ap.add_argument("--enrich-all", action="store_true",
+                    help="re-enrich the whole corpus, not just the sources in this "
+                         "run (slow: a full sweep over every document)")
     args = ap.parse_args()
 
     engine = create_engine(DB, connect_args={"timeout": 30})  # wait out server write-locks
@@ -107,8 +116,11 @@ def main() -> int:
     session.commit()
 
     source_opener, fetcher = make_openers(args.rps, args.timeout)
-    logical = date.today().isoformat()
+    logical = args.logical_date or date.today().isoformat()
     now = datetime.now(timezone.utc)
+    if args.logical_date and args.logical_date != date.today().isoformat():
+        print(f"backfill: filing this run under {logical} "
+              f"(collected {now:%Y-%m-%d %H:%M} UTC)", flush=True)
     totals = {"docs": 0, "errors": 0}
 
     for cfg in configs.values():
@@ -126,11 +138,17 @@ def main() -> int:
         except Exception as e:  # noqa: BLE001
             print(f"  {cfg.id:9s} FATAL {e}", flush=True)
 
-    # enrich everything ingested (MockLLM — swap AnthropicBackend when a key is set)
+    # Enrich the sources this run touched (MockLLM — swap AnthropicBackend when a
+    # key is set). This used to sweep `Document.all()` regardless of scope, so
+    # rerunning ONE source re-enriched all 7,400 documents and took ~6 minutes;
+    # it is also why concurrent runs were unsafe. --enrich-all restores the sweep.
     tax = load_taxonomy(str(REPO / "config" / "regulators" / "_taxonomy.yaml"))
     enr = Enricher(session, storage, MockLLM(), tax)
     enriched = 0
-    for doc in session.query(Document).all():
+    q = session.query(Document)
+    if not args.enrich_all:
+        q = q.filter(Document.regulator_id.in_(list(configs.keys())))
+    for doc in q.all():
         try:
             enr.enrich_document(doc, default_tags=list(configs.get(doc.regulator_id).default_tags)
                                 if doc.regulator_id in configs else [])
@@ -138,10 +156,10 @@ def main() -> int:
         except Exception:  # noqa: BLE001
             pass
 
+    scope = "whole corpus" if args.enrich_all else f"{len(configs)} source(s) in this run"
     print(f"\nLIVE: {session.query(Document).count()} total docs in corpus, "
           f"{totals['docs']} ingested this run, {totals['errors']} fetch errors, "
-          f"{enriched} enriched, {session.query(Run).count()} total runs")
-    print("dashboard: http://localhost:3002/api/regagg/ui")
+          f"{enriched} enriched ({scope}), {session.query(Run).count()} total runs")
     return 0
 
 

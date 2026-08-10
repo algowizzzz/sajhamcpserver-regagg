@@ -117,7 +117,7 @@ el.style.maxHeight = '340px';   // re-impose the old cap
 ## Before you commit
 
 ```bash
-./.venv/bin/python -m pytest tests/regagg -q     # 319 passed
+./.venv/bin/python -m pytest tests/regagg -q     # 329 passed
 bash tests/ui/run_suite.sh                       # 76 passed
 ```
 

@@ -21,8 +21,8 @@ kb/
   09_BUILD_HISTORY.md           chronological, epic by epic
   10_DEPLOYMENT.md              on-prem deployment
   testing/
-    README.md                   index — 395 tests, how to run them
-    01_PYTEST_SUITES.md         all 26 Python files, what each protects
+    README.md                   index — 405 tests, how to run them
+    01_PYTEST_SUITES.md         all 27 Python files, what each protects
     02_UI_SUITE.md              6 browser specs and the harness
     03_RESULTS.md               recorded runs and measurements
     04_HOW_TO_TEST.md           writing a new test; traps that cost time

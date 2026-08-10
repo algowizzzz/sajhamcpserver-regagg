@@ -1412,7 +1412,9 @@
           <span class="chips" id="runChips"></span>
           <span class="spacer" style="flex:1"></span>
           <label class="fdate">for <input type="date" id="runDate"></label>
-          <input id="runCap" type="number" min="1" placeholder="max docs">
+          <input id="runCap" type="number" min="0" value="200" title="max documents
+per source this run — 0 means no limit, which on a giant sitemap can run for
+half an hour">
           <button class="btn primary sm" onclick="doRun()" id="runGo">▶ Run</button>
           <button class="btn sm" onclick="openAddDoc()">＋ Add doc</button>
         </div>
@@ -1996,6 +1998,20 @@ const ASK_SUGGESTIONS={
             "Summarise this for someone who has not read it.",
             "What obligations does this create, if any?"],
 };
+/* Count the wait out loud. Stops when the message stops being pending, which
+   happens whether the answer arrived or the request failed. */
+let askTimer=null;
+function askTick(msg){
+  clearInterval(askTimer);
+  const t0=Date.now();
+  askTimer=setInterval(()=>{
+    if(!msg.pending||ASKTHREAD.indexOf(msg)<0){clearInterval(askTimer);return;}
+    const s=Math.round((Date.now()-t0)/1000);
+    msg.gen=s<8?"thinking":`searching the corpus · ${s}s`;
+    renderAsk();
+  },1000);
+}
+
 function renderAsk(){
   const pc=pageContext();
   const w=$("ctxWhere");if(w)w.textContent=CTXMODE==="active"?`reading: ${pc.label}`:"corpus only";
@@ -2092,6 +2108,10 @@ async function askSend(){
   ASKTHREAD.push({role:"me",text:q});
   ASKTHREAD.push({role:"ai",text:"…",ok:true,gen:"thinking",pending:true});
   renderAsk();
+  // The agent makes several tool calls, each a model round trip, so a real
+  // answer routinely takes 30-60s. A bare "…" for a minute reads as hung, and
+  // people reload the page and lose the answer that was on its way.
+  askTick(ASKTHREAD[ASKTHREAD.length-1]);
   const pc=pageContext();
   const body={question:q,context_kind:(ASKCTX&&ASKCTX.contextKind)||"day",
               context_mode:CTXMODE,page:pc};
@@ -2742,10 +2762,17 @@ function markLocal(ids,state,note){
   paintRunStates();
 }
 
+/* A rerun with no cap fetches everything a source lists. On osc (~29k URLs)
+   that held the queue for half an hour, and the Health page's Rerun sent no cap
+   at all. There is a default now, it is stated in the confirmation, and 0 still
+   means "no limit" for anyone who wants the deep pass. */
+const RERUN_CAP=200;
+
 async function rerunIds(ids,date){
   const dEl=$("runDate"),cEl=$("runCap");
   const day=date||(dEl&&dEl.value)||null;
-  const cap=cEl?parseInt(cEl.value,10):NaN;
+  const raw=cEl?cEl.value.trim():"";
+  const cap=raw===""?RERUN_CAP:parseInt(raw,10);
   const body={scope:ids&&ids.length?"ids":"all",date:day};
   // a lane page runs its own lane, not the whole fleet
   if(!(ids&&ids.length))body.lane=laneScope();
@@ -2764,8 +2791,13 @@ async function rerunIds(ids,date){
       setRunMsg("could not queue: "+why); toast("Could not queue: "+why);
       (ids||[]).forEach(id=>delete RUNQ.sources[id]); paintRunStates(); return;
     }
-    setRunMsg(d.detail||"queued");
-    toast(d.detail||"queued");
+    // state the terms of what was just started: a cap and a backfill date both
+    // change what the run means, and both were previously invisible
+    const terms=[d.detail||"queued"];
+    terms.push(body.max_docs?`up to ${fmt(body.max_docs)} docs each`:"no document limit");
+    if(day&&COLL&&COLL.today&&day!==COLL.today.date)terms.push(`filed under ${day}`);
+    setRunMsg(terms.join(" · "));
+    toast(terms.join(" · "));
     SEL.clear(); closeDrawer();
   }catch(e){
     setRunMsg("could not start: "+e.message); toast("Could not start: "+e.message);

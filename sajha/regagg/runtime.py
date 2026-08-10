@@ -76,6 +76,10 @@ def spawn_ingest(scope="all", logical_date=None, ids=None, operator=None,
            "--operator", operator or "ui"]
     if scope == "ids" and ids:
         cmd += ["--only", ",".join(ids)]
+    # This used to be accepted and dropped, so "Run these N" on a missed day
+    # silently collected under today's date and the gap never closed.
+    if logical_date:
+        cmd += ["--date", str(logical_date)]
     if max_docs:
         cmd += ["--max-docs", str(max_docs)]
     if include:

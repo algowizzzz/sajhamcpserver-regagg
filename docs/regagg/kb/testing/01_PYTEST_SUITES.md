@@ -1,4 +1,4 @@
-# Python suites — 319 tests
+# Python suites — 329 tests
 
 ```bash
 ./.venv/bin/python -m pytest tests/regagg -q        # all, ~7s
@@ -104,6 +104,16 @@ exploding batch does not kill the worker.
 *Protects:* the refusal that existed at every layer except the one an operator
 could see. Verified to fail on the original bug — ignoring `started:false`
 makes a refused source report `done`.
+
+### `test_spawn_ingest.py` — 10
+The command line the UI actually launches. Three parameters were accepted,
+documented and then dropped: `--date` (so a backfill for a missed day filed
+under today), `--max-docs`, and `wait` (which is how the queue knows a batch
+finished). Also pins that `scope:"all"` does not narrow the fleet, the operator
+is attributed, and the concurrent-fleet guard reports the pids it found.
+*Protects:* the class of bug where the API signature and the subprocess argv
+disagree. Verified to fail on the original bug — dropping the `--date` line
+makes the backfill test fail.
 
 ### `test_date_recovery.py` — 20
 Dates from URL paths and from the opening of a document. The refusals matter
