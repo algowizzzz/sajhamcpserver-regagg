@@ -13,6 +13,22 @@ from sajha.regagg.corpus_storage import CorpusStorage
 from sajha.core.storage import LocalStorageBackend
 
 
+@pytest.fixture(autouse=True)
+def _fresh_run_queue():
+    """The run queue is process-wide. Without this, a source left mid-run by one
+    test is reported as "already running" to the next one.
+
+    `wait_for_external=False` matters: the real queue pgreps for a running
+    ingest before starting a batch, so a collection running on the developer's
+    own machine would otherwise stall the suite. A test must not depend on what
+    else the host happens to be doing.
+    """
+    from sajha.regagg import runqueue
+    runqueue.reset_queue(runqueue.RunQueue(wait_for_external=False))
+    yield
+    runqueue.reset_queue(runqueue.RunQueue(wait_for_external=False))
+
+
 @pytest.fixture()
 def session() -> Session:
     """In-memory SQLite with only the reg_* corpus tables created."""

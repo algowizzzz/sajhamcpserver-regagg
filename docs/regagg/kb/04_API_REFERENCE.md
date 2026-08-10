@@ -55,7 +55,8 @@ The split is deliberate: page load must never trigger a billed search.
 | GET | `/runs-trend` | `?days=14&category=` |
 | GET | `/runs/{run_id}` | one run, with its manifest |
 | GET | `/regulators/{id}/runs` | run history for one source |
-| POST | `/rerun` | `{scope:"all"\|"ids", ids[], date, max_docs, include}` — spawns a detached run, refuses if one is active |
+| POST | `/rerun` | `{scope:"all"\|"ids", ids[], lane, date, max_docs, include}` — **queues**; never refuses. Returns `{accepted, queued[], already_running[], pending, detail}`. `scope:"all"` resolves to concrete ids so every source gets a drawable state |
+| GET | `/rerun/queue` | per-source run state for polling: `queued \| running \| done \| failed`, with the counters read back from `reg_runs` |
 | POST | `/regulators/{id}/toggle` | activate / deactivate a source |
 | GET | `/integrity` | runs reconcile and reports |
 

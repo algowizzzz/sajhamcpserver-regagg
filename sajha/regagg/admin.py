@@ -23,7 +23,7 @@ from fastapi.responses import HTMLResponse
 from pydantic import BaseModel
 from sqlalchemy import func, select
 
-from sajha.regagg import queries, runtime
+from sajha.regagg import queries, runqueue, runtime
 from sajha.regagg.models import Document, DocumentTag, Regulator, Run
 
 
@@ -487,26 +487,43 @@ def create_admin_router() -> APIRouter:
 
     @router.post("/rerun")
     def rerun(req: RerunRequest, x_operator: str = Header("anonymous")):
+        """Accept the click. It joins the queue; it is never dropped.
+
+        This used to call the trigger directly and hand back whatever it
+        returned, so a refusal ("an ingest is already active") travelled inside
+        a 200 and the page reported it as a start. Now the response says what
+        was queued and what was already in flight, in fields a caller can act
+        on without inspecting a nested dict.
+        """
         if req.scope not in ("all", "ids"):
             raise HTTPException(400, "scope must be 'all' or 'ids'")
         logical_date = req.date or date.today().isoformat()
         ids = req.ids if req.scope == "ids" else None
         # "Run all" pressed on a lane page means all of THAT lane. Without this
         # the Regulatory page's button also re-polled the 25 news wires, which
-        # is both surprising and slow.
-        if ids is None and req.lane:
-            ids = [r for (r,) in runtime.get_session().execute(
-                select(Regulator.regulator_id).where(
-                    Regulator.category == req.lane,
-                    Regulator.active.is_(True))).all()]
+        # is both surprising and slow. Scope 'all' with no lane is the whole
+        # fleet — resolved to concrete ids so every source gets a drawable state.
+        if ids is None:
+            q = select(Regulator.regulator_id).where(Regulator.active.is_(True))
+            if req.lane:
+                q = q.where(Regulator.category == req.lane)
+            ids = [r for (r,) in runtime.get_session().execute(q).all()]
             if not ids:
-                raise HTTPException(400, f"no active sources in lane '{req.lane}'")
+                raise HTTPException(
+                    400, f"no active sources in lane '{req.lane}'" if req.lane
+                    else "no active sources to run")
         _audit(runtime.get_session(), x_operator, "regagg.rerun", "regulator",
-               ",".join(ids) if ids else "all", f"date={logical_date}")
-        trigger = runtime.get_rerun_trigger()
-        result = trigger(scope=req.scope, logical_date=logical_date, ids=ids,
-                         operator=x_operator, max_docs=req.max_docs, include=req.include)
-        return {"queued": result, "scope": req.scope, "date": logical_date, "operator": x_operator}
+               ",".join(ids), f"date={logical_date}")
+        out = runqueue.get_queue().submit(
+            ids, logical_date=logical_date, max_docs=req.max_docs,
+            include=req.include, operator=x_operator)
+        out.update({"scope": req.scope, "date": logical_date, "operator": x_operator})
+        return out
+
+    @router.get("/rerun/queue")
+    def rerun_queue():
+        """Per-source run state, for a page that wants to draw progress."""
+        return runqueue.get_queue().snapshot()
 
     @router.post("/regulators/{regulator_id}/toggle")
     def toggle(regulator_id: str, x_operator: str = Header("anonymous")):

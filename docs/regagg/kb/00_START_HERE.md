@@ -31,7 +31,7 @@ traces to a row you can open.
 | Collection runs recorded | 157 |
 | Personas | 12 |
 | Database tables | 15 `reg_*` tables, SQLite dev / Postgres on-prem |
-| Python tests | **299**, `./.venv/bin/python -m pytest tests/regagg -q` (~8s) |
+| Python tests | **319**, `./.venv/bin/python -m pytest tests/regagg -q` (~8s) |
 | Browser tests | **76**, `bash tests/ui/run_suite.sh` (~7 min) |
 | MCP tools | 22 — 12 `reg_*` + 10 `corpus_*` |
 | Server | `./.venv/bin/python run_server.py --port 3005` → UI at `/api/regagg/ui` |
@@ -64,7 +64,7 @@ scripts/regagg_daily_poll.py      →  THE daily entrypoint
 | `01_ARCHITECTURE.md` | design decisions, data flow, the invariants |
 | `02_DATA_AND_SCHEMA.md` | storage layout, every table, what each column means |
 | `03_UI_PAGES.md` | every page and panel, and why it looks like that |
-| `04_API_REFERENCE.md` | all 47 endpoints, grouped by job |
+| `04_API_REFERENCE.md` | all 49 endpoints, grouped by job |
 | `05_AGENT_AND_MCP_TOOLS.md` | the 22 tools, the agent loop, the grounding rules |
 | `06_PERSONAS_AND_MYDAY.md` | how a persona shapes a page; regulatory vs news |
 | `07_SCHEDULING_AND_OPS.md` | the schedule declaration, runbooks, backups |
@@ -118,7 +118,7 @@ DEEPSEEK_API_KEY=<key> REGAGG_SECRET=<secret> \
 open http://localhost:3005/api/regagg/ui
 ```
 
-Then `./.venv/bin/python -m pytest tests/regagg -q` should print **299 passed**.
+Then `./.venv/bin/python -m pytest tests/regagg -q` should print **319 passed**.
 
 Environment variables that matter:
 

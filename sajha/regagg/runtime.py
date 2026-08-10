@@ -52,9 +52,14 @@ def get_rerun_trigger() -> Callable:
 
 
 def spawn_ingest(scope="all", logical_date=None, ids=None, operator=None,
-                 max_docs=None, include=None) -> dict:
-    """Launch scripts/regagg_ingest_live.py detached. One coarse guard: refuse
-    if an ingest process is already running (SQLite + politeness)."""
+                 max_docs=None, include=None, wait=False) -> dict:
+    """Launch scripts/regagg_ingest_live.py. One coarse guard: refuse if an
+    ingest process is already running (SQLite has a single writer).
+
+    `wait=True` blocks until the batch finishes and reports its exit code —
+    that is how `runqueue` knows when to read the outcomes back and move on to
+    the next batch. Callers that just want it started leave it False.
+    """
     import subprocess, sys
     from pathlib import Path
     repo = Path(__file__).resolve().parents[2]
@@ -80,8 +85,11 @@ def spawn_ingest(scope="all", logical_date=None, ids=None, operator=None,
     with open(log, "ab") as fh:
         proc = subprocess.Popen(cmd, stdout=fh, stderr=fh,
                                 start_new_session=True, cwd=str(repo))
-    return {"started": True, "pid": proc.pid, "scope": scope, "ids": ids,
-            "log": str(log)}
+    out = {"started": True, "pid": proc.pid, "scope": scope, "ids": ids,
+           "log": str(log)}
+    if wait:
+        out["returncode"] = proc.wait()
+    return out
 
 
 def reconcile_report(session, storage) -> dict:

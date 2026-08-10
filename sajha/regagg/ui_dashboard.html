@@ -774,6 +774,27 @@
   .bkt.never{background:#f1f5f9;color:#475569}
   .bkt.ok{background:#ecfdf5;color:#047857}
 
+  /* ── run state ──
+     A queued or running source replaces its own Rerun button, so the click
+     changes something on screen and the same source cannot be queued twice. */
+  .runpill{border-radius:5px;padding:2px 8px;font-size:10.5px;font-weight:600;
+    display:inline-flex;align-items:center;gap:5px;white-space:nowrap;flex:none}
+  .runpill.queued{background:#f1f5f9;color:#475569}
+  .runpill.running{background:#eff6ff;color:#1d4ed8}
+  .runpill.done{background:#ecfdf5;color:#047857}
+  .spin{width:8px;height:8px;border-radius:50%;border:1.5px solid currentColor;
+    border-right-color:transparent;animation:spin .7s linear infinite;flex:none}
+  @keyframes spin{to{transform:rotate(360deg)}}
+  /* the strip is fixed because a run outlives the page you started it from */
+  .runq{position:fixed;right:18px;bottom:18px;z-index:70;background:var(--card);
+    border:1px solid var(--line);border-radius:var(--radius);padding:9px 13px;
+    box-shadow:0 6px 22px rgba(15,23,42,.13);display:none;gap:9px;
+    align-items:center;font-size:12px;max-width:340px}
+  .runq.on{display:flex}
+  .runq b{font-weight:600}
+  .runq .who{color:var(--muted);font-size:11px;overflow:hidden;
+    text-overflow:ellipsis;white-space:nowrap}
+
   /* ── health ── */
   .verdict{border-radius:var(--radius);padding:9px 13px;display:flex;
     align-items:center;gap:11px;flex-wrap:wrap;flex:none}
@@ -1449,6 +1470,7 @@
 </div>
 
 <div class="toast" id="toast"></div>
+<div class="runq" id="runqStrip"><span class="spin"></span><span id="runqText"></span></div>
 
 <script>
 const API="/api/regagg";
@@ -2367,8 +2389,7 @@ function renderAttention(){
       <td><span class="bkt ${esc(s.bucket)}">${esc(BUCKET_LABEL[s.bucket]||s.bucket)}</span></td>
       <td>${esc(s.last_clean||"never")}</td>
       <td style="color:var(--muted)">${esc(s.note)}</td>
-      <td style="text-align:right"><button class="btn sm"
-        onclick="rerunIds(['${esc(s.regulator_id)}'])">Rerun</button></td></tr>`).join("")+`</table>`;
+      <td style="text-align:right">${rerunBtn(s.regulator_id)}</td></tr>`).join("")+`</table>`;
 }
 
 function renderQuality(){
@@ -2656,7 +2677,7 @@ function renderSources(){
       <span class="nm" title="${esc(s.name)}">${esc(s.regulator_id)}</span>
       <span class="bkt ${esc(s.bucket)}">${esc(BUCKET_LABEL[s.bucket]||s.bucket)}</span>
       <span class="why">${esc(s.note||(s.last_clean?`clean ${s.last_clean}`:""))}</span>
-      <button class="btn sm" onclick="rerunIds(['${esc(s.regulator_id)}'])">Rerun</button>
+      ${rerunBtn(s.regulator_id)}
     </div>`).join(""):`<div class="empty">nothing in this bucket</div>`;
   updateRunBtn();
 }
@@ -2703,24 +2724,132 @@ function renderArrived(){
 
 async function runAll(){ await rerunIds(null); }
 async function doRun(){ await rerunIds(SEL.size?[...SEL]:null); }
+/* ── the run queue ─────────────────────────────────────────
+   Every click is accepted and every source shows its own state. The bug this
+   replaces: the old code tested `d.queued===false`, but the server returned
+   `{queued:{started:false,...}}` — an object is never `===false`, so a refusal
+   could not be seen. Nine clicks reported nine starts and one run happened.
+   Nothing here infers state; it is polled from /rerun/queue, which reads it
+   back out of reg_runs. */
+let RUNQ={sources:{},active:false,pending:0,running:[]},runqTimer=null,runqWasActive=false;
+
+function setRunMsg(m){const el=$("runMsg");if(el)el.textContent=m;}
+
+/* Optimistic paint, so the click changes something before the round trip. The
+   poll overwrites it a moment later with the truth. */
+function markLocal(ids,state,note){
+  (ids||[]).forEach(id=>RUNQ.sources[id]={state,note:note||"",counts:{},position:0});
+  paintRunStates();
+}
+
 async function rerunIds(ids,date){
-  const day=date||$("runDate").value||null;
-  const cap=parseInt($("runCap").value,10);
+  const dEl=$("runDate"),cEl=$("runCap");
+  const day=date||(dEl&&dEl.value)||null;
+  const cap=cEl?parseInt(cEl.value,10):NaN;
   const body={scope:ids&&ids.length?"ids":"all",date:day};
   // a lane page runs its own lane, not the whole fleet
   if(!(ids&&ids.length))body.lane=laneScope();
   if(ids&&ids.length)body.ids=ids;
   if(!isNaN(cap)&&cap>0)body.max_docs=cap;
-  $("runMsg").textContent="starting…";
+  markLocal(ids,"queued","waiting to start");
+  setRunMsg("queueing…");
   try{
     const r=await fetch(API+"/rerun",{method:"POST",
-      headers:{"Content-Type":"application/json"},body:JSON.stringify(body)});
+      headers:{"Content-Type":"application/json",
+               "X-Operator":(ME&&ME.email)||"ui"},
+      body:JSON.stringify(body)});
     const d=await r.json().catch(()=>({}));
-    $("runMsg").textContent=d.queued===false?"a run is already in progress"
-      :`started ${ids&&ids.length?ids.length+" source(s)":"all sources"} for ${d.date||day}`;
+    if(!r.ok||d.accepted===false){
+      const why=d.detail||d.error||("HTTP "+r.status);
+      setRunMsg("could not queue: "+why); toast("Could not queue: "+why);
+      (ids||[]).forEach(id=>delete RUNQ.sources[id]); paintRunStates(); return;
+    }
+    setRunMsg(d.detail||"queued");
+    toast(d.detail||"queued");
     SEL.clear(); closeDrawer();
-    setTimeout(loadCollection,1500);
-  }catch(e){$("runMsg").textContent="could not start: "+e.message;}
+  }catch(e){
+    setRunMsg("could not start: "+e.message); toast("Could not start: "+e.message);
+    (ids||[]).forEach(id=>delete RUNQ.sources[id]); paintRunStates(); return;
+  }
+  pollRunQueue();
+}
+
+async function pollRunQueue(){
+  clearTimeout(runqTimer);
+  try{
+    const r=await fetch(API+"/rerun/queue");
+    if(!r.ok)throw new Error("HTTP "+r.status);
+    RUNQ=await r.json();
+  }catch(e){ return; }            // a failed poll must not freeze the buttons
+  paintRunStates();
+  if(RUNQ.active){ runqWasActive=true; runqTimer=setTimeout(pollRunQueue,2000); }
+  else if(runqWasActive){ runqWasActive=false; onRunQueueDrained(); }
+}
+
+/* When the last batch lands, reload whatever is on screen — a source that is
+   now healthy should leave Needs Attention on its own. */
+function onRunQueueDrained(){
+  toast("Collection finished");
+  if($("v-hea").classList.contains("on"))loadHealth();
+  if($("v-run").classList.contains("on"))loadCollection();
+  if(typeof loadRuns==="function")loadRuns();
+  runqTimer=setTimeout(pollRunQueue,4000);   // let the pills expire off the rows
+}
+
+function runqSummary(){
+  const s=RUNQ.sources||{};
+  const n=k=>Object.keys(s).filter(i=>s[i].state===k).length;
+  return {queued:n("queued"),running:n("running"),done:n("done"),failed:n("failed")};
+}
+
+function paintRunStates(){
+  const c=runqSummary(),strip=$("runqStrip");
+  if(strip){
+    const on=c.queued+c.running>0;
+    strip.classList.toggle("on",on);
+    if(on){
+      const who=(RUNQ.running||[]).slice(0,3).join(", ")+
+        ((RUNQ.running||[]).length>3?` +${RUNQ.running.length-3}`:"");
+      $("runqText").innerHTML=`<b>${c.running} running</b>${
+        c.queued?` · ${c.queued} queued`:""}${
+        (RUNQ.waiting_on_external||[]).length?" · waiting for an ingest already running":""}
+        <div class="who">${esc(who||"starting…")}</div>`;
+    }
+  }
+  // Both lists carry Rerun buttons, so both are repainted — but only when the
+  // state actually moved. Rebuilding a table every 2s while a run is in flight
+  // takes the row out from under whoever is trying to click the next one.
+  const sig=JSON.stringify(RUNQ.sources||{});
+  if(sig===window._runqSig)return;
+  window._runqSig=sig;
+  ["heaAttn","srcList"].forEach(id=>{
+    const el=$(id); if(!el||el.classList.contains("empty"))return;
+    const top=el.scrollTop;
+    if(id==="heaAttn"&&HEA&&HEA.attention)renderAttention();
+    if(id==="srcList"&&COLL&&COLL.candidates)renderSources();
+    el.scrollTop=top;
+  });
+}
+
+/* The button IS the status. A source that is queued or running has no Rerun
+   button at all, which is what stops the same source being queued nine times. */
+function rerunBtn(id){
+  const st=(RUNQ.sources||{})[id];
+  if(!st)return `<button class="btn sm" onclick="rerunIds(['${esc(id)}'])">Rerun</button>`;
+  if(st.state==="queued")
+    return `<span class="runpill queued" title="accepted — waiting for the current batch">queued${
+      st.position>1?" · "+st.position:""}</span>`;
+  if(st.state==="running")
+    return `<span class="runpill running"><i class="spin"></i>${esc(st.note||"running")}</span>`;
+  if(st.state==="done"){
+    const c=st.counts||{};
+    const label=c.ingested?`+${fmt(c.ingested)} new`
+      :(st.note==="success_empty"?"nothing new":"done");
+    return `<span class="runpill done" title="detected ${fmt(c.detected)} · fetched ${
+      fmt(c.fetched)} · ingested ${fmt(c.ingested)} · errors ${fmt(c.errors)}">✓ ${label}</span>`;
+  }
+  return `<button class="btn sm" style="color:var(--red);border-color:var(--red)"
+    title="${esc(st.note||"the run failed")}" onclick="rerunIds(['${esc(id)}'])">failed · retry</button>`;
 }
 
 /* ── executive pages: every section bound to /exec/* ──────── */
@@ -3336,12 +3465,19 @@ async function loadRuns(){
 /* Deep link from a chart or a coverage row: queue the run, then land on the
    page that shows it happening. */
 async function runScope(scope){
+  // `r.ok` alone was the bug here: a refusal came back 200 and this toasted
+  // "Run queued" anyway. Report what the payload actually says.
   const body=scope==="all"?{scope:"all"}:{scope:"ids",ids:[scope]};
-  const r=await fetch(API+"/rerun",{method:"POST",
-    headers:{"Content-Type":"application/json","X-Operator":"dashboard"},
-    body:JSON.stringify(body)});
-  toast(r.ok?`Run queued: ${scope}`:"Run trigger failed");
-  show("run");loadRuns();
+  try{
+    const r=await fetch(API+"/rerun",{method:"POST",
+      headers:{"Content-Type":"application/json",
+               "X-Operator":(ME&&ME.email)||"dashboard"},
+      body:JSON.stringify(body)});
+    const d=await r.json().catch(()=>({}));
+    toast(r.ok&&d.accepted!==false ? (d.detail||`Run queued: ${scope}`)
+                                   : "Could not queue: "+(d.detail||d.error||r.status));
+  }catch(e){ toast("Could not queue: "+e.message); }
+  show("run");loadRuns();pollRunQueue();
 }
 
 /* ── drawer (doc + diff) ─────────────────────────────────── */
@@ -3458,6 +3594,8 @@ async function loadAll(){
   // silently does nothing (a deep link then showed the unfiltered corpus).
   const core=Promise.all([loadHomeExec(),loadTree()]);
   loadOverview();loadChanges();loadRuns();
+  // a run started in another tab, or before a reload, is still yours to watch
+  pollRunQueue();
   await core;
 }
 function applyHash(){

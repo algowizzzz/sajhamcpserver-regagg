@@ -23,6 +23,17 @@ REPO = Path(__file__).resolve().parents[2]
 CONFIGS = REPO / "config" / "regulators"
 NOW = datetime(2026, 7, 10, 6, 0, tzinfo=timezone.utc)
 OSFI = "https://www.osfi-bsif.gc.ca"
+
+
+def _drain(queue, timeout=5.0):
+    """A rerun is queued, not run inline — wait for the worker before asserting."""
+    import time
+    deadline = time.monotonic() + timeout
+    while time.monotonic() < deadline:
+        if not queue.snapshot()["active"]:
+            return
+        time.sleep(0.02)
+    raise AssertionError(f"run queue did not drain: {queue.snapshot()}")
 G_B13 = f"{OSFI}/en/guidance/guideline-b-13"
 
 
@@ -121,15 +132,23 @@ def test_run_all_on_a_lane_page_runs_only_that_lane(client, session, seed_regula
         seen.update(kw)
         return {"started": True}
 
-    from sajha.regagg import runtime
+    from sajha.regagg import runqueue, runtime
     runtime.set_providers(rerun_trigger=lambda **kw: fake_trigger(**kw))
     try:
+        # the response names the sources synchronously; the batch itself runs on
+        # the queue's worker, so drain before asserting what the trigger saw
         r = client.post("/api/regagg/rerun", json={"scope": "all", "lane": "regulatory"})
         assert r.status_code == 200
-        assert seen["ids"] == ["osfi"]          # the wire is not touched
+        assert r.json()["queued"] == ["osfi"]           # the wire is not touched
+        _drain(runqueue.get_queue())
+        assert seen["ids"] == ["osfi"]
 
         seen.clear()
-        client.post("/api/regagg/rerun", json={"scope": "all"})
-        assert seen["ids"] is None              # no lane: still the whole fleet
+        r = client.post("/api/regagg/rerun", json={"scope": "all"})
+        # no lane: still the whole fleet, but resolved to concrete ids so every
+        # source gets a state the page can draw
+        assert sorted(r.json()["queued"]) == ["osfi", "wsj"]
+        _drain(runqueue.get_queue())
+        assert sorted(seen["ids"]) == ["osfi", "wsj"]
     finally:
         runtime.set_providers(rerun_trigger=None)

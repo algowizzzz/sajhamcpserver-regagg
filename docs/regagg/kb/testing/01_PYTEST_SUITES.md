@@ -1,4 +1,4 @@
-# Python suites — 299 tests
+# Python suites — 319 tests
 
 ```bash
 ./.venv/bin/python -m pytest tests/regagg -q        # all, ~7s
@@ -90,6 +90,20 @@ scheduler rather than guessing. The daily and intraday jobs use different
 labels and paths, so installing one never disturbs the other.
 *Protects:* the host had no scheduler at all while the app reported missed runs
 against the declaration.
+
+### `test_runqueue.py` — 20
+Every click is accepted: one arriving mid-run is queued rather than dropped,
+the same source clicked twice is reported rather than run twice, and an empty
+submission is refused instead of quietly starting the fleet. Pending ids are
+**coalesced into one batch** (eight processes would mean eight enrichment
+sweeps against one SQLite writer) but submissions with different options are
+never merged. Outcomes are read back from `reg_runs`: a run older than the
+batch does not count, a `failed` status is not `ok`, a source the runner never
+recorded is failed rather than done, and an unreadable database says so. One
+exploding batch does not kill the worker.
+*Protects:* the refusal that existed at every layer except the one an operator
+could see. Verified to fail on the original bug — ignoring `started:false`
+makes a refused source report `done`.
 
 ### `test_date_recovery.py` — 20
 Dates from URL paths and from the opening of a document. The refusals matter

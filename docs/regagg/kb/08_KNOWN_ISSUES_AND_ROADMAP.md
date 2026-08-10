@@ -18,8 +18,32 @@
 | 12 | `reg_trigger_run` gives agents run-start power | Deliberate. Disable the config or scope keys if agents must be read-only |
 | 13 | `w-riskgpt` has `reg_trigger_run` enabled | The in-app chat does not (it gets the 10 read-only `corpus_*` tools), but the registered worker does. Drop it from `enabled_tools` if that is not wanted |
 | 14 | 31 orphaned tool implementations in `sajha/tools/impl/` | No config → not registered, so they are inert. **Not deleted**: `tools_registry.py` imports `wikipedia_tool` and `yahoo_finance_tool` directly, and the studio imports `sharepoint_tool` |
+| 15 | **A rerun for a past date silently collects today** | `spawn_ingest` accepts `logical_date` and drops it — `regagg_ingest_live.py` has no `--date` and calls `date.today()`. So the coverage matrix's "▶ Run these N" for a missed day writes rows dated today and the gap stays open. Fix: add `--date` and thread it through |
+| 16 | **One source rerun costs a whole-corpus enrichment sweep** | `regagg_ingest_live.py` ends with `for doc in session.query(Document).all()`, so a single-source rerun took ~6 minutes against 7.4k documents. This is *why* the queue coalesces instead of spawning per source. Fix: scope the sweep to the sources in the run |
+| 17 | Rerun from the UI is uncapped | The Health page's Rerun sends no `max_docs`, so a giant source (osc ~29k detected) can hold the queue for 30+ minutes. The Collection page has a cap field; the Health button should default to one |
 
 ## War stories — bugs that shaped the code. Do not regress them.
+
+**0. Nine Rerun clicks, one run, nine "started" messages.** `spawn_ingest`
+refuses a second concurrent fleet (SQLite has one writer) and returns
+`{"started": false, "reason": ...}`. `/rerun` handed that straight back as
+`{"queued": result}`, and the dashboard tested `d.queued === false` — against a
+*dict*, which is never `=== false`. So eight of nine clicks were dropped and
+all nine reported success. The refusal was correct at every layer except the
+one an operator could see. A second copy of the bug lived in `runScope`, which
+toasted "Run queued" on `r.ok` alone — the HTTP status, 200 for a refusal too.
+
+Fixed by `sajha/regagg/runqueue.py`: a click now **joins a queue** and each
+source carries `queued → running → done/failed`, polled from `/rerun/queue` and
+drawn on the button itself. Pending ids are **coalesced into one batch** rather
+than run as N processes — `regagg_ingest_live.py` ends with an enrichment sweep
+over the whole corpus, so eight processes would mean eight sweeps contending
+for one writer (see story 12). Outcomes are read back out of `reg_runs`, so a
+source the runner never recorded is failed, not assumed done.
+
+*The lesson, which is story 3 wearing different clothes:* the guard was right,
+the server was honest, and the operator still could not see it. A refusal that
+cannot reach the screen is indistinguishable from no refusal at all.
 
 **1. Entity matching was 68% recall with a false positive.**
 "Meta", "Uber", "AMD", "JP Morgan" silently missed; "Apple Hospitality REIT"
