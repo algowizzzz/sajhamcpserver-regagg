@@ -118,3 +118,40 @@ def test_a_thousand_names_is_one_indexed_join(session):
     personas.save_persona(session, owner_id=u.user_id, name="Big", lane="news",
                           entities=ents[:10], persona_id=p.persona_id)
     assert personas.entity_count(session, p.persona_id) == 10
+
+
+def test_a_correct_password_signs_in_even_when_the_database_is_busy(session, monkeypatch):
+    """Found live. A scheduled collection held SQLite's single writer, the
+    `last_login` commit raised "database is locked", and signing in returned a
+    500 — correct credentials, and the app said no.
+
+    Recording the sign-in is bookkeeping. It must never be the reason someone
+    cannot get in.
+    """
+    from sqlalchemy.exc import OperationalError
+
+    from sajha.regagg import auth as A
+
+    A.create_user(session, "busy@bank.test", "a-good-password-1", "Busy")
+
+    real_commit = session.commit
+    calls = {"n": 0}
+
+    def flaky_commit():
+        calls["n"] += 1
+        raise OperationalError("UPDATE reg_users", {}, Exception("database is locked"))
+
+    monkeypatch.setattr(session, "commit", flaky_commit)
+    user, err = A.authenticate(session, "busy@bank.test", "a-good-password-1")
+    monkeypatch.setattr(session, "commit", real_commit)
+
+    assert err is None
+    assert user is not None and user.email == "busy@bank.test"
+    assert calls["n"] == 1                      # it did try
+
+
+def test_a_wrong_password_is_still_refused_when_the_database_is_busy(session):
+    from sajha.regagg import auth as A
+    A.create_user(session, "busy2@bank.test", "a-good-password-1", "Busy")
+    user, err = A.authenticate(session, "busy2@bank.test", "wrong-password-xx")
+    assert user is None and "incorrect" in err

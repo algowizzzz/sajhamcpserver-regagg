@@ -33,7 +33,12 @@ def init_db(settings) -> None:
     connect_args = {}
 
     if settings.db_type == 'sqlite':
-        connect_args = {'check_same_thread': False}
+        # `timeout` is the busy timeout: how long a writer waits for the lock
+        # before raising "database is locked". The default is 5 seconds, which
+        # is shorter than a collection run's commit, so signing in FAILED with
+        # a 500 while the scheduled poll was writing. SQLite has one writer;
+        # the app's job is to wait for it, not to fall over.
+        connect_args = {'check_same_thread': False, 'timeout': 30.0}
         _engine = create_engine(
             url,
             connect_args=connect_args,
@@ -41,12 +46,16 @@ def init_db(settings) -> None:
             pool_size=25, max_overflow=50, pool_timeout=30,
             pool_recycle=1800, pool_pre_ping=True,
         )
-        # Enable WAL mode for better concurrent read performance
+
         @event.listens_for(_engine, 'connect')
         def _set_sqlite_pragma(dbapi_conn, connection_record):
             cursor = dbapi_conn.cursor()
+            # WAL lets readers proceed while a writer holds the lock — without
+            # it a collection run makes every page in the app hang, not just
+            # the ones that write.
             cursor.execute('PRAGMA journal_mode=WAL')
             cursor.execute('PRAGMA foreign_keys=ON')
+            cursor.execute('PRAGMA busy_timeout=30000')
             cursor.close()
 
         logger.info(f'Database initialized: SQLite at {settings.db_path}')

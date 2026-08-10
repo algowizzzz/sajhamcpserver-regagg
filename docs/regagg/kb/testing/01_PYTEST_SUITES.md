@@ -1,4 +1,4 @@
-# Python suites — 371 tests
+# Python suites — 373 tests
 
 ```bash
 ./.venv/bin/python -m pytest tests/regagg -q        # all, ~7s
@@ -197,7 +197,7 @@ path traversal returns 400.**
 Coverage matrix, drill-down, audited rerun and toggle, integrity, and
 **"Run all" on a lane page runs only that lane**.
 
-### `test_auth_personas.py` — 9
+### `test_auth_personas.py` — 11
 Signup, login, password rules, persona ownership and sharing.
 
 ### `test_news_lane.py` — 8

@@ -147,8 +147,17 @@ def authenticate(session, email: str, password: str) -> Tuple[Optional[RegUser],
     # Same message either way: never reveal whether an email is registered.
     if user is None or not user.active or not verify_password(password, user.password_hash):
         return None, "Email or password is incorrect."
-    user.last_login = datetime.now(timezone.utc)
-    session.commit()
+    # Recording the sign-in is bookkeeping, and bookkeeping must never be the
+    # reason someone cannot get in. A collection run holding the SQLite writer
+    # made this commit raise "database is locked" and the whole login returned
+    # a 500 — the credentials were correct and the app said no.
+    try:
+        user.last_login = datetime.now(timezone.utc)
+        session.commit()
+    except Exception:  # noqa: BLE001
+        session.rollback()
+        logger.warning("could not record last_login for %s", user.user_id,
+                       exc_info=True)
     return user, None
 
 

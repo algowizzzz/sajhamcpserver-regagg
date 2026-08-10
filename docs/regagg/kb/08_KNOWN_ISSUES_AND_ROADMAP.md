@@ -28,6 +28,8 @@
 
 | 22 | ~~A dead link made a green run count as failed~~ | **Fixed 2026-08-10.** `collection._is_failed` was `status == "failed" OR errors > 0`. Four readings go through it, so one 404 on the regulator's side put a source in the red Failed bucket, gave it a "consecutive failures" streak, painted its matrix cell red, and lowered Health's "run pass rate" — which was really measuring *runs with zero errors*. iosco and nydfs had **no failed run in their history** and both showed as Failed. Now the recorded status decides, once. **Failed 7 → 2, pass rate 83% → 92.1%** |
 
+| 23 | ~~Signing in failed while a collection was running~~ | **Fixed 2026-08-10.** The engine set WAL but never a **busy timeout**, so it used SQLite's 5s default. The scheduled poll holds the single writer; the `last_login` commit raised `database is locked` and login returned **500 with correct credentials**. Timeout raised to 30s (`connect_args` + `PRAGMA busy_timeout`), and `last_login` is now best-effort — bookkeeping must never be why someone cannot get in. Verified against a live collection: 500 in 5.3s → 200 in 10.6s, then 60ms |
+
 ## War stories — bugs that shaped the code. Do not regress them.
 
 **00. The worker reported a buffer size as a fact about the corpus.** Asked
