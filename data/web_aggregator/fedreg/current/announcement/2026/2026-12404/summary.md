@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Changes To Amend Certain Representations Relating to United States Copper Index Fund

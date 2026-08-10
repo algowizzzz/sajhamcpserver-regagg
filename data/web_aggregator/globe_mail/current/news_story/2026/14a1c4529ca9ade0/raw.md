@@ -1,7 +1,0 @@
-# Thomson Reuters to roll out in-house AI model as quarterly revenue rises
-
-Model, tailored to legal professionals, performs well when benchmarked against leading products from frontier AI labs, company says
-
-[Read the full story at the source](https://www.theglobeandmail.com/business/article-thomson-reuters-to-roll-out-in-house-ai-model-as-quarterly-revenue/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

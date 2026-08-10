@@ -1,1 +1,0 @@
-Summary: # Minimum Capital Test (2026) - Letter

@@ -1,1 +1,0 @@
-Summary: **The European Insurance and Occupational Pensions Authority (EIOPA) has today made available an [editable template for the Insurance Product Information Document (IPID)](http://eiopa.europa.eu/Pages/Supervision/Insurance/Editable-Template-for-the-Insurance-Product-Information-Do

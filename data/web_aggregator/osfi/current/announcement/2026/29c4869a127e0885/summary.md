@@ -1,1 +1,0 @@
-Summary: # BSIF-596 – Relevé de la modification de la date de clôture de l'exercice

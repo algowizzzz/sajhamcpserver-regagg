@@ -1,1 +1,0 @@
-Summary: # The Toronto-Dominion Bank - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)

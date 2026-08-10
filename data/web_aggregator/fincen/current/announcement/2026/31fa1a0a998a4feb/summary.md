@@ -1,1 +1,0 @@
-Summary: # Currency Transaction Reporting: Aggregation by Casinos at Slot Machines

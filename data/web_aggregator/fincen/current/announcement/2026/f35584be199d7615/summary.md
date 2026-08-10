@@ -1,1 +1,0 @@
-Summary: # Request for Administrative Ruling on the Application of FinCEN’s Regulations to a Virtual Currency Trading Platform

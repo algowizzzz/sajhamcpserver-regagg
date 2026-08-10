@@ -1,1 +1,0 @@
-Summary: # US stocks: US stocks rise as surprise payrolls decline cools rate-hike fears

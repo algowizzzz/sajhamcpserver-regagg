@@ -1,1 +1,0 @@
-Summary: # Why Trump Media's sale of fast access to market-moving social posts is controversial

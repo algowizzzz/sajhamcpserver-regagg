@@ -1,1 +1,0 @@
-Summary: # Une année en revue : Le point sur le Cadre de réglementation des sociétés d’assurance-vie, 2013

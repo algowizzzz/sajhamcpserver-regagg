@@ -1,1 +1,0 @@
-Summary: # Homes for sale in former pubs in England – in pictures

@@ -1,1 +1,0 @@
-Summary: # Sara Duterte impeachment trial drags on, but time may be on her side

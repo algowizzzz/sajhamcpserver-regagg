@@ -1,1 +1,0 @@
-Summary: # Administrative monetary penalties policy

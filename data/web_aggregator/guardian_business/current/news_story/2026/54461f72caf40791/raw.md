@@ -1,7 +1,0 @@
-# Palantir paid just £2m corporation tax in UK in 2024 despite lucrative public sector contracts
-
-Software group benefits from global systems and accounting practices ‘that enable tax to be shirked’, says union boss The software group Palantir paid just £2m in corporation tax in the UK in 2024, despite holding public sector contracts worth hundreds of millions, thanks to tax breaks that are likely to reduce its contributions to governments around the world for years to come. The US-headquartered company, which has harnessed AI to secure lucrative work for the NHS and the Ministry of Defence, is growing exponentially. Continue reading...
-
-[Read the full story at the source](https://www.theguardian.com/technology/2026/aug/05/palantir-corporation-tax-uk-2024-accounting-practices)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

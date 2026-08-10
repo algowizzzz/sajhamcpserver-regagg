@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rules 18.7 and 18.9 To Permit an Increase in Position and Exercise Limits for Options on IBIT

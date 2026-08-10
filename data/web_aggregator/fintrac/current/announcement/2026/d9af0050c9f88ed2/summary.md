@@ -1,1 +1,0 @@
-Summary: # Allocution de Sarah Paquet, Directrice et présidente-directrice générale, devant le 21e Forum canadien annuel du Canadian Institute sur la lutte contre le blanchiment d’argent et le crime financier

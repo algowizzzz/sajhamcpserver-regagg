@@ -1,1 +1,0 @@
-Summary: Banks/BHC/T&L Definition of Capital 

@@ -1,1 +1,0 @@
-Summary: # Suzlon Energy shares rise after US judge directs Pentagon to lift wind project freeze

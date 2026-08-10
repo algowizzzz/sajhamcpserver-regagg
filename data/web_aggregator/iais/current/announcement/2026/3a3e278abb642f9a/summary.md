@@ -1,1 +1,0 @@
-Summary: # IAIS publishes Issues Paper on roles and functioning of policyholder protection schemes (PPSs)

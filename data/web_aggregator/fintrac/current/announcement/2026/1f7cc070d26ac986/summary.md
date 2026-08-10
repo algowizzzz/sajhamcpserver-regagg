@@ -1,1 +1,0 @@
-Summary: # FINTRAC's rates of pay

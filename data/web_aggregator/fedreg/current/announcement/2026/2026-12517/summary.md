@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on a Proposed Rule To Adopt Rules Related to the Listing and Trading of Closed-End Funds on the Exchange

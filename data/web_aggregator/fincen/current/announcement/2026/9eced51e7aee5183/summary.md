@@ -1,1 +1,0 @@
-Summary: # Definition of Check Casher (Payday Lenders)

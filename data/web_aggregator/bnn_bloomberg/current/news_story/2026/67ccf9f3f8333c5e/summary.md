@@ -1,1 +1,0 @@
-Summary: # Carney promises $2.7 billion to build rental homes in Toronto

@@ -1,1 +1,0 @@
-Summary: # Agency Information Collection Activities: Announcement of Board Approval Under Delegated Authority and Submission to OMB

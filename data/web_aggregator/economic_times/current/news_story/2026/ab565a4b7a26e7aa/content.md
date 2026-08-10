@@ -1,7 +1,0 @@
-# Yen and dollar drift on Iran deal concerns, payroll jitters
-
-On Thursday, currency markets exhibited a sense of caution as traders monitored impending economic data. The Japanese yen battled to uphold its recent gains against the dollar following intervention efforts. Global attention was centered on the proposed U.S.-Iran deal and its ramifications. Additionally, investors were keenly waiting for upcoming U.S. payroll figures, looking for signals regarding interest rate shifts.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/forex/forex-news/yen-and-dollar-drift-on-iran-deal-concerns-payroll-jitters/articleshow/132979234.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

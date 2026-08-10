@@ -1,1 +1,0 @@
-Summary: # Telesat wins $2.3-billion Arctic military satellite contract, shares soar

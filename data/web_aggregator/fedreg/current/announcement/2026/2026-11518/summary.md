@@ -1,1 +1,0 @@
-Summary: # Agency Information Collection Activities: Notice of Intent To Request Approval for Collection 3038-0117, Exemption From Derivatives Clearing Organization Registration

@@ -1,1 +1,0 @@
-Summary: # Treatment of Deposits by Armored Cars for Currency Transaction Report (CTR) Purposes

@@ -1,1 +1,0 @@
-Summary: # Constitution d’une banque et d’une société de fiducie et de prêt fédérale

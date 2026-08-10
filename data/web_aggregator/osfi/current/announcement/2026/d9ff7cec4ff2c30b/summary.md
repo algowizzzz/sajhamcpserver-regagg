@@ -1,1 +1,0 @@
-Summary: # Exercice normalisé d’analyse de scénarios climatiques

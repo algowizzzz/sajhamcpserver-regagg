@@ -1,1 +1,0 @@
-Summary: # Gold’s price potential still ‘explosive’ amid Beijing hoarding, Hong Kong trading push

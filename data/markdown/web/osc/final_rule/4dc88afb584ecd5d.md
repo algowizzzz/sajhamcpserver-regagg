@@ -1,0 +1,11 @@
+---
+title: "Unofficial Consolidation: OSC Rule 51-801 Implementing NI 51-102 Continuous Disclosure Obligations | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+reference: "51-102"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-801/unofficial-consolidation-osc-rule-51-801-implementing-ni-51-102-continuous-disclosure-obligations"
+version: "1"
+---
+

@@ -1,1 +1,0 @@
-Summary: # Agency Information Collection Activities: Information Collection Revision; Comment Request; Licensing Manual

@@ -1,1 +1,0 @@
-Summary: # Stress Testing - Letter (2009)

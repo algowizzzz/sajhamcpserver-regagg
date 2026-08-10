@@ -1,1 +1,0 @@
-Summary: # Appel de données de surveillance sur le risque de crédit des institutions qui utilisent l'approche standard (BH)

@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Establish the Options Regulatory Fee (ORF) Under the New Methodology for Transactions That Occur on the Exchange

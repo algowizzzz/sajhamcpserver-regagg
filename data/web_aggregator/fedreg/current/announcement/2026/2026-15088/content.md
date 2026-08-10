@@ -1,5 +1,0 @@
-# Agency Information Collection Activities: Proposed Information Collection; Comment Request; Applications for Licensing or Registration To Issue Payment Stablecoins Under the GENIUS Act
-
-The OCC, as part of its continuing effort to reduce paperwork and respondent burden, invites comment on a continuing information collection, as required by the Paperwork Reduction Act of 1995 (PRA). In accordance with the requirements of the PRA, the OCC may not conduct or sponsor, and the respondent is not required to respond to, an information collection unless it displays a currently valid Office of Management and Budget (OMB) control number. The OCC is proposing a new information collection to comply with the Guiding and Establishing National Innovation for U.S. Stablecoins Act (GENIUS Act or the Act) requirement for entities seeking to issue payment stablecoins in the United States. The OCC is seeking a new OMB control number for this information collection.
-
-> Full text pending: source page is bot-gated; this is the official API abstract.

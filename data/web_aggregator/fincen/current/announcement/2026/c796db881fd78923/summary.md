@@ -1,1 +1,0 @@
-Summary: # Application of FinCEN’s Regulations to Persons Issuing Physical or Digital Negotiable Certificates of Ownership of Precious Metals

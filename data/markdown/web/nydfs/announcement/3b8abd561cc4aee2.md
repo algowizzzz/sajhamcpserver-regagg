@@ -5,7 +5,7 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.dfs.ny.gov/contact_us/main"
-version: "1"
+version: "3"
 ---
 
 ![People at a call center answering calls](/sites/default/files/styles/wide_lead/public/media/2019/02/istock-1027945616_contactus2_cropped.jpg?h=b62dba9f&itok=4m6CyGaW "Contact Us")
@@ -24,7 +24,7 @@ SHARE
 
 ## Consumer and Provider Complaints
 
-The DFS Hotline is staffed Monday - Friday, from 8:30 AM to 4:30 PM. Call DFS at (800) 342-3736 or [send us an email](/cdn-cgi/l/email-protection#33505c5d40465e564140735755401d5d4a1d545c45).
+The DFS Hotline is staffed Monday - Friday, from 8:30 AM to 4:30 PM. Call DFS at (800) 342-3736 or [send us an email](/cdn-cgi/l/email-protection#74171b1a070119110607341012075a1a0d5a131b02).
 
 ### Complaints
 
@@ -68,7 +68,7 @@ Continue
 
 ## Licensing Questions
 
-If you are unable to find the answer to a licensing question on our website, call (800) 342-3736 (Monday through Friday, 8:30 AM to 4:30 PM). Local calls can be made to (212) 480-6400 or (518) 474-6600. Questions for the Insurance Licensing Unit can be emailed to [[email protected]](/cdn-cgi/l/email-protection#3854515b5d564b51565f785c5e4b165641165f574e).
+If you are unable to find the answer to a licensing question on our website, call (800) 342-3736 (Monday through Friday, 8:30 AM to 4:30 PM). Local calls can be made to (212) 480-6400 or (518) 474-6600. Questions for the Insurance Licensing Unit can be emailed to [[email protected]](/cdn-cgi/l/email-protection#016d6862646f72686f66416567722f6f782f666e77).
 
 [Back to Top ▲](#toc-sidebar)
 
@@ -106,7 +106,7 @@ When using any DFS application:
 ### Help with Cybersecurity Filings
 
 * Visit the [Cybersecurity Resource Center](/industry_guidance/cybersecurity) to learn about cybersecurity filings.
-* If you still have questions about the cybersecurity filing process email [[email protected]](/cdn-cgi/l/email-protection#84e7fde6e1f6f6e1e3f7f1f4f4ebf6f0c4e0e2f7aaeafdaae3ebf2).
+* If you still have questions about the cybersecurity filing process email [[email protected]](/cdn-cgi/l/email-protection#15766c777067677072666065657a6761557173663b7b6c3b727a63).
 
 ### Help with MY NY.gov
 
@@ -114,11 +114,11 @@ When using any DFS application:
 
 ### Terrorism Risk Insurance (TRIA) Filings
 
-* Email questions about TRIA filing to [[email protected]](/cdn-cgi/l/email-protection#184c4a5159505d5448587679717b36776a7f)
+* Email questions about TRIA filing to [[email protected]](/cdn-cgi/l/email-protection#6b3f39222a232e273b2b050a02084504190c)
 
 ### Webmaster
 
-If you have questions about this website, accessing content on this website, or want to report a broken link, [email our webmaster](/cdn-cgi/l/email-protection#b292c5d7d0dfd3c1c6d7c0f2d6d4c19cdccb9cd5ddc4).
+If you have questions about this website, accessing content on this website, or want to report a broken link, [email our webmaster](/cdn-cgi/l/email-protection#2c0c5b494e414d5f58495e6c484a5f024255024b435a).
 
 [Back to Top ▲](#toc-sidebar)
 
@@ -130,7 +130,7 @@ Continue
 
 If you would like to speak to someone in our Public Affairs office, please call (212) 709-1691.
 
-Inquiries can also be emailed to [[email protected]](/cdn-cgi/l/email-protection#166663747a7f753b777070777f64655672706538786f38717960).
+Inquiries can also be emailed to [[email protected]](/cdn-cgi/l/email-protection#68181d0a04010b45090e0e09011a1b280c0e1b460611460f071e).
 
 [Back to Top ▲](#toc-sidebar)
 
@@ -140,7 +140,7 @@ Continue
 
 ## Legal Inquiries
 
-Submit legal inquiries to our Office of General Counsel via email to [[email protected]](/cdn-cgi/l/email-protection#32515d475c41575e725654411c5c4b1c555d44), or by regular mail to New York State Department of Financial Services, Office of General Counsel, 1 State Street, New York, NY 10004-1511. Include your full mailing address, email address and phone number in all inquiries.
+Submit legal inquiries to our Office of General Counsel via email to [[email protected]](/cdn-cgi/l/email-protection#44272b312a372128042022376a2a3d6a232b32), or by regular mail to New York State Department of Financial Services, Office of General Counsel, 1 State Street, New York, NY 10004-1511. Include your full mailing address, email address and phone number in all inquiries.
 
 [Back to Top ▲](#toc-sidebar)
 
@@ -168,7 +168,7 @@ The Department encourages anyone interested in a proposed regulation to use the 
 
 ### Comment on a Weekly Banking Bulletin Item
 
-Comments on, or objection to, any item in the [Weekly Banking Bulletin](/reports-and-publications/weekly-bulletins) should be submitted within 10 calendar days of the date of the bulletin posting (unless a different time period is specified in the item) by mail or in person to New York State Department of Financial Services, Office of the General Counsel, 1 State Street, New York, New York 10004 or by email to [[email protected]](/cdn-cgi/l/email-protection#783b1715151d160c0b381c1e0b561601561f170e).
+Comments on, or objection to, any item in the [Weekly Banking Bulletin](/reports-and-publications/weekly-bulletins) should be submitted within 10 calendar days of the date of the bulletin posting (unless a different time period is specified in the item) by mail or in person to New York State Department of Financial Services, Office of the General Counsel, 1 State Street, New York, New York 10004 or by email to [[email protected]](/cdn-cgi/l/email-protection#eba88486868e859f98ab8f8d98c58592c58c849d).
 
 ### Comment on a Health Insurance Rate Increase
 
@@ -176,7 +176,7 @@ Insurance companies are required to send you a notice about a proposed premium r
 
 ### Comment on a Bank Scheduled for CRA Examination
 
-DFS encourages public comment on the performance of [banks scheduled for New York State CRA evaluations](/reports_and_publications/exam_reports). You may submit written comments concerning local credit needs and/or the performance of specific banks prior to, or during the examination. You should submit comments early enough to ensure a thorough review. Direct all comments or questions via email to [[email protected]](/cdn-cgi/l/email-protection#c98a9b8889adafbae7a7b0e7aea6bf) or by mail to Department of Financial Services, Consumer Examinations Unit, Consumer Protection and Financial Enforcement Division, New York State Department of Financial Services, 1 State Street, 7th Floor, New York, New York 10004-1511.
+DFS encourages public comment on the performance of [banks scheduled for New York State CRA evaluations](/reports_and_publications/exam_reports). You may submit written comments concerning local credit needs and/or the performance of specific banks prior to, or during the examination. You should submit comments early enough to ensure a thorough review. Direct all comments or questions via email to [[email protected]](/cdn-cgi/l/email-protection#4e0d1c0f0e2a283d60203760292138) or by mail to Department of Financial Services, Consumer Examinations Unit, Consumer Protection and Financial Enforcement Division, New York State Department of Financial Services, 1 State Street, 7th Floor, New York, New York 10004-1511.
 
 [Back to Top ▲](#toc-sidebar)
 

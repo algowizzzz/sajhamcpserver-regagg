@@ -1,7 +1,0 @@
-# Darth Vader to become a TikTok star as Disney strikes deal on short video
-
-Characters and memorable scenes from back catalogue made available to group of creator fans The likes of Darth Vader, Spider-Man and Moana are about to become TikTok stars for the first time – at least now on an official basis – after Walt Disney struck a “first of its kind” deal with the booming short-video platform. In an acknowledgment of the influence fan-made content now has in the entertainment industry, a select group of creators will be allowed to use characters and memorable scenes from Disney’s back catalogue. Continue reading...
-
-[Read the full story at the source](https://www.theguardian.com/technology/2026/aug/05/tiktok-disney-deal-short-video-darth-vader-spider-man)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

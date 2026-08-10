@@ -1,1 +1,0 @@
-Summary: # Basic Materials Roundup: Market Talk

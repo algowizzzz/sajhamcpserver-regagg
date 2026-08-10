@@ -1,7 +1,0 @@
-# AI frenzy spooks investors but JPMorgan CEO Jamie Dimon says spending boom likely to pay off. Here's why
-
-JPMorgan Chase CEO Jamie Dimon believes massive capital expenditure in artificial intelligence by hyperscalers will ultimately pay off despite market anxiety. Speaking to CNBC, Dimon noted that AI infrastructure demand is driving US economic growth and GDP, though individual data centre project risks require careful case-by-case analysis.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/ai-frenzy-spooks-investors-but-jpmorgan-ceo-jamie-dimon-says-spending-boom-likely-to-pay-off-heres-why/articleshow/133028059.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

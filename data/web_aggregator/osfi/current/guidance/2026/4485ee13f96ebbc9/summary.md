@@ -1,1 +1,0 @@
-Summary: # Revised Guideline B-21 – Residential Mortgage Insurance Underwriting Practices and Procedures – Letter (2019)

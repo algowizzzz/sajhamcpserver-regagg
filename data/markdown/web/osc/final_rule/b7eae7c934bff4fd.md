@@ -1,0 +1,10 @@
+---
+title: "Notice of Final Rule and Companion Policy: OSC Rule - 13-502 - Fees | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/4/45-503/notice-final-rule-and-companion-policy-osc-rule-13-502-fees"
+version: "1"
+---
+

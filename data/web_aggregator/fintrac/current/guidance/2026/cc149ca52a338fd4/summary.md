@@ -1,1 +1,0 @@
-Summary: # Record keeping requirements for financing or leasing entities : FINTRAC's compliance guidance

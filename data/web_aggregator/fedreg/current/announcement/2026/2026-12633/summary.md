@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt Fees for Two Newly Established Feeds, the Order Feed and the Trades Feed

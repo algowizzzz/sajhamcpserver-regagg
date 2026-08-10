@@ -1,1 +1,0 @@
-Summary: # The Fifa family: which confederations could support Infantino or turn against him?

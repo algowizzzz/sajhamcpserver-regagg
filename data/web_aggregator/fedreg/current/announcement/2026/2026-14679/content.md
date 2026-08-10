@@ -1,5 +1,0 @@
-# Electronic Delivery of Information Under the Federal Securities Laws
-
-The Securities and Exchange Commission (the "SEC" or the "Commission") is proposing Regulation E-Delivery. The proposed rule sets forth conditions for covered entities to deliver covered information to covered recipients electronically without first obtaining their affirmative consent. The proposed rule further establishes conditions under which the Commission would consider delivery requirements under the Federal securities laws to be satisfied by electronic delivery. The Commission also is proposing to rescind the rule providing alternative means for registered investment companies to satisfy shareholder report transmission requirements, and to amend rules addressing the dissemination of proxy materials and tender offer materials.
-
-> Full text pending: source page is bot-gated; this is the official API abstract.

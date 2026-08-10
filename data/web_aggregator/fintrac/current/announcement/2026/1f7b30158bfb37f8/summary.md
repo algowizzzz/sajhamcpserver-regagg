@@ -1,1 +1,0 @@
-Summary: # FINTRAC imposes an administrative monetary penalty on Immeubles Jack Sera Inc.

@@ -1,1 +1,0 @@
-Summary: ## ECON Committee, European Parliament, Brussels

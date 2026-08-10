@@ -1,1 +1,0 @@
-Summary: # FINTRAC imposes an administrative monetary penalty on Jones Lang Lasalle Real Estate Services, Inc.

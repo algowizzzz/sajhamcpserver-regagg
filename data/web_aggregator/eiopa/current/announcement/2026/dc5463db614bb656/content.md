@@ -1,6 +1,0 @@
-Publication date
-:   12 February 2018
-
-## Related links
-
-[ESAs warn consumers of risks in buying virtual currencies](/document/download/0e6b1333-6c20-4af8-b7e3-79786be97fa4_en?filename=ESAs%20warn%20consumers%20of%20risks%20in%20buying%20virtual%20currencies.pdf)

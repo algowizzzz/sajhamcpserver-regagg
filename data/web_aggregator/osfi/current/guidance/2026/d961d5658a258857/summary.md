@@ -1,1 +1,0 @@
-Summary: # Deferral of the public consultation on Guideline B-15 disclosure expectation for financed emissions related to off-balance sheet assets under management

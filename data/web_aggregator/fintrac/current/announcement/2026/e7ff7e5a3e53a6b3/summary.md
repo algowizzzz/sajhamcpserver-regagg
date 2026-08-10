@@ -1,1 +1,0 @@
-Summary: # Pénalités pour les cas de non-conformité

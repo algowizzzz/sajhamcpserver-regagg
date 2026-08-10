@@ -1,1 +1,0 @@
-Summary: # Jamieson Wellness to be acquired by Kirin for $2.5-billion

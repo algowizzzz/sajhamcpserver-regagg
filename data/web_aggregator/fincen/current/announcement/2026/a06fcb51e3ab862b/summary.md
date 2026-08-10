@@ -1,1 +1,0 @@
-Summary: # Six People Arrested for Allegedly Bilking Millions of Dollars of Goods from Food Bank

@@ -1,1 +1,0 @@
-Summary: # From milk to snack foods, more products are going ‘regenerative’

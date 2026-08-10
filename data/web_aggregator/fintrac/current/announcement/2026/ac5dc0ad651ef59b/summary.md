@@ -1,1 +1,0 @@
-Summary: # Administrative monetary penalty imposed on Global West Realty Limited

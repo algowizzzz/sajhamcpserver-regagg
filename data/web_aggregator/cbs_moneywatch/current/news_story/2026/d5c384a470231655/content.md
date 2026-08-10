@@ -1,7 +1,0 @@
-# "Peanut butter" pay raises are out, as employers shift to merit hikes
-
-Here's what employees can expect for a raise in 2027 as companies move away from broad-based pay increases.
-
-[Read the full story at the source](https://www.cbsnews.com/news/peanut-butter-pay-raises-merit-based-pay-2027/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

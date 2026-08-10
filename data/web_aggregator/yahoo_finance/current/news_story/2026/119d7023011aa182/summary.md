@@ -1,1 +1,0 @@
-Summary: # Is Lockheed Martin (LMT) a Buying Opportunity After Its 16% Drop?

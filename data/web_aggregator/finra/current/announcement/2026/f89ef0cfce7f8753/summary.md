@@ -1,1 +1,0 @@
-Summary: Report on Selected Cybersecurity Practices – 2018

@@ -1,1 +1,0 @@
-Summary: # BSIF-656 – Relevé sur les renseignements concernant le conseil d’administration

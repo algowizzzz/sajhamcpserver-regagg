@@ -1,1 +1,0 @@
-Summary: # Lupin Q1 PAT rises 16 pc at Rs 1,417 cr

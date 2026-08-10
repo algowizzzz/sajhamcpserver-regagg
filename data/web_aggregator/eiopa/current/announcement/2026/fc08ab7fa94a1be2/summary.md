@@ -1,1 +1,0 @@
-Summary: EIOPA – Westhafen Tower, Westhafenplatz 1 - 60327 Frankfurt – Germany - Tel. + 49 69-951119-20; 

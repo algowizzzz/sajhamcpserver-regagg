@@ -1,1 +1,0 @@
-Summary: # Trump’s big-government, interventionist AI policy is the one thing he’s done right

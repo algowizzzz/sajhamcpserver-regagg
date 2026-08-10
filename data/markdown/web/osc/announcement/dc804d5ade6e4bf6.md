@@ -1,0 +1,10 @@
+---
+title: "Invesco Canada Ltd. et al. | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/invesco-canada-ltd-et-al-2"
+version: "1"
+---
+

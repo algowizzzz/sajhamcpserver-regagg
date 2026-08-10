@@ -1,1 +1,0 @@
-Summary: # 'Several steps ahead': Why Palantir stock is surging

@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing of Amendment No. 1 and Order Granting Accelerated Approval of a Proposed Rule Change, as modified by Amendment No. 1, To Establish a Package of Complimentary Services

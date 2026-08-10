@@ -1,0 +1,10 @@
+---
+title: "Proposed National Policy: NP - 12-202 - Revocation of a Compliance-related Cease Trade Order | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/12-202/proposed-national-policy-np-12-202-revocation-compliance-related-cease-trade-order"
+version: "1"
+---
+

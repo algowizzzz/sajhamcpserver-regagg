@@ -1,1 +1,0 @@
-Summary: # Composantes de la méthode de facturation aux entités déclarantes : Facturer les entités déclarantes pour le programme de conformité de CANAFE

@@ -1,1 +1,0 @@
-Summary: # Guide sur l’évaluation du tort causé pour les violations relatives au programme de conformité

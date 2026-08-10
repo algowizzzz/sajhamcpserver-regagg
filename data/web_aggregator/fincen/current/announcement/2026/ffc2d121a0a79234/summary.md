@@ -1,1 +1,0 @@
-Summary: # Guidance on Using "Gross Revenue" to Determine CTR Exemption Eligibility

@@ -1,1 +1,0 @@
-Summary: # Notice of Proposals To Engage in or To Acquire Companies Engaged in Permissible Nonbanking Activities

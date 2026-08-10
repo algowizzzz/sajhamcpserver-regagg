@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; National Securities Clearing Corporation; Order Approving Proposed Rule Change To Enhance NSCC's Clearing Fund Methodology

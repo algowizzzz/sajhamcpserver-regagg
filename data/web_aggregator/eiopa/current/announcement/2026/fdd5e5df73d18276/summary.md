@@ -1,1 +1,0 @@
-Summary: 1. The appeals were brought by four Swedish banks, Svenska Handelsbanken AB, Skandinaviska Enskilda Banken AB, Swedbank AB, and Nordea Bank Abp, from decisions of the Board of Supervisors of ESMA.

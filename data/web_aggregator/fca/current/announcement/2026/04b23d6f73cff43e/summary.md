@@ -1,1 +1,0 @@
-Summary: The FCA has proposed a package of reforms that would tailor requirements proportionately for asset managers, cut costs for firms and give better data to supervise the sector more effectively.

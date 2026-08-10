@@ -1,1 +1,0 @@
-Summary: # Index-linked Treasury Stock

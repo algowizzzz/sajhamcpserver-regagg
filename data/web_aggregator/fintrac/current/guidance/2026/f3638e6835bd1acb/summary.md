@@ -1,1 +1,0 @@
-Summary: # When to verify the identity of persons and entities — Factors : FINTRAC's compliance guidance

@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; ICE Clear Credit LLC; Order Approving Proposed Rule Change Relating to the Clearance of Additional Credit Default Swap Contracts

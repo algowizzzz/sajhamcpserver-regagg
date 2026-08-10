@@ -1,7 +1,0 @@
-# Winemakers prosper but veg farms wilt in the drought
-
-Growers in the West of England search for new crops to grow in a changing climate.
-
-[Read the full story at the source](https://www.bbc.co.uk/news/articles/c141vjlyjgko?at_medium=RSS&at_campaign=rss)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

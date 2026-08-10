@@ -1,1 +1,0 @@
-Summary: # Part XII: Establishment of a branch of a cooperative credit society, securities dealer or investment counselling and portfolio management service provider

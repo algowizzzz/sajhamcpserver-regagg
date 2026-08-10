@@ -1,1 +1,0 @@
-Summary: # FinCEN Guidance-FIN-2008-G004(Replaces 10/31/05 FAQs)

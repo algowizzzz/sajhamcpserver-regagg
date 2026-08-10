@@ -1,1 +1,0 @@
-Summary: # Opening Remarks by Barry MacKillop, Deputy Director of Intelligence, Financial Transactions and Reports Analysis Centre of Canada at the House of Commons Public Safety and National Security Committee

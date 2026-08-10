@@ -1,1 +1,0 @@
-Summary: # Departmental plan

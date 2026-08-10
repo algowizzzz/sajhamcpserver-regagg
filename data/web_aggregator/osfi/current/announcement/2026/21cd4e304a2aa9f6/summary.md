@@ -1,1 +1,0 @@
-Summary: # Partie XII: Établissement d’une succursale d’une société coopérative de crédit, d’un courtier de valeurs mobilières ou d’un fournisseur de services de conseil en placement et de gestion

@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 22.3, Market Maker Class Appointments

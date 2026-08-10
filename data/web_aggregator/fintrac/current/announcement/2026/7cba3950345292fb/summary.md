@@ -1,1 +1,0 @@
-Summary: # Exigences en matière de sécurité et d’admissibilité

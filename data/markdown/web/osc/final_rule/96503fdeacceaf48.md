@@ -1,0 +1,11 @@
+---
+title: "Amendments to NI 71-102 Continuous Disclosure Obligation and Other Exemptions Relating to Foreign Issuers | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+reference: "71-102"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/7/71-102/amendments-ni-71-102-continuous-disclosure-obligation-and-other-exemptions-relating-foreign"
+version: "1"
+---
+

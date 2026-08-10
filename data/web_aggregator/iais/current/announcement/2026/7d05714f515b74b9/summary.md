@@ -1,1 +1,0 @@
-Summary: # IAIS mid-year Global Insurance Market Report 2025 reflects insurance sector resilience

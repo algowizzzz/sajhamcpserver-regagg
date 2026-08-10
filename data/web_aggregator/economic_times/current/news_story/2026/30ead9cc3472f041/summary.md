@@ -1,1 +1,0 @@
-Summary: # Market wrap: TCS, SBI, M&amp;M, Trent among top gainers and losers on Nifty and Sensex on Friday

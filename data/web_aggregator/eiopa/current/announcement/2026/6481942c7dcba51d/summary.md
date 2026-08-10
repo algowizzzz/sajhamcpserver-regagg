@@ -1,1 +1,0 @@
-Summary: Due to COVID-19 outbreak, in the coming weeks European Insurance and Occupational Pensions Authority will carry out extraordinary calculations on weekly basis to monitor the evolution of the relevant risk-free interest rate term structures (RFR) and the symmetric adjustment to eq

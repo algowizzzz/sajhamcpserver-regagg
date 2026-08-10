@@ -1,1 +1,0 @@
-Summary: # VALIC Company I and The Variable Annuity Life Insurance Company

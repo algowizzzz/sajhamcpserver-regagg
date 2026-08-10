@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Municipal Securities Rulemaking Board; Order Granting Approval of a Proposed Rule Change To Amend MSRB Rule G-12(c) To Codify and Retire or Revise Certain Existing Interpretive Guidance on Confirmation Requirements for Those Inter-Dealer Municipal

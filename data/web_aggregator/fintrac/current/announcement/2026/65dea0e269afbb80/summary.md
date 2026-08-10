@@ -1,1 +1,0 @@
-Summary: # Rapport financier trimestriel pour le trimestre ayant pris fin le 31 décembre 2023 (non audité)

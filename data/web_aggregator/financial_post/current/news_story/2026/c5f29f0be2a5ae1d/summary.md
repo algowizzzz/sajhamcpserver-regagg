@@ -1,1 +1,0 @@
-Summary: # McEwen Q2 Results: Net Income of $9.6M ($0.16 per Share), Compared with $3.0M ($0.06 per Share) in Q2 2025; Exploration Results Driving Resource Growth Across All Sites; New Stock Mine in Timmins Nearing Production, with Mine Life Extended

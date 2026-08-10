@@ -1,1 +1,0 @@
-Summary: # Rapport sur les résultats ministériels

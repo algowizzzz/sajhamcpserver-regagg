@@ -1,8 +1,0 @@
-# China’s outsize commodities footprint cushions global energy shocks: Goldman Sachs
-
-China’s outsize footprint in global commodities is helping to cushion international energy shocks and stabilise gold prices, even as its export controls on rare earths and other critical minerals trigger violent price swings in the Western technology supply chain, according to Goldman Sachs.
-In a report published on Monday, commodities analysts Daan Struyven and Lia Thomas cast Beijing as the global commodity markets’ de facto “volatility arbiter”, arguing that Chinese policies pulled price...
-
-[Read the full story at the source](https://www.scmp.com/business/commodities/article/3362861/chinas-outsize-commodities-footprint-cushions-global-energy-shocks-goldman-sachs?utm_source=rss_feed)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

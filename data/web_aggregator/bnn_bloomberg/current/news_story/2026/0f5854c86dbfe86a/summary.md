@@ -1,1 +1,0 @@
-Summary: # Too soon to say whether pipeline agreement could change Suncor’s outlook: CEO

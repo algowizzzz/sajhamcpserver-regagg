@@ -5,7 +5,7 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/intro-fra.php"
-version: "1"
+version: "2"
 ---
 
 # Centre d’analyse des opérations et déclarations financières du Canada
@@ -143,12 +143,12 @@ Directeur et président-directeur général par intérim
 
 ## Nouvelles
 
+[Communiqué de presse : 392 véhicules volés d’une valeur de 28 millions de dollars retrouvés dans le cadre du projet pilote NoCargo](https://grc.ca/fr/nouvelles/2026/08/4355449)   
+[2026-08-06]  
 [Communiqué de presse : Arrestations dans le cadre de la plus importante affaire de traite de personnes de l’histoire de la Police régionale de Halton (en anglais seulement)](https://www.haltonpolice.ca/news-releases/posts/arrests-made-in-largest-human-trafficking-case-in-hrps-history/)    
 [2026-07-28]  
 [Communiqué de presse : Traite de personnes: 3 arrestations lors d’une enquête conjointe; on recherche d’autres victimes](https://www.ottawapolice.ca/fr/news/joint-human-trafficking-investigation-leads-to-three-arrests-police-seek-additional-victims.aspx)   
-[2026-07-21]  
-[Communiqué de presse : La police de Toronto porte plus de 100 accusations supplémentaires à la suite d’une enquête conjointe sur l’agression et l’exploitation sexuelles d’enfants (en anglais seulement)](https://www.tps.ca/media-centre/news-releases/66292/)    
-[2026-07-16]
+[2026-07-21]
 
 En savoir plus : [Nouvelles de CANAFE](/new-neuf/1-fra)
 

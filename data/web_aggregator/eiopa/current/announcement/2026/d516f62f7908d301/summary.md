@@ -1,1 +1,0 @@
-Summary: ## What are internal models?

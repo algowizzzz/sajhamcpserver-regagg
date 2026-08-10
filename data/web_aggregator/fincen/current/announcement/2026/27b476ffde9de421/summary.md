@@ -1,1 +1,0 @@
-Summary: # Application of FinCEN’s Regulations to Virtual Currency Software Development and Certain Investment Activity

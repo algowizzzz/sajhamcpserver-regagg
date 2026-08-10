@@ -1,7 +1,0 @@
-# Only the Bank of Japan Can Arrest the Yen’s Decline
-
-Higher interest rates are needed to address a growing yield gap with the U.S.
-
-[Read the full story at the source](https://www.wsj.com/world/asia/only-the-bank-of-japan-can-arrest-the-yens-decline-dc351568?mod=rss_markets_main)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

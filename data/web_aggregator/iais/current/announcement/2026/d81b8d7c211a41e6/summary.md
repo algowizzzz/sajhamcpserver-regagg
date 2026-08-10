@@ -1,1 +1,0 @@
-Summary: # Public consultation on draft Application Paper on operational resilience objectives and toolkit

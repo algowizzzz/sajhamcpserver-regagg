@@ -1,1 +1,0 @@
-Summary: # Canada’s main stock index up more than 300 points amid hopes of Hormuz reopening

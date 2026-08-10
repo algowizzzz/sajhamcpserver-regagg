@@ -1,1 +1,0 @@
-Summary: # Inflation Adjustments for Civil Money Penalties

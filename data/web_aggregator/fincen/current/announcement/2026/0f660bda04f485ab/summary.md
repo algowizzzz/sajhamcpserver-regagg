@@ -1,1 +1,0 @@
-Summary: # Definition of Money Transmitter/Stored Value (Gift Certificates/Gift Cards)

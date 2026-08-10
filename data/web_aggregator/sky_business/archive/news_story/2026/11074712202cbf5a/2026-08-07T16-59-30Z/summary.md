@@ -1,1 +1,0 @@
-Summary: # UK gives effective green light to Paramount Warner Bros mega deal after assurances provided

@@ -1,7 +1,0 @@
-# Why So Many Young People No Longer Believe Hard Work Pays Off | Money Moves with Jill Schlesinger
-
-A growing number of young Americans no longer believe that ambition and hard work lead to success. Jill Schlesinger, Mark Talercio, and special guest host Kayla Sabbagh of Greenspring Advisors explain why that mindset can become a self-fulfilling prophecy and why believing you have agency over your future is essential to both your financial success and your mental health. Plus: they respond to a fiery YouTube comment about inheritance, family expectations, and leaving your money to charity.
-
-[Read the full story at the source](https://www.cbsnews.com/video/why-so-many-young-people-no-longer-believe-hard-work-pays-off-money-moves-with-jill-schlesinger/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,1 +1,0 @@
-Summary: # Use of the Standardized Approach for Operational Risk Capital by Category I SMSBs

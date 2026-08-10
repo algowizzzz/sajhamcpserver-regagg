@@ -1,1 +1,0 @@
-Summary: # Why is Russia selling its gold?

@@ -1,1 +1,0 @@
-Summary: # Letter to industry on OSFI’s next steps to implement new provisions of its mandate

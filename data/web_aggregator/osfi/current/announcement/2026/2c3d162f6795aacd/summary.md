@@ -1,1 +1,0 @@
-Summary: # L3 Return - Operational Risk Event Data

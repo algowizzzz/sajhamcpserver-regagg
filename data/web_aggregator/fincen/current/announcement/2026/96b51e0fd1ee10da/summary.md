@@ -1,1 +1,0 @@
-Summary: # Financial Trend Analyses

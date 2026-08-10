@@ -1,1 +1,0 @@
-Summary: # As divisions linger, Senate punts CLARITY Act to September

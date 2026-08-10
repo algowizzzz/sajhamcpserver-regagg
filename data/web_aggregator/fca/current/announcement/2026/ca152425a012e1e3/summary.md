@@ -1,1 +1,0 @@
-Summary: The FCA has published a package of reforms designed to improve transparency, strengthen access to market-wide information and support confidence in UK equity markets.

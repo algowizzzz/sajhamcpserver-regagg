@@ -1,1 +1,0 @@
-Summary: The European Insurance and Occupational Pensions Authority has published its second annual European Insurance Overview.

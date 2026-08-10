@@ -1,1 +1,0 @@
-Summary: Numéro de référence : CANAFE-2025-SB001 

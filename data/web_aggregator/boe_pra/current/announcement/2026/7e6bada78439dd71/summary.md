@@ -1,1 +1,0 @@
-Summary: # RPIB consultation on the Design of the Future Retail Payments Infrastructure

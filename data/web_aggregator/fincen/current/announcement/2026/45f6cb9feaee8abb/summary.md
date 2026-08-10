@@ -1,1 +1,0 @@
-Summary: # FinCEN Issues Ruling on Records to be Made and Maintained by Dealers in Foreign Exchange

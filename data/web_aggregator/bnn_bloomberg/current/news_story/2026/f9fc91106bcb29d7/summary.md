@@ -1,1 +1,0 @@
-Summary: # Colombia’s gold moment arrives, and Tiger Gold is drilling at the centre of it

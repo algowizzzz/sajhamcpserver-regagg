@@ -1,1 +1,0 @@
-Summary: # Governance: recognised payment system operators

@@ -1,7 +1,0 @@
-# MDA Space revenue rockets 34% in Q2 as company reports $27.9M profit
-
-MDA Space Ltd. recorded a $27.9 million profit in its second quarter as its revenue climbed almost 34 per cent from a year earlier.
-
-[Read the full story at the source](https://www.bnnbloomberg.ca/business/company-news/2026/08/07/mda-space-revenue-rockets-34-in-q2-as-company-reports-279m-profit/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

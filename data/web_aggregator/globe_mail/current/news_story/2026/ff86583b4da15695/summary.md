@@ -1,1 +1,0 @@
-Summary: # Disney reports strong quarter as box office revenue, U.S. theme parks offset tourism weakness

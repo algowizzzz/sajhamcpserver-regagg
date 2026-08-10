@@ -1,1 +1,0 @@
-Summary: # Offres de CPG (GA et GB)

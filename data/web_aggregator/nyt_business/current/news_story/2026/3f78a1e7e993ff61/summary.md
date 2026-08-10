@@ -1,1 +1,0 @@
-Summary: # S&P 500 Hits Record High as Stock Market Worries About Iran and AI Ease

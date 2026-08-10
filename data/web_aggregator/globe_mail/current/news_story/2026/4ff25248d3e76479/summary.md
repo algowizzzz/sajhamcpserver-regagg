@@ -1,1 +1,0 @@
-Summary: # Health Canada backlog of generic drug applications doubled over past year

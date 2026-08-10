@@ -1,0 +1,10 @@
+---
+title: "Amendments to National Instrument: NI - 21-101 - Marketplace Operation, Companion Policy, Forms 21-101F1, 21-101F2, 21-101F3 and 21-101F4 | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/2/21-101/amendments-national-instrument-ni-21-101-marketplace-operation-companion-policy-forms-21-101f1-21"
+version: "1"
+---
+

@@ -1,1 +1,0 @@
-Summary: [Speech](/document/download/3237efaa-8fc0-4058-81b0-883fbf4ed02d_en?filename=2017-04-11_public_hearing_on_the_capital_markets_union_mid-term_review.pdf) by Gabriel Bernardino, Chairman of EIOPA at the Public Hearing on the Capital Markets Union Mid-Term Review, Brussels

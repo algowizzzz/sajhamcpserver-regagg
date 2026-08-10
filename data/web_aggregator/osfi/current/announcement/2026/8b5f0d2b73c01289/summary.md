@@ -1,1 +1,0 @@
-Summary: # Relevé de la continuité des provisions (C3)

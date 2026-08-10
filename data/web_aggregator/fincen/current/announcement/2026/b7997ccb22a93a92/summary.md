@@ -1,1 +1,0 @@
-Summary: # Suspicious Activity Report Initiates Bank Failure Investigation

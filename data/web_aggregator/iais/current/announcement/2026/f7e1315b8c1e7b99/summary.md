@@ -1,1 +1,0 @@
-Summary: # The International Financial Services Centres Authority in India joins IAIS cooperation and information exchange agreement

@@ -1,1 +1,0 @@
-Summary: # Pénalité administrative pécuniaire imposée à Norwich Real Estate Services Inc.

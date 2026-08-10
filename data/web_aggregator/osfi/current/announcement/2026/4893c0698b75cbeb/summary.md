@@ -1,1 +1,0 @@
-Summary: # Standardized Institutions Risk Asset Portfolio Information (RAPID1)

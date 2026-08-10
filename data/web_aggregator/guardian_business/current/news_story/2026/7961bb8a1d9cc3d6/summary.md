@@ -1,1 +1,0 @@
-Summary: # US water facilities targeted by ‘malicious cyber actors’ – who’s to blame?

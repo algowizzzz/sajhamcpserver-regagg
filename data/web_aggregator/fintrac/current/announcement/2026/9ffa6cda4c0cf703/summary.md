@@ -1,1 +1,0 @@
-Summary: # Rapport sur les résultats ministériels 2023-2024 du Centre d’analyse des opérations et déclarations financières du Canada : En un coup d’œil

@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Partial Amendment No. 1 to Proposed Rule Change To Amend FINRA Rule 2210 (Communications With the Public)

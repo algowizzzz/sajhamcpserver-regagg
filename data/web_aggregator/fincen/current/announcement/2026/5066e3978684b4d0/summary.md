@@ -1,1 +1,0 @@
-Summary: # FinCEN Advisory – FIN-2012-A011

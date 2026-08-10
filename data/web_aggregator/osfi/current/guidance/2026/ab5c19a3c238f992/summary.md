@@ -1,1 +1,0 @@
-Summary: # IFRS 17 Insurance Contracts Guideline

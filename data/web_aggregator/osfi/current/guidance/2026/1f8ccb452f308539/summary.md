@@ -1,1 +1,0 @@
-Summary: # Life Insurance Capital Adequacy Test – Guideline (2025)

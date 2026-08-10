@@ -1,1 +1,0 @@
-Summary: # Multinational giants defy China’s sluggish retail market with strong 2026 sales

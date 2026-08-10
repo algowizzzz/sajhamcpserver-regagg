@@ -1,1 +1,0 @@
-Summary: Register of Internationally Active Insurance 

@@ -1,0 +1,11 @@
+---
+title: "Amendments to National Instrument 81-102 Investment Funds | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+reference: "81-102"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/8/81-102-81-102cp/amendments-national-instrument-81-102-investment-funds-1"
+version: "1"
+---
+

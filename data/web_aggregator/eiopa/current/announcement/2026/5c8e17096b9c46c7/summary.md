@@ -1,1 +1,0 @@
-Summary: ![Westhafenplatz](/sites/default/files/styles/oe_theme_full_width_banner_5_1/public/2024-10/IMG_0522.JPG.webp?h=790be497&itok=l0asucQw)

@@ -1,1 +1,0 @@
-Summary: Projet GUARDIAN 

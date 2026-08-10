@@ -1,1 +1,0 @@
-Summary: # Residential Mortgage Insurance Underwriting Practices and Procedures – Guideline (2019)

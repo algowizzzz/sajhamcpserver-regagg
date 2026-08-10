@@ -1,1 +1,0 @@
-Summary: # La réserve pour stabilité intérieure – à l’appui de la résilience du système bancaire canadien

@@ -1,1 +1,0 @@
-Summary: # US economy lost 23,000 jobs in July in surprise blow to Trump – as it happened

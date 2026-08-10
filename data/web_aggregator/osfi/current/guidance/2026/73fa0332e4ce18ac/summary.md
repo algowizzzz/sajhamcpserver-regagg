@@ -1,1 +1,0 @@
-Summary: # Insurance in Canada of Risks

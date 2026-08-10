@@ -1,7 +1,0 @@
-# Gianni Infantino admits ‘mistakes’ over failed $20bn Fifa investment plan
-
-President seeks to move on from saga that undermined world football’s governing body
-
-[Read the full story at the source](https://www.ft.com/content/733848fd-fd69-4764-b5a3-5f8fa14019f8?syn-25a6b1a6=1)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

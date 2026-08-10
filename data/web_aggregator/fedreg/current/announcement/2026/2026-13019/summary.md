@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Nasdaq GEMX, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule General 8 Connectivity To Establish Fees for Its TNO Cross-Connect Service

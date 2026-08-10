@@ -1,1 +1,0 @@
-Summary: ![person counting money](/sites/default/files/styles/wide_lead/public/media/2025/08/money-counting.jpg?h=b5f6a62e&itok=U4jYMZhq "person counting money")

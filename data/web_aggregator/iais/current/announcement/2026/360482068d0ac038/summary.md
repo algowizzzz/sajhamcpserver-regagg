@@ -1,1 +1,0 @@
-Summary: # High-level principles for the development of the ICS implementation assessment published

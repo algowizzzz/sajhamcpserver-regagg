@@ -1,1 +1,0 @@
-Summary: # Operational resilience: recognised payment system operators and specified service providers

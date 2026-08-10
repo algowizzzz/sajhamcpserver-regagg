@@ -1,1 +1,0 @@
-Summary: # Securities Lending Deposit-taking institutions - Guideline (1996)

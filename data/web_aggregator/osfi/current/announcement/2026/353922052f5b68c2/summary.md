@@ -1,1 +1,0 @@
-Summary: # Sociétés d’assurance multirisque

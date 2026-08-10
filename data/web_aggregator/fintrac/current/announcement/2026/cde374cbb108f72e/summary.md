@@ -1,1 +1,0 @@
-Summary: Évaluation des risques 

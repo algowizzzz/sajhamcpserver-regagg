@@ -1,1 +1,0 @@
-Summary: # Exemption des règles sur les opérations avec apparentés interdisant l’émission d’actions d’une institution financière en contrepartie d’actions d’une autre personne morale

@@ -1,1 +1,0 @@
-Summary: # Operational brief: Indicators of money laundering in financial transactions related to real estate

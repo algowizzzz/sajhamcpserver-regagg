@@ -1,1 +1,0 @@
-Summary: # Operating Cash Flow Statement (OCFS)

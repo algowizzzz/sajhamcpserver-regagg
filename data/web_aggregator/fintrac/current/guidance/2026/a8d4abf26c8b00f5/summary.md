@@ -1,1 +1,0 @@
-Summary: # Reporting transactions to FINTRAC: The 24‑hour rule : FINTRAC’s compliance guidance

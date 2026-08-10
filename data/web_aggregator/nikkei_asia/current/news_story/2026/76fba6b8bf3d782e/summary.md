@@ -1,1 +1,0 @@
-Summary: # South Korea to drop plan for ammonia use in coal plants: energy minister

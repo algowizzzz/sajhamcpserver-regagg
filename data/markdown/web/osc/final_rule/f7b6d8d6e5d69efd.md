@@ -1,0 +1,10 @@
+---
+title: "Unofficial Consolidation: Companion Policy 44-103CP Post-Receipt Pricing | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/4/44-103/unofficial-consolidation-companion-policy-44-103cp-post-receipt-pricing"
+version: "1"
+---
+

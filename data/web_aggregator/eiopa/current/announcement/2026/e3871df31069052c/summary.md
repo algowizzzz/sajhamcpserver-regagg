@@ -1,1 +1,0 @@
-Summary: EIOPA carries out regular insurance stress tests to assess how well the European insurance industry is able to cope with severe but plausible adverse developments of financial and economic conditions. Stress test results help supervisors identify the vulnerabilities of the insura

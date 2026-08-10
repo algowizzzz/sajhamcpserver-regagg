@@ -1,1 +1,0 @@
-Summary: # Application of Money Services Business Regulations to a Company Acting as an Independent Sales Organization and Payment Processor

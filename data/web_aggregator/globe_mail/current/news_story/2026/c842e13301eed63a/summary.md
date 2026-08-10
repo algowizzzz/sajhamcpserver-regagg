@@ -1,1 +1,0 @@
-Summary: # Canada’s trade surplus grows to $3.9-billion in June as weak loonie boosts value of imports, exports

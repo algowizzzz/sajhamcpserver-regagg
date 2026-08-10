@@ -1,1 +1,0 @@
-Summary: # Democracy is at stake when foolish humans bet on machines being intelligent | Rafael Behr

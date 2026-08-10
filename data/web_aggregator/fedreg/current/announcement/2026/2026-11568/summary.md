@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; MEMX LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Exchange's Fee Schedule Concerning Options Transaction Pricing

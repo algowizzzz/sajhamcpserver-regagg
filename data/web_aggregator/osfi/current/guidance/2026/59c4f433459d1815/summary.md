@@ -1,1 +1,0 @@
-Summary: Protected B - External / Protégé B - Externe 

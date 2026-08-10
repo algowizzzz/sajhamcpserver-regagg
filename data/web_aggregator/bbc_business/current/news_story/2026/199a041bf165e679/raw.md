@@ -1,7 +1,0 @@
-# What do people want from Argos?
-
-As Sainsbury agrees to sell Argos for £120m, we ask people if they still shop there, and what the new owners can do to compete with big online retailers like Amazon.
-
-[Read the full story at the source](https://www.bbc.co.uk/news/videos/clyj57g4kkeo?at_medium=RSS&at_campaign=rss)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

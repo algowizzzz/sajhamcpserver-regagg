@@ -1,1 +1,0 @@
-Summary: # Final Instruction Guide – Authorization of Amendments Reducing Benefits in Defined Benefit Pension Plans

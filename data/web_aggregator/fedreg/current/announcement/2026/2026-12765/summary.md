@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing of Proposed Rule Change, as Modified by Amendment No. 1, To Adopt a New Continued Listing Requirement

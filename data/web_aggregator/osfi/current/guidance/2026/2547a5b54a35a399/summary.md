@@ -1,1 +1,0 @@
-Summary: # Life Insurance Capital Adequacy Test (2025) – Chapter 2 Available Capital

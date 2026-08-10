@@ -1,1 +1,0 @@
-Summary: # OSFI upholds current LAR guideline treatment for HISA ETFs

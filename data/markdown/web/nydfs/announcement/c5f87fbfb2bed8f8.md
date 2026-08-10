@@ -5,7 +5,8 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.dfs.ny.gov/cybersecurity"
-version: "1"
+published: "2017-03-01"
+version: "4"
 ---
 
 ![Cybersecurity Locks](/sites/default/files/styles/wide_lead/public/media/2026/07/cyber-2026.jpg?h=b5f6a62e&itok=e-vewrYi "Cybersecurity")
@@ -86,7 +87,7 @@ FAQs and Compliance Tools
 
 [Training Resources & Tools](/cybersecurity/compliance-resources "Training Resources & Tools")
 
-[Email [email protected]](/cdn-cgi/l/email-protection#ce8db7acabbc9caba99dbbbebea1bcba8eaaa8bde0a0b7e0a9a1b8 "Email CyberRegSupport@dfs.ny.gov")
+[Email [email protected]](/cdn-cgi/l/email-protection#42013b202730102725113732322d3036022624316c2c3b6c252d34 "Email CyberRegSupport@dfs.ny.gov")
 
 Cybersecurity Examination and Supervision
 
@@ -128,8 +129,28 @@ Industry Letter - February 6, 2026: Ongoing Cyberthreat campaign Involving Targe
 
 [LEARN MORE](https://www.dfs.ny.gov/industry-guidance/industry-letters/20260206-cybersecurity-advisory-targeted-vishing-attacks)
 
-90
+95
 Results Found
+
+![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS_seal_pr.jpg)
+
+Press Release
+
+### [New York State Department of Financial Services Secures Cybersecurity Settlement with Order Express, Inc.](/reports_and_publications/press_releases/pr20260805)
+
+August 5, 2026
+
+[Learn More](/reports_and_publications/press_releases/pr20260805)
+
+![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS_seal_pr.jpg)
+
+Disciplinary or Enforcement Action
+
+### [Consent Order Issued to Order Express, Inc](/system/files/documents/2026/08/ea20260803-order-express-inc.pdf)
+
+August 4, 2026
+
+[Learn More](/industry-guidance/enforcement-discipline/ea20260803-order-express-inc)
 
 ![hands typing on laptop with images of security locks](data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "hands typing on laptop with images of security locks")
 
@@ -173,6 +194,16 @@ April 30, 2026
 
 ![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS_seal_pr.jpg)
 
+Disciplinary or Enforcement Action
+
+### [Consent Order to Delta Dental Insurance Company and Delta Dental of New York, Inc.](/system/files/documents/2026/04/Delta-Dental-Consent-Order.pdf)
+
+April 30, 2026
+
+[Learn More](/industry-guidance/enforcement-discipline/ea20260430)
+
+![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS_seal_pr.jpg)
+
 Industry Letter
 
 ### [Reminder to Financial Sector of Heightened Cyber Threats Due to Global Conflict](/industry-guidance/industry-letters/20260303-cybersecurity-advisory-heightened-cyber-threats-global-conflict)
@@ -200,33 +231,3 @@ Industry Letter
 January 22, 2026
 
 [Learn More](/industry_guidance/industry_letters/20260122_cybersecurity_threat_alert)
-
-![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS_seal_pr.jpg)
-
-Statement
-
-### [Statement by DFS Acting Superintendent Kaitlin Asrow at the NYS Assembly Hearing on the Use of Artificial Intelligence Systems in Insurance Underwriting and Pricing](/reports_and_publications/press_releases/pr20251216)
-
-December 16, 2025
-
-[Learn More](/reports_and_publications/press_releases/pr20251216)
-
-![hands typing on laptop with images of security locks](data:image/gif;base64,R0lGODlhAQABAIABAP///wAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw== "hands typing on laptop with images of security locks")
-
-Press Release
-
-### [DFS Issues New Cybersecurity Guidance to Address Risks Associated with Third-Party Service Providers](/reports_and_publications/press_releases/pr20251021)
-
-October 21, 2025
-
-[Learn More](/reports_and_publications/press_releases/pr20251021)
-
-![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS_seal_pr.jpg)
-
-Industry Letter
-
-### [Guidance on Managing Risks Related to Third-Party Service Providers](/industry-guidance/industry-letters/il20251021-guidance-managing-risks-third-party)
-
-October 21, 2025
-
-[Learn More](/industry-guidance/industry-letters/il20251021-guidance-managing-risks-third-party)

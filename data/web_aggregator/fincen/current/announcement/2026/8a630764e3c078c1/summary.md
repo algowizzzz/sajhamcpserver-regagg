@@ -1,1 +1,0 @@
-Summary: # Proactive Suspicious Activity Report Search Leads to Guilty Plea in Tax Fraud Investigation

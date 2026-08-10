@@ -1,1 +1,0 @@
-Summary: # Starlink could deliver majority of world's internet within 10 years, says Elon Musk

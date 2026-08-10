@@ -1,1 +1,0 @@
-Summary: # Module 3: Large Cash Transaction Report specifications : Batch reporting to FINTRAC

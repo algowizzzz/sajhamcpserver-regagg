@@ -1,1 +1,0 @@
-Summary: # Determination of charges by type of reporting entity : Charging reporting entities for FINTRAC’s compliance program

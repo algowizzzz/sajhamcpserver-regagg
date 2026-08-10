@@ -1,1 +1,0 @@
-Summary: # State & Federal Agencies Seize $8.9 Million—Brought Together by Gateway Alert Match Program

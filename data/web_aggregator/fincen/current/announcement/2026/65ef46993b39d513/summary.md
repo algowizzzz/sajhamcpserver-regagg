@@ -1,1 +1,0 @@
-Summary: # Suspicious Activity Reports Detail Transactions in Mortgage Fraud Scheme

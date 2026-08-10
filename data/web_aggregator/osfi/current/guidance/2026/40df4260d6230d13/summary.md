@@ -1,1 +1,0 @@
-Summary: # Minimum Qualifying Rate - Letter (2021)

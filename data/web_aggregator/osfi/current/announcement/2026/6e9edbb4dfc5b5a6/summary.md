@@ -1,1 +1,0 @@
-Summary: # Émission de titres de créance subordonnée en contrepartie d’un bien

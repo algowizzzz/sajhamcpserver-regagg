@@ -1,1 +1,0 @@
-Summary: # IAIS collaborates with the World Bank Group to develop G20 input paper on natural catastrophe protection gaps

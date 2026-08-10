@@ -1,1 +1,0 @@
-Summary: # Charge de créances douteuses (C1)

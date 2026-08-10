@@ -1,1 +1,0 @@
-Summary: # Données de crédit selon l'approche NI des opérations de gros (BF)

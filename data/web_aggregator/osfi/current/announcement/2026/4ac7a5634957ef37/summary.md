@@ -1,1 +1,0 @@
-Summary: # ESTABLISHMENT OR TERMINATION OF A TRUST FOR VESTING ASSETS IN CANADA BY A FOREIGN COMPANY (including a foreign fraternal benefit society)

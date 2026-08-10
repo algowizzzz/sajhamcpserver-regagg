@@ -1,1 +1,0 @@
-Summary: # ‘This is insider trading by definition’: Trump sells $100,000 monthly subscription service to Wall Street to further monetize the presidency

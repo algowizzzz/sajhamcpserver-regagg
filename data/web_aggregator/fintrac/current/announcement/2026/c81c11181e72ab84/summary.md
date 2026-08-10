@@ -1,1 +1,0 @@
-Summary: # Employment Equity, Diversity and Inclusion Strategy

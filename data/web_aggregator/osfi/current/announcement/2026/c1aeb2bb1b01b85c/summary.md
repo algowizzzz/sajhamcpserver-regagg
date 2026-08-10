@@ -1,1 +1,0 @@
-Summary: # Appel de données relatives au risque de crédit du portefeuille de la clientèle de détail – Approche fondée sur les notations internes (DT4)

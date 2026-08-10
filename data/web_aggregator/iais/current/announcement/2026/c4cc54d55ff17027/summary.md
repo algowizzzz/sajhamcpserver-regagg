@@ -1,1 +1,0 @@
-Summary: # The Autoridade de Supervisão de Seguros e Fundos de Pensões (ASF) joins IAIS cooperation and information exchange agreement

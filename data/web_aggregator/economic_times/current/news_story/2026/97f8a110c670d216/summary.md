@@ -1,1 +1,0 @@
-Summary: # Ixigo posts record Q1 profit, but stock tumbles 9%. Here's what worried Dalal Street

@@ -1,1 +1,0 @@
-Summary: Summary of consultation comments on ICP Introduction, ICP 15, 16 Guidance and their resolution

@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) submitted to the European Parliament, the Council of the European Union and the European Commission, its annual Report 2017 on Long-Term Guarantees Measures (LTG) and Measures on Equity Risk.

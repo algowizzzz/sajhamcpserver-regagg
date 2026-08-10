@@ -1,1 +1,0 @@
-Summary: # Meta fined $567m in largest child safety ruling against social media giant

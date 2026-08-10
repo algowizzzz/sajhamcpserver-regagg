@@ -1,1 +1,0 @@
-Summary: # Octopus Energy denies it is anti-union as GMB pushes for recognition for workers

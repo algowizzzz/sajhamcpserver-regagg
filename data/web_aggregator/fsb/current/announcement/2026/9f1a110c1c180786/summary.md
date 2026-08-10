@@ -1,1 +1,0 @@
-Summary: [Consultations](https://www.fsb.org/content_types/consultations/ "Go to the Consultations Content Type archives.")Sound Practices for Responsible Adoption of Artificial Intelligence (AI): Consultation report

@@ -1,1 +1,0 @@
-Summary: # OCC Policy Statement on Minority Depository Institutions

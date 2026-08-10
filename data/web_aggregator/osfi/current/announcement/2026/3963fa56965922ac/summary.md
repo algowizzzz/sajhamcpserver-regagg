@@ -1,1 +1,0 @@
-Summary: # 2026 Mortgage Insurer Capital Adequacy Test - Filing Instructions

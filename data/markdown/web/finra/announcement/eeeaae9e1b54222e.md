@@ -5,7 +5,7 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.finra.org/"
-version: "1"
+version: "2"
 ---
 
 # FINRA Homepage
@@ -96,20 +96,20 @@ Follow FINRA's new Instagram page at @FINRAOfficial to find investor-focused con
 
 [Read More](/follow-finra-on-instagram-redirect)
 
-Blog Post
+News Release
 
-Strengthening Our Exam Program Through Innovation and Transparency
+FINRA Fines UBS Financial $20 Million for Anti-Money Laundering Violations
 
-[Read More](/media-center/blog/strengthening-our-exam-program-through-innovation-transparency-20260720)
+[Read More](/media-center/newsreleases/2026/finra-fines-ubs-financial-20-million-anti-money-laundering)
 
-Guidance
+Request for Comment
 
-Cyber Alert: NGINX Critical Vulnerability
+FINRA Requests Comment on Modernizing FINRA’s Best Execution Guidance
 
-[Read More](/rules-guidance/guidance/cybersecurity-alert-nginx-critical-vulnerability)
+[Read More](/rules-guidance/notices/26-15)
 
-Investor Insights
+News Release
 
-Ways to Invest for Children
+FINRA Foundation Research Reveals Gaps in Fraud Awareness That May Leave Americans Vulnerable
 
-[Read More](/investors/insights/investing-children)
+[Read More](/media-center/newsreleases/2026/finra-foundation-research-reveals-gaps-fraud-awareness-may-leave)

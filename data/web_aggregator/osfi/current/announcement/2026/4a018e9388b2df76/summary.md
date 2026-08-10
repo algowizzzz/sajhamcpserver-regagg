@@ -1,1 +1,0 @@
-Summary: # BSIF-658 – Relevé sur les renseignements requis – rôles et coordonnées

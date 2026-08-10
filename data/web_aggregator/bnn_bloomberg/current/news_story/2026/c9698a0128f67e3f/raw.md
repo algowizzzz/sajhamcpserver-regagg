@@ -1,7 +1,0 @@
-# RioCan reports higher profit in Q2 as leasing improves
-
-RioCan Real Estate Investment Trust reported net income of $151.2 million during its second quarter, as it hiked some of its forecasts for the year.
-
-[Read the full story at the source](https://www.bnnbloomberg.ca/business/real-estate/2026/08/05/riocan-reports-higher-profit-in-q2-as-leasing-improves/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

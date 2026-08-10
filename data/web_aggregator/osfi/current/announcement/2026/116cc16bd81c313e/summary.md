@@ -1,1 +1,0 @@
-Summary: # Principales règles de validation applicables au relevé H4

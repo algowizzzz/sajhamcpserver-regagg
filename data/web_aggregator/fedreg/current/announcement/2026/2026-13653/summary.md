@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of Amendment No. 1 to a Proposed Rule Change To Amend Certain Parts of Its Opening and Closing Auctions

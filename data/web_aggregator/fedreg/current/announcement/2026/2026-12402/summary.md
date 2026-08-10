@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Nasdaq ISE, LLC; Order Approving a Proposed Rule Change To Permit the Listing of A.M.-Settled Options on the Nasdaq-100 Index That Expire on Any Monday, Tuesday, Wednesday, Thursday, or Friday (Other than the Third Friday-of-the-Month or Days That

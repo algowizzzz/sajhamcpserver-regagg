@@ -1,1 +1,0 @@
-Summary: # Frequently asked questions about domestic politically exposed persons and heads of international organizations

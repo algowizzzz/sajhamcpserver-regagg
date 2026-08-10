@@ -1,1 +1,0 @@
-Summary: # Extension of divestiture period for control or holding a substantial investment by a foreign bank or entity associated with a foreign bank obtained as a result of realization of a security interest or a loan default

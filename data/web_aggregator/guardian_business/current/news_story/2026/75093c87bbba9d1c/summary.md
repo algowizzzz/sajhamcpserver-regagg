@@ -1,1 +1,0 @@
-Summary: # UK house prices flat in July, says Lloyds, as buyers struggle with affordability

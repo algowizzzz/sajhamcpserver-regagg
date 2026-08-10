@@ -1,1 +1,0 @@
-Summary: # Cathay books best 1st-half profit since 2010 as demand cushions war impact

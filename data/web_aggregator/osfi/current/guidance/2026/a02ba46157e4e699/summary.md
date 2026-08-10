@@ -1,1 +1,0 @@
-Summary: # Leverage Requirements - Guideline (2023)

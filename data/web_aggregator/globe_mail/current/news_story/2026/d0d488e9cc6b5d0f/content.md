@@ -1,7 +1,0 @@
-# Algonquin Power to move headquarters to Chicago
-
-Says more than 80% of operations are in U.S., while less than 5% are in Canada
-
-[Read the full story at the source](https://www.theglobeandmail.com/business/industry-news/energy-and-resources/article-algonquin-power-to-move-headquarters-to-chicago/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

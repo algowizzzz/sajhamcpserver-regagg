@@ -1,1 +1,0 @@
-Summary: # Report on New and Existing Lending (A4)

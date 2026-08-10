@@ -1,1 +1,0 @@
-Summary: # No Adjustment to Civil Monetary Penalty Amounts

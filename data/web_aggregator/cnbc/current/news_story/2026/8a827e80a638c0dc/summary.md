@@ -1,1 +1,0 @@
-Summary: # Michael Burry bets against rally: 'We are near a major top, and possible a 1987-type fall'

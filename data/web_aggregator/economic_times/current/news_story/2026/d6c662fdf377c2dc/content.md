@@ -1,7 +1,0 @@
-# SBI share price climbs 4% after Q1 profit jumps 10% YoY, beats estimates
-
-SBI shares rose sharply on Friday after the lender reported a 10% year-on-year rise in Q1 FY27 standalone profit to Rs 21,121 crore, beating Street estimates. Net interest income rose 15% to Rs 46,992 crore, while total business crossed Rs 110 trillion. The stock remains 9% below its 52-week high.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/sbi-share-price-climbs-4-after-q1-profit-jumps-10-yoy-beats-estimates/articleshow/133029314.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

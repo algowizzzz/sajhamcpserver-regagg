@@ -1,1 +1,0 @@
-Summary: # À quel moment vérifier l’identité des personnes et des entités – Entreprises de services monétaires et entreprises de services monétaires étrangères : Directives de CANAFE en matière de conformité

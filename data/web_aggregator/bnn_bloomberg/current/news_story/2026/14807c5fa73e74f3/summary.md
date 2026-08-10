@@ -1,1 +1,0 @@
-Summary: # PM Carney says tone with U.S. already ‘quite firm’ as trade talks continue

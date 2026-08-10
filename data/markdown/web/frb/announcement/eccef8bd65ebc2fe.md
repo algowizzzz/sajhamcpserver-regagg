@@ -6,7 +6,7 @@ status: "final"
 source_kind: "web"
 source_url: "https://www.federalreserve.gov/newsevents/pressreleases/enforcement20260416a.htm"
 published: "2026-04-16"
-version: "1"
+version: "2"
 ---
 
 [Skip to main content](#content)
@@ -79,7 +79,7 @@ Cease and Desist Order dated April 14, 2026
 
 Additional enforcement actions can be searched for [here](https://www.federalreserve.gov/apps/enforcementactions/search.aspx).
 
-For media inquiries, please email [[email protected]](/cdn-cgi/l/email-protection#d7bab2b3beb697b1a5b5f9b0b8a1) or call 202-452-2955.
+For media inquiries, please email [[email protected]](/cdn-cgi/l/email-protection#7d101819141c3d1b0f1f531a120b) or call 202-452-2955.
 
 * [Attachment (PDF)](/newsevents/pressreleases/files/enf20260416a1.pdf)
 

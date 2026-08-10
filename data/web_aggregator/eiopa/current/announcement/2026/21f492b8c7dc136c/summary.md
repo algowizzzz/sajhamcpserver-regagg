@@ -1,1 +1,0 @@
-Summary: The European Insurance and Occupational Pensions Authority (EIOPA) welcomed today's adoption by the European Parliament of the Regulation introducing a Pan-European Pension Product, the PEPP.

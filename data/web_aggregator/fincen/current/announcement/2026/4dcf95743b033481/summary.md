@@ -1,1 +1,0 @@
-Summary: # SARs Lead to Discovery of $1.8 Million Hidden in House

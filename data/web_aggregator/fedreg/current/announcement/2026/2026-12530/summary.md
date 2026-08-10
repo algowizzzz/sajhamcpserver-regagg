@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 900.2NY To Require ATP Holders To Review Customer Activity on a Monthly Basis

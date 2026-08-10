@@ -1,1 +1,0 @@
-Summary: # Milky Mist IPO price band fixed at Rs 133-140 for Rs 1,553-crore IPO; issue opens on August 11

@@ -1,1 +1,0 @@
-Summary: # Capital Adequacy Requirements (CAR) (2027) – Chapter 1 – Overview of Risk-based Capital Requirements

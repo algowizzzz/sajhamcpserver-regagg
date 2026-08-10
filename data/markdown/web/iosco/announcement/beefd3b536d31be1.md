@@ -5,7 +5,7 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.iosco.org/about/?subsection=about_iosco"
-version: "1"
+version: "3"
 ---
 
 ##### Modal title
@@ -76,11 +76,11 @@ The [Growth and Emerging Markets (GEM) Committee](/about/?subsection=display_com
 
 Our four Regional Committees: [Africa / Middle-East Regional Committee](/about/?subsection=display_committee&cmtid=7), [Asia-Pacific Regional Committee](/about/?subsection=display_committee&cmtid=6), [European Regional Committee](/about/?subsection=display_committee&cmtid=4) and [Inter-American Regional Committee](/about/?subsection=display_committee&cmtid=9) provide a forum for the exchange of ideas and best practice at a regional level, helping us to learn constantly from each others' experience.
 
-Our [Affiliate Members Consultative Committee (AMCC)](/v2/about/?subsection=display_committee&cmtid=2), made up of self-regulatory organizations and representatives from the private sector such as exchanges, and trade associations, provide an additional perspective into the work we do.
+Our [Affiliate Members Consultative Committee (AMCC)](/about/?subsection=display_committee&cmtid=2), made up of self-regulatory organizations and representatives from the private sector such as exchanges, and trade associations, provide an additional perspective into the work we do.
 
 A number of networks ensure that we support each other in becoming effective regulators.
 
-It is the function of the [General Secretariat](/v2/about/?subsection=gs) to deliver on the Work Program set out by the Board.
+It is the function of the [General Secretariat](/about/?subsection=gs) to deliver on the Work Program set out by the Board.
 
 ## Our Workplan
 
@@ -94,13 +94,13 @@ Associate members (33) are usually supranational governmental regulators, subnat
 
 Affiliate members (77) are self-regulatory organizations, securities exchanges, financial market infrastructures, international bodies other than governmental organizations with an appropriate interest in securities regulation, investor protection funds and compensation funds, and other bodies with an appropriate interest in securities regulation.
 
-The full member list can be found [here](/v2/about/?subsection=membership&memid=1).
+The full member list can be found [here](/about/?subsection=membership&memid=1).
 
 ## MMoU
 
 The Multilateral Memorandum of Understanding Concerning Consultation and Cooperation and the Exchange of Information (MMoU) sets an international benchmark for cross-border cooperation. Established in 2002, it provides securities regulators with the tools for combating cross-border fraud and misconduct that can weaken global markets and undermine investor confidence.
 
-Find out more [here](/v2/about/?subsection=mmou).
+Find out more [here](/about/?subsection=mmou).
 
 ## IOSCO Whistleblowing Channel
 
@@ -132,51 +132,49 @@ Communications that deliberately falsely attribute behaviors or actions to any p
 
 [I-SCAN](/i-scan/)
 
-Investor Warning / 3 August 2026
+Investor Warning / 7 August 2026
 
-[Impersonation of Aura Capital Pty Ltd (aucapital-mgmt.com)
+[Sequoia
   
-Australian Securities and Investments Commission - Australia](/i-scan/?id=55712)
+Autorité des marchés financiers - Quebec](/i-scan/?id=55823)
 
 [learn more](/i-scan/)
 
 [I-SCAN](/i-scan/)
 
-Investor Warning / 3 August 2026
+Investor Warning / 7 August 2026
 
-[Bedrock Monvex (wanderzonel.info)
+[BC Edufin Academy
   
-Australian Securities and Investments Commission - Australia](/i-scan/?id=55710)
+Financial Services and Markets Authority - Belgium](/i-scan/?id=55822)
 
 [learn more](/i-scan/)
 
 [I-SCAN](/i-scan/)
 
-Investor Warning / 31 July 2026
+Investor Warning / 7 August 2026
 
-[Sync-digital.co
+[Bixerydigital
   
-Financial Conduct Authority - United Kingdom](/i-scan/?id=55655)
+Financial Conduct Authority - United Kingdom](/i-scan/?id=55821)
 
 [learn more](/i-scan/)
 
 [I-SCAN](/i-scan/)
 
-Investor Warning / 31 July 2026
+Investor Warning / 7 August 2026
 
-[EURO PACIFIC SECURITIES, INC
-  
-British Virgin Islands Financial Services Commission - British Virgin Islands](/i-scan/?id=55650)
+[Autorité des marchés financiers - France](/i-scan/?id=55820)
 
 [learn more](/i-scan/)
 
 [I-SCAN](/i-scan/)
 
-Investor Warning / 3 August 2026
+Investor Warning / 7 August 2026
 
-[EWC IMPERIAL CAPITAL LTD.
+[Ceravindo (ceravindo.net)
   
-British Virgin Islands Financial Services Commission - British Virgin Islands](/i-scan/?id=55645)
+Australian Securities and Investments Commission - Australia](/i-scan/?id=55819)
 
 [learn more](/i-scan/)
 
@@ -386,17 +384,17 @@ News /
 
 Working@IOSCO
 
-[learn more](/v2/about/?subsection=working-at-iosco)
+[learn more](/about/?subsection=working-at-iosco)
 
-[live vacancies](/v2/about/?subsection=vacancies)
+[live vacancies](/about/?subsection=vacancies)
 
-[By Laws](/v2/about/?subsection=by-laws)  
-[Resolutions](/v2/about/?subsection=resolutions)  
-[Annual Reports](/v2/publications/?subsection=annual_reports)  
-[Careers](/v2/about/?subsection=working-at-iosco)  
-[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
-[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
-[Tendering](/v2/about/?subsection=tendering)  
+[By Laws](/about/?subsection=by-laws)  
+[Resolutions](/about/?subsection=resolutions)  
+[Annual Reports](/publications/?subsection=annual_reports)  
+[Careers](/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/about/?subsection=terms-and-conditions)  
+[Disclaimers](/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/about/?subsection=tendering)  
 [IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
 
 C/ Oquendo 12  
@@ -404,8 +402,8 @@ C/ Oquendo 12
 Spain  
 Tel: +34 91 417 5549
 
-[Contact Us](/v2/about/?subsection=contact)  
-[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+[Contact Us](/about/?subsection=contact)  
+[Sign Up for Media releases by email](/about/?subsection=sign_up_for_media_releases)  
 
 Join Us
 

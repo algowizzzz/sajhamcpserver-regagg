@@ -1,1 +1,0 @@
-Summary: Consultation comments received on draft application paper on 

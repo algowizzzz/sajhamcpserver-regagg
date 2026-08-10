@@ -1,1 +1,0 @@
-Summary: # B.C. billionaire Ryan Beedie buys into Vistara Capital, commits $125-million to new fund

@@ -1,1 +1,0 @@
-Summary: ![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS-logo_1280x512.svg)

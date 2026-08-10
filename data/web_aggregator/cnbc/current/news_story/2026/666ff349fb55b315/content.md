@@ -1,7 +1,0 @@
-# Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation
-
-Cook was part of a 9-3 majority that voted last week to keep the central bank's benchmark borrowing rate in a range between 3.5%-3.75%.
-
-[Read the full story at the source](https://www.cnbc.com/2026/08/05/fed-governor-cook-says-shes-prepared-to-act-on-rate-hike-to-address-inflation.html)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

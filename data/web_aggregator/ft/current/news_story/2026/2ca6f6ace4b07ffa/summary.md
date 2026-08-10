@@ -1,1 +1,0 @@
-Summary: # Gulf’s ‘Little Sparta’ takes on the oil world

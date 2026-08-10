@@ -1,1 +1,0 @@
-Summary: # Administrative monetary penalty on Canadian Imperial Bank of Commerce

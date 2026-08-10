@@ -1,1 +1,0 @@
-Summary: # Jury Convicts Man in Unlicensed Money Transmission Scheme

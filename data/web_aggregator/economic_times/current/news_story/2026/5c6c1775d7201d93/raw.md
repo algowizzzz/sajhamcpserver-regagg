@@ -1,7 +1,0 @@
-# SBI Q1 Results: Standalone profit rises 10% YoY to Rs 21,121 crore, beats estimates
-
-State Bank of India reported a ten percent year-on-year net profit growth.  Its net interest income also saw a fifteen percent rise during the quarter.  Total business crossed one hundred ten trillion rupees, with deposits exceeding sixty trillion.  Advances grew nineteen percent year-on-year, driven by broad-based loan segment expansion.  Margin improvements were noted, defying earlier analyst expectations of pressure.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-results-standalone-profit-rises-10-yoy-to-rs-21121-crore-beats-estimates/articleshow/133028121.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

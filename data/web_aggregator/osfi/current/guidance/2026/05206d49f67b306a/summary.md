@@ -1,1 +1,0 @@
-Summary: # Operational Risk Management and Resilience – Guideline

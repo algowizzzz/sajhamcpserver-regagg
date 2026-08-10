@@ -1,7 +1,0 @@
-# Shakira’s 20-Year-Old Song Debuts And Continues Her Massive 2026
-
-Shakira's "Hips Don't Lie" with Wyclef Jean earns the singer her seventh hit on the U.K.'s Official Streaming chart — and fourth win of the year.
-
-[Read the full story at the source](https://www.forbes.com/sites/hughmcintyre/2026/08/07/shakiras-20-year-old-song-debuts-and-continues-her-massive-2026/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

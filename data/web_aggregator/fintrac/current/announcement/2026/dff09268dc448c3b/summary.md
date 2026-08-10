@@ -1,1 +1,0 @@
-Summary: # Groupe de travail de lutte contre le financement des activités terroristes – Israël : Déclaration publique du groupe de travail d’URF

@@ -1,7 +1,0 @@
-# CVS profit outlook overshadows strong quarter, shares fall
-
-CVS Health reported better-than-expected second-quarter results on Wednesday, but its updated 2026 forecast and 2027 profit outlook appeared to underwhelm some investors, and its shares fell nearly 6 per cent.
-
-[Read the full story at the source](https://www.bnnbloomberg.ca/business/company-news/2026/08/05/cvs-raises-annual-profit-forecast-on-improved-drug-revenue/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

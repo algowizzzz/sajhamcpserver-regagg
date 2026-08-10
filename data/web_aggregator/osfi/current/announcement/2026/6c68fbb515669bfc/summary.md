@@ -1,1 +1,0 @@
-Summary: # Amending an order to insure in Canada risks to add or delete a class of insurance (foreign company)

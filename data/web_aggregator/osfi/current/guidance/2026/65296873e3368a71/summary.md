@@ -1,1 +1,0 @@
-Summary: # Derivatives Sound Practices – Letter (2015)

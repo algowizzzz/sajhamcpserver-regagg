@@ -1,1 +1,0 @@
-Summary: # Provisions pour pertes de credit attendues (E3)

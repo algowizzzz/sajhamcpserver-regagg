@@ -1,1 +1,0 @@
-Summary: # Why Palantir Technologies Stock Skyrocketed Higher Today

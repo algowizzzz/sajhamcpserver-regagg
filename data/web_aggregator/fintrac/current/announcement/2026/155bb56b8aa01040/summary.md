@@ -1,1 +1,0 @@
-Summary: # Entités de financement ou de bail : Exigences de CANAFE

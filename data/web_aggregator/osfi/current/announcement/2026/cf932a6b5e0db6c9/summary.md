@@ -1,1 +1,0 @@
-Summary: # 2021-2022 Rapport annuel au Parlement sur l’application de la Loi sur la protection des renseignements personnels

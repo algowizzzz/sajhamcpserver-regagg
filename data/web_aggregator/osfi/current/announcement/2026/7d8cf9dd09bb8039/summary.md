@@ -1,1 +1,0 @@
-Summary: # Solo Capital Return

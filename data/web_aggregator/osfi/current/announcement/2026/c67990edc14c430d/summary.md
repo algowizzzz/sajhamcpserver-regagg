@@ -1,1 +1,0 @@
-Summary: # Glossary of Terms Change Control Log

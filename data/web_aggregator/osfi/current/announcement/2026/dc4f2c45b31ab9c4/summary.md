@@ -1,1 +1,0 @@
-Summary: # Critères d’importance applicables à une ER ou à ses filiales relativement à la détention d’actions ou de titres de participation dans une er ou dans l’entité qui la contrôle

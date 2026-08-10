@@ -1,5 +1,0 @@
-# Disclosure of Information
-
-The Federal Deposit Insurance Corporation (FDIC) is inviting comment on a notice of proposed rulemaking that would update, clarify, and supplement the FDIC's regulations regarding the disclosure of confidential information by the FDIC and other parties, including by enhancing the ability of insured depository institutions to share confidential supervisory information with affiliates and certain other entities for appropriate business purposes, without seeking prior authorization from the FDIC. The proposal also would significantly simplify and clarify the requirements and restrictions applicable to the FDIC's discretionary disclosure of confidential information. Finally, the proposal would update and simplify the FDIC's rules regarding disclosures required under the Freedom of Information Act and would clarify how and when FDIC information may be disclosed in connection with legal proceedings and as a result of service of process made upon the FDIC and its directors, officers, and employees.
-
-> Full text pending: source page is bot-gated; this is the official API abstract.

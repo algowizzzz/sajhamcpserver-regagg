@@ -1,1 +1,0 @@
-Summary: # CANAFE signe un protocole d'entente avec la Society of Notaries Public of British Columbia

@@ -1,1 +1,0 @@
-Summary: # SARs Assist in Conviction of Pharmacist

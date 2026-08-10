@@ -1,1 +1,0 @@
-Summary: # Order Providing Exemptive Relief To Facilitate Listing of Cash-Settled Futures on Individual Equity Securities

@@ -1,1 +1,0 @@
-Summary: ![Night time view of the City of London](/sites/default/files/styles/blog_main_image_desktop/public/media/images/critical-third-parties-regime-blog.jpg.jpg?itok=cnzESETq)

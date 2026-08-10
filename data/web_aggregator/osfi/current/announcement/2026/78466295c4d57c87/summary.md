@@ -1,1 +1,0 @@
-Summary: # Redéfinition de notre approche de gestion du risque

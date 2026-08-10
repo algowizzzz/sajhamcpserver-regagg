@@ -6,7 +6,7 @@ status: "final"
 source_kind: "web"
 source_url: "https://www.bankofengland.co.uk/working-paper/2026/anchors-aweigh-the-effect-of-communicating-forecast-uncertainty"
 published: "2026-07-17"
-version: "1"
+version: "2"
 ---
 
 # Anchors aweigh? The effect of communicating forecast uncertainty
@@ -32,19 +32,19 @@ We examine how central banks can effectively communicate forecast uncertainty in
 
 [Publication // Working Paper
 
-17 July 2026
+24 July 2026
 
-### A flexible deviation from FIRE in the sequence...
+### The devil in the DeTail: assessing state-contingent...
 
-### A flexible deviation from FIRE in the sequence space](/working-paper/2026/a-flexible-deviation-from-fire-in-the-sequence-space)
+### The devil in the DeTail: assessing state-contingent tail effects of a releasable macroprudential capital...](/working-paper/2026/the-devil-in-the-detail-assessing-state-contingent-tail-effects)
 
 [Publication // Working Paper
 
 17 July 2026
 
-### Anchors aweigh? The effect of communicating...
+### A flexible deviation from FIRE in the sequence...
 
-### Anchors aweigh? The effect of communicating forecast uncertainty](/working-paper/2026/anchors-aweigh-the-effect-of-communicating-forecast-uncertainty)
+### A flexible deviation from FIRE in the sequence space](/working-paper/2026/a-flexible-deviation-from-fire-in-the-sequence-space)
 
 [Publication // Working Paper
 

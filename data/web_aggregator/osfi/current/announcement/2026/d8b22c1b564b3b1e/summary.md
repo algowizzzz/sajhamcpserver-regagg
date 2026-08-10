@@ -1,1 +1,0 @@
-Summary: # Foire aux questions (FAQ) de nature technique sur LCR

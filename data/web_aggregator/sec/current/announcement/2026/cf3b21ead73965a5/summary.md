@@ -1,1 +1,0 @@
-Summary: TH ANNUALTH ANNUAL

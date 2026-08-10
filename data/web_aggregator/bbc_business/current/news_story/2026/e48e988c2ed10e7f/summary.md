@@ -1,1 +1,0 @@
-Summary: # Zinc dresses and ice creams - how to survive a heatwave wedding

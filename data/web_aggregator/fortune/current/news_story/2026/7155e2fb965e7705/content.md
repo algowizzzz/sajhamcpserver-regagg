@@ -1,7 +1,0 @@
-# A billion SpaceX shares unlock Thursday. Wall Street isn’t worried: ‘You never bet against Elon’
-
-Four index providers rushed SpaceX into millions of 401(k)s within 25 days of listing. D.A. Davidson’s Gil Luria sees how Musk already knows how this will play out.
-
-[Read the full story at the source](https://fortune.com/2026/08/05/spacex-lockup-expiration-index-inclusion-bailout-luria/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,1 +1,0 @@
-Summary: Objectives and Principles 

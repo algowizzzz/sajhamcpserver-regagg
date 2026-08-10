@@ -1,1 +1,0 @@
-Summary: # Parental Stand-Alone (Solo) Capital Framework for Federally Regulated Life Insurers (2025)

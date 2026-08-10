@@ -1,1 +1,0 @@
-Summary: # IQM Quantum Computers Q2 Earnings Call Highlights

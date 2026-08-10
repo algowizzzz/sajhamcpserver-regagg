@@ -1,1 +1,0 @@
-Summary: # Czech billionaires play outsized role in European M&A market

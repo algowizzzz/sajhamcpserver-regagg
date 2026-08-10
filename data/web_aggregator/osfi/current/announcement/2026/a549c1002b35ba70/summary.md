@@ -1,1 +1,0 @@
-Summary: # Acquisition auprès d'une banque à participation multiple, d'une société de portefeuille d'assurances ou d'une filiale de cette dernière apparentée à une if, ou cession en sa faveur, d'éléments d'actif représentant plus de 5 p. 100 de l'actif de l'if

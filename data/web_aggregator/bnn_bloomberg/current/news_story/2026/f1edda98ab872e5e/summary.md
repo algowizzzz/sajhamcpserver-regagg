@@ -1,1 +1,0 @@
-Summary: # Northern Trust Pension Universe Data: Canadian Pension Plan Returns Rise in Q2

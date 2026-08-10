@@ -1,1 +1,0 @@
-Summary: # Etsy cuts 12% of workers as part of restructuring plan

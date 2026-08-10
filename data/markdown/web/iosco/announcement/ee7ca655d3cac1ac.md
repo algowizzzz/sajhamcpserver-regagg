@@ -5,7 +5,7 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.iosco.org/about/?subsection=becoming_a_member"
-version: "1"
+version: "2"
 ---
 
 ##### Modal title
@@ -22,10 +22,10 @@ Close
 
 ## IOSCO Membership
 
-* [Becoming a Member](/v2/about/?subsection=becoming_a_member)
-* [Ordinary Members](/v2/about/?subsection=membership&memid=1)
-* [Associate Members](/v2/about/?subsection=membership&memid=2)
-* [Affiliate Members](/v2/about/?subsection=membership&memid=3)
+* [Becoming a Member](/about/?subsection=becoming_a_member)
+* [Ordinary Members](/about/?subsection=membership&memid=1)
+* [Associate Members](/about/?subsection=membership&memid=2)
+* [Affiliate Members](/about/?subsection=membership&memid=3)
 
 # Becoming a Member
 
@@ -37,9 +37,9 @@ IOSCO has three categories of membership that reflect the different approaches t
 
 The three categories are:
 
-* [Ordinary](/v2/about/?subsection=membership&memid=1)
-* [Associate](/v2/about/?subsection=membership&memid=2)
-* [Affiliate](/v2/about/?subsection=membership&memid=3)
+* [Ordinary](/about/?subsection=membership&memid=1)
+* [Associate](/about/?subsection=membership&memid=2)
+* [Affiliate](/about/?subsection=membership&memid=3)
 
 ## Ordinary
 
@@ -107,13 +107,13 @@ A body will become a member if its application is accepted by the IOSCO Board.
 
 For more information and submission of membership applications, please email the IOSCO General Secretariat at [membership-applications@iosco.org](mailto:membership-applications@iosco.org).
 
-[By Laws](/v2/about/?subsection=by-laws)  
-[Resolutions](/v2/about/?subsection=resolutions)  
-[Annual Reports](/v2/publications/?subsection=annual_reports)  
-[Careers](/v2/about/?subsection=working-at-iosco)  
-[Copyright and Permissions](/v2/about/?subsection=terms-and-conditions)  
-[Disclaimers](/v2/about/?subsection=terms-and-conditions#disclaimers)  
-[Tendering](/v2/about/?subsection=tendering)  
+[By Laws](/about/?subsection=by-laws)  
+[Resolutions](/about/?subsection=resolutions)  
+[Annual Reports](/publications/?subsection=annual_reports)  
+[Careers](/about/?subsection=working-at-iosco)  
+[Copyright and Permissions](/about/?subsection=terms-and-conditions)  
+[Disclaimers](/about/?subsection=terms-and-conditions#disclaimers)  
+[Tendering](/about/?subsection=tendering)  
 [IOSCO Asia Pacific Hub](https://www.iosco.org.my/)
 
 C/ Oquendo 12  
@@ -121,8 +121,8 @@ C/ Oquendo 12
 Spain  
 Tel: +34 91 417 5549
 
-[Contact Us](/v2/about/?subsection=contact)  
-[Sign Up for Media releases by email](/v2/about/?subsection=sign_up_for_media_releases)  
+[Contact Us](/about/?subsection=contact)  
+[Sign Up for Media releases by email](/about/?subsection=sign_up_for_media_releases)  
 
 Join Us
 

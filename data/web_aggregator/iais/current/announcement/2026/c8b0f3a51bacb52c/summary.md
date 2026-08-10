@@ -1,1 +1,0 @@
-Summary: # Public consultation on ICS-related ComFrame standards

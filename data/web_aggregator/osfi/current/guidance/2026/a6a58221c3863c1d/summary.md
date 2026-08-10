@@ -1,1 +1,0 @@
-Summary: # Update on Basel III Implementation ahead of final rules release in January 2022

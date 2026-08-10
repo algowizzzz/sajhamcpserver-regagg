@@ -1,1 +1,0 @@
-Summary: # [ESMA publishes first market capitalisation data for EU Member States](/press-news/esma-news/esma-publishes-first-market-capitalisation-data-eu-member-states)

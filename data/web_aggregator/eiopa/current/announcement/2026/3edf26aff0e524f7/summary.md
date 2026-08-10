@@ -1,1 +1,0 @@
-Summary: Play carouselPause carousel

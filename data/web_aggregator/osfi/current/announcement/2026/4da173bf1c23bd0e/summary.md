@@ -1,1 +1,0 @@
-Summary: # Guide sur la prorogation d’une société coopérative de crédit locale en tant que coopérative de crédit fédérale

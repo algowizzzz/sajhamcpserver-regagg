@@ -1,1 +1,0 @@
-Summary: # Business Brief: Canada’s carbon capture compromise

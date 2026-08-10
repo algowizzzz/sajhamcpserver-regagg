@@ -1,1 +1,0 @@
-Summary: # Rupee gains 26 paise to close at 95.11 against the US dollar

@@ -5,7 +5,7 @@ doc_type: "guidance"
 status: "final"
 source_kind: "web"
 source_url: "https://www.dfs.ny.gov/industry_guidance/innovation"
-version: "1"
+version: "4"
 ---
 
 ![Innovation - Partnerships](/sites/default/files/styles/wide_lead/public/media/2020/06/dfs_next_partnerships_1280x512.jpg?h=b5f6a62e&itok=6HBAcDhK "Innovation - Partnerships")
@@ -128,7 +128,7 @@ I understand and agree that interaction with DFS, (whether in the form of meetin
 6. Does not in any way constitute, relate to, or involve any request for proposal, invitation for bid, solicitation, or vendor-selection process of any kind; and that
 7. Any information received by DFS, whether from me, from the Company, or from another individual or entity, may be subject to public disclosure, including but not limited to disclosure through a freedom of information law.
 
-If you would like to invite a DFS team member to attend, speak, or present at an upcoming event, email [[email protected]](/cdn-cgi/l/email-protection#fd949393928b9c89949293bd999b8ed39384d39a928b).
+If you would like to invite a DFS team member to attend, speak, or present at an upcoming event, email [[email protected]](/cdn-cgi/l/email-protection#94fdfafafbe2f5e0fdfbfad4f0f2e7bafaedbaf3fbe2).
 
 **NOTE:***The information you submit to DFS may be subject to public disclosure, such as through the Freedom of Information Law. Do not submit sensitive or confidential information. While submission of a form does not guarantee that a meeting with DFS will be scheduled, the information submitted will help us make this program as useful as possible.*
 

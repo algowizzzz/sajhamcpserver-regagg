@@ -1,1 +1,0 @@
-Summary: # Pope Leo XIV Was Elected. The Chicago White Sox Were Resurrected.

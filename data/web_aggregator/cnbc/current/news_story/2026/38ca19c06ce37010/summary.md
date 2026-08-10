@@ -1,1 +1,0 @@
-Summary: # Tourism price wars threaten to dim a rare bright spot in China's consumer spending

@@ -1,1 +1,0 @@
-Summary: # Joint Industry Plan; Notice of Filing and Immediate Effectiveness of Amendment to the Plan Establishing Procedures Under Rule 605 of Regulation NMS To Add Texas Stock Exchange LLC as a Participant

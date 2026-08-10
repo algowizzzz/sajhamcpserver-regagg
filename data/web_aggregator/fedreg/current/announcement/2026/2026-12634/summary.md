@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; The Nasdaq Stock Market LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Make Technical Corrections To Its Rulebook at Equity 4

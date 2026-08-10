@@ -1,1 +1,0 @@
-Summary: # Draft Liquidity Adequacy Requirements Guideline (2026) and Discussion Paper on Pillar 2 Liquidity and Funding Risks – Letter

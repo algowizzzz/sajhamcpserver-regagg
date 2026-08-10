@@ -1,1 +1,0 @@
-Summary: # Average asking rents fall 4% in July as market 'stabilizing, but not yet recovering'

@@ -1,1 +1,0 @@
-Summary: # SBI Q1 profit beats estimates on strong loan growth, asset quality

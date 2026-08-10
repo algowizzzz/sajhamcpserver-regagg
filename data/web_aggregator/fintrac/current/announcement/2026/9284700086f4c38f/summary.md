@@ -1,1 +1,0 @@
-Summary: # Registre des entreprises de services monétaires

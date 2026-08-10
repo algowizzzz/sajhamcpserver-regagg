@@ -1,1 +1,0 @@
-Summary: # Administrative monetary penalty on Immeubles Jack Sera, Inc.

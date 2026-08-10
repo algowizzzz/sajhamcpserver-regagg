@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; LCH SA; Notice of Filing of Proposed Rule Change Relating to the LCH SA Liquidity Plan

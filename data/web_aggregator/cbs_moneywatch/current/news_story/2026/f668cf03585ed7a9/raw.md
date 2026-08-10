@@ -1,7 +1,0 @@
-# Meta fined $567 million over child safety issues
-
-Meta, the tech giant that operates Facebook, Instagram, WhatsApp and other platforms, faces another financial penalty for allegedly failing to keep kids safe. A New Mexico judge has ordered Meta to pay $567 million for its failure to warn the public about the dangers its products pose to children.
-
-[Read the full story at the source](https://www.cbsnews.com/video/meta-fined-567-million-over-child-safety-issues/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

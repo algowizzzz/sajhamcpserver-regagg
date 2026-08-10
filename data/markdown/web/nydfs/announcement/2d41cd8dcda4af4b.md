@@ -5,7 +5,8 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20260716"
-version: "1"
+published: "2026-07-16"
+version: "3"
 ---
 
 ![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS-logo_1280x512.svg)
@@ -42,4 +43,4 @@ Contact us by phone:
 
 Contact us by email:
 
-[[email protected]](/cdn-cgi/l/email-protection#8dfdf8efe1e4eea0ecebebece4fffecde9ebfea3e3f4a3eae2fb)
+[[email protected]](/cdn-cgi/l/email-protection#82f2f7e0eeebe1afe3e4e4e3ebf0f1c2e6e4f1acecfbace5edf4)

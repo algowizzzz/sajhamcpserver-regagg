@@ -1,1 +1,0 @@
-Summary: # Block slashed 40% of its workforce for AI — and its earnings suggest that’s paying off

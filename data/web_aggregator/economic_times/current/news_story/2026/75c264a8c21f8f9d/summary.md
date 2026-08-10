@@ -1,1 +1,0 @@
-Summary: # Global Market: Singapore's OCBC, UOB Q2 profits rise as wealth business cushions impact of lower interest rates

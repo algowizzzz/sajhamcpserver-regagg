@@ -1,1 +1,0 @@
-Summary: # Change of name – letters patent

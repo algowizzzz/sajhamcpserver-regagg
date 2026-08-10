@@ -1,1 +1,0 @@
-Summary: Today, EIOPA published a [supervisory statement](/document/download/1cbe85de-4731-4e51-9915-51f95defb05e_en?filename=eiopa-bos-17-097_orsa_supervisory_statement_0.pdf) outlining the first supervisory experiences on how European (re)insurance companies have implemented the ORSA pr

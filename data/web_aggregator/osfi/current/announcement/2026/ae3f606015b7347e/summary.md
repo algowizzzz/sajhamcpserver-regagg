@@ -1,1 +1,0 @@
-Summary: # Relevé 2L pour la déclaration des actifs par contrepartie

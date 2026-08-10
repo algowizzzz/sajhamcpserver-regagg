@@ -1,1 +1,0 @@
-Summary: # Rapport financier trimestriel pour le trimestre ayant pris fin le 30 juin 2024 (non audité)

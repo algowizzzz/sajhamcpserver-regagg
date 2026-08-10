@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Green Impact Exchange, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Rule 11.240 (Trade Reporting and Dissemination of Quotations) To Conform With Amendments to Rules 600 and 603 of Regulation NMS Approved by

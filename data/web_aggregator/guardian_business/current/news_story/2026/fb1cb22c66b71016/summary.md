@@ -1,1 +1,0 @@
-Summary: # Exclusive: Major Republican fundraiser winning contracts from Trump administration, emails reveal

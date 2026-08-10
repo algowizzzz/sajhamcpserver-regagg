@@ -1,1 +1,0 @@
-Summary: # Exigences relatives aux succursales étrangères, aux filiales étrangères et aux entités du même groupe

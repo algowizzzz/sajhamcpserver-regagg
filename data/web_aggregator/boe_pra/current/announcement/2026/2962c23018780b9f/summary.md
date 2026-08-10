@@ -1,1 +1,0 @@
-Summary: # Minutes of the Market Participants Group meeting – 7 May 2026

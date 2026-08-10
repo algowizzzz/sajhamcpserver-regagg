@@ -1,1 +1,0 @@
-Summary: # OSFI response to draft guideline B-10 consultation feedback – Third-party Risk Management

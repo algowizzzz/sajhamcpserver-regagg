@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend a Continued Listing Standard Relating to Beneficial Holders Applicable to ETF Shares Listed on the Exchange Under Rule 17.104(b)(2)(B)

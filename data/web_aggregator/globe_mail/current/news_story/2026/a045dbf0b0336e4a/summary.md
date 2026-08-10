@@ -1,1 +1,0 @@
-Summary: # Guard against thoughtload, the silent tax on your performance

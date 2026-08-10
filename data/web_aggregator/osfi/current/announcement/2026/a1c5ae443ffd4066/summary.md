@@ -1,1 +1,0 @@
-Summary: # Guide de démutualisation d’une société mutuelle d’assurances multirisques comptant des souscripteurs de polices non mutuelles

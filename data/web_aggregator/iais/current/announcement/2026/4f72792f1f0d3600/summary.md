@@ -1,1 +1,0 @@
-Summary: # Public Consultation on ICP 14 (Valuation) and ICP 17 (Capital Adequacy)

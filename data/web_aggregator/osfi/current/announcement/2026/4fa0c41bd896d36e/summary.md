@@ -1,1 +1,0 @@
-Summary: # Priorité 6 : Résilience opérationnelle

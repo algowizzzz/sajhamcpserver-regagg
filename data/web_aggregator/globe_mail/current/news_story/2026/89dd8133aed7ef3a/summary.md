@@ -1,1 +1,0 @@
-Summary: # The Birkin index: Should this pricey handbag be part of your portfolio?

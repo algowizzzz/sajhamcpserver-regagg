@@ -1,1 +1,0 @@
-Summary: # PRA fines HDI Global SE £4,165,000 for inaccurate reporting of FSCS Liabilities and FSCS Fee Tariff data

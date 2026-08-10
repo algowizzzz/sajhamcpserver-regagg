@@ -1,1 +1,0 @@
-Summary: # Éléments d’actif et de passif répartis par pays et comptabilisés à l’extérieur du Canada (GR)

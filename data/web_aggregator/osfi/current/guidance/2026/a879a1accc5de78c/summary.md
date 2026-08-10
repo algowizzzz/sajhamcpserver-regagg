@@ -1,1 +1,0 @@
-Summary: # OSFI’s Intelligence-led Cyber Resilience Testing (I-CRT) Framework

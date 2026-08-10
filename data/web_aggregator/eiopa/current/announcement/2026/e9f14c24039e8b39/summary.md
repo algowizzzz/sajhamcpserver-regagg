@@ -1,1 +1,0 @@
-Summary: The European Insurance and Occupational Pensions Authority (EIOPA) today issued a call for candidates to join an Expert Panel on the Pan-European Personal Pension Product (PEPP) Regulation.

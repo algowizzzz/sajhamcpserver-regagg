@@ -1,1 +1,0 @@
-Summary: # No case for early closure or extension of swap window: RBI

@@ -1,1 +1,0 @@
-Summary: # Pénalité administrative pécuniaire imposée à Canaccord Genuity Corp.

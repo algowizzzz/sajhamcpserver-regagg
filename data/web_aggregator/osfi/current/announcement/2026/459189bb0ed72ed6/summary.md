@@ -1,1 +1,0 @@
-Summary: # Minimum qualifying rate for uninsured mortgages

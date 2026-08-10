@@ -1,1 +1,0 @@
-Summary: # Capital Southwest Q1 Earnings Call Highlights

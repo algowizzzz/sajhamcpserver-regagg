@@ -1,0 +1,10 @@
+---
+title: "CSA Notice of Amendments - Modernization of Investment Fund Product Regulation - Alternative Mutual Funds | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/8/81-102-81-102cp/csa-notice-amendments-modernization-investment-fund-product-regulation-alternative-mutual"
+version: "1"
+---
+

@@ -1,1 +1,0 @@
-Summary: # Circle CVI Advances Cardiovascular Imaging Innovation with cvi42 v6.5

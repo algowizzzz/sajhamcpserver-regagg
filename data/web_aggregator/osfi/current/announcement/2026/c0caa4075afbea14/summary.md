@@ -1,1 +1,0 @@
-Summary: # Relevé afférent à la capacité totale d’absorption des pertes par établissement

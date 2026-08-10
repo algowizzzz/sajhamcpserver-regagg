@@ -1,1 +1,0 @@
-Summary: # Rectification of non-compliance regarding appointment of board of directors

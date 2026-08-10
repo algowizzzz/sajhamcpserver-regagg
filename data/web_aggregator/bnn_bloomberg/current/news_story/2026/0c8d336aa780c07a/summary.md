@@ -1,1 +1,0 @@
-Summary: # Yellow Card Secures $40 Million in Strategic Equity Funding to Further Global Expansion

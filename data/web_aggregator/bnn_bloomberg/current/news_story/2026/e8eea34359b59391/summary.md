@@ -1,1 +1,0 @@
-Summary: # Port Day showcases Vancouver's maritime industry at Canada Place

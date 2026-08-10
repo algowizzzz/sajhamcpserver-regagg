@@ -1,1 +1,0 @@
-Summary: # Partie XII: Acquisition du contrôle d’une institution financière provinciale ou d’un autre intermédiaire financier

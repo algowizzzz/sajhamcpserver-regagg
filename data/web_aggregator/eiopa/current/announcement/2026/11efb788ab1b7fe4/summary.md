@@ -1,1 +1,0 @@
-Summary: EIOPA publishes today the [discussion paper on IBOR transitions](https://www.eiopa.europa.eu/content/discussion-paper-ibor-transitions_en). Following the EU Benchmark Regulation (EU BMR), this Discussion Paper addresses for the first time the subject of the ongoing changes to the

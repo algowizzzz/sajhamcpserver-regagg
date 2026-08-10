@@ -1,1 +1,0 @@
-Summary: [Opening remarks](/document/download/00818db4-ea55-4920-8c87-bdf46fb335cf_en?filename=2017-05-05_conferencia_anual_os_seguros_em_portugal.pdf) by Gabriel Bernardino, Chairman of EIOPA at the Conferencia Annual os Seguros em Portugal in Lisbon

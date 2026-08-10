@@ -1,1 +1,0 @@
-Summary: # FinCEN Form 105 – Currency and Other Monetary Instruments Report

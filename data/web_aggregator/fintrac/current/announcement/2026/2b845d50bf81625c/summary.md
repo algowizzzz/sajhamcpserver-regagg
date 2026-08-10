@@ -1,1 +1,0 @@
-Summary: # Questions et réponses sur les pénalités administratives pécunaires

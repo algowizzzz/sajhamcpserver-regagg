@@ -1,7 +1,0 @@
-# Why AT&T, Verizon and T-Mobile shares are down after SpaceX’s earnings
-
-SpaceX thinks it will be able to build wireless capabilities without massive network investments.
-
-[Read the full story at the source](https://www.marketwatch.com/story/why-at-t-verizon-and-t-mobile-shares-are-down-after-spacexs-earnings-033a07ce?mod=mw_rss_topstories)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

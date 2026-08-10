@@ -1,1 +1,0 @@
-Summary: # Exemption from restriction on being a partner in a partnership

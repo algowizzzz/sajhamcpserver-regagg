@@ -1,1 +1,0 @@
-Summary: Draft Application Paper on supervising 

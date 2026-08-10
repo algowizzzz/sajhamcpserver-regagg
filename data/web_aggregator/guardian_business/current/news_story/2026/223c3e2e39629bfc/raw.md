@@ -1,7 +1,0 @@
-# Rail passengers face second day of disruption across north-west England
-
-Problems after power failure at regional signalling centre likely to continue until noon on Friday Business live – latest updates Rail passengers are facing a second day of travel disruption across parts of north-west England, after a power cut hit the signalling centre controlling the region . The power failure, which occurred shortly before 2pm on Thursday, temporarily halted trains and caused widespread cancellations and delays to services including CrossCountry and London Northwestern Railway. Continue reading...
-
-[Read the full story at the source](https://www.theguardian.com/uk-news/2026/aug/07/rail-passengers-trains-power-failure-second-day-disruption-north-west-england)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

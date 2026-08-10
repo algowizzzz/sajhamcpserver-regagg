@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; MIAX PEARL, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Adopt Rules 2627 And 2628 To Integrate Several Definitions and Concepts From the Amended CTA/CQ Plan, Reorganize Rule 2622, and Make Conforming Changes to R

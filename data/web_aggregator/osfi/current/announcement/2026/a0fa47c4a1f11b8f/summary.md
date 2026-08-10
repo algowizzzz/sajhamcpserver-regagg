@@ -1,1 +1,0 @@
-Summary: # Données de crédit selon l'approche NI du portefeuille de la clientèle de gros – Partie 1 (BB)

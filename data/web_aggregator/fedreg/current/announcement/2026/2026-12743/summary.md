@@ -1,1 +1,0 @@
-Summary: # Joint Request for Comment on Further Definition of “Swap” and “Security-Based Swap” and on Alternative Compliance

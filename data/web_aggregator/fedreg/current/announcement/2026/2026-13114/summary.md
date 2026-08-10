@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Texas Stock Exchange LLC; Order Declaring Effective a Minor Rule Violation Plan

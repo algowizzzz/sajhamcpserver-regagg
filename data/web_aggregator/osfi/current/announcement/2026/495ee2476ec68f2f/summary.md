@@ -1,1 +1,0 @@
-Summary: # OSFI's role in housing finance

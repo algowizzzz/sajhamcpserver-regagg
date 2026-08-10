@@ -1,1 +1,0 @@
-Summary: # OSFI sets the Domestic Stability Buffer level to 2.50% effective October 31, 2021

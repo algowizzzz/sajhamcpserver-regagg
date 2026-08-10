@@ -1,1 +1,0 @@
-Summary: # Financial Professional Gateway (FinPro Gateway)

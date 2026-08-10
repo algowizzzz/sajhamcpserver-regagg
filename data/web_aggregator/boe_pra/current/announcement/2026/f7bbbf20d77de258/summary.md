@@ -1,1 +1,0 @@
-Summary: # Banknote imagery advisory group minutes – 15 December 2025

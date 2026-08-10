@@ -1,1 +1,0 @@
-Summary: For more information or to subscribe or unsubscribe to the newsletter and e-mail alerts, please visit www.iaisweb.org.  

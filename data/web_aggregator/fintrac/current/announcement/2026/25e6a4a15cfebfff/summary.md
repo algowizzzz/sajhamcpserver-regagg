@@ -1,1 +1,0 @@
-Summary: # Véhicules blindés : Exigences de CANAFE

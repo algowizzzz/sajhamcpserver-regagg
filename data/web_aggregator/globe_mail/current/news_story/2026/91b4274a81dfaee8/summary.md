@@ -1,1 +1,0 @@
-Summary: # The world is cooling on carbon capture. Why is Canada still barreling ahead in the oil sands?

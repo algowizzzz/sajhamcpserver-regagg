@@ -1,1 +1,0 @@
-Summary: # FINTRAC assessment manual: The approach and methods used during examinations

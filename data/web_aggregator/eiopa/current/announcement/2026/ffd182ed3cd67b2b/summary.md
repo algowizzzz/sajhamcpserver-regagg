@@ -1,1 +1,0 @@
-Summary: The European Insurance and Occupational Pensions Authority (EIOPA) published today the report on "Cyber Risk for Insurers – Challenges and Opportunities".

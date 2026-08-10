@@ -6,7 +6,7 @@ status: "final"
 source_kind: "web"
 source_url: "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-notice-2026-07"
 published: "2026-07-08"
-version: "1"
+version: "2"
 ---
 
 # Statistical Notice 2026/07 - Bank of England Levy: Notification Document Levy Year 2026/27
@@ -30,6 +30,30 @@ Any questions on the above should be sent to [BoELevy@bankofengland.co.uk](mailt
 
 ## Other news
 
+[News // Green notice
+
+06 August 2026
+
+### Green notice 2026/02
+
+### Green notice 2026/02](/statistics/notice/2026/green-notice-2026-02)
+
+[News // AI Consortium minutes
+
+05 August 2026
+
+### Artificial Intelligence Consortium minutes...
+
+### Artificial Intelligence Consortium minutes – June 2026](/minutes/2026/june/ai-consortium-minutes-3-june-2026)
+
+[News // News release
+
+03 August 2026
+
+### Appointment of Chair and Deputy Chair of...
+
+### Appointment of Chair and Deputy Chair of the Enforcement Decision Making Committee (EDMC)](/news/2026/august/appointment-of-chair-and-deputy-chair-of-the-edmc)
+
 [News
 
 30 July 2026
@@ -37,30 +61,6 @@ Any questions on the above should be sent to [BoELevy@bankofengland.co.uk](mailt
 ### Minutes of the Meeting of the Court of Directors...
 
 ### Minutes of the Meeting of the Court of Directors held on 4 June 2026](/minutes/2026/july/court-minutes-4-june-2026)
-
-[News // Monetary Policy Committee (MPC)
-
-30 July 2026
-
-### Bank Rate maintained at 3.75% - July 2026...
-
-### Bank Rate maintained at 3.75% - July 2026 Monetary Policy Summary and Minutes](/monetary-policy-summary-and-minutes/2026/july-2026)
-
-[News // Letter
-
-23 July 2026
-
-### Letter from the Governor to the Daily Mail
-
-### Letter from the Governor to the Daily Mail](/letter/2026/letter-from-the-governor-to-the-daily-mail)
-
-[News // News release
-
-22 July 2026
-
-### PRA consults on updated guidance for friendly...
-
-### PRA consults on updated guidance for friendly society amalgamations and transfers](/news/2026/july/pra-consults-on-updated-guidance-for-friendly-society-amalgamations-and-transfers)
 
 [View more Other news](/news?NewsTypes=09f8960ebc384e3589da5349744916ae&SearchTerm=&InfiniteScrolling=False&Direction=Latest)
 

@@ -1,1 +1,0 @@
-Summary: On 30 July 2026, Lucy Beck attended Southwark Crown Court for a hearing in relation to unauthorised promotions on social media.

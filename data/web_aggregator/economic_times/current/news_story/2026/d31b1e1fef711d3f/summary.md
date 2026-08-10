@@ -1,1 +1,0 @@
-Summary: # Ahead of Market: 10 things that will decide stock market action on Thursday

@@ -1,1 +1,0 @@
-Summary: # Administrative monetary penalty imposed on 857132 Ontario Limited

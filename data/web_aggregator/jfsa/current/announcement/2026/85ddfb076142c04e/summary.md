@@ -1,1 +1,0 @@
-Summary: Financial Services Agency All Rights Reserved金融庁FSA

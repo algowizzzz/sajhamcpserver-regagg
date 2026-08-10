@@ -5,7 +5,7 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision"
-version: "1"
+version: "2"
 ---
 
 # [EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector](/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision)
@@ -48,6 +48,12 @@ Download Selected Files
 
 More on the same topic
 
+[EBA, EIOPA and ESMA propose amendments to bilateral margin requirements](/press-news/esma-news/eba-eiopa-and-esma-propose-amendments-bilateral-margin-requirements)
+
+03/08/2026
+
+The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published a
+
 [New Q&As available](/press-news/esma-news/new-qas-available-July-2026)
 
 10/07/2026
@@ -65,11 +71,5 @@ The European Securities and Markets Authority (ESMA), the EU regulator and super
 07/07/2026
 
 The European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) welcome and support
-
-[ESAs publish the first report on DORA major ICT-related incidents](/press-news/esma-news/esas-publish-first-report-dora-major-ict-related-incidents)
-
-03/06/2026
-
-The European Supervisory Authorities (EBA, EIOPA and ESMA) today published their
 
 [More](/press-news/esma-news?tid%5B0%5D=37&tid%5B1%5D=8)

@@ -1,1 +1,0 @@
-Summary: # Final IFRS 17 Memoranda to The Appointed Actuary for FRIs

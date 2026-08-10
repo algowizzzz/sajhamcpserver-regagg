@@ -1,1 +1,0 @@
-Summary: # PRA sets out adjustments to its market risk internal model approach under Basel 3.1

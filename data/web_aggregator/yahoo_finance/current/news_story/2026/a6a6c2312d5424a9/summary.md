@@ -1,1 +1,0 @@
-Summary: # Markets see 'all hat, no cattle' in Fed's inflation credibility: Chart of the Day

@@ -5,7 +5,8 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20250509_2"
-version: "1"
+published: "2025-05-09"
+version: "3"
 ---
 
 ![Payment method](/sites/default/files/styles/wide_lead/public/media/2025/08/payment-online.jpg?h=b5f6a62e&itok=Alufh47U "payment with phone")
@@ -65,4 +66,4 @@ Contact us by phone:
 
 Contact us by email:
 
-[[email protected]](/cdn-cgi/l/email-protection#fa8a8f98969399d79b9c9c9b938889ba9e9c89d49483d49d958c)
+[[email protected]](/cdn-cgi/l/email-protection#8afaffe8e6e3e9a7ebececebe3f8f9caeeecf9a4e4f3a4ede5fc)

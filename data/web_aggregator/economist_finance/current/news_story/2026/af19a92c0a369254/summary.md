@@ -1,1 +1,0 @@
-Summary: # Investors in Situational Awareness deserved to lose their shirts

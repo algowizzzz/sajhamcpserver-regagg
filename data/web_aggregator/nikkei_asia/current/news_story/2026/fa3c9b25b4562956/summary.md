@@ -1,1 +1,0 @@
-Summary: # Japan seeks new ways to win top posts at international organizations

@@ -1,1 +1,0 @@
-Summary: # Blanche Confirmation Gets Key Vote For Approval

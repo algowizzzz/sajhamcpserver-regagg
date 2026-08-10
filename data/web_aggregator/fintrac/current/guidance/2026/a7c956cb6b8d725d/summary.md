@@ -1,1 +1,0 @@
-Summary: # À quel moment vérifier l’identité des personnes et des entités — Entités de financement ou de bail : Directive de conformité de CANAFE

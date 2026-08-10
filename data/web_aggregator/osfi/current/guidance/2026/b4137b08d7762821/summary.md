@@ -1,1 +1,0 @@
-Summary: # OSFI’s response to Guideline B-20 initial consultation feedback on debt serviceability measures

@@ -1,1 +1,0 @@
-Summary: # WSJ Dollar Index Falls 0.16% to 96.01

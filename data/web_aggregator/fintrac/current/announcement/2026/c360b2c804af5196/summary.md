@@ -1,1 +1,0 @@
-Summary: # Directive de CANAFE en réponse à la directive ministérielle sur la République populaire démocratique de Corée publiée le 9 décembre 2017

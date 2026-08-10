@@ -1,1 +1,0 @@
-Summary: # Gold alone isn't enough for your daughter’s Streedhan. Wealth manager Aarti Gupta explains why

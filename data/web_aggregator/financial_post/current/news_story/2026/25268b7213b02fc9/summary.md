@@ -1,1 +1,0 @@
-Summary: # Samsung Officially Launches Galaxy Z Fold8 Ultra, Fold8, Flip8, Watch Ultra2 and Watch9

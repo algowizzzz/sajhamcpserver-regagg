@@ -1,1 +1,0 @@
-Summary: # Global industrial production sentiment splits as Canada, India and South Korea strengthen while UK, Germany and China weaken, Permutable data shows

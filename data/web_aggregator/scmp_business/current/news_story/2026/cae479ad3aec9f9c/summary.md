@@ -1,1 +1,0 @@
-Summary: # Europe’s new EV power struggle sees Chinese giants seize record market share

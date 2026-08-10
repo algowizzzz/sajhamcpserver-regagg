@@ -1,1 +1,0 @@
-Summary: # Mise à jour pour les entités déclarantes sur les attentes à compter du 1er décembre 2021

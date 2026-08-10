@@ -1,1 +1,0 @@
-Summary: # Why This Niche Energy Stock Delivered A Major Price Surge Post Earnings

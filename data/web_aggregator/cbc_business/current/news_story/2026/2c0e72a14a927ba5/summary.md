@@ -1,1 +1,0 @@
-Summary: # WestJet cabin crew union reveals details of tentative deal following strike

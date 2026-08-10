@@ -1,1 +1,0 @@
-Summary: # My Chemical Romance Returns To No. 1 With A 15-Year-Old Album

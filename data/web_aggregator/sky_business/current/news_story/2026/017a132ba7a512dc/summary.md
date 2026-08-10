@@ -1,1 +1,0 @@
-Summary: # Japanese owner weighs options for British fashion brand Joseph

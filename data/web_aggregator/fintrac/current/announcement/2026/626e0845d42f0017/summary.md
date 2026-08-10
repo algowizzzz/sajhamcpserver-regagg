@@ -1,1 +1,0 @@
-Summary: # Administrative monetary penalty imposed on The Centre Pacific Project Marketing Corp.

@@ -1,1 +1,0 @@
-Summary: # Établissement d’une succursale par une société d’assurances étrangère (Ordonnance autorisant la garantie au Canada de risques)

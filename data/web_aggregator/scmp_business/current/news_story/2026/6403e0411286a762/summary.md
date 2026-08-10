@@ -1,1 +1,0 @@
-Summary: # Peninsula group to renovate Hong Kong flagship, Tokyo hotel in US$268m project

@@ -1,1 +1,0 @@
-Summary: # The economic toll of Spain's wildfires

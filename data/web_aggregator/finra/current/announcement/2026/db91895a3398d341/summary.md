@@ -1,1 +1,0 @@
-Summary: # Small Firm Cybersecurity Checklist

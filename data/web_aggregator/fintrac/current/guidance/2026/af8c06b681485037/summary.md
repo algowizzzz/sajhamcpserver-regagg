@@ -1,1 +1,0 @@
-Summary: # When to verify the identity of persons and entities—Dealers in precious metals and precious stones

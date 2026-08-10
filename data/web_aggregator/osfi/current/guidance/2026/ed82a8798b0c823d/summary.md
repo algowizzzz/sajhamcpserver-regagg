@@ -1,1 +1,0 @@
-Summary: # Assurance on Capital, Leverage and Liquidity Returns - Guideline (2022)

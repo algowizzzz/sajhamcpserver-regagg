@@ -1,1 +1,0 @@
-Summary: # Godrej Consumer shares slide 4% after Q1 margin falls amid commodity inflation; Rs 5/share dividend declared

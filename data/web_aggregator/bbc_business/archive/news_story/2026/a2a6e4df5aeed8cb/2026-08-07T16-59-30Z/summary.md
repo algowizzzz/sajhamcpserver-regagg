@@ -1,1 +1,0 @@
-Summary: # Shorts, strappy tops and sandals: Can my boss tell me what to wear in summer?

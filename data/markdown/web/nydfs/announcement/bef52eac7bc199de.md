@@ -5,7 +5,8 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.dfs.ny.gov/language_assistance"
-version: "1"
+published: "2022-07-01"
+version: "3"
 ---
 
 ![People at a call center answering calls](/sites/default/files/styles/wide_lead/public/media/2019/02/istock-1027945616_contactus2_cropped.jpg?h=b62dba9f&itok=4m6CyGaW "Contact Us")
@@ -68,7 +69,7 @@ Continue
 
 Call (800) 342-3736 for free help in your language.
 
-If you need a document translated into your language, send an email to [[email protected]](/cdn-cgi/l/email-protection#afccc0c1dcdac2cadddcefcbc9dc81c1d681c8c0d9)
+If you need a document translated into your language, send an email to [[email protected]](/cdn-cgi/l/email-protection#d2b1bdbca1a7bfb7a0a192b6b4a1fcbcabfcb5bda4)
 
 Learn more about how to contact DFS on our [Contact Us](https://www.dfs.ny.gov/contact_us/main) page.
 

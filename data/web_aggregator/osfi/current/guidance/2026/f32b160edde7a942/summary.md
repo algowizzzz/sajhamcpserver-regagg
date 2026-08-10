@@ -1,1 +1,0 @@
-Summary: # Interest Rate Risk Management – Guideline (2027)

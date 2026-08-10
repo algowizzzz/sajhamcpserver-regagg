@@ -1,1 +1,0 @@
-Summary: # Plan sur l'accessibilité de CANAFE – Rapport d'étape 2024 : Accessibilité

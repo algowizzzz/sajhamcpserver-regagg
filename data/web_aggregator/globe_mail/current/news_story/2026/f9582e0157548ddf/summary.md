@@ -1,1 +1,0 @@
-Summary: # Engineering giant WSP reports revenue growth, defying investor angst around AI

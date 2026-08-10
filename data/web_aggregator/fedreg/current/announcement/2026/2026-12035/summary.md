@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To amend Rule 7.35-E

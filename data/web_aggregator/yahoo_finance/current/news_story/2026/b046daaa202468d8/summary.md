@@ -1,1 +1,0 @@
-Summary: # Is Intercontinental Exchange (ICE) a Buying Opportunity After Its 22% Drop?

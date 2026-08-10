@@ -1,1 +1,0 @@
-Summary: # Terms and conditions

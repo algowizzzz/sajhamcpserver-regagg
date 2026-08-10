@@ -1,1 +1,0 @@
-Summary: # Opinion | Defending the Senate’s Clarity Act for Crypto

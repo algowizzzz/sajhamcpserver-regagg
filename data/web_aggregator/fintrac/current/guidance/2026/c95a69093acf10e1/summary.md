@@ -1,1 +1,0 @@
-Summary: # Indicateurs de blanchiment d'argent et de financement du terrorisme - Secteur de l'immobilier

@@ -1,0 +1,11 @@
+---
+title: "Amendment (Related to National Instrument 81-106 effective June 1, 2005) | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+reference: "81-106"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/8/81-102-81-102cp/amendment-related-national-instrument-81-106-effective-june-1-2005"
+version: "1"
+---
+

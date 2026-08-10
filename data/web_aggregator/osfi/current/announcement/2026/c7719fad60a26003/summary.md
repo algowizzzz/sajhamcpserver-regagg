@@ -1,1 +1,0 @@
-Summary: # Guide sur le formulaire BSIF-525

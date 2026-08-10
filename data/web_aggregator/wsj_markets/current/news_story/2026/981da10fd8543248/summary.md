@@ -1,1 +1,0 @@
-Summary: # The Simple Mental Tricks That Make Us Better With Money

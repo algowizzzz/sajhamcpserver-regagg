@@ -1,1 +1,0 @@
-Summary: # Capital Adequacy Requirements (CAR) (2027) – Chapter 5 – Credit Risk – Internal Ratings-Based Approach

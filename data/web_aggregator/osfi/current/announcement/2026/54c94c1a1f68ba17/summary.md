@@ -1,1 +1,0 @@
-Summary: # IRB Credit Data Wholesale Portfolio Part-1 (BB)

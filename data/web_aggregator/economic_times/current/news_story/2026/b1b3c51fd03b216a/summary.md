@@ -1,1 +1,0 @@
-Summary: # Titan Q1 Results: Profit soars 63% YoY to Rs 1,777 crore, total income surges 40%

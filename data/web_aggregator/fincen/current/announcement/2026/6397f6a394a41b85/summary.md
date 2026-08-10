@@ -1,1 +1,0 @@
-Summary: # Administrative Ruling on Whether a Company that Offers a Payment Mechanism Based on Payable-Through Drafts to its Commercial Customers is a Money Transmitter

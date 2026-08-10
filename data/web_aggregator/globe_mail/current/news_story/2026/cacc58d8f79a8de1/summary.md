@@ -1,1 +1,0 @@
-Summary: # Mattel misses second-quarter profit estimates amid slowdown in toy sales

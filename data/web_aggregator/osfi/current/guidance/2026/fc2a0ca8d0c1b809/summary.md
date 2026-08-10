@@ -1,1 +1,0 @@
-Summary: # Property and Casualty Large Insurance Exposures and Investment Concentration

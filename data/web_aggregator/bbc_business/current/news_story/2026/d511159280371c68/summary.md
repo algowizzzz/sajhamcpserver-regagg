@@ -1,1 +1,0 @@
-Summary: # Paramount chief executive David Ellison breaks silence on Warner Bros mega merger

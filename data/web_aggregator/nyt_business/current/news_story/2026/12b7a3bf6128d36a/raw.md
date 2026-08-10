@@ -1,7 +1,0 @@
-# What’s Behind the A.I. Shake-Up at Google
-
-A new role for Demis Hassabis, the head of Google’s artificial intelligence unit, reflects reality at the tech giant. Investors remain worried.
-
-[Read the full story at the source](https://www.nytimes.com/2026/08/06/business/dealbook/hassabis-google-ai.html)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

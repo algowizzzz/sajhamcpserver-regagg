@@ -1,0 +1,10 @@
+---
+title: "Proposed Rule: OSC Rule - 48-501 - Trading during Distributions, Formal Bids and Share Exchange Transactions | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/4/48-501/proposed-rule-osc-rule-48-501-trading-during-distributions-formal-bids-and-share-exchange"
+version: "1"
+---
+

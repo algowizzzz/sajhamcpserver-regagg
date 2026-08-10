@@ -1,1 +1,0 @@
-Summary: # ExCo meeting, October 2026

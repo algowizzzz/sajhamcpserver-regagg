@@ -1,1 +1,0 @@
-Summary: # Qu'est-ce que la réserve pour stabilité intérieure?

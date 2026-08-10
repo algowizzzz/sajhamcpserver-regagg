@@ -1,1 +1,0 @@
-Summary: # Transcript of the Governor's pooled broadcast interview given on 18 June 2026

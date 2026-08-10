@@ -1,1 +1,0 @@
-Summary: # U.S. Trade Deficit Dips in June Along With ‘World Cup Effect’

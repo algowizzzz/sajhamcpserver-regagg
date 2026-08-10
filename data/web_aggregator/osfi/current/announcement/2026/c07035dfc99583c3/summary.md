@@ -1,1 +1,0 @@
-Summary: # Prêts garantis par des biens immobiliers

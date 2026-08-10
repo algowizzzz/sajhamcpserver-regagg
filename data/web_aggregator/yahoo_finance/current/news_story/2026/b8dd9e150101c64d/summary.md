@@ -1,1 +1,0 @@
-Summary: # This Analyst Just Downgraded eBay Stock. Here's Why.

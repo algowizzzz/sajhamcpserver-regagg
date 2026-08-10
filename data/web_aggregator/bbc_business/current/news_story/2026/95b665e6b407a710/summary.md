@@ -1,1 +1,0 @@
-Summary: # Fashion brand Jaded has ad banned for 'glamorising smoking'

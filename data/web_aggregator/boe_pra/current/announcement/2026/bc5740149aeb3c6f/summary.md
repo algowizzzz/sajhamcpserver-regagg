@@ -1,1 +1,0 @@
-Summary: # Asset Purchase Facility: Gilt Sales – Market Notice 19 June 2026

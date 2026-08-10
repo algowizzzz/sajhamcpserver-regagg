@@ -1,7 +1,0 @@
-# Homebuyers chase the American Dream
-
-A growing number of young people see themselves as "forever renters" because they can't afford to buy a home, due to short supply, higher mortgage rates, and incomes that haven't kept up with rising home prices. Correspondent Jo Ling Kent examines the difficulties of today's housing market, and checks out one Midwestern city's program aimed at attracting homebuyers from out-of-state. (Originally broadcast April 12, 2026.)
-
-[Read the full story at the source](https://www.cbsnews.com/video/homebuyers-chase-the-american-dream/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

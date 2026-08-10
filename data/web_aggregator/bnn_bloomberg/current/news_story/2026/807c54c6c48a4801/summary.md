@@ -1,1 +1,0 @@
-Summary: # Shopify shares soar as forecast shows AI is boosting business, not disrupting

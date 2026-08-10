@@ -1,1 +1,0 @@
-Summary: # Japan to weigh changes to proprietary trading cap as volume soars

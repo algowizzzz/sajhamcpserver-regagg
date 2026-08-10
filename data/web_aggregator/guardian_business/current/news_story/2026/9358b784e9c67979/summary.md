@@ -1,1 +1,0 @@
-Summary: # Calls to ban disposable barbecues in England and Wales over wildfire risk

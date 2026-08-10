@@ -1,1 +1,0 @@
-Summary: # Flagstar Bank data breach settlement: Find out if you qualify for up to $25,000

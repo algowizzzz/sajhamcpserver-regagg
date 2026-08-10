@@ -1,0 +1,10 @@
+---
+title: "Unofficial Consolidation of National Policy 11-205 Process for Designation of Credit Rating Organizations in Multiple Jurisdictions | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/11-205/unofficial-consolidation-national-policy-11-205-process-designation-credit-rating-organizations"
+version: "1"
+---
+

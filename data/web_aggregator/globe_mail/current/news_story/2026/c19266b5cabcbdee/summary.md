@@ -1,1 +1,0 @@
-Summary: # Gran Tierra to sell South American assets to Maurel and Prom in $1.33-billion deal

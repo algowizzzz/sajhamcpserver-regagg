@@ -1,1 +1,0 @@
-Summary: # IAIS publishes Application Paper on supervising diversity, equity and inclusion – the governance, risk management and culture perspective

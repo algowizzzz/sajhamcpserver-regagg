@@ -1,1 +1,0 @@
-Summary: # Departmental results report

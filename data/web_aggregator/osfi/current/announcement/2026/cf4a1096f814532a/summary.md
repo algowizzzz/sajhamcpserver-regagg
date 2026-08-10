@@ -1,1 +1,0 @@
-Summary: # Notre cadre de responsabilisation

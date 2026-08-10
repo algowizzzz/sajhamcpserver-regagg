@@ -1,0 +1,10 @@
+---
+title: "Commission Approval of Amendment: Limitations on a Registrant Underwriting Securities of a Related Issuer or Connected Issuer of the Registrant | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/0/00-024/commission-approval-amendment-limitations-registrant-underwriting-securities-related-issuer-or"
+version: "1"
+---
+

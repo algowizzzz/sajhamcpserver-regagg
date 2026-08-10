@@ -1,1 +1,0 @@
-Summary: # What to watch for in SpaceX's first public earnings report today

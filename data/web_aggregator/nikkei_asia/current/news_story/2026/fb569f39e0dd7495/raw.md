@@ -1,7 +1,0 @@
-# Dollar faces summer turning point amid yen interventions, US jobs report
-
-
-
-[Read the full story at the source](https://asia.nikkei.com/business/markets/currencies/dollar-faces-summer-turning-point-amid-yen-interventions-us-jobs-report)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

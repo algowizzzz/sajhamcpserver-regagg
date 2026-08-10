@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE National, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 7.31, Orders and Modifiers

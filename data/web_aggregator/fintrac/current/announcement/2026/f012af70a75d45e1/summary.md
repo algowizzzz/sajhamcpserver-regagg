@@ -1,1 +1,0 @@
-Summary: # Future-Oriented Statement of Operations of the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC)

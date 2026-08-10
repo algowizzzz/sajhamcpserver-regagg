@@ -1,1 +1,0 @@
-Summary: # Kaplan Fox Encourages Cogent Communications Holdings, Inc. (NASDAQ: CCOI) Investors to Contact the Firm Before the Deadline on September 21, 2026 for a Leadership Role

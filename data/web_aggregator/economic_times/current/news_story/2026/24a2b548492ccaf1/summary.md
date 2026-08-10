@@ -1,1 +1,0 @@
-Summary: # Vikram Solar Q1 net profit declines 85 pc to Rs 20 cr

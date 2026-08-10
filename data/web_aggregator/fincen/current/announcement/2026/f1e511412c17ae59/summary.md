@@ -1,1 +1,0 @@
-Summary: # FinCEN Publishes an Administrative Ruling Regarding Customer Identification Program and Customer Due Diligence Requirements for Designated Beneficiaries of Individual Retirement Accounts

@@ -1,6 +1,0 @@
-Publication date
-:   5 April 2017
-
-## Related links
-
-[EIOPA sets out the Methodology to Derive the Ultimate Forward Rate](/document/download/5687dbab-d0a8-4a33-9c05-7bd68ca489a0_en?filename=EIOPA%20sets%20out%20the%20Methodology%20to%20Derive%20the%20Ultimate%20Forward%20Rate.pdf)

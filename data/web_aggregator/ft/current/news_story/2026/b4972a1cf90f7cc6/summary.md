@@ -1,1 +1,0 @@
-Summary: # Progressive Democrat wins in Michigan in rebuke to party establishment

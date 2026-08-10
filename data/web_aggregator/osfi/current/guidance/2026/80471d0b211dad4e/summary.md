@@ -1,1 +1,0 @@
-Summary: # Commercial Lending Criteria

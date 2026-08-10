@@ -1,1 +1,0 @@
-Summary: Today, upon request of the [Danish Financial Supervisory Authority](https://www.dfsa.dk/en/News/Press-releases/2018/Qudos-bankrupt-201218) (Finanstilsynet), the Danish Maritime and Commercial High Court declared the bankruptcy of Qudos Insurance A/S.

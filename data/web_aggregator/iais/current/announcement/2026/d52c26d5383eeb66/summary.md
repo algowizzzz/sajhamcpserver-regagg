@@ -1,1 +1,0 @@
-Summary: # The Spanish Insurance and Pension Funds Authority, the Dirección General de Seguros y Fondos de Pensiones, joins IAIS cooperation and information exchange agreement

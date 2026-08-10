@@ -1,1 +1,0 @@
-Summary: # Ford recalls more than 150,000 SUVs, trucks in Canada, U.S.

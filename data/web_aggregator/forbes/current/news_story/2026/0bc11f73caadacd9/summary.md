@@ -1,1 +1,0 @@
-Summary: # Hundreds Sickened By Jalapeños Served At Chipotle And Chipotle

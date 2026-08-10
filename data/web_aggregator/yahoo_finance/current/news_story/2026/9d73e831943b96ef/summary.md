@@ -1,1 +1,0 @@
-Summary: # Abbott vs Danaher: Which Healthcare Stock Looks Better Positioned Following Earnings?

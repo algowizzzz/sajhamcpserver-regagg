@@ -1,1 +1,0 @@
-Summary: # Financial Transactions and Reports Analysis Centre of Canada 2025–26 Departmental plan

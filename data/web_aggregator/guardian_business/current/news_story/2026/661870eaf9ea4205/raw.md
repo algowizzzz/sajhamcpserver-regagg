@@ -1,7 +1,0 @@
-# ‘You owe parking fees’: experts warn of fake RingGo text scam
-
-Criminals hope by using threats of enforcement action, people will panic and click link to bogus parking app site You use parking apps a lot – you have several on your phone – but it is not always straightforward. Sometimes there is a lack of reliable mobile signal, or the app crashes or behaves oddly, or it does not seem to want to accept your bank card. Also, it is sometimes hard to keep track of which apps you have used when. So when you receive a text from RingGo saying you owe it money, you are not totally surprised. Continue reading...
-
-[Read the full story at the source](https://www.theguardian.com/money/2026/aug/02/parking-apps-experts-warn-of-ringgo-text-scam)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

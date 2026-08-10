@@ -1,1 +1,0 @@
-Summary: # Digital innovation in the insurance sector: two publications on trends related to FinTech and SupTech

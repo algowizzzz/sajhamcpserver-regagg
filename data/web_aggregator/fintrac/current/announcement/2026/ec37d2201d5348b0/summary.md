@@ -1,1 +1,0 @@
-Summary: # CANAFE impose une pénalité administrative pécuniaire à Pacific Place – Arc Realty Ltd.

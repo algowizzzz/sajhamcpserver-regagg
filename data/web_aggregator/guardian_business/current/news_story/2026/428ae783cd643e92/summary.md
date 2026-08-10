@@ -1,1 +1,0 @@
-Summary: # Metro Bank customer fights for £14,000 refund after AI-linked fraud

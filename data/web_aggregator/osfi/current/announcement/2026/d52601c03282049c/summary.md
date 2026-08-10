@@ -1,1 +1,0 @@
-Summary: # Wholesale IRB Credit Parameter Data Call (DT3)

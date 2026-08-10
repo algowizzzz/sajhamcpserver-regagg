@@ -1,8 +1,0 @@
-# SpaceX report, share unlock may sway Hong Kong, mainland China stocks as AI trade recovers
-
-SpaceX’s first earnings report since its listing, together with the coming supply of a large chunk of shares available for public trading, will test the strength of the artificial intelligence trade’s recovery, which has driven the S&P 500 within striking distance of its record high and helped Hong Kong equities outperform.
-The first set of results from SpaceX as a publicly traded company will be under close scrutiny, with Elon Musk’s commercial aerospace unit viewed as a gauge of investors’...
-
-[Read the full story at the source](https://www.scmp.com/business/china-business/article/3362898/spacex-report-share-unlock-may-sway-hong-kong-mainland-china-stocks-ai-trade-recovers?utm_source=rss_feed)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

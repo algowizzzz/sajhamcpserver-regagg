@@ -1,1 +1,0 @@
-Summary: The European Insurance and Occupational Pensions Authority (EIOPA) has today published the responses from national competent authorities on their compliance, intention to comply  or non-compliance with the recommendations set out in EIOPA's 'Recommendations for the insurance sect

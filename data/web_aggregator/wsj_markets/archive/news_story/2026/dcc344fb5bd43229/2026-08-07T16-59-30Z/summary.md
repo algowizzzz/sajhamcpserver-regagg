@@ -1,1 +1,0 @@
-Summary: # Singapore Dollar Steady, Underpinned by Hopes for Strait of Hormuz’s Reopening

@@ -1,1 +1,0 @@
-Summary: The European Insurance and Occupational Pensions Authority (EIOPA) is publishing the list of Reuters Instrument Codes (RICs) of financial market data for the calculation of the technical information relating to the risk-free interest rates (RFR) term structures, namely of the fol

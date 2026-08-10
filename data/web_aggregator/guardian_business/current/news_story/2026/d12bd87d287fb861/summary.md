@@ -1,1 +1,0 @@
-Summary: # Revealed: major oil firms make $93bn profits amid war and climate crisis

@@ -1,1 +1,0 @@
-Summary: # [ESMA authorises EuroCTP as the Consolidated Tape Provider for shares and exchange-traded funds](/press-news/esma-news/esma-authorises-euroctp-consolidated-tape-provider-shares-and-exchange-traded)

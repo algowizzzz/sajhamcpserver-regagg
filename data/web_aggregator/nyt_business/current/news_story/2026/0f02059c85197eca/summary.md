@@ -1,1 +1,0 @@
-Summary: # Google Earth Disables A.I. Tool After One Day Over Disinformation Concerns

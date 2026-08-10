@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its [decision regarding the submission of occupational pensions information](/document/download/6ef67ba1-3242-4469-a532-5a0be534521c_en?filename=decision_on_consultation_paper_eiopa-cp-17-005.pdf)

@@ -1,1 +1,0 @@
-Summary: # Technical Frequently Asked Questions (FAQs) on LCR

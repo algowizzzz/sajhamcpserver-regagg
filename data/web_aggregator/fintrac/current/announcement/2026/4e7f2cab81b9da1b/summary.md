@@ -1,1 +1,0 @@
-Summary: Numéro de référence : 20/21-RSRA-006 

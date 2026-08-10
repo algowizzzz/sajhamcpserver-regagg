@@ -1,7 +1,0 @@
-# Who loses when Upstart becomes its own lender?
-
-The online lender said its national bank will become the "primary originator," displacing the banks that are lenders of record. Loan buyers keep their role.
-
-[Read the full story at the source](https://www.americanbanker.com/news/who-loses-when-upstart-becomes-its-own-lender)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,1 +1,0 @@
-Summary: # Notes d'allocution pour Sarah Paquet, Directrice et présidente-directrice générale, Centre d’analyse des opérations et déclarations financières du Canada pour The Assembly Canada de l’ACAMS

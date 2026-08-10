@@ -1,0 +1,10 @@
+---
+title: "HSBC Global Asset Management (Canada) Limited | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/hsbc-global-asset-management-canada-limited"
+version: "1"
+---
+

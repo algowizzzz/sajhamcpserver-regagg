@@ -1,1 +1,0 @@
-Summary: # Datum One Series Trust and Polar Capital LLP

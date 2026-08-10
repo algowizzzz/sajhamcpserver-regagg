@@ -1,1 +1,0 @@
-Summary: # Film posters for The Mummy banned from public display in UK

@@ -1,7 +1,0 @@
-# Job cuts plunge to a 2-year low despite AI fears, economic shocks
-
-Layoffs have plunged this year. "Recently laid-off workers are finding jobs as fast as the economy is creating new ones," one economist said.
-
-[Read the full story at the source](https://www.cbsnews.com/news/july-layoffs-drop-two-year-low/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

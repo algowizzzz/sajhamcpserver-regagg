@@ -1,1 +1,0 @@
-Summary: # ETMarkets AIF Talk| Successful private credit rests on three pillars: promoter, business and collateral: Sandeep Agarwal

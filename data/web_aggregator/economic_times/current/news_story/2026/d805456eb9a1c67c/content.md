@@ -1,7 +1,0 @@
-# PB Fintech Q1 Results: Policybazaar parent's profit soars 92% to Rs 163 crore as insurance premium grows 41%
-
-PB Fintech reported a 92% year-on-year rise in Q1FY27 consolidated profit to Rs 163 crore, driven by robust insurance premium growth, higher operating revenue and improving margins. Operating revenue rose 40%, while total insurance premium increased 41%, supported by strong protection and health insurance demand.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/earnings/pb-fintech-q1-results-policybazaar-parents-profit-soars-92-to-rs-163-crore-as-insurance-premium-grows-41/articleshow/132942100.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

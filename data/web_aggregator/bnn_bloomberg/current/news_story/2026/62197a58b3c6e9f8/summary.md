@@ -1,1 +1,0 @@
-Summary: # Gianni Infantino gets internal support at crisis meeting to remain as FIFA president

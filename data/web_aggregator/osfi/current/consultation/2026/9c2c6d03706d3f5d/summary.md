@@ -1,1 +1,0 @@
-Summary: # Aperçu des résultats de l’exercice de consultation du secteur de l’assurance vie

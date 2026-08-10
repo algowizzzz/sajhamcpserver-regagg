@@ -1,1 +1,0 @@
-Summary: # Enterprise-Wide Model Risk Management for Deposit-Taking Institutions - Guideline (2017)

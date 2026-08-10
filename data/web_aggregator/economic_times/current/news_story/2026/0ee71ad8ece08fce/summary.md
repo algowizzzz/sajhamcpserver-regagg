@@ -1,1 +1,0 @@
-Summary: # Adani Green Energy shares can rally up to 23%. Why Axis Capital, Elara initiated coverage

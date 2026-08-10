@@ -1,1 +1,0 @@
-Summary: IOSCO IVSC Statement of Cooperation - 18 October 2022 

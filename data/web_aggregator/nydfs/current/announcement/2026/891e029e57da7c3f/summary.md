@@ -1,1 +1,0 @@
-Summary: An Equal Opportunity/Affirmative Action Employer 

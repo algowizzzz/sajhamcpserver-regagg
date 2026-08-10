@@ -1,1 +1,0 @@
-Summary: # Pénalité administrative pécuniaire imposée à Jones Lang Lasalle Real Estate Services, Inc.

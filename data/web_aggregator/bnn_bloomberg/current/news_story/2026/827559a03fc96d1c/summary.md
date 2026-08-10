@@ -1,1 +1,0 @@
-Summary: # Rocket Doctor AI Inc. Announces Closing of Oversubscribed First Tranche of Unsecured Convertible Debenture Financing

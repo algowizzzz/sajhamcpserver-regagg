@@ -1,1 +1,0 @@
-Summary: # SWIFT®[Footnote 1](#fn1) Batch Reporting Instructions and Specification

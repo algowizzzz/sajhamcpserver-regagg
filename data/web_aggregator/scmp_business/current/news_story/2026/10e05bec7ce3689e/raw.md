@@ -1,9 +1,0 @@
-# Price war fears grip China’s EV market after woeful July sales figures
-
-The bearish sentiment surrounding China’s electric vehicle (EV) sector has intensified after three premium carmakers reported weak sales for July, further heightening concerns that the market is heading for another brutal price war.
-EV makers Xpeng, Nio and Li Auto all reported month-on-month sales declines last month, as demand for intelligent cars weakened amid an economic slowdown in mainland China.
-Xpeng delivered 38,027 vehicles to customers in July, down 5.2 per cent from June, as the...
-
-[Read the full story at the source](https://www.scmp.com/business/china-evs/article/3362717/price-war-fears-grip-chinas-ev-market-after-woeful-july-sales-figures?utm_source=rss_feed)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

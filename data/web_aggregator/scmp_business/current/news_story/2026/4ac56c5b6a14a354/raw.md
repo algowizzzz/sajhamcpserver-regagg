@@ -1,8 +1,0 @@
-# The international hotel chains targeting China’s value-driven travellers
-
-As a fresh graduate who recently received his first pay cheque after starting his first job in June, Ryan Liu decided to mark the milestone with a weekend getaway. Having recently relocated from Shandong province to Shenzhen, he was looking for a place that offered quality facilities without stretching his budget.
-He was surprised to find a Hampton by Hilton hotel, part of Hilton’s upper-midscale portfolio, for about 600 yuan (US$89) a night. The room came with a small balcony overlooking...
-
-[Read the full story at the source](https://www.scmp.com/economy/china-economy/article/3362559/international-hotel-chains-targeting-chinas-value-driven-travellers?utm_source=rss_feed)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

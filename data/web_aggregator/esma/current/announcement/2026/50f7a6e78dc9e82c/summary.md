@@ -1,1 +1,0 @@
-Summary: # [Financial firms keep EU carbon markets moving](/press-news/esma-news/financial-firms-keep-eu-carbon-markets-moving)

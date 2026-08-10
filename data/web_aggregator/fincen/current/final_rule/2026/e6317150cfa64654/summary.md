@@ -1,1 +1,0 @@
-Summary: # CDD Rule FAQs

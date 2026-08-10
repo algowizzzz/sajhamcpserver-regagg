@@ -1,1 +1,0 @@
-Summary: # ‘They’re selling the safety of the traveling public’: TSA workers decry Trump privatization push

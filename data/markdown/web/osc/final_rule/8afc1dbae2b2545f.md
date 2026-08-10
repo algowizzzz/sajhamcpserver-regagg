@@ -1,0 +1,10 @@
+---
+title: "Notice of Ministerial Approval of IFRS-Related Amendments to Securities Rules and Regulation 1015 under the Securities Act | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/13-503/notice-ministerial-approval-ifrs-related-amendments-securities-rules-and-regulation-1015-under"
+version: "1"
+---
+

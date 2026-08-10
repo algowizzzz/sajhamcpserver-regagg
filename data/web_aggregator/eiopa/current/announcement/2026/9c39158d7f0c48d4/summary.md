@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published [technical information on the relevant risk free interest rate term structures (RFR) with reference to the end of March 2020](https://www.eiopa.europa.eu/tools-and-data/risk-free-interest-rate-ter

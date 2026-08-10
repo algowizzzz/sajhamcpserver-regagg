@@ -1,1 +1,0 @@
-Summary: Policy Development Committee (PDC)

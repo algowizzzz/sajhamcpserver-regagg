@@ -1,1 +1,0 @@
-Summary: # Relevé des normes de fonds propres de Bâle (RNFPB) 2026

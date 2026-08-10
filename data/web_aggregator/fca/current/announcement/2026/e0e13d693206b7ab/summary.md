@@ -1,1 +1,0 @@
-Summary: The FCA Board has appointed Dan Lavender as a new member of its Regulatory Decisions Committee (RDC).

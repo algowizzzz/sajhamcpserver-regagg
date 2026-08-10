@@ -1,1 +1,0 @@
-Summary: # Guideline B-15: What We Heard Report (January 2024)

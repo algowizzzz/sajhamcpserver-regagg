@@ -1,1 +1,0 @@
-Summary: Your credit score can affect whether you’ll qualify for things like credit cards, auto loans, and mortgages — and how much you’ll pay for them. Cellphone companies and companies selling auto and home insurance also use credit scores. The higher your score, the better. To improve 

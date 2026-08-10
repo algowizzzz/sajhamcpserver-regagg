@@ -1,1 +1,0 @@
-Summary: On 1 July 2026, Logbook Lending Limited (trading as AFPremier.co.uk, pawnmy.co.uk, LBL Asset Finance, Log Book Loans 247) entered administration. Paul Appleton, Adam Shama and Robert Ferne of BTG Begbies Traynor (London) LLP were appointed as Joint Administrators.

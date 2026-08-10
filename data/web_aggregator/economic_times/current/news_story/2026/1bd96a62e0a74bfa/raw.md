@@ -1,7 +1,0 @@
-# Govt mobilises Rs 31,552 crore via LIC offer for sale
-
-The government successfully raised ₹31,552 crore through the Life Insurance Corp of India Offer for Sale. This significant mobilization increased the public ownership of LIC to ten percent ahead of schedule. The issue saw strong participation from both retail and institutional investors. Non-retail investors subscribed more than three times their allocated portion on the first day. This successful offering marks India's largest public offering to date.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/govt-mobilises-rs-31552-crore-via-lic-offer-for-sale/articleshow/132978954.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

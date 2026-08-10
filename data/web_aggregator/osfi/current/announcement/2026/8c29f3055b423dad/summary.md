@@ -1,1 +1,0 @@
-Summary: # Relevé 2A pour la déclaration des actifs par contrepartie

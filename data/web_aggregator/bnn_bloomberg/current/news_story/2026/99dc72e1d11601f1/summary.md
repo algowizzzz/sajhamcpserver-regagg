@@ -1,1 +1,0 @@
-Summary: # Docebo Reports Second Quarter 2026 Results

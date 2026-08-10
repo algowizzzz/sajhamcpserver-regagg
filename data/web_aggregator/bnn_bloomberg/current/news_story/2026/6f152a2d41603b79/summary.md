@@ -1,1 +1,0 @@
-Summary: # Canadians affected by 2020 CRA data breach can now apply for compensation

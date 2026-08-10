@@ -1,1 +1,0 @@
-Summary: # Man Pleads Guilty to Laundering $5.9 Million in Drug Proceeds

@@ -1,1 +1,0 @@
-Summary: # Revised Guideline E-13 – Regulatory Compliance Management (RCM) – Letter (2014)

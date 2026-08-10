@@ -1,1 +1,0 @@
-Summary: # FINTRAC signs a Memorandum of Understanding with the Society of Notaries Public of British Columbia

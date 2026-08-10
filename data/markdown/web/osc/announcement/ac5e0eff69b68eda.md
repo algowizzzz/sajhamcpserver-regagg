@@ -1,0 +1,11 @@
+---
+title: "Bloomberg Tradebook Canada Company - s. 15.1 of NI 21-101 Marketplace Operation | OSC"
+regulator: "osc"
+doc_type: "announcement"
+reference: "21-101"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/bloomberg-tradebook-canada-company-s-151-ni-21-101"
+version: "1"
+---
+

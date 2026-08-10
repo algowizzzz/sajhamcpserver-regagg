@@ -1,1 +1,0 @@
-Summary: # Foreign Entities Operating in Canada on a Branch Basis – Guideline (2021)

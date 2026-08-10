@@ -1,1 +1,0 @@
-Summary: # Part XII: Establishment, maintenance or acquisition for use in Canada of automated banking machines

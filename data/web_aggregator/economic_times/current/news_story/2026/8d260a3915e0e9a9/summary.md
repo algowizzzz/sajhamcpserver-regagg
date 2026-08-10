@@ -1,1 +1,0 @@
-Summary: # 9 IPOs get Sebi approval as primary market pipeline gathers pace

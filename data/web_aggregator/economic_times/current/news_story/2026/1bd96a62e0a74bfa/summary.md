@@ -1,1 +1,0 @@
-Summary: # Govt mobilises Rs 31,552 crore via LIC offer for sale

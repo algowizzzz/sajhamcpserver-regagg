@@ -1,1 +1,0 @@
-Summary: ![Adobestock_news_esas_cooperation](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_news_esas_cooperation.jpeg?itok=-b0adj57 "Adobestock_news_esas_cooperation")

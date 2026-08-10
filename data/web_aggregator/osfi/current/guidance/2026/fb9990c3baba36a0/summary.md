@@ -1,1 +1,0 @@
-Summary: # Minimum Capital Test - Guideline (2024)

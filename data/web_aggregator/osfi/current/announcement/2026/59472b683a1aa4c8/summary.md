@@ -1,1 +1,0 @@
-Summary: # Disclosure of contracts over $10,000

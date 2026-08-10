@@ -1,1 +1,0 @@
-Summary: # Speaking Notes for Sarah Paquet Director and Chief Executive Officer As part of a panel on Following the Money: Trends in Financial Crime and the Funding of Illicit Activities at the 91st Annual Ottawa Conference on Security and Defence

@@ -1,8 +1,0 @@
-[Keynote address by Gabriel Bernardino, Chairman of EIOPA, at the 19. Handelsblatt Annual Conference in Berlin](/document/download/a5d80da2-1d97-49c8-8e77-09b8da2a8199_en?filename=2018-03-12_handelsblatt_conference.pdf)
-
-Publication date
-:   12 March 2018
-
-## Related links
-
-[Keynote address by Gabriel Bernardino](/document/download/25e582ac-c5b6-4b1f-8dfd-af1e9a66e88b_en?filename=Keynote%20address%20by%20Gabriel%20Bernardino.pdf)

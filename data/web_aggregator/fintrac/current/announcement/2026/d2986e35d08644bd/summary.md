@@ -1,1 +1,0 @@
-Summary: # Les plateformes de sociofinancement et certains fournisseurs de services de paiement doivent s'inscrire auprès de CANAFE

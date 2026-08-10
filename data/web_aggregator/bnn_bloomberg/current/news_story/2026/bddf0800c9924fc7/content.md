@@ -1,7 +1,0 @@
-# Japan’s yen surges after U.S. jobs data, traders wary of intervention risk
-
-
-
-[Read the full story at the source](https://www.bnnbloomberg.ca/markets/currencies/2026/08/07/japans-yen-surges-after-us-jobs-data-traders-wary-of-intervention-risk/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

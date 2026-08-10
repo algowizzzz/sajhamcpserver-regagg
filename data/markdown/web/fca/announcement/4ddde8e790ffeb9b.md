@@ -5,7 +5,8 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.fca.org.uk/news/news-stories/prosper-capital-llp-enters-creditors-voluntary-liquidation"
-version: "1"
+published: "2026-06-01"
+version: "3"
 ---
 
 On 1 June 2026, Prosper Capital LLP (Prosper) went into creditors’ voluntary liquidation. Jeremy Karr and Simon Killick of BTG Begbies Traynor (Central) LLP were appointed as joint liquidators.
@@ -34,7 +35,7 @@ If you believe you have a claim against Prosper, contact the joint liquidators u
 
 If you’re a customer, contact the joint liquidators for more details about how you’ll be affected:
 
-* Email: [[email protected]](/cdn-cgi/l/email-protection#c5b5b7aab6b5a0b7a6a4b5acb1a4a985a7b1a2b0aeeba6aaa8 "prospercapital@btguk.com").
+* Email: [[email protected]](/cdn-cgi/l/email-protection#ea9a9885999a8f98898b9a839e8b86aa889e8d9f81c4898587 "prospercapital@btguk.com").
 * Telephone: 020 7516 1500.
 * Write to: BTG Begbies Traynor, Level 33, One Canada Square, London E14 5AB.
 

@@ -1,1 +1,0 @@
-Summary: # Yorkville America Investment Trust and Yorkville America Equities, LLC

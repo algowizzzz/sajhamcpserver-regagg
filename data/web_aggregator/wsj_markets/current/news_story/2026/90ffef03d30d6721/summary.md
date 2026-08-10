@@ -1,1 +1,0 @@
-Summary: # Health Care Roundup: Market Talk

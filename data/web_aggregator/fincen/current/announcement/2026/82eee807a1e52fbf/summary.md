@@ -1,1 +1,0 @@
-Summary: # State Coordinator’s Case Example (Embezzlement)

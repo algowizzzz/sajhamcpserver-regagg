@@ -1,1 +1,0 @@
-Summary: # RBI's Rate Pause Sustains Steady Momentum in Residential Real Estate

@@ -1,1 +1,0 @@
-Summary: « Rien sans nous » 

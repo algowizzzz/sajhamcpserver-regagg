@@ -1,1 +1,0 @@
-Summary: # Pénalité administrative pécuniaire imposée à Immeubles Village Pointe-Claire Inc.

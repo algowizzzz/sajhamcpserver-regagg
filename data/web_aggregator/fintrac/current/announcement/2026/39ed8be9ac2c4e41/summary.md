@@ -1,1 +1,0 @@
-Summary: # Négociants en métaux précieux et pierres précieuses

@@ -1,9 +1,0 @@
-# China sees flurry of commercial property deals as investors sniff out bargains
-
-Major Chinese cities including Shanghai are witnessing a significant uptick in commercial property transactions, as investors snap up space in prime locations in the expectation that the market may finally be on the road to recovery.
-The value of office buildings, hotels and shopping malls across China has slumped in recent years amid a prolonged real estate crisis. But with prices in some cities now starting to stabilise, investors are hunting for potential bargains, according to analysts.
-The...
-
-[Read the full story at the source](https://www.scmp.com/business/china-business/article/3362546/china-sees-flurry-commercial-property-deals-investors-sniff-out-bargains?utm_source=rss_feed)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

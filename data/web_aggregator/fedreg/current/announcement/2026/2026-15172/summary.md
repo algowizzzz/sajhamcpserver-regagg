@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Texas Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Exchange's Compliance Rule Regarding the National Market System Plan Governing the Consolidated Audit Trail

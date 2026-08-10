@@ -1,1 +1,0 @@
-Summary: # Liquidity Adequacy Requirements (LAR) (2027) Chapter 3 – Net Stable Funding Ratio

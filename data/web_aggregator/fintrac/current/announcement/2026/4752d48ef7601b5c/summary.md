@@ -1,1 +1,0 @@
-Summary: # États financiers du Centre d’analyse des opérations et déclarations financières du Canada (CANAFE) et rapport des auditeurs indépendants

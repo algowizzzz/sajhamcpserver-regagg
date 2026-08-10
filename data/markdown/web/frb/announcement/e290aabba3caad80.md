@@ -6,7 +6,7 @@ status: "final"
 source_kind: "web"
 source_url: "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260729a.htm"
 published: "2026-07-29"
-version: "1"
+version: "3"
 ---
 
 [Skip to main content](#content)
@@ -84,7 +84,7 @@ Inflation remains elevated relative to the Committee's 2 percent goal, in part r
 
 Voting against the monetary policy action were Beth M. Hammack, Neel Kashkari, and Lorie K. Logan, who preferred to raise the target range for the federal funds rate by 1/4 percentage point at this meeting.
 
-For media inquiries, please email [[email protected]](/cdn-cgi/l/email-protection#137e76777a72537561713d747c65) or call 202-452-2955.
+For media inquiries, please email [[email protected]](/cdn-cgi/l/email-protection#a5c8c0c1ccc4e5c3d7c78bc2cad3) or call 202-452-2955.
 
 [Implementation Note issued July 29, 2026](/newsevents/pressreleases/monetary20260729a1.htm)
 

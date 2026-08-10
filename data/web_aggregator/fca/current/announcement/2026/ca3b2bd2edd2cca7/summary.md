@@ -1,1 +1,0 @@
-Summary: Read our independent FCA-commissioned research exploring how UK financial services hubs relate to regional growth, productivity and SME access to finance.

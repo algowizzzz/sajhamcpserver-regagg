@@ -1,0 +1,10 @@
+---
+title: "Rule: OSC Rule - 61-501, 61-501CP - Insider Bids, Issuer Bids, Business Combinations and Related Party Transactions | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/6/61-501-61-501cp/rule-osc-rule-61-501-61-501cp-insider-bids-issuer-bids-business-combinations-and-0"
+version: "1"
+---
+

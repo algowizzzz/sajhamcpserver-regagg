@@ -1,1 +1,0 @@
-Summary: # Achat ou rachat d’actions ou de parts sociales

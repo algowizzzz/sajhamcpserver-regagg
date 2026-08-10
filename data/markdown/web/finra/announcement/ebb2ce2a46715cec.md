@@ -5,7 +5,7 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.finra.org/registration-exams-ce/continuing-education"
-version: "1"
+version: "6"
 ---
 
 # Continuing Education (CE)
@@ -86,7 +86,7 @@ However, FINRA recognizes that some CE participants may require additional assis
 
 FINRA Rule 1240 requires registered persons to complete the Regulatory Element annually by Dec. 31 for each registration that they hold. If a registered person experiences circumstances that prevent them from completing the assigned CE by their due date, FINRA may—upon written application, with supporting documentation, and a showing of good cause—allow for additional time for the registered person to complete their CE. Please note that good cause and related documentation must demonstrate that substantive circumstances beyond the registered person’s control prevented them from completing their CE by the due date. Regulatory Element learning plan extension requests provide a formal process for firms to submit such requests to FINRA so that FINRA is able to determine whether an extension may be granted.
 
-To submit a request for a Regulatory Element learning plan extension, the registered person’s firm must complete the Regulatory Element Learning Plan Extension Request Form (linked below) and email the completed form and supporting documentation to: [[email protected]](/cdn-cgi/l/email-protection#0f435f4a777b6a617c6660615d6a7e7a6a7c7b7c4f6966617d6e21607d68). As this submission may contain confidential information, please do not include additional FINRA email addresses on this submission.
+To submit a request for a Regulatory Element learning plan extension, the registered person’s firm must complete the Regulatory Element Learning Plan Extension Request Form (linked below) and email the completed form and supporting documentation to: [[email protected]](/cdn-cgi/l/email-protection#4804180d303c2d263b2127261a2d393d2d3b3c3b082e21263a2966273a2f). As this submission may contain confidential information, please do not include additional FINRA email addresses on this submission.
 
 [Access the Regulatory Element Learning Plan Extension Request Form](/sites/default/files/2023-05/regulatory-element-learning-plan-extension-request-form.pdf)
 

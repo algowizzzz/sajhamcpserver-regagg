@@ -1,1 +1,0 @@
-Summary: # Why I'll never be convinced by Meta's ‘pervert’ glasses | Opinion

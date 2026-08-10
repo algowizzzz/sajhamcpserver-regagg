@@ -1,1 +1,0 @@
-Summary: # Bruno Mars Sees 75% Of His Solo Albums Return To The Charts

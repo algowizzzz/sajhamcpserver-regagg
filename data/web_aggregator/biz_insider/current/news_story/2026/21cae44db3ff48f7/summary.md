@@ -1,1 +1,0 @@
-Summary: # Grindr CEO says AI is doing work that would have required hiring 200 additional engineers

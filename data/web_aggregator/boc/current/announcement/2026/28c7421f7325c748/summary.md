@@ -1,1 +1,0 @@
-Summary: # Bank of Canada announces the appointment of two Deputy Governors

@@ -1,1 +1,0 @@
-Summary: # Selection Group meeting, January 2026

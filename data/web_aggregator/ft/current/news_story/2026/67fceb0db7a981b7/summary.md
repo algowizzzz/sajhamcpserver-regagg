@@ -1,1 +1,0 @@
-Summary: # Google seeks a sharper focus in AI after Hassabis move

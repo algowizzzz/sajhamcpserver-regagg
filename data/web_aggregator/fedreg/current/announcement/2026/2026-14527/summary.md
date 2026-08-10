@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 6.8-O To Increase Position and Exercise Limits for Options on iShares Bitcoin Trust ETF

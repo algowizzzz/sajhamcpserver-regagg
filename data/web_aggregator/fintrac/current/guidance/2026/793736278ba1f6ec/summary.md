@@ -1,1 +1,0 @@
-Summary: # À quel moment vérifier l'identité des personnes et des entités – notaires de la Colombie-Britannique

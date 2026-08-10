@@ -1,1 +1,0 @@
-Summary: The **European Insurance and Occupational Pensions Authority (EIOPA),** the **International Center for Insurance Regulation (ICIR)**, the **Research Center SAFE** - Sustainable Architecture for Finance in Europe, and the **World Bank Group** are pleased to invite you to the

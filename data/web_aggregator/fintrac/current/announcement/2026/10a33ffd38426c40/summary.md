@@ -1,1 +1,0 @@
-Summary: # Plan ministériel 2025-2026 du Centre d’analyse des opérations et déclarations financières du Canada

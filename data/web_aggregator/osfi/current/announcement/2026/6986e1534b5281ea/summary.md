@@ -1,1 +1,0 @@
-Summary: # Instructions relatives aux tableaux d’analyse des sinistres non payés et du rapport sinistres-primes pour les assureurs multirisques et hypothécaires

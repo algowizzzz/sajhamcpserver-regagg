@@ -1,1 +1,0 @@
-Summary: # America's biggest food distributor cuts suppliers as 'explosive diarrhoea' cases rise

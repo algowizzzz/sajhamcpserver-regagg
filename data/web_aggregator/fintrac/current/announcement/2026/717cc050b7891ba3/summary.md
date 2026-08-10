@@ -1,1 +1,0 @@
-Summary: # Politique sur les pénalités administratives pécuniaires

@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; New York Stock Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Connectivity Fee Schedule

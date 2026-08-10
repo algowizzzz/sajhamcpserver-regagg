@@ -1,1 +1,0 @@
-Summary: # Residential Real Estate Rule

@@ -1,1 +1,0 @@
-Summary: # Trump makes rare trip to California and Nevada to promote economic policies

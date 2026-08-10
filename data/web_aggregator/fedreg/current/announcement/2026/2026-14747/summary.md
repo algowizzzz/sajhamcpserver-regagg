@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Investors Exchange LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend IEX Rule 16.160 Regarding Information Circular Requirements

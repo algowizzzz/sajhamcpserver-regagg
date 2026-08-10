@@ -1,1 +1,0 @@
-Summary: # Exemption from requirements for solicitation of proxies by dissidents

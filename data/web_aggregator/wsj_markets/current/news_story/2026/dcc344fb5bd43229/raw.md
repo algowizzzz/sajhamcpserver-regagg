@@ -1,7 +1,0 @@
-# WSJ Dollar Index Rises 0.24% to 96.23
-
-The WSJ Dollar Index rose 0.2%, snapping a two-trading-day losing streak.
-
-[Read the full story at the source](https://www.wsj.com/finance/currencies/asian-currencies-consolidate-amid-wait-and-see-mood-on-possible-hormuz-reopening-7dcec3d2?mod=rss_markets_main)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,1 +1,0 @@
-Summary: # Guides d’intervention

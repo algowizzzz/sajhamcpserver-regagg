@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Chicago Mercantile Exchange Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change Relating To Adoption of Chicago Mercantile Exchange's Rules Governing Security Futures Product Listing Standards, Adoption of Chicago Mercanti

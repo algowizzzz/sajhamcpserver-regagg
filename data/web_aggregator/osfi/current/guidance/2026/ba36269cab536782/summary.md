@@ -1,1 +1,0 @@
-Summary: # Mortgage Insurer Capital Adequacy Test (MICAT) 2025 - Letter

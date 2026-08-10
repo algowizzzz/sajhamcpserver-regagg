@@ -1,1 +1,0 @@
-Summary: # July 27, 2020 Desk examination resumption

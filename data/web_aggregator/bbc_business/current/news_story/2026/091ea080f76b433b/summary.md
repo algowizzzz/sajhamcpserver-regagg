@@ -1,1 +1,0 @@
-Summary: # Apple issues new challenge against UK order for access to private user data

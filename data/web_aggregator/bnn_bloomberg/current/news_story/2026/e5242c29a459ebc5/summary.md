@@ -1,1 +1,0 @@
-Summary: # 8 ‘trendsetter’ stocks for world’s top mega-trends: Jon Erlichman

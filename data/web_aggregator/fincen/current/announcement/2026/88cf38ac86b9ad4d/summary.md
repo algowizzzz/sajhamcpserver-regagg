@@ -1,1 +1,0 @@
-Summary: # SARs Identify Huge Check-Kiting Scheme by Auto Dealer

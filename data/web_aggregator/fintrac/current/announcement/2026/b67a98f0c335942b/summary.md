@@ -1,1 +1,0 @@
-Summary: # Types of careers

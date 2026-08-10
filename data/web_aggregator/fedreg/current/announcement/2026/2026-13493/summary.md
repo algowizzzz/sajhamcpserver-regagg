@@ -1,1 +1,0 @@
-Summary: # Blue Tractor ETF Trust, et al.

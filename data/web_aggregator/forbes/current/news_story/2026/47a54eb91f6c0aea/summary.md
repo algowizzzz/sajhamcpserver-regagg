@@ -1,1 +1,0 @@
-Summary: # Trump’s $400 Million Ballroom Blocked By Appeals Court—Likely Sending Case To Supreme Court

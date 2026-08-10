@@ -1,1 +1,0 @@
-Summary: # The IAIS issues comment letter to the IASB on its post implementation review of IFRS 9 – Impairment

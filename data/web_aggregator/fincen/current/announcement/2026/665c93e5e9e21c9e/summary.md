@@ -1,1 +1,0 @@
-Summary: # Jury Convicts Defendant of Structuring, No Illicit Origin ofFunds Alleged

@@ -1,1 +1,0 @@
-Summary: # Investment tips for the booming stock market

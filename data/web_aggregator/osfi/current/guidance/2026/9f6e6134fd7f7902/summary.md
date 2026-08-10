@@ -1,1 +1,0 @@
-Summary: # Small and Medium-Sized Deposit-Taking Institutions (SMSBs) Capital and Liquidity Requirements – Guideline (2026)

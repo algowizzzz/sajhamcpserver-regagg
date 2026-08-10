@@ -1,1 +1,0 @@
-Summary: # OSFI update on Canadian Dollar Offered Rate transition

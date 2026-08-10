@@ -1,1 +1,0 @@
-Summary: The Joint Board of Appeal of the European Supervisory Authorities (ESAs – European Banking Authority, European Insurance and Occupational Pensions Authority, and European Securities and Markets Authority) published today its [decision](/document/download/02a3c354-e72e-4712-9335-e

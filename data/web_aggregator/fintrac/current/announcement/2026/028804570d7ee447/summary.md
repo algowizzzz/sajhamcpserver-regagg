@@ -1,1 +1,0 @@
-Summary: # Questions and answers on administrative monetary penalties

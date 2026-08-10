@@ -1,1 +1,0 @@
-Summary: # IAIS Comment Letter to the IASB´s Exposure Draft on Amendments to the Classification and Measurement of Financial Instruments

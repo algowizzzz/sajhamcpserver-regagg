@@ -1,1 +1,0 @@
-Summary: # FINTRAC imposes an administrative monetary penalty on Pan Pacific Platinum Real Estate Services Inc.

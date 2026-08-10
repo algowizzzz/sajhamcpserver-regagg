@@ -1,1 +1,0 @@
-Summary: # Oil sands MOU hasn’t changed Suncor’s spending plans, CEO says

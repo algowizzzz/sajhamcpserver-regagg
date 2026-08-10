@@ -1,1 +1,0 @@
-Summary: ["Gabriel Bernardino: Solvency II is a success", interview with Gabriel Bernardino, Chairman of EIOPA, conducted by Ola Hellblom for Pensioner & Förmåner and Dagens Industri](/document/download/694a7990-56fa-41ff-9fbe-631aaf0f4c9c_en?filename=interview_with_gabriel_bernardino_5_o

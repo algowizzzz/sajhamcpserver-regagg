@@ -1,1 +1,0 @@
-Summary: # Emera Inc. CEO on board with plans to boost energy infrastructure in Maritimes

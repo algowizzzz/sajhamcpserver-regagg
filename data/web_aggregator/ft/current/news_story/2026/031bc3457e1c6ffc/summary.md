@@ -1,1 +1,0 @@
-Summary: # Yen intervention illustrates the dangers of monetary experiments

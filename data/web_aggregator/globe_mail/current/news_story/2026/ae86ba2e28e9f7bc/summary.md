@@ -1,1 +1,0 @@
-Summary: # Manulife posts higher profit, strikes $3.2-billion reinsurance deal with Munich Re

@@ -1,0 +1,10 @@
+---
+title: "OSC Whistleblower Program contributing to a stronger culture of compliance"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/news-events/news/osc-whistleblower-program-contributing-stronger-culture-compliance"
+version: "1"
+---
+

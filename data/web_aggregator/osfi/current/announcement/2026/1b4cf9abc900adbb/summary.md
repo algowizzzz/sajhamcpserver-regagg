@@ -1,1 +1,0 @@
-Summary: # Giving up control of an entity while retaining a substantial investment

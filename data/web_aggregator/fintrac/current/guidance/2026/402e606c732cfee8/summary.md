@@ -1,1 +1,0 @@
-Summary: # Components of the method for charging reporting entities : Charging reporting entities for FINTRAC’s compliance program

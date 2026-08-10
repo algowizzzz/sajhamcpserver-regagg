@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Nasdaq MRX, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Exchange Rules General 8 and Options 7 To Revise Certain Fees

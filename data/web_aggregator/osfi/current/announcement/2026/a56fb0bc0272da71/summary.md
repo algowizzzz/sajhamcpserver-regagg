@@ -1,1 +1,0 @@
-Summary: # Instructions relatives aux opérations – Partie XII: Agrément relatif aux établissements financiers au Canada

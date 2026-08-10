@@ -1,1 +1,0 @@
-Summary: # Important Information for Precious Metals/Jewelry

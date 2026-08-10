@@ -1,1 +1,0 @@
-Summary: # Reporting Forms and Instructions Associated With Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers

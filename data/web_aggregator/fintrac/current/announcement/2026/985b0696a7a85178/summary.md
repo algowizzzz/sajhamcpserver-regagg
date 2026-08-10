@@ -1,1 +1,0 @@
-Summary: # Notice on the assessment of obligations coming into force on June 1, 2021

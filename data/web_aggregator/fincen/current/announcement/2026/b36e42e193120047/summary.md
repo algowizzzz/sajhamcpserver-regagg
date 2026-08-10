@@ -1,1 +1,0 @@
-Summary: # State Agency Case Example (Insurance Fraud)

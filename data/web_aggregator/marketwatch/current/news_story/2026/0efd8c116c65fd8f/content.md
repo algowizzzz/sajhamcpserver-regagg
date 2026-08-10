@@ -1,7 +1,0 @@
-# Tax-free weekends start in Texas, Florida and several other states today. Here’s what to know.
-
-16 states are offering tax-free shopping holidays throughout the month as back-to-school costs soar to over $800 per student
-
-[Read the full story at the source](https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

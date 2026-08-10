@@ -1,1 +1,0 @@
-Summary: ![Adobestock_news_report](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_news_report.jpeg?itok=WLrkYvd9 "Adobestock_news_report")

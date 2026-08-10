@@ -1,1 +1,0 @@
-Summary: # Attorney Sentenced in Fraud Case

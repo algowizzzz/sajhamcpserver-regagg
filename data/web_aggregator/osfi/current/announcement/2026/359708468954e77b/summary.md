@@ -1,1 +1,0 @@
-Summary: # 2A Schedule for Asset Reporting by Counterparty

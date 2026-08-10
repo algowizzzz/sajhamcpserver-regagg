@@ -1,1 +1,0 @@
-Summary: This document contains both information and form fields. To read information, use the Down Arrow from a form field. 

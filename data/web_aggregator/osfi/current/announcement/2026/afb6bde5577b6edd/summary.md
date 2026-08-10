@@ -1,1 +1,0 @@
-Summary: # Tableaux supplémentaires du Rapport de l’actuaire désigné de 2025 pour les assureurs vie, multirisques et hypothécaires

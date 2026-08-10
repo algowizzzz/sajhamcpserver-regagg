@@ -1,1 +1,0 @@
-Summary: # Allowances for Expected Credit Losses (E3)

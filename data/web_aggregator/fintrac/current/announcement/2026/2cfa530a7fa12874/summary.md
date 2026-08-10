@@ -1,1 +1,0 @@
-Summary: # FINTRAC imposes an administrative monetary penalty on The Toronto-Dominion Bank

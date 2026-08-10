@@ -1,1 +1,0 @@
-Summary: # ls-test-img

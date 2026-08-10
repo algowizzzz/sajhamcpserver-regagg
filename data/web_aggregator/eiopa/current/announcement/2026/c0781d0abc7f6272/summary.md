@@ -1,1 +1,0 @@
-Summary: Today, the Board of Supervisors of the European Insurance and Occupational Pensions Authority (EIOPA) elected Ms Zuzana Silberova, Executive Director of the Financial Market Supervision Department at the Czech National Bank as a new member of the [Management Board](/about/decisio

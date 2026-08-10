@@ -1,1 +1,0 @@
-Summary: # Copper jumps to its highest level ever. What the metal is telling us

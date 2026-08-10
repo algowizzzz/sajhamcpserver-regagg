@@ -1,1 +1,0 @@
-Summary: # Mortgage Insurance Return – Section IV – Detailed Instructions

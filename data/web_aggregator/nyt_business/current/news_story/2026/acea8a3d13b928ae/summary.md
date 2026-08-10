@@ -1,1 +1,0 @@
-Summary: # Pilot Smuggled 55 Pounds of Ecstasy Into Indonesia, Officials Say

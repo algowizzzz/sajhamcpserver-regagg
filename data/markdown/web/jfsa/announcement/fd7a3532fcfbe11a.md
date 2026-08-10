@@ -5,19 +5,17 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.fsa.go.jp/en/policy/bgin/innovationtop.html"
-version: "1"
+published: "2023-03-17"
+version: "2"
 ---
 
 * [HOME](/en/index.html)
 
 [Tweet](https://twitter.com/share)
 
-[Japanese![open new window](/images/common/icon_newwin.gif)](/policy/bgin/innovationtop.html)
-  
-March 17, 2023
-  
-(Updated July 23, 2026)
-  
+[Japanese![open new window](/images/common/icon_newwin.gif)](/policy/bgin/innovationtop.html)  
+March 17, 2023  
+(Updated July 23, 2026)  
 Financial Services Agency
 
 # Financial Services Agency’s Efforts to Promote Innovation
@@ -72,9 +70,9 @@ The FSA sponsors online meetups with fintech firms from overseas hosted by JETRO
   + Announcement ["Japan Fintech Week 2025 and NewsLetter"](/en/news/2024/20240827/japanfintechweek.html)
 
 Contact Details
-:   Fintech and Innovation Office, Risk Analysis Division, Strategy Development and Management Bureau, Financial Services Agency
+:   Innovation Strategy Office, Crypto-asset and Stablecoin Division, Asset Management and Insurance Business Supervision Bureau, Financial Services Agency
 
-    Tel +81-(0)3-3506-6000 (ext. 2277,2559)
+    Tel +81-(0)3-3506-6000 (ext. 2856,2285)
 
 ## Site Map
 
@@ -118,8 +116,8 @@ Contact Details
 :   [Asia Region Funds Passport (ARFP)](/en/regulated_institutions/arfp/index.html)
 
 [FSA Weekly Review & ACCESS FSA](/en/newsletter/index.html)
-:   [Back Number (2022)](/en/newsletter/2022a.html)
-:   [Back Number (2021)](/en/newsletter/2021a.html)
-:   [Back Number (2020)](/en/newsletter/2020a.html)
+:   [Back Number (2025)](/en/newsletter/2025a.html)
+:   [Back Number (2024)](/en/newsletter/2024a.html)
+:   [Back Number (2023)](/en/newsletter/2023a.html)
 
 [![](/libs/images/pagetop_btn_e.png)top of page](#header)

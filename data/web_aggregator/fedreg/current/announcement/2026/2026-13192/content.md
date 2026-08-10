@@ -1,5 +1,0 @@
-# Assessments Thresholds, Rate Schedules, and Adjustments
-
-The Federal Deposit Insurance Corporation (FDIC) invites public comment on a proposed rule that would amend the assessment regulations in 12 CFR part 327 to: update the $10 billion asset threshold in the definitions of small and large institutions to $30 billion and adjust the threshold every four years to reflect inflation, pursuant to a pre-determined indexing methodology; decrease initial base deposit insurance assessment rate schedules by 2 basis points for small institutions and by 1 basis point for large and highly complex institutions; provide a downward resolution readiness adjustment to assessment rates for large and highly complex institutions, including 0.5 basis points for passing virtual data room testing and 0.5 basis points for providing prescribed data access; and remove obsolete provisions.
-
-> Full text pending: source page is bot-gated; this is the official API abstract.

@@ -1,1 +1,0 @@
-Summary: # Man’s Claim That Brakes Failed on Jaguar Was Scam to Avoid Car Payments, Court Rules

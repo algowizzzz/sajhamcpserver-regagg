@@ -1,1 +1,0 @@
-Summary: # Whether a Certain Operation Protecting On-line Personal Financial Information is a Money Transmitter

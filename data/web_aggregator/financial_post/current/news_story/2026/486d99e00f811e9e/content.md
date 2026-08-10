@@ -1,7 +1,0 @@
-# Yili Hosts Sustainability Forum at the World Dairy Industry Conference, Together Embarking on a New Journey for Post-2030 Dairy Development
-
-HOHHOT, China, Aug. 08, 2026 (GLOBE NEWSWIRE) — On August 2, the Sustainability Forum of the 2026 World Dairy Industry Conference, hosted by Yili Group, took place in Hohhot. Under the theme of Connecting Industrial Value, Creating a Green Future , the event brought together over 200 domestic and international guests. Attendees included heads of leading international organizations […]
-
-[Read the full story at the source](https://financialpost.com/globe-newswire/yili-hosts-sustainability-forum-at-the-world-dairy-industry-conference-together-embarking-on-a-new-journey-for-post-2030-dairy-development)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

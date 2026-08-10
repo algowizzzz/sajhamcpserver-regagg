@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; CME Securities Clearing Inc.; Order Approving Proposed Rule Change To Support Members' Risk Management of and Enhance Their Ability To Authorize Persons as Users

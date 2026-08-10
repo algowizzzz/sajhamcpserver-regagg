@@ -1,1 +1,0 @@
-Summary: # Weak yen boosts Japan automaker profits, easing Middle East, China stress

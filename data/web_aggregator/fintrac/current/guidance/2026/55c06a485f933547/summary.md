@@ -1,1 +1,0 @@
-Summary: # Money Laundering and Terrorist Financing Indicators—Securities dealers

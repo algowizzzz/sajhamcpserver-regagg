@@ -1,1 +1,0 @@
-Summary: # SpaceX shares rise even as company insiders get a chance to sell for the first time

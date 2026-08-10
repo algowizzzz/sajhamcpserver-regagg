@@ -1,1 +1,0 @@
-Summary: # Record keeping requirements for British Columbia notaries

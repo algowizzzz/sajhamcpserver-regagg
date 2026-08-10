@@ -1,1 +1,0 @@
-Summary: # Disney’s strong quarter driven by ‘Toy Story 5’ and the draw of its U.S. theme parks

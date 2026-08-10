@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published the calculation of the Ultimate Forward Rate (UFR) for 2020.

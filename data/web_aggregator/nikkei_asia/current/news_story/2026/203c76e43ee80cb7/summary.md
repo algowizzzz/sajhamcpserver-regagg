@@ -1,1 +1,0 @@
-Summary: # Mongolia's new-look parliament runs into old-style party politics

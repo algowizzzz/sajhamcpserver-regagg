@@ -1,1 +1,0 @@
-Summary: # G7 2026 Cross-Border Coordination Exercise (CBCE)

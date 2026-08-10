@@ -1,1 +1,0 @@
-Summary: # Banknote imagery expert panel minutes – 15 April 2026

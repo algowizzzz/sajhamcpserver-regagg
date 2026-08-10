@@ -1,1 +1,0 @@
-Summary: Mapping of Disclosure Categories for FINRA Rule 1017(a)(7) 

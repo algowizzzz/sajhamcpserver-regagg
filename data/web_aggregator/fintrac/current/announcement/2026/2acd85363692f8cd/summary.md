@@ -1,1 +1,0 @@
-Summary: # Allocution d'ouverture de Barry MacKillop, Directeur adjoint du Renseignement, Centre d'analyse des opérations et déclarations financières du Canada devant le Comité des finances de la Chambre des communes, Examen parlementaire de la Loi sur les urgences

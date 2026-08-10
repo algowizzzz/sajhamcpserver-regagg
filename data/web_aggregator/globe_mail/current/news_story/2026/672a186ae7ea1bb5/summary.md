@@ -1,1 +1,0 @@
-Summary: # Trump signs executive order protecting U.S. polysilicon industry

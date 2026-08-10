@@ -1,1 +1,0 @@
-Summary: ![Adobestock_news_eqiuty_risks](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_news_eqiuty_risks.jpeg?itok=caWWcyyf "Adobestock_news_eqiuty_risks")

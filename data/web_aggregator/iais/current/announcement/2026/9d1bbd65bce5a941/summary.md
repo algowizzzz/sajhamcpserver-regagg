@@ -1,1 +1,0 @@
-Summary: # IAIS launches final consultation in preparation for adoption of the Insurance Capital Standard in 2024

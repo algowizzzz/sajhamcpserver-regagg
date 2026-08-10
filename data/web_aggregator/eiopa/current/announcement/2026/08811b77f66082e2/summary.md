@@ -1,1 +1,0 @@
-Summary: At its meeting on 27 March 2019 the Board of Supervisors of the European Insurance and Occupational Pensions Authority (EIOPA) elected, effective immediately, Sergio Álvarez Camiña as a new member of EIOPA's Management Board. Sergio Álvarez Camiñais Director General for [Insuranc

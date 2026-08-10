@@ -1,7 +1,0 @@
-# ‘Refine, Baby, Refine’ Is the Energy Industry’s New Mantra
-
-America’s fuel-makers are maxed out as they try to fill in the gaps of the global fuel supply crunch.
-
-[Read the full story at the source](https://www.wsj.com/business/energy-oil/refine-baby-refine-is-the-energy-industrys-new-mantra-7ef95d61?mod=rss_markets_main)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

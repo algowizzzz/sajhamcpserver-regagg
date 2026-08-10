@@ -1,1 +1,0 @@
-Summary: # ‘Leicester Square, please guv’: Self-driving taxis cleared for London streets ‘later this summer’

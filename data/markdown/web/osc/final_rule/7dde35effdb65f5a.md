@@ -1,0 +1,10 @@
+---
+title: "Unofficial Consolidation: National Policy 11-201 Electronic Delivery of Documents | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/11-201/unofficial-consolidation-national-policy-11-201-electronic-delivery-documents"
+version: "1"
+---
+

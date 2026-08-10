@@ -1,1 +1,0 @@
-Summary: # Here’s how much a Toronto influencer spends to create a food video

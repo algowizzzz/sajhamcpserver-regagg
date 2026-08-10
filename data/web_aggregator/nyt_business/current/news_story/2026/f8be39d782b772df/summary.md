@@ -1,1 +1,0 @@
-Summary: # Bessent Declares Widening Gap Between Rich and Poor ‘Dead’

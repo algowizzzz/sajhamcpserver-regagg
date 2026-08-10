@@ -1,7 +1,0 @@
-# S&P/TSX composite index up in late-morning trading, U.S. markets also rise
-
-Canada’s main stock index gained ground in late-morning trading, helped by gains in the basic materials sector, while U.S. markets also rose.
-
-[Read the full story at the source](https://www.bnnbloomberg.ca/markets/2026/08/07/sptsx-composite-index-up-in-late-morning-trading-us-markets-also-rise/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

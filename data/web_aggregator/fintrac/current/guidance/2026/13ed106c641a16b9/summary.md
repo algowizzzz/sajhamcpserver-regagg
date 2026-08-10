@@ -1,1 +1,0 @@
-Summary: # Development and administration of the assessment of expenses funding model : Charging reporting entities for FINTRAC’s compliance program

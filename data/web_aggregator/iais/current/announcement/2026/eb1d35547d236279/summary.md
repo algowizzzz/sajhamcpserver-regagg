@@ -1,1 +1,0 @@
-Summary: Insurance Core Principles 

@@ -1,1 +1,0 @@
-Summary: # How Malta Became a Tax Haven for Crocs and Other U.S. Companies

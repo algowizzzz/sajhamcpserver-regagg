@@ -1,7 +1,0 @@
-# Rupee gains 26 paise to close at 95.11 against the US dollar
-
-The Indian rupee gained twenty-six paise on Wednesday, ending the session at ninety-five point eleven per dollar. This positive movement was aided by a decrease in oil prices. In addition, the Reserve Bank of India opted to keep its key interest rates unchanged while awaiting more definitive inflation data, as the situation around oil prices remains unpredictable.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/rupee-gains-26-paise-to-close-at-95-11-against-the-us-dollar/articleshow/132978987.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,1 +1,0 @@
-Summary: # JK Tyre &amp; Industries Q1 Results: Net profit tumbles 73% at Rs 44.09 crore

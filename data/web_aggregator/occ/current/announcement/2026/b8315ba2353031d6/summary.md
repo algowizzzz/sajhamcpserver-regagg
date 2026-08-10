@@ -1,1 +1,0 @@
-Summary: Chartering, Organization and Structure 

@@ -1,1 +1,0 @@
-Summary: # Démutualisation des sociétés d’assurances

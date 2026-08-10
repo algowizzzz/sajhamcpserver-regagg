@@ -1,1 +1,0 @@
-Summary: # Suspicious Activity Report Initiates Material Support of Terrorism Investigation

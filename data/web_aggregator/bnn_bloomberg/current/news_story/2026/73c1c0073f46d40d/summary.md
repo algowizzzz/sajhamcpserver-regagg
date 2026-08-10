@@ -1,1 +1,0 @@
-Summary: # Under Armour forecasts steeper annual sales decline on weak North America demand

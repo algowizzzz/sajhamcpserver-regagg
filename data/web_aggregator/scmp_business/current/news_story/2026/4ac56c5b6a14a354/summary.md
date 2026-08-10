@@ -1,1 +1,0 @@
-Summary: # The international hotel chains targeting China’s value-driven travellers

@@ -1,1 +1,0 @@
-Summary: Explanatory Note on Licensing  

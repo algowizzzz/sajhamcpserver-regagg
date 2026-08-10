@@ -1,1 +1,0 @@
-Summary: ![Adobestock_innovation](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_innovation.jpeg?itok=DJau6I-s "Adobestock_innovation")

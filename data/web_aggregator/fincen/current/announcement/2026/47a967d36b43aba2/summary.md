@@ -1,1 +1,0 @@
-Summary: # SAR Leads to Guilty Plea in Case against Doctor

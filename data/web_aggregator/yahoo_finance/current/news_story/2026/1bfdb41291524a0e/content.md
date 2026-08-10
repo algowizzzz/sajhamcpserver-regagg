@@ -1,7 +1,0 @@
-# Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report
-
-
-
-[Read the full story at the source](https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,1 +1,0 @@
-Summary: # Closing Auction Session: Why Sebi says the new framework is better than VWAP

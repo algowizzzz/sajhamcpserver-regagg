@@ -1,1 +1,0 @@
-Summary: # Agency Information Collection Activities; Proposed Collection; Comment Request; Extension: Rule 13f-2-Short Position and Short Activity Reporting by Institutional Investment Managers

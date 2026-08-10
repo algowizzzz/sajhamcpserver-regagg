@@ -1,1 +1,0 @@
-Summary: # Oil Price Today (August 6): Crude oil dips below $80 on hopes Iran-Oman deal could end Iran war. What are experts saying?

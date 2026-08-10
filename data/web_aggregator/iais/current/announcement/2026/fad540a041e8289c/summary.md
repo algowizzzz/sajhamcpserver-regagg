@@ -1,1 +1,0 @@
-Summary: Comment Letter - Exposure Draft, the IAASB’s proposed International Standard on Auditing 

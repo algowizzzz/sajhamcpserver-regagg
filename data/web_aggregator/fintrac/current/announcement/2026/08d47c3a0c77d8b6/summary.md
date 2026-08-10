@@ -1,1 +1,0 @@
-Summary: # Administrative Monetary Penalty on Royal Bank of Canada

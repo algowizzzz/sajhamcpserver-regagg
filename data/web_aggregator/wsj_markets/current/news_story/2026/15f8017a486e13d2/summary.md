@@ -1,1 +1,0 @@
-Summary: # How a Few Hot Stocks Can Make ‘Twin’ Funds Act Like Strangers

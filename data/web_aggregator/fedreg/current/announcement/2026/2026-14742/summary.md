@@ -1,1 +1,0 @@
-Summary: # Herzfeld Credit Income Fund, et al.

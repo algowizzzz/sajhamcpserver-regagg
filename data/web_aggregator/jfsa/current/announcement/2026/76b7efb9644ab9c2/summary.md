@@ -1,1 +1,0 @@
-Summary: Japan’s Corporate Governance Code  

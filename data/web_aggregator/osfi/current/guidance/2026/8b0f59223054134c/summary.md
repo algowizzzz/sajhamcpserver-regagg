@@ -1,1 +1,0 @@
-Summary: # Total Loss Absorbing Capacity (TLAC) – Guideline (2018)

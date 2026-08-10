@@ -1,1 +1,0 @@
-Summary: # Key Metrics Report – P&C insurers

@@ -1,1 +1,0 @@
-Summary: # IRB Credit Data Retail Portfolio Part-1 (BD)

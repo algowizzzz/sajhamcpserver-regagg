@@ -1,1 +1,0 @@
-Summary: ![Prescription Drugs](/sites/default/files/styles/wide_lead/public/media/2024/01/PressRelease_Generic-Heroes_Consumer_PrescriptionDrugCosts_05.jpg?h=b5f6a62e&itok=TDn1pj2d "Prescription Drugs")

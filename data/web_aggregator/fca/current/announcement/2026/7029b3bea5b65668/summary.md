@@ -1,1 +1,0 @@
-Summary: The insurance broker has agreed to stop carrying out any regulated activity. This means it can't provide any services on behalf of an insurer.

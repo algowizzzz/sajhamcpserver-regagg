@@ -1,1 +1,0 @@
-Summary: # Shopify shares soar as revenue forecast paints AI as growth driver

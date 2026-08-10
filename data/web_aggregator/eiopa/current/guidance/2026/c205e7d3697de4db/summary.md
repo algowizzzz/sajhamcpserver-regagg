@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a [Consultation on the proposal for Guidelines on information and communication technology (ICT) s [...] governance](/consultations/consultation-proposal-guidelines-information-and-communication-tec

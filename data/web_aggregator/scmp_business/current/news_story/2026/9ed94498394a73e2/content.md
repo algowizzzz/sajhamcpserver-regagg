@@ -1,8 +1,0 @@
-# Innovation platform buys Hong Kong office tower as state-linked buyers seek bargains
-
-The acquisition of a Hong Kong office tower by an innovation platform backed by Ningbo’s city government has reinforced analysts’ expectations that mainland government-linked institutions could play a bigger role in the city’s commercial property market, where prices remain depressed.
-Land Registry records show Yonggang Science and Technology Innovation Centre reached an agreement with receivers on June 25 to buy the Konnect office building in Wan Chai for HK$800 million (US$102 million) – about...
-
-[Read the full story at the source](https://www.scmp.com/business/article/3362930/innovation-platform-buys-hong-kong-office-tower-state-linked-buyers-seek-bargains?utm_source=rss_feed)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

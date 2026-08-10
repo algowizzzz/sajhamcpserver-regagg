@@ -1,1 +1,0 @@
-Summary: # The Hugging Face hack is now a PR crisis that’s costing OpenAI millions

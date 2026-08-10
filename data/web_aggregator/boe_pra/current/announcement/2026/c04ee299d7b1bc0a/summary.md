@@ -1,1 +1,0 @@
-Summary: # Asymmetric information and capital regulation in SME lending: a structural model of bank and non-bank competition

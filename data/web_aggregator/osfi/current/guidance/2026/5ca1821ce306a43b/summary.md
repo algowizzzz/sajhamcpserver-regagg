@@ -1,1 +1,0 @@
-Summary: # Life Insurance Capital Adequacy Test (2025) – Chapter 4 Credit Risk – Off-Balance Sheet Activities

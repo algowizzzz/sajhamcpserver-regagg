@@ -1,1 +1,0 @@
-Summary: # BSIF-565 – Avis d’assemblée annuelle ou extraordinaire

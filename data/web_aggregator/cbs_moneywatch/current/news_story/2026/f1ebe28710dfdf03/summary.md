@@ -1,1 +1,0 @@
-Summary: # Americans got their biggest raises in 40 years. Inflation took most of it.

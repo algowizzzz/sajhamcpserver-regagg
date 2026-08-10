@@ -1,1 +1,0 @@
-Summary: # Module 2 Suspicious transaction report specifications

@@ -1,1 +1,0 @@
-Summary: # Financing or leasing entities : FINTRAC's requirements

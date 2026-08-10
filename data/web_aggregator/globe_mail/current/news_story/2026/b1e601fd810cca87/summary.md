@@ -1,1 +1,0 @@
-Summary: # MOU could hold key to $8.25-billion oil sands expansion, Canadian Natural president says

@@ -1,1 +1,0 @@
-Summary: # McDonald's is rethinking its value menu. We want your take

@@ -1,1 +1,0 @@
-Summary: # Money laundering and terrorist financing indicators—British Columbia notaries

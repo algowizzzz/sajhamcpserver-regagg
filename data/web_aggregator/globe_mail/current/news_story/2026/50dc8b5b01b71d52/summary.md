@@ -1,1 +1,0 @@
-Summary: # Shopify shares soar as AI efforts begin to pay off

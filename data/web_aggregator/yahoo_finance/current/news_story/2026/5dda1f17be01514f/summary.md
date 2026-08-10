@@ -1,1 +1,0 @@
-Summary: # Stanley Druckenmiller Put 18% of His $3.4 Billion Portfolio in This One Stock. Is Natera a Buy?

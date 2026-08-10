@@ -1,7 +1,0 @@
-# Bitget Wallet X Launches Solver Program for Intent-Based Trading
-
-<link type="text/css" rel="stylesheet" href="https://www.globenewswire.com/styles/gnw_nitf.css" /><img alt="image2.png" data-mce-style="display: block; margin-left: auto; margin-right: auto;" height="315" src="https://ml-eu.globenewswire.com/Resource/Download/828a192f-03f6-4ee6-8358-f05103b2e8ca/image2.png" style="display:block; margin-left:
-
-[Read the full story at the source](https://markets.businessinsider.com/news/stocks/bitget-wallet-x-launches-solver-program-for-intent-based-trading-1036414306)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

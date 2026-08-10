@@ -1,1 +1,0 @@
-Summary: # Report de l’échéance d’aliénation du contrôle ou d’un intérêt de groupe financier acquis à la suite du défaut de paiement d’un prêt

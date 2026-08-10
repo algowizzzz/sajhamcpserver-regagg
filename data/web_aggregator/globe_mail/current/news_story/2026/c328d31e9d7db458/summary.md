@@ -1,1 +1,0 @@
-Summary: # Félix Auger-Aliassime withdraws from National Bank Open owing to back injury

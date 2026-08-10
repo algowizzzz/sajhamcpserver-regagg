@@ -1,1 +1,0 @@
-Summary: OSFI Form No. 542 (October 2002) – Terms and Conditions of Standard Form Trust Agreement 

@@ -1,1 +1,0 @@
-Summary: # Hindalco breaks out of key reversal pattern; SMC Global sees further upside

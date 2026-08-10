@@ -1,1 +1,0 @@
-Summary: # Muzinich Aviation Income Fund (mAIR) and Muzinich & Co., Inc.

@@ -1,1 +1,0 @@
-Summary: # U.S. job market stalled in July as employers cut 23,000 jobs, delivering political setback to Trump

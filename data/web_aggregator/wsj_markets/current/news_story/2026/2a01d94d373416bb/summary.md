@@ -1,1 +1,0 @@
-Summary: # Stock Market News, August 5, 2026: Nasdaq Falls After Morning Rally, SpaceX Slumps

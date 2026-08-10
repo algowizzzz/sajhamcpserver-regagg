@@ -1,1 +1,0 @@
-Summary: # How China gets better bang for its buck than America in AI

@@ -1,1 +1,0 @@
-Summary: # Zepto IPO setback highlights fault lines in India's quick commerce sector

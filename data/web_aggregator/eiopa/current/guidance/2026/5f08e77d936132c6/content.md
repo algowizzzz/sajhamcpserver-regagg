@@ -1,8 +1,0 @@
-Page Content
-
-Publication date
-:   11 October 2017
-
-## Related links
-
-[EIOPA publishes Guidelines on “execution-only” sales - Press release](/document/download/446c92e5-8bc1-4725-91cd-244a116a7453_en?filename=EIOPA%20publishes%20Guidelines%20on%20%E2%80%9Cexecution-only%E2%80%9D%20sales%20-%20Press%20release.pdf)

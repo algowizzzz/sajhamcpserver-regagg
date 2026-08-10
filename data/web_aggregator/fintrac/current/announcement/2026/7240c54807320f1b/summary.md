@@ -1,1 +1,0 @@
-Summary: # Pénalité administrative pécuniaire imposée à Masters Realty (2000) Ltd.

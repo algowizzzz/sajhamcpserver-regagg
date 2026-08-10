@@ -1,1 +1,0 @@
-Summary: # État du résultat global, bénéfices non répartis et AÉRG (P3)

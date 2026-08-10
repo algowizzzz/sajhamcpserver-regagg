@@ -1,1 +1,0 @@
-Summary: # Taux admissible minimal pour les prêts hypothécaires non assurés

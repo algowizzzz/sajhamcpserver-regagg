@@ -1,1 +1,0 @@
-Summary: # FINTRAC guidance related to the Ministerial Directive on Financial Transactions Associated with the Islamic Republic of Iran

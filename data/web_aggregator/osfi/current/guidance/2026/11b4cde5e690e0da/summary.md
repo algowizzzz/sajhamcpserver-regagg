@@ -1,1 +1,0 @@
-Summary: # Frequently asked questions - Crypto assets

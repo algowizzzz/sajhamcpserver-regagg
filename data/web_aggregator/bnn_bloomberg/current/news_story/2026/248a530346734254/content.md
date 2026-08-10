@@ -1,7 +1,0 @@
-# Trump administration to impose 15% tariff in polysilicon probe meant to counter China
-
-The Trump administration will announce as soon as Thursday a 15 per cent tariff and price floors on products made from polysilicon, the key raw material used in solar panels and semiconductors, according to sources.
-
-[Read the full story at the source](https://www.bnnbloomberg.ca/tariffs/2026/08/05/trump-administration-to-impose-15-tariff-on-polysilicon-sources-say/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

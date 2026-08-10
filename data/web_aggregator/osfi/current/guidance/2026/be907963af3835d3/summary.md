@@ -1,1 +1,0 @@
-Summary: # Life Supplementary Quarterly Return - Letter (2022)

@@ -1,1 +1,0 @@
-Summary: ![5 people happily holding signs](/sites/default/files/styles/wide_lead/public/media/2025/08/consumer-protection.jpg?h=b5f6a62e&itok=SaDjIZJz "5 people happily holding signs")

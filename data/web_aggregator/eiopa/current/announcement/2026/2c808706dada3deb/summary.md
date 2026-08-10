@@ -1,1 +1,0 @@
-Summary: EIOPA’s offices are located in **Frankfurt am Main, Germany**, a cosmopolitan city in the centre of Europe, hosting 178 nationalities.

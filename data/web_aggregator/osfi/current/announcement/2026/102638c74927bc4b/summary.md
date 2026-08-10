@@ -1,1 +1,0 @@
-Summary: # Exemption from self-dealing provisions disallowing issuance of shares of a FRE in exchange for shares of another body corporate

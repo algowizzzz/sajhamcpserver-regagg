@@ -1,1 +1,0 @@
-Summary: Report on the Aggregation Method 

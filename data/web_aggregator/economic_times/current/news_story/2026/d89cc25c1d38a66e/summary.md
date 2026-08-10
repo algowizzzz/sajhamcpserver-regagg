@@ -1,1 +1,0 @@
-Summary: # New India Assurance among 5 stocks showing bullish RSI upswing

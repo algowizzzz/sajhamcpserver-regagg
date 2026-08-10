@@ -1,1 +1,0 @@
-Summary: # Letter to industry on OSFI’s new operating model and structure

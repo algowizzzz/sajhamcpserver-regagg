@@ -1,1 +1,0 @@
-Summary: # McDonald’s U.S. Sales Slow as Diners Spend More Cautiously

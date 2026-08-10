@@ -1,1 +1,0 @@
-Summary: # Real Madrid Officially Announces Record First Team Transfer

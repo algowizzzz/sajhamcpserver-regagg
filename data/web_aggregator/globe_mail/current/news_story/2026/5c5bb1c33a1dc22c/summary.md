@@ -1,1 +1,0 @@
-Summary: # South Bow says it is on track for pipeline decision by middle of 2027

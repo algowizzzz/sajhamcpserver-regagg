@@ -1,1 +1,0 @@
-Summary: # Multibaggers: 12 stocks skyrocketed up to 925% in 6 months; here's how retail investors bet on them

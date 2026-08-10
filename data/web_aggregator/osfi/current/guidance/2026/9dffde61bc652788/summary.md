@@ -1,1 +1,0 @@
-Summary: # Capital Adequacy Requirements (CAR) (2027) – Chapter 7 – Settlement and Counterparty Risk

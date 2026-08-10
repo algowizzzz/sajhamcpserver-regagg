@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 7.35 (Auctions) for ETP IPO Securities

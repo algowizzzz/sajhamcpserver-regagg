@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published for consultation its [draft technical advice](/document/download/477ee0f9-eb0b-44e9-9507-14d50cb09485_en?filename=Consultation%20on%20technical%20advice%20on%20the%20integration%20of%20sustainabil

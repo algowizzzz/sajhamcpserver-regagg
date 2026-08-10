@@ -1,1 +1,0 @@
-Summary: # Detailed assessment of observance of the IAIS Insurance Core Principles in the Sultanate of Oman published

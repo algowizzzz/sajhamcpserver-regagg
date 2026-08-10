@@ -1,1 +1,0 @@
-Summary: ICS implementation assessment 

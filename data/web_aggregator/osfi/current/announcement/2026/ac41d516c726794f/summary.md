@@ -1,1 +1,0 @@
-Summary: # Asset transaction greater than 10% of assets

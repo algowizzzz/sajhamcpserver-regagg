@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Cboe EDGX Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Introduce a Data Vendor Program

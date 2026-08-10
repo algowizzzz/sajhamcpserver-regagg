@@ -1,1 +1,0 @@
-Summary: # Whether a Company that Provides Online Real-Time Deposit, Settlement, and Payment Services for Banks, Businesses and Consumers is a Money Transmitter rather

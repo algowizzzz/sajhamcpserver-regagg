@@ -1,1 +1,0 @@
-Summary: ![Payment method](/sites/default/files/styles/wide_lead/public/media/2025/08/payment-online.jpg?h=b5f6a62e&itok=Alufh47U "payment with phone")

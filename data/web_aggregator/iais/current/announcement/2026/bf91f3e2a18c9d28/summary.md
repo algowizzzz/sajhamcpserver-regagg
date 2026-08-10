@@ -1,1 +1,0 @@
-Summary: # IAIS publishes aggregate report on the peer review process on ICP 16 (Enterprise Risk Management for Solvency Purposes)

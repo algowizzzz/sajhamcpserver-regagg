@@ -1,1 +1,0 @@
-Summary: # Positive Breakout: These 11 stocks cross above their 200 DMAs

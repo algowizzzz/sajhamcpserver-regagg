@@ -1,1 +1,0 @@
-Summary: # Internal capital adequacy assessment process template

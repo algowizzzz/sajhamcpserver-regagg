@@ -1,1 +1,0 @@
-Summary: # Opinion | Clarity for Crypto, Sort Of

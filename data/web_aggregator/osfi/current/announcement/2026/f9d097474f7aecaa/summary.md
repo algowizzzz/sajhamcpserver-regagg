@@ -1,1 +1,0 @@
-Summary: # Sociétés de fiducie et de prêt

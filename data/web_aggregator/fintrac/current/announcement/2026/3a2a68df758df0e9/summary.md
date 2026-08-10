@@ -1,1 +1,0 @@
-Summary: # CANAFE impose une pénalité administrative pécuniaire à Sino Financial Ltd, faisant également affaire sous le nom de Sino Financier

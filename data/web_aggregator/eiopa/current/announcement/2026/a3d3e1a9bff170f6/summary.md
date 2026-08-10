@@ -1,1 +1,0 @@
-Summary: *Crucial biennial exercise to assess the resilience and potential vulnerabilities of the European Defined Benefit and Defined Contribution pension sector*

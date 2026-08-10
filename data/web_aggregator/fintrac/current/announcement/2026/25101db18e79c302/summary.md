@@ -1,1 +1,0 @@
-Summary: # Ministères et mandataires de Sa Majesté du chef du Canada ou d’une province (mandataires de Sa Majesté)

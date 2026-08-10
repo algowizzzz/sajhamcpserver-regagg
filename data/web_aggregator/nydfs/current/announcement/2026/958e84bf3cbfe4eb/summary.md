@@ -1,1 +1,0 @@
-Summary: ![pharmacist](/sites/default/files/styles/wide_lead/public/media/2024/01/PressRelease_Generic-Heroes_Consumer_PrescriptionDrugCosts_02.jpg?h=b5f6a62e&itok=57GR4115 "pharmacist")

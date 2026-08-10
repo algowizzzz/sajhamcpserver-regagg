@@ -1,1 +1,0 @@
-Summary: # Bank Rate maintained at 3.75% - April 2026 Monetary Policy Summary and Minutes

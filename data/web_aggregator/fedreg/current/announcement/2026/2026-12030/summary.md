@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE Stock Exchange LLC; Notice of Designation of a Longer Period for Commission Action on Proceedings to Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Section 802.01C of the NYSE Liste

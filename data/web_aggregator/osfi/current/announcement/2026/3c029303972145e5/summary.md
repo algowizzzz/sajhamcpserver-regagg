@@ -1,1 +1,0 @@
-Summary: # Fichier des portefeuilles d’actifs à risque (RAPID1)

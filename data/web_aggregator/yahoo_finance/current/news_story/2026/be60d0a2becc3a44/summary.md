@@ -1,1 +1,0 @@
-Summary: # Silver prices today, Friday, August 7, 2026: Silver surge continues as jobs report disappoints

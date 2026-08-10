@@ -1,1 +1,0 @@
-Summary: Millions of car finance customers who may be owed compensation can get help making a complaint for free, as the FCA launches a national advertising campaign.

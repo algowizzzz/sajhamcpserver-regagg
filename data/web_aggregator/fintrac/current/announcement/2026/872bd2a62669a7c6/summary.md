@@ -1,1 +1,0 @@
-Summary: # Module 3 : Spécifications pour les déclarations d'opérations importantes en espèces : Transmission de déclarations par lots

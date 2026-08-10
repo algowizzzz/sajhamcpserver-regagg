@@ -1,1 +1,0 @@
-Summary: # U.S. and Japan Coordinated to Help Stabilize the Yen

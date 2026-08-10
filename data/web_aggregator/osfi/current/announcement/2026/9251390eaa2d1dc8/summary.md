@@ -1,1 +1,0 @@
-Summary: # Rectification de la non-conformité dans la composition du conseil d’administration

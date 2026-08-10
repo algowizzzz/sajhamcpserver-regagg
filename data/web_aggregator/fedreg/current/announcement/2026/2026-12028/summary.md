@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change to Amend Cboe Bitcoin U.S. ETF Index Options (“CBTX”) and Cboe Mini Bitcoin U.S. ETF Index Options (“MBTX”) Standard Transaction Fees

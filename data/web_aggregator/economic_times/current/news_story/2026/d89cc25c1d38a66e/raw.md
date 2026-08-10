@@ -1,7 +1,0 @@
-# New India Assurance among 5 stocks showing bullish RSI upswing
-
-Five stocks in the Nifty500 pack that gained over 7% featured in the RSI Trending Up scan on August 5 after showing improving momentum. The RSI moved above the 50 mark from lower levels, signalling strengthening price action, improving sentiment and potential short-term buying opportunities for traders tracking bullish technical setups.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/new-india-assurance-among-5-stocks-showing-bullish-rsi-upswing/slideshow/132979831.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

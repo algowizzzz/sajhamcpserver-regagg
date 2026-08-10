@@ -1,5 +1,0 @@
-# Permitted Payment Stablecoin Issuer Anti-Money Laundering/Countering the Financing of Terrorism and Sanctions Compliance Risk Management
-
-The Office of the Comptroller of the Currency (OCC), in coordination with the Department of the Treasury's Financial Crimes Enforcement Network (FinCEN) and the Office of Foreign Assets Control (OFAC), proposes to issue regulations to implement the Guiding and Establishing National Innovation for U.S. Stablecoins Act's requirement to issue regulations implementing appropriate Bank Secrecy Act (BSA) and sanctions compliance standards for permitted payment stablecoin issuers subject to the OCC's jurisdiction.
-
-> Full text pending: source page is bot-gated; this is the official API abstract.

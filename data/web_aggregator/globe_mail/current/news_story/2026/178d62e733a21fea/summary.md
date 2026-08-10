@@ -1,1 +1,0 @@
-Summary: # Nutrien misses quarterly profit estimates as lower sales weigh on world’s top potash producer

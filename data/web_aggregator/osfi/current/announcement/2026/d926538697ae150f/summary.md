@@ -1,1 +1,0 @@
-Summary: # Life Insurance Return – Section III – Definitions

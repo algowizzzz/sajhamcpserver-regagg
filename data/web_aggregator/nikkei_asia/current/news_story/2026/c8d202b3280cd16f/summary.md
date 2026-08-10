@@ -1,1 +1,0 @@
-Summary: # Bain Capital to buy Taiwan-originated Gong Cha chain for over $635m

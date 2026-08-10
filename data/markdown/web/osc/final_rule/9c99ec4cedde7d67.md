@@ -1,0 +1,10 @@
+---
+title: "Request for Comment: OSC Notice- 15-901 - Proposed Procedures for Opportunities to be Heard Before Director's Decisions on Registration Matters | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/15-901/request-comment-osc-notice-15-901-proposed-procedures-opportunities-be-heard-directors-decisions"
+version: "1"
+---
+

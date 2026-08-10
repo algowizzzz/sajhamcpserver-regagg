@@ -1,1 +1,0 @@
-Summary: # The Bank of Nova Scotia - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)

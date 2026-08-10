@@ -1,1 +1,0 @@
-Summary: # Copper Prices Rise to New Record

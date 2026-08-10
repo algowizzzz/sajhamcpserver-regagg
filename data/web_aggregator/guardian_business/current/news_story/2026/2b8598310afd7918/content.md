@@ -1,7 +1,0 @@
-# US unexpectedly lost 23,000 jobs in July as slump in growth continues
-
-Estimates for previous two months were revised down sharply but unemployment rate held steady at 4.1% Business live – latest updates US employers unexpectedly lost 23,000 jobs in July and gains for the previous two months were revised down sharply by a combined 103,000 jobs, painting a weaker picture of the labor market than past data indicated. The unemployment rate, however, held steady at 4.1%. Economists had projected an unchanged unemployment rate and 83,000 new jobs for the month. Continue reading...
-
-[Read the full story at the source](https://www.theguardian.com/business/2026/aug/07/july-jobs-report-middle-east-conflict)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

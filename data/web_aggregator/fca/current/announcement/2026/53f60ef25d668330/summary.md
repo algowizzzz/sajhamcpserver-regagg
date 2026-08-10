@@ -1,1 +1,0 @@
-Summary: Anthropic will support the second group of firms in the FCA's Supercharged Sandbox.

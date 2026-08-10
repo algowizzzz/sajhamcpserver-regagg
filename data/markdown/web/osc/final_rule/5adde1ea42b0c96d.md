@@ -1,0 +1,11 @@
+---
+title: "Proposed Amendments to National Instrument 21-101 Marketplace Operation and Proposed Changes to Companion Policy 21-101CP Marketplace Operation | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+reference: "21-101"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/2/21-101/proposed-amendments-national-instrument-21-101-marketplace-operation-and-proposed-changes"
+version: "1"
+---
+

@@ -1,1 +1,0 @@
-Summary: # BlueGrace Logistics acquires Idaho 3PL Truk TMS

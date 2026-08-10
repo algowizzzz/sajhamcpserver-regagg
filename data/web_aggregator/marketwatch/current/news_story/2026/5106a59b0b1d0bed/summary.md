@@ -1,1 +1,0 @@
-Summary: # Should wealthier Americans forgo their Social Security benefits as a charitable gesture?

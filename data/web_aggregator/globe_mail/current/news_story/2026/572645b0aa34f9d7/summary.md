@@ -1,1 +1,0 @@
-Summary: # Trump administration to impose 15% tariff and price floors on polysilicon

@@ -1,1 +1,0 @@
-Summary: # Nepal in tight spot as US seeks special treatment for Starlink

@@ -1,1 +1,0 @@
-Summary: # The Bank of England’s fees regime for financial market infrastructure supervision for CCPs and CSDs 2026/27

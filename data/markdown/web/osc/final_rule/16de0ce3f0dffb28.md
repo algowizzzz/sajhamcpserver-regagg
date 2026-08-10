@@ -1,0 +1,10 @@
+---
+title: "MI 32-102 Registration Exemptions for Non-Resident Investment Fund Managers and Companion Policy 32-102CP Registration Exemptions for Non-Resident Investment Fund Managers | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/3/32-102/mi-32-102-registration-exemptions-non-resident-investment-fund-managers-and-companion-policy-32"
+version: "1"
+---
+

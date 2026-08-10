@@ -5,7 +5,7 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.dfs.ny.gov/consumers/health_insurance/home"
-version: "1"
+version: "4"
 ---
 
 ![Doctor and Patient](/sites/default/files/styles/wide_lead/public/media/2024/01/PressRelease_Generic-Heroes_Consumer_HealthInsurance_01.jpg?h=b5f6a62e&itok=IXyA9is_ "Doctor and Patient")
@@ -50,11 +50,17 @@ There are many protections and coverage requirements for mental health and subst
 
 * Learn more about [Mental Health and Substance Use Disorder](/consumers/health_insurance/new_york_health_insurance_policies__programs/mh_sud) coverage in New York.
 
+### Health Insurance Coverage for Dyslexia
+
+Since January 1, 2025, the “Dyslexia Diagnosis Access Act” requires fully insured health insurance policies issued in New York to cover comprehensive neuropsychological examinations for dyslexia upon the referral of a physician when performed by a health care professional acting within their scope of practice upon policy issuance or renewal.
+
+* Learn more about [Dyslexia and Health Insurance Coverage for Neurological Exams](/consumers/coverage-for-dyslexia)
+
 ### Women's Healthcare
 
 Comprehensive health insurance policies sold in New York must include coverage for women’s health care services, including preventive care screenings, cancer screenings and treatment, contraceptives, infertility, maternity care, maternal depression, and medically necessary abortions.
 
-* Learn more about [when Women’s Health Care Protections Apply](/consumers/womens_healthcare).
+* Learn more about [When Women’s Health Care Protections Apply](/consumers/womens_healthcare).
 
 ### Gender Affirming Care
 
@@ -240,7 +246,7 @@ Continue
 
 ## Questions?
 
-If you are unable to find the answer to your questions here on our website, [check our FAQs](/faqs/consumer_faqs/homeowner_property). If you still have questions, or want to file a complaint with DFS call the DFS Hotline at (800) 342-3736, Monday to Friday, from 8:30 AM to 4:30 PM or [send us an email](/cdn-cgi/l/email-protection#63000c0d10160e061110230705104d0d1a4d040c15).
+If you are unable to find the answer to your questions here on our website, [check our FAQs](/faqs/consumer_faqs/homeowner_property). If you still have questions, or want to file a complaint with DFS call the DFS Hotline at (800) 342-3736, Monday to Friday, from 8:30 AM to 4:30 PM or [send us an email](/cdn-cgi/l/email-protection#12717d7c61677f776061527674613c7c6b3c757d64).
 
 [Back to Top ▲](#toc-sidebar)
 

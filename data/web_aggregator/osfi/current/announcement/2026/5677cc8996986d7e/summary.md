@@ -1,1 +1,0 @@
-Summary: # Liquidity Coverage Ratio (LCR) Reporting (LA) — Change Control Log

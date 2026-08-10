@@ -1,7 +1,0 @@
-# AI models shock UK testers by using fake identities to try to trick developers
-
-AI Security Institute says OpenAI and Anthropic models went rogue during a cybersecurity test and showed a new type of risk Explainer: Should we be alarmed at AI models going rogue in tests? Advanced artificial intelligence models have stunned the UK’s AI Security Institute (AISI) by carrying out a hacking campaign against real people during a cybersecurity test. The institute said the incident was unprecedented and involved sending targeted emails to software developers in an attempt to pass a cyber challenge. Continue reading...
-
-[Read the full story at the source](https://www.theguardian.com/technology/2026/aug/05/openai-anthropic-models-went-rogue-cybersecurity-test-ai-security-institute)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

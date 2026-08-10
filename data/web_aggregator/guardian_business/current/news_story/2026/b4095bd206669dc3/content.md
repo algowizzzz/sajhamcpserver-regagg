@@ -1,7 +1,0 @@
-# Teachers need help with AI. A union is offering training – with $23m in funding from big tech
-
-Partnership between American Federation of Teachers, one of the largest labor unions in the US, and AI firms has stirred controversy Darius Saczuk, a high school teacher, views artificial intelligence as his enemy. Earlier this year, he and several dozen New York City teachers spent the day inside a windowless conference room in downtown Manhattan to learn how to use AI and prevent students from outsourcing their thinking to it. As Saczuk sees it, he needs to understand his enemy in order to beat it. Continue reading...
-
-[Read the full story at the source](https://www.theguardian.com/technology/2026/aug/05/teachers-unions-ai-training)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

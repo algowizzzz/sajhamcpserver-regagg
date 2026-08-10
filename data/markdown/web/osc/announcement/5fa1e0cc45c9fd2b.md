@@ -1,0 +1,10 @@
+---
+title: "Standard & Poor's Ratings Services (Canada), a business unit of The McGraw-Hill Companies (Canada) Corporation | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/standard-poors-ratings-services-canada-business-unit-mcgraw"
+version: "1"
+---
+

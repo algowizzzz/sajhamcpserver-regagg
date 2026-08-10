@@ -1,1 +1,0 @@
-Summary: # Announcement of the publication of the Governor's interview transcript

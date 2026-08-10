@@ -1,1 +1,0 @@
-Summary: # American Girl celebrates girl power

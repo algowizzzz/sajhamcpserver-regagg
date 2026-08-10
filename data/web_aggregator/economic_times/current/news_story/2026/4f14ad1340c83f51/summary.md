@@ -1,1 +1,0 @@
-Summary: # Ola Electric Q1 Results: Loss narrows to Rs 336 crore; revenue falls 45% YoY

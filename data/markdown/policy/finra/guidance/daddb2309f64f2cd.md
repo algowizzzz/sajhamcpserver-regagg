@@ -1,0 +1,179 @@
+---
+title: "20260629 Information Notice"
+regulator: "finra"
+doc_type: "guidance"
+status: "final"
+source_kind: "policy_pdf"
+source_url: "https://www.finra.org/sites/default/files/2026-06/20260629-Information%20Notice.pdf"
+version: "1"
+---
+
+Information Notice
+Daily Customer and Broker-Dealer Proprietary 
+Account (PAB) Reserve Computations 
+Summary
+FINRA is issuing this Notice to remind carrying members of the SEC’s 
+compliance date for the required daily customer and PAB reserve 
+computations, which will apply to members with average total credits 
+equal to or greater than $500 million. This Notice also highlights 
+guidance provided by the SEC Division of Trading and Markets staff 
+(Division staff) regarding the reserve deposit adjustment related to 
+sweep program credits and provides information on how carrying 
+members may report such adjustments. In addition, consistent with 
+Division staff guidance, the Notice provides dates on which the daily 
+customer and PAB reserve computation is not required in calendar 
+years 2026 and 2027.
+Questions concerning this Notice should be directed to:
+• Ann Duguid, Senior Director, Office of Financial & Operational Risk 
+Policy (OFORP), at (646) 315-7260 or Ann.Duguid@finra.org; or
+• Kathryn Mahoney, Senior Director, OFORP, at (646) 315-8428 or 
+Kathryn.Mahoney@finra.org.
+Questions may also be directed to your firm’s Risk Monitoring Analyst. 
+Background
+Compliance Date
+The SEC amended SEA Rule 15c3-31 to require certain carrying 
+broker-dealers to increase the frequency with which they perform 
+computations of the net cash they owe to customers (“customer reserve 
+computation”) and PAB account holders (“PAB reserve computation”) 
+from weekly to daily. The daily computation requirements apply to 
+carrying members having reported average total credits equal to 
+or greater than $500 million in their 12 most recently filed month-
+end FOCUS reports.2 The SEC has stated that members that meet 
+this threshold must perform customer and PAB computations 
+daily beginning no later than June 30, 2026 (i.e., firms must use the 
+information as of the close of business on June 30, 2026, to perform 
+their computations on July 1, 2026).3 
+1
+Information Notice
+Suggested Routing
+	X Compliance
+	X Legal
+	X Operations
+	X Regulatory Reporting
+	X Senior Management
+Key Topic(s)
+	X Daily Customer Reserve 
+Computations 
+	X Daily PAB Reserve Computations
+	X FOCUS Report
+Referenced Rules and Notices
+	X Form X-17A-5 Part II
+	X SEA Rule 15c3-3
+June 29, 2026
+
+Sweep Program Cash and the Customer Reserve Computation
+The Division staff has provided guidance to broker-dealers that compute a daily 
+customer reserve formula and offer their customers a sweep program4 (FAQ #5):5
+Question 5: Can a carrying broker-dealer reduce a required deposit (i.e., excess 
+of total credits over total debits) to its customer reserve bank account(s) by the 
+amount of credits included in such customer reserve computation which are 
+transferred, on the business day following the “as of” date of the computation, 
+to a Sweep Program under paragraph (j)(2)(ii) of Rule 15c3-3 (hereinafter “sweep 
+credits”)?
+Answer: Staff would not object if a carrying broker-dealer reduces a required 
+deposit to its customer reserve bank account(s) by the amount of sweep credits 
+included in such customer reserve computation which are transferred, on the 
+business day following the “as of” date of the computation, to a Sweep Program 
+under paragraph (j)(2)(ii) of Rule 15c3-3.  A carrying broker-dealer may not 
+consider any sweep credits in determining whether it may make a withdrawal 
+from its customer reserve bank account(s) under paragraph (g) of Rule 15c3-3.
+The FOCUS report does not currently include a line item for a member to report 
+the reduction in a required reserve account deposit resulting from sweep credits, 
+as permitted by FAQ #5. To report this information, carrying members may use a 
+new data field developed by FINRA (Line Item 4495) and submit the information to 
+FINRA through the eFOCUS user interface. This line item, illustrated in Attachment 
+A, is designed to show how such reduction affects the total amount required to be 
+deposited in the reserve bank account reported on the FOCUS report. FINRA notes 
+the line item is voluntary and intended to aid members in their reporting.
+Dates on Which Reserve Computations Are Not Required 
+The Division staff has additionally provided relief to broker-dealers from computing 
+daily customer or PAB reserve formula computations on federal holidays and certain 
+other specified days (collectively referred to as Non-Computation Days) (FAQ #6):6  
+Question 6: Can a carrying broker-dealer that performs a required daily customer 
+and/or PAB reserve computation treat Federal Holidays, Good Friday, and certain 
+other business days adjacent to holidays as non-computation days (“Additional 
+Days”) for purposes of paragraph (e)(3) of Rule 15c3-3?
+Answer: Staff would not object if a carrying broker-dealer that performs a 
+required daily customer and/or PAB reserve computation does not perform a 
+customer and/or PAB reserve computation on the following days: (1) a Federal 
+Holiday; (2) Good Friday; or (3) the following Additional Days: [See following table 
+provided by FINRA.] 
+2 Information Notice
+June 29, 2026
+
+Non-Computation Days
+(Note: FINRA provides the dates listed under the columns for 2026 and 2027 to assist 
+members with their reporting.)
+  Non-Computation Days  Days in 2026  Days in 2027
+New Year’s Day Thursday, January 1, 2026 Friday, January 1, 2027
+Friday before Birthday of Martin Luther 
+King, Jr. Friday, January 16, 2026 Friday, January 15, 2027
+Birthday of Martin Luther King, Jr. Monday, January 19, 2026 Monday, January 18, 2027
+Friday before Washington’s Birthday (Presi-
+dent’s Day) Friday, February 13, 2026 Friday, February 12, 2027
+Washington’s Birthday (President’s Day) Monday, February 16, 2026 Monday, February 15, 2027
+Thursday before Good Friday Thursday, April 2, 2026 Thursday, March 25, 2027
+Good Friday Friday, April 3, 2026 Friday, March 26, 2027
+Friday before Memorial Day Friday, May 22, 2026 Friday, May 28, 2027
+Memorial Day Monday, May 25, 2026 Monday, May 31, 2027
+Business Day before Juneteenth National 
+Independence Day; however, if Juneteenth 
+falls on a Thursday, the Additional Day will 
+be the Friday after Juneteenth  Thursday, June 18, 2026 Thursday, June 17, 2027
+Juneteenth National Independence Day Friday, June 19, 2026 Friday, June 18, 2027
+Business Day before Independence Day; 
+however, if Independence Day falls on a 
+Thursday, the Additional Day will be the 
+Friday after Independence Day Thursday, July 2, 2026 Friday, July 2, 2027
+Independence Day Friday, July 3, 2026 Monday, July 5, 2027
+Friday before Labor Day Friday, September 4, 2026 Friday, September 3, 2027
+Labor Day Monday, September 7, 2026 Monday, September 6, 2027
+Friday before Columbus Day Friday, October 9, 2026 Friday, October 8, 2027
+Columbus Day Monday, October 12, 2026 Monday, October 11, 2027
+Veterans Day Wednesday, November 11, 2026 Thursday, November 11, 2027
+Thanksgiving Day Thursday, November 26, 2026 Thursday, November 25, 2027
+Friday after Thanksgiving Day Friday, November 27, 2026 Friday, November 26, 2027
+Business Day before Christmas Day; how-
+ever, if Christmas Day falls on a Thursday, 
+the Additional Day will be the Friday after 
+Christmas Day Thursday, December 24, 2026 Thursday, December 23, 2027
+Christmas Day Friday, December 25, 2026 Friday, December 24, 2027
+Business Day before New Year’s Day Thursday, December 31, 2026 Friday, December 31, 2027
+3 Information Notice
+June 29, 2026
+
+Endnote
+1. See Securities Exchange Act Release No. 102022 
+(December 20, 2024), 90 FR 2790 (January 13, 
+2025) (Daily Computation Adopting Release).
+2. SEA Rule 15c3-3(e)(3)(i)(B)(1) defines “average 
+total credits” to mean the “arithmetic mean 
+of the sum of Total Credits in the Customer 
+Reserve Bank Account computation and the PAB 
+Reserve Bank Account computation reported 
+in the 12 most recently filed month-end Forms 
+X-17A-5.” See SEA Rule 15c3-3 and Related 
+Interpretations. 
+3. See Securities Exchange Act Release No. 103320 
+(June 25, 2025), 90 FR 27990 (July 1, 2025) 
+(Extension of Compliance Date for Required Daily 
+Computation of Customer and Broker-Dealer 
+Reserve Requirements Under the Broker-Dealer 
+Customer Protection Rule).
+4. SEA Rule 15c3-3(a)(17) defines the term “Sweep 
+Program” to mean “a service provided by a 
+broker or dealer where it offers to its customer 
+the option to automatically transfer free credit 
+balances in the securities account of the 
+customer to either a money market mutual 
+fund product as described in § 270.2a-7 of this 
+chapter or an account at a bank whose deposits 
+are insured by the Federal Deposit Insurance 
+Corporation.” See SEA Rule 15c3-3 and Related 
+Interpretations.
+5. See Division of Trading and Markets: Frequently 
+Asked Questions – Rule 15c3-3 and Daily 
+Customer and PAB Reserve Computations.
+6. See note 5.
+4 Information Notice
+June 29, 2026

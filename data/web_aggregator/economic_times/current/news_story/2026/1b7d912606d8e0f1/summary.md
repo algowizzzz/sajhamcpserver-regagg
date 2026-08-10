@@ -1,1 +1,0 @@
-Summary: # Lone warriors! How two mid-tier tech stocks rewarded investors in Rs 10 lakh crore IT crash this year

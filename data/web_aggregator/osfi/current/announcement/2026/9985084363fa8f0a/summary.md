@@ -1,1 +1,0 @@
-Summary: # IFRS 18: Presentation and Disclosure Standard impact on Federally Regulated Insurer Reporting to OSFI

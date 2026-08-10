@@ -1,1 +1,0 @@
-Summary: # Protéger le Canada d'une crise financière

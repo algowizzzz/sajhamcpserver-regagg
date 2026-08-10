@@ -1,1 +1,0 @@
-Summary: # The IAIS comment letters to the IAASB (ISA 570 (Revised) Going Concern) and to the ISSB (Consultation on Agenda Priorities)

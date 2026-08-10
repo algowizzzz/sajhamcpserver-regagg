@@ -1,1 +1,0 @@
-Summary: # RioCan reports higher profit in Q2 as leasing improves

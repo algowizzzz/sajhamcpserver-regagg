@@ -1,1 +1,0 @@
-Summary: # (Formerly known as 92-1) How does a financial institution fulfill the requirement to verify and record the name and address of an elderly or disabled individual who conducts a currency transaction in excess of $ 10,000

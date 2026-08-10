@@ -1,1 +1,0 @@
-Summary: Formulaire BSIF 541 (octobre 2002) – Acte de fiducie type 

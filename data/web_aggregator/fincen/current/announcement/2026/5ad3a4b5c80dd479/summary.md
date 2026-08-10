@@ -1,1 +1,0 @@
-Summary: # Suspicious Activity Report Leads to the Investigation and Conviction of Elected Official

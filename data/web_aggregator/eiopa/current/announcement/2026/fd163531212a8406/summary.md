@@ -1,1 +1,0 @@
-Summary: Publication date

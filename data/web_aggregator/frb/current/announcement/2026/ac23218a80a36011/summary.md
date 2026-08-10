@@ -1,1 +1,0 @@
-Summary: UNITED  STATES  OF  AMERICA 

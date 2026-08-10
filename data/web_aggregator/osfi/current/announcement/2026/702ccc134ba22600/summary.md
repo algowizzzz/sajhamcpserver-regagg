@@ -1,1 +1,0 @@
-Summary: # Guide sur l’ouverture d’une succursale de banque étrangère au Canada

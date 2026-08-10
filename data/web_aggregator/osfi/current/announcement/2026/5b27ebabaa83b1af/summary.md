@@ -1,1 +1,0 @@
-Summary: Formulaire BSIF 542 (octobre 2002) – Modalités de l’Acte de fiducie type 

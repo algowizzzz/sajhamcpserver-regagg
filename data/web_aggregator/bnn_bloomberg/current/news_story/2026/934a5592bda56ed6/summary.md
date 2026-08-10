@@ -1,1 +1,0 @@
-Summary: # Possible Strait of Hormuz deal, a large attack in Yemen and other Mideast news

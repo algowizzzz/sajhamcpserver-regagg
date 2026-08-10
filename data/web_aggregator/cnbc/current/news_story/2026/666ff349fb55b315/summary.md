@@ -1,1 +1,0 @@
-Summary: # Fed Governor Cook says she's 'prepared to act' on rate hike to address inflation

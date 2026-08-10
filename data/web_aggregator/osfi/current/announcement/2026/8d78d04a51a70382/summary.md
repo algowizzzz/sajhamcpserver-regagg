@@ -1,1 +1,0 @@
-Summary: # Changement de dénomination — entité étrangère

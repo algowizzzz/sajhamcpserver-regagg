@@ -1,1 +1,0 @@
-Summary: # Martin Marietta Receives Regulatory Approvals for Lhoist North America Transaction

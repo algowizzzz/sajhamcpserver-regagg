@@ -1,1 +1,0 @@
-Summary: # First OpenAI, now Meta - why do AI hacks keep happening?

@@ -1,1 +1,0 @@
-Summary: The European Insurance and Occupational Pensions Authority (EIOPA) launched today - as part of the 2020 Solvency II reporting and disclosure review – Wave 1 - a field test on the revised and newly proposed templates. As indicated in the context of the consultation on supervisory 

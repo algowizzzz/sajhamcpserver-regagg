@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE Arca, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 7.18-E Regarding Regulatory Halts for Corporate Actions and Issuer-Related Events

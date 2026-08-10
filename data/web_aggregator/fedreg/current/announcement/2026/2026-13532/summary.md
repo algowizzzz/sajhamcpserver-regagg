@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE American LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Modify the NYSE American Options Fee Schedule Regarding Fees and Rebates Applicable to Manual Transactions

@@ -1,1 +1,0 @@
-Summary: # Phillies Boss Reveals Luis Arraez Wasn’t His First Trade Deadline Choice

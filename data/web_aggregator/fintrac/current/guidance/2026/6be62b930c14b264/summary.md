@@ -1,1 +1,0 @@
-Summary: # Exigences en matière de tenue de documents s'appliquant aux ministères et mandataires de Sa Majesté

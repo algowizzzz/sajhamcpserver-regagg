@@ -1,1 +1,0 @@
-Summary: # How the dry weather affects your supermarket shop

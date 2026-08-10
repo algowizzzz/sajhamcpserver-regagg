@@ -1,1 +1,0 @@
-Summary: # Substantial Investments\* Requiring Superintendent Approval – Permitted Entites

@@ -1,8 +1,0 @@
-# Peninsula group to renovate Hong Kong flagship, Tokyo hotel in US$268m project
-
-The owner of Hong Kong’s iconic Peninsula hotel plans to invest HK$2.1 billion (US$268 million) to renovate its flagship hotel in the city and its Tokyo property, betting on the long-term strength of the luxury travel market despite geopolitical uncertainty and volatile consumer demand.
-Hongkong and Shanghai Hotels (HSH), which owns and operates The Peninsula hotel chain, announced the renovation plan on Wednesday alongside interim results showing a return to profit after stronger performances...
-
-[Read the full story at the source](https://www.scmp.com/business/companies/article/3363063/peninsula-group-renovate-hong-kong-flagship-tokyo-hotel-us268m-project?utm_source=rss_feed)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

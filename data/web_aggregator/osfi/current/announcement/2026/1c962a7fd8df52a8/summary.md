@@ -1,1 +1,0 @@
-Summary: # Nantissement et prise en pension (U3)

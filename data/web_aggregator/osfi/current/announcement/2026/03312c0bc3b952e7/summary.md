@@ -1,1 +1,0 @@
-Summary: # Relevé du ratio de levier (RRL)

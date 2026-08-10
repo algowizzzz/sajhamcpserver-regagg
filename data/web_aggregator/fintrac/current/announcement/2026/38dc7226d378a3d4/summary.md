@@ -1,1 +1,0 @@
-Summary: # Departments and agents or mandataries of His Majesty in right of Canada or of a province (Agents of the Crown)

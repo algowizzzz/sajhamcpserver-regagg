@@ -1,1 +1,0 @@
-Summary: # Internal Liquidity Adequacy Assessment Process (ILAAP) for Deposit-Taking Institutions – Guideline (2027)

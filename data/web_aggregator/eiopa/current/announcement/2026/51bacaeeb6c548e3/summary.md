@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a  The Opinion will respond to the call for advice of the European Commission of 11 February 2019 on the 2020 review of Solvency II.

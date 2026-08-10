@@ -1,1 +1,0 @@
-Summary: # Energy Vault Announces Strategic Agreement to Deploy 1.25 GW of Integrated Power Infrastructure for Hyperscaler AI Data Center with Leading Power Generation EPC Deploying Caterpillar Gensets

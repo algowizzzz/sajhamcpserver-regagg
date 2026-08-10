@@ -1,1 +1,0 @@
-Summary: # Hotchkis & Wiley Mid-Cap Value Fund is Bullish on Marriott Vacations Worldwide (VAC)

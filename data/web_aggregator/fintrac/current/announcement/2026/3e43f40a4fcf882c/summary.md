@@ -1,1 +1,0 @@
-Summary: # CANAFE signe un protocole d’entente avec l’Organisme d’autoréglementation du courtage immobilier du Québec

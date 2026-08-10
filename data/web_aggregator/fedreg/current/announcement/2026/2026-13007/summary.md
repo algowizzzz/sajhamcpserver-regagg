@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Nasdaq ISE, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend The Exchange's Rules at Options 7, Section 4 (Complex Order Fees and Rebates)

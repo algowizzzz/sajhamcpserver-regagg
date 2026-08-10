@@ -1,1 +1,0 @@
-Summary: # Résumé des consultations

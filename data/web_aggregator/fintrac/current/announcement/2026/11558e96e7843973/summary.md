@@ -1,1 +1,0 @@
-Summary: # Quarterly financial report for the quarter ended June 30, 2023 (unaudited)

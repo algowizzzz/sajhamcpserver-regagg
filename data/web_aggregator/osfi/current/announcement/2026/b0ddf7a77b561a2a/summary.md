@@ -1,1 +1,0 @@
-Summary: # Demandes de dénomination sociale

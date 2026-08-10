@@ -1,1 +1,0 @@
-Summary: # ‘Perps’ Are the Risky New Derivatives That Could Amplify Stock Blowups

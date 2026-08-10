@@ -1,1 +1,0 @@
-Summary: # Opinion | A Brief History of Wealth Creation

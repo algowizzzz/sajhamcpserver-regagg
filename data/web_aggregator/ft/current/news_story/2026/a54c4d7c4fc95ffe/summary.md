@@ -1,1 +1,0 @@
-Summary: # Saudi Arabia, Turkey and Pakistan sign defence pact in Mecca

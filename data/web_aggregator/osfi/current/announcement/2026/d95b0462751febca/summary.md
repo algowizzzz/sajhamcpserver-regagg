@@ -1,1 +1,0 @@
-Summary: # Extension of the holding period of a temporary investment of a foreign bank or an entity associated with a foreign bank

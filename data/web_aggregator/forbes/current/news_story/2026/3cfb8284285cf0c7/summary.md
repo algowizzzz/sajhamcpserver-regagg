@@ -1,1 +1,0 @@
-Summary: # Yankees’ Slugger Castoff Joins Cardinals After Latest Cut

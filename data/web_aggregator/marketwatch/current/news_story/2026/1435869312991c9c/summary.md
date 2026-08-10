@@ -1,1 +1,0 @@
-Summary: # Why AT&T, Verizon and T-Mobile shares are down after SpaceX’s earnings

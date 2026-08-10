@@ -1,1 +1,0 @@
-Summary: # Alphabet’s stock drops as Google loses another key AI executive

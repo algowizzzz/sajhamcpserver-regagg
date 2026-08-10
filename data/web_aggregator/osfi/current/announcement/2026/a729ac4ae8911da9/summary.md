@@ -1,1 +1,0 @@
-Summary: # Guideline B-20 explained

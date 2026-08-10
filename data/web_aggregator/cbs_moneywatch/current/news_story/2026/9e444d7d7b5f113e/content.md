@@ -1,7 +1,0 @@
-# 8/2: Sunday Morning
-
-Jane Pauley hosts our annual "Money Issue." Featured: Obstacles to home ownership; fighting health insurance denials; Chinese EVs; opposition to AI data centers; American Girl dolls; skin care mogul Scarlett Johansson; roller coasters; the popularity of Bingo!; and is your phone eavesdropping on you?
-
-[Read the full story at the source](https://www.cbsnews.com/video/080226-sunday-morning/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

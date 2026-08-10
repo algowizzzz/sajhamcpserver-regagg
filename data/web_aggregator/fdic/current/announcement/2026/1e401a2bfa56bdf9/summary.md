@@ -1,1 +1,0 @@
-Summary: **This was a notational vote.**

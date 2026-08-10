@@ -1,1 +1,0 @@
-Summary: # Net Stable Funding Ratio Disclosure Requirements – Letter (2019)

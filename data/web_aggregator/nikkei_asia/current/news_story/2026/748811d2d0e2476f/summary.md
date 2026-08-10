@@ -1,1 +1,0 @@
-Summary: # Mitsubishi Motors to expand Pajero SUV revival with midsize model

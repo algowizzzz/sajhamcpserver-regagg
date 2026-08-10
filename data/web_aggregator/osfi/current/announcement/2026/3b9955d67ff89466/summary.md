@@ -1,1 +1,0 @@
-Summary: # Change Control Log (Mortgage Insurers Capital Adequacy Test)

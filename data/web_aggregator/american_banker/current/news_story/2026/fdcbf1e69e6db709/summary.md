@@ -1,1 +1,0 @@
-Summary: # What we know about the CFPB's forthcoming open-banking rule

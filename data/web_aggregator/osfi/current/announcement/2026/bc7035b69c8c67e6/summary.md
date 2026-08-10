@@ -1,1 +1,0 @@
-Summary: # Vente de la totalité ou de la quasi-totalité des éléments d’actif par des institutions de dépôts

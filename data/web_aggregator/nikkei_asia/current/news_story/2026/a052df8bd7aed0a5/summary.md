@@ -1,1 +1,0 @@
-Summary: # Tokyo office rents hit fresh 3-decade high as market tightens

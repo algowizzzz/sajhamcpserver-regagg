@@ -1,1 +1,0 @@
-Summary: # WSJ Dollar Index Rises 0.24% to 96.23

@@ -1,1 +1,0 @@
-Summary: # Own Risk and Solvency Assessment

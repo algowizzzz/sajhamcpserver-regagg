@@ -1,1 +1,0 @@
-Summary: # ​2026 Annual Report under the Fighting Against Forced Labour and Child Labour in Supply Chains Act

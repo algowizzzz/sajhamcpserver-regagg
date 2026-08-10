@@ -1,1 +1,0 @@
-Summary: Firm Element Focus

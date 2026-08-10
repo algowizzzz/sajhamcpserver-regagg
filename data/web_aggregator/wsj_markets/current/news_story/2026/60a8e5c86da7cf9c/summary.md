@@ -1,1 +1,0 @@
-Summary: # Monte dei Paschi Weighs Options to Fend Off Intesa Bid

@@ -1,1 +1,0 @@
-Summary: # Joint Industry Plan; Notice of Filing and Immediate Effectiveness of Amendment to the Plan To Address Extraordinary Market Volatility To Add Texas Stock Exchange LLC as a Participant

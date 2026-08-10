@@ -1,1 +1,0 @@
-Summary: **The Joint Committee of the European Supervisory Authorities (ESAs) published today its final** [report on Big Data](/document/download/2f99de0e-559a-41b0-b6b9-5c5dab2eb836_en?filename=jc-2018-04_joint_committee_final_report_on_big_data.pdf) **analysing its impact on consumers a

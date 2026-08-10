@@ -1,1 +1,0 @@
-Summary: # Global Market: SK Hynix approves $38.3 billion investment plan through 2031 to expand AI chip production

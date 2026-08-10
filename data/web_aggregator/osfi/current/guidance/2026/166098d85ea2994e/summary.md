@@ -1,1 +1,0 @@
-Summary: # Amendments to the minimum qualifying rate for uninsured mortgages - Letter (2021)

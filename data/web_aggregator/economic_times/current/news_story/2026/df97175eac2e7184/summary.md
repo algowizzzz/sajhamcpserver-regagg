@@ -1,1 +1,0 @@
-Summary: # Behari Lal Engineering IPO price band set at Rs 271-285, issue opens on August 12

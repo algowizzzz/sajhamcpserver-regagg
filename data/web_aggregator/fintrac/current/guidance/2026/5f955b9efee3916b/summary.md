@@ -1,1 +1,0 @@
-Summary: # Record keeping requirements for real estate brokers or sales representatives, and real estate developers : FINTRAC's compliance guidance

@@ -1,1 +1,0 @@
-Summary: # Avolta enters Kolkata Airport, growing duty-free presence in India

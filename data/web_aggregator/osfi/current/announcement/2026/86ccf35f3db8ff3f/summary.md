@@ -1,1 +1,0 @@
-Summary: # Test du capital minimal des sociétés d'assurance multirisques et test de suffisance de l’actif des succursales – Guide de production du relevé PC4

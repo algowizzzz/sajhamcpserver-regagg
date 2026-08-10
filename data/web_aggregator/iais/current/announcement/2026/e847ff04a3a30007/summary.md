@@ -1,1 +1,0 @@
-Summary: # IAIS publishes report assessing implementation of the Holistic Framework insurance standards in ten major markets

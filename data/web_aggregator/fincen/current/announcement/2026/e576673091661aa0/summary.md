@@ -1,1 +1,0 @@
-Summary: # Securities Dealer Provides Details of High Yield Investment Program Scheme

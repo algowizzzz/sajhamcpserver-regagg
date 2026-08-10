@@ -1,1 +1,0 @@
-Summary: # SK Hynix Drops 5% After Approving $38B in New Memory Fabs; Seagate Falls 7%, Micron Barely Dips

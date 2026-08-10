@@ -1,1 +1,0 @@
-Summary: # Investor Outlook: Suncor raises buybacks after earnings beat

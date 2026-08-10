@@ -1,1 +1,0 @@
-Summary: # European Indexes Rise as Earnings Drive Markets

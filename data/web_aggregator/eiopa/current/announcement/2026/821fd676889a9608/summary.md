@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pensions Authority published its [Risk dashboard](/tools-and-data/insurance-risk-dashboard_en) based on the third-quarter 2017 data.

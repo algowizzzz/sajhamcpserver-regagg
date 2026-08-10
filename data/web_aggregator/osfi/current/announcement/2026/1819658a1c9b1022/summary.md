@@ -1,1 +1,0 @@
-Summary: # 2024 Mémoire à l’intention de l’actuaire désigné - Tableaux supplémentaires

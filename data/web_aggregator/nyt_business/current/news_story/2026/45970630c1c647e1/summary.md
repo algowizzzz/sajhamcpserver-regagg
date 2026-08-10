@@ -1,1 +1,0 @@
-Summary: # Amid Cyclospora Outbreak, Demand for Locally Grown Lettuce Surges

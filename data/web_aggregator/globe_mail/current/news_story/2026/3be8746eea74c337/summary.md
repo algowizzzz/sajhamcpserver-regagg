@@ -1,1 +1,0 @@
-Summary: # Allied Gold CEO open to piecemeal sale after Zijin deal falls through

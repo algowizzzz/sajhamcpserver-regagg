@@ -1,0 +1,10 @@
+---
+title: "Amendments to Companion Policy 13-502CP Fees | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/13-502/amendments-companion-policy-13-502cp-fees"
+version: "1"
+---
+

@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Proposed Rule Change to the Risk Management Model Description for the CDS Clearing Service

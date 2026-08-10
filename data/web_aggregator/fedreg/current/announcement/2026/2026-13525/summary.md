@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Certain Initial and Continued Listing Standards

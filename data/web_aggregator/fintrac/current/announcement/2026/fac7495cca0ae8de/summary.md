@@ -1,1 +1,0 @@
-Summary: # Stratégie ministérielle de développement durable 2023-2027

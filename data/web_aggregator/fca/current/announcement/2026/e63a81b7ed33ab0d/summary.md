@@ -1,1 +1,0 @@
-Summary: ![Ariel view of the City of London](/sites/default/files/styles/blog_main_image_desktop/public/media/images/vertically-integrated-insurance-blog.jpg.jpg?itok=2ZOp2-s1)

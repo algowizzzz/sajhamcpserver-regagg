@@ -1,1 +1,0 @@
-Summary: # Public discussion webinar on the Application Paper on Operational Resilience Objectives and Toolkit

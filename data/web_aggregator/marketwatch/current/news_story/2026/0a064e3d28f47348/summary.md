@@ -1,1 +1,0 @@
-Summary: # Sandisk’s stock falls as the company’s forecast doesn’t live up to high expectations

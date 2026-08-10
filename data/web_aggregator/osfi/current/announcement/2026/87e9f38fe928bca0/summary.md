@@ -1,1 +1,0 @@
-Summary: # Prolongation de la période d’alinéation du contrôle ou de la détention d’un intérêt de groupe financier obtenu à la suite d’un prêt en souffrance – agrément du ministre

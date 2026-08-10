@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE National, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Connectivity Fee Schedule

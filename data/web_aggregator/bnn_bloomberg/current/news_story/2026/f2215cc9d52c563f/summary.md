@@ -1,1 +1,0 @@
-Summary: # Canadian, U.S. markets edge lower as oil rises, driving inflationary fears

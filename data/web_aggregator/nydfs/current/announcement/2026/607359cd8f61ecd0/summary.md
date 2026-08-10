@@ -1,1 +1,0 @@
-Summary: ![picture of an umbrella](/sites/default/files/styles/wide_lead/public/media/2019/01/istock-897545934_insurance_cos_cropped.jpg?h=57de7ab1&itok=JMmh4skm "Insurance Companies")

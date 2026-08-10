@@ -1,1 +1,0 @@
-Summary: # Mortgage administrators, brokers and lenders : FINTRAC's requirements

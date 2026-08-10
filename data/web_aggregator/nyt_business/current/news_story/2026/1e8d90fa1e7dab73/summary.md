@@ -1,1 +1,0 @@
-Summary: # The ‘Heated Rivalry’ Star Hudson Williams Uplifts a Canadian Tire Bag

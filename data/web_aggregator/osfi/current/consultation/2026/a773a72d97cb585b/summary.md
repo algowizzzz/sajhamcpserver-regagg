@@ -1,1 +1,0 @@
-Summary: # Le BSIF fait la synthèse des réponses à son document de consultation sur la gestion du risque lié aux placements des régimes de retraite

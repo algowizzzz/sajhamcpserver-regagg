@@ -1,1 +1,0 @@
-Summary: # 27 juillet 2020 Reprise des activités d'examen au bureau

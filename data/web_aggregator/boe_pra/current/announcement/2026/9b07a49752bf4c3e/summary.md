@@ -1,1 +1,0 @@
-Summary: # 2025 CCP Global International Default Simulation: key findings and observations

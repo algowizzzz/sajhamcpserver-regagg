@@ -1,1 +1,0 @@
-Summary: # Agency Information Collection Activities; Submission for OMB Review; Comment Request; Extension: Rule 147A(f)(1)(iii) Written Representation as to Purchaser Residency

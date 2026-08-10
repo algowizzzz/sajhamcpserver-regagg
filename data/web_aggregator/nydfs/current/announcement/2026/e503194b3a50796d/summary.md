@@ -1,1 +1,0 @@
-Summary: ![image of three men talking](/sites/default/files/styles/wide_lead/public/media/2019/02/istock-856727494_service_contract_cropped.jpg?h=57de7ab1&itok=6Aoe7hje "Service Contract Providers")

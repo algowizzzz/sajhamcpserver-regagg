@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend FINRA Rule 1210 (Registration Requirements)

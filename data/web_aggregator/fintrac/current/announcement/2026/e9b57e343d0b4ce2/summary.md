@@ -1,1 +1,0 @@
-Summary: # FINTRAC imposes an administrative monetary penalty on Sino Financial Ltd, operating as Sino Financier

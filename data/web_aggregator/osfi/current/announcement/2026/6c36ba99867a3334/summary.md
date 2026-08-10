@@ -1,1 +1,0 @@
-Summary: # Ratio de liquidité à long terme (DT1)

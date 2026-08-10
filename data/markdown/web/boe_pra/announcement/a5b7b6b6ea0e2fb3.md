@@ -6,7 +6,7 @@ status: "final"
 source_kind: "web"
 source_url: "https://www.bankofengland.co.uk/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario"
 published: "2026-06-19"
-version: "1"
+version: "2"
 ---
 
 # Private markets system-wide exploratory scenario: publication of the stress scenario
@@ -164,9 +164,9 @@ The Bank will share findings from its initial information gathering in the July 
 
 19 June 2026
 
-### Private markets system-wide exploratory scenario
+### Private markets system-wide exploratory scenario:...
 
-### Private markets system-wide exploratory scenario](/financial-stability/boe-system-wide-exploratory-scenario-exercise/private-markets-system-wide-exploratory-scenario)
+### Private markets system-wide exploratory scenario: publication of the stress scenario](/financial-stability/boe-system-wide-exploratory-scenario-exercise/publication-of-the-stress-scenario-for-the-private-markets-system-wide-exploratory-scenario)
 
 [Publication // Stress testing
 

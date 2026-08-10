@@ -1,1 +1,0 @@
-Summary: # Capital Adequacy Requirements Guideline (2026) – Letter

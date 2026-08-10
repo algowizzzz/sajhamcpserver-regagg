@@ -1,1 +1,0 @@
-Summary: # Bank of England and Financial Conduct Authority’s approach to joint regulation of systemic stablecoin issuers

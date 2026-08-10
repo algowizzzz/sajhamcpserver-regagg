@@ -1,1 +1,0 @@
-Summary: # Fighting health care insurers

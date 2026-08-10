@@ -1,1 +1,0 @@
-Summary: Remarks of Jonathan V . Gould 

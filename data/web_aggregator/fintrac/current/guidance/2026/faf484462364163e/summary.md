@@ -1,1 +1,0 @@
-Summary: # Business relationship requirements : FINTRAC's compliance guidance

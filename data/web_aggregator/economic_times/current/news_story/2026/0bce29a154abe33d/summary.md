@@ -1,1 +1,0 @@
-Summary: # Shiprocket IPO price band fixed at Rs 92-97; Rs 1,618 crore issue to open on August 12

@@ -1,1 +1,0 @@
-Summary: # Nikkei Falls 1.3%, Dragged by Electronics Stocks

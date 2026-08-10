@@ -1,1 +1,0 @@
-Summary: # Non Mortgage Loans (A2)

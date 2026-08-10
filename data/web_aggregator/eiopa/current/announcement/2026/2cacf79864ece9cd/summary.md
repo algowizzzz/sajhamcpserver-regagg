@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published an updated [technical documentation for the calculation of the volatility adjustment to risk-free interest rates (RFR) for the Danish krone and Denmark.](/document/download/05c0bda4-737f-464b-894d

@@ -1,1 +1,0 @@
-Summary: # Company and business name requests

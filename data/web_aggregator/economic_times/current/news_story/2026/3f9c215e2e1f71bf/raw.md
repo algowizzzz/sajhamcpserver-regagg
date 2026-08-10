@@ -1,7 +1,0 @@
-# Godrej Consumer shares slide 4% after Q1 margin falls amid commodity inflation; Rs 5/share dividend declared
-
-Godrej Consumer Products shares fell 4.3% after the FMCG major reported its June quarter results. Consolidated net profit rose 12% year-on-year to Rs 505 crore, while revenue from operations increased 18% to Rs 4,225 crore. Despite healthy growth, the stock declined as investors reacted to the quarterly performance.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/godrej-consumer-shares-slide-4-after-q1-margin-falls-amid-commodity-inflation-rs-5/share-dividend-declared/articleshow/133027551.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,1 +1,0 @@
-Summary: # Canada has an AI adoption plan. Now, it needs an adaptation plan that prioritizes workers

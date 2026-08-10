@@ -1,7 +1,0 @@
-# Soriot should explain the curious case of AstraZeneca’s non-deal
-
-AstraZeneca’s rumoured takeover of Bristol Myers Squibb already looked weird, and was met with a lack of enthusiasm by shareholders AstraZeneca falls to third-largest UK company amid US merger talks Hold the heartburn pills. It seems AstraZeneca is no longer contemplating a takeover of US rival Bristol Myers Squibb (BMS) to create a $400bn (£300bn) pharmaceutical colossus . On Monday, the UK firm’s shares plunged 9% on the FT’s report of preliminary talks . On Wednesday, Reuters said there are no ongoing discussions. Cue a mini-relief rally in AZ’s share price. Neither company has seen fit to tell its shareholders what was happening, so it’s impossible to know if the talks were a tentative ‘what if?’ corporate flirtation or something more substantial that has been killed, perhaps, by the lack of enthusiasm on the part of AZ’s shareholders. Continue reading...
-
-[Read the full story at the source](https://www.theguardian.com/business/nils-pratley-on-finance/2026/aug/05/soriot-should-explain-the-curious-case-of-astrazenecas-non-deal)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

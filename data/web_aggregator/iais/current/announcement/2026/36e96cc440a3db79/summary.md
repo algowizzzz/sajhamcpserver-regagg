@@ -1,1 +1,0 @@
-Summary: Consultation comments on draft Application Paper on climate 

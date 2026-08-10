@@ -1,1 +1,0 @@
-Summary: # Ford infrastructure announcement for Scarborough Health Network leaves hospital facing cuts to staff and services in its underfunded operating budget – CUPE

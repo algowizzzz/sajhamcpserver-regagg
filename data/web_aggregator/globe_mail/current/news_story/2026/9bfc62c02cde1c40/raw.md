@@ -1,7 +1,0 @@
-# Diageo CEO plans $1-billion in cost cuts as he confronts weak growth
-
-Restructuring plan would change the company’s cost structure and have ‘very significant impacts’ on employees
-
-[Read the full story at the source](https://www.theglobeandmail.com/business/international-business/article-diageo-ceo-plans-1-billion-in-cost-cuts/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

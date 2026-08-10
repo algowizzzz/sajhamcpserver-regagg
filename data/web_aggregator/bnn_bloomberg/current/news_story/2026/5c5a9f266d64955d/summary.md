@@ -1,1 +1,0 @@
-Summary: # Gas prices fall across Canada as oil prices ease, but experts warn relief may be short-lived

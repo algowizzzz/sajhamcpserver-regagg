@@ -1,1 +1,0 @@
-Summary: # 'No US lawsuits filed yet, ready to defend on facts if needed': HDFC Bank CEO clarifies on governance allegations

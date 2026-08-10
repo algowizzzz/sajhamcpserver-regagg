@@ -1,1 +1,0 @@
-Summary: # Agency Information Collection Activities: Proposed Information Collection; Reporting Forms and Instructions for Permitted Payment Stablecoin Issuers Subject to the Jurisdiction of the Office of the Comptroller of the Currency; Comment Request

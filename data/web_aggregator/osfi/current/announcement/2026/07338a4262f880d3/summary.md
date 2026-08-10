@@ -1,1 +1,0 @@
-Summary: # Opération sur l’actif de plus de 10 %

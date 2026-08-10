@@ -1,1 +1,0 @@
-Summary: # SARs Lead to Recovery of Funds Derived from Medical Fraud

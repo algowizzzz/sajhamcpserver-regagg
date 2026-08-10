@@ -1,1 +1,0 @@
-Summary: # Subventions et contributions de plus de 25 000 $

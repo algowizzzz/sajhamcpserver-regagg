@@ -1,1 +1,0 @@
-Summary: # Réserve pour stabilité intérieure - Résumé de la décision - Juin 2023

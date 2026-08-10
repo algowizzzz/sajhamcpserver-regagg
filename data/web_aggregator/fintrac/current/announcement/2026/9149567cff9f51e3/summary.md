@@ -1,1 +1,0 @@
-Summary: # FINTRAC signs a Memorandum of Understanding with the Organisme d'autoréglementation du courtage immobilier du Québec

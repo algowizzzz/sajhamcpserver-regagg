@@ -1,1 +1,0 @@
-Summary: # Gold prices today, Tuesday, August 4, 2026: Gold remains above $4,100 with Iran threats looming

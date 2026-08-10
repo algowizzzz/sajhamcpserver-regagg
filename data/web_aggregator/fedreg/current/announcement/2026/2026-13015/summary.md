@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Fee Structure Related to DJX and RUT FLEX Micro Orders and To Eliminate References to MSCI Index Products

@@ -1,1 +1,0 @@
-Summary: # Michigan says it’s OK to start eating salads again as cyclospora outbreak wanes

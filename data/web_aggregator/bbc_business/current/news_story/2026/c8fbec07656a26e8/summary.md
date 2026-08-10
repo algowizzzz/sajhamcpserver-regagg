@@ -1,1 +1,0 @@
-Summary: # Surprise fall in US jobs last month as slow summer continues

@@ -1,1 +1,0 @@
-Summary: # Gianni Infantino admits ‘mistakes’ over failed $20bn Fifa investment plan

@@ -1,1 +1,0 @@
-Summary: # Trump to announce $180 million to boost mining education

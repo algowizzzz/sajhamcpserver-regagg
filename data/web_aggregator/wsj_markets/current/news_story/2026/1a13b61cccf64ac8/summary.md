@@ -1,1 +1,0 @@
-Summary: # Oil Futures Settle Mixed as Iran Says Hormuz Route Agreed With Oman

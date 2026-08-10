@@ -1,1 +1,0 @@
-Summary: Global Insurance Market Report (GIMAR) 

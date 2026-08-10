@@ -1,1 +1,0 @@
-Summary: # Partie XII: Acquisition du contrôle d’une entité ne s’occupant pas de services financiers (autre qu’une entité à activités commerciales restreintes) ou d’un intérêt de groupe financier

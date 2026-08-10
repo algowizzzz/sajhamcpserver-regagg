@@ -1,1 +1,0 @@
-Summary: # Bank of England/Ipsos Inflation Attitudes Survey - May 2026

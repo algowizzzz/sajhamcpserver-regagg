@@ -1,1 +1,0 @@
-Summary: # Guide on harm done assessment for violations of other compliance measures

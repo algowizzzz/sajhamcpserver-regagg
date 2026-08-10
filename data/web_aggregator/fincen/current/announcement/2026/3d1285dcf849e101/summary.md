@@ -1,1 +1,0 @@
-Summary: # Attorney General’s Office Case Example (Mortgage Fraud)

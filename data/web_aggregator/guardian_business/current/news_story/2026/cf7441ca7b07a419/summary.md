@@ -1,1 +1,0 @@
-Summary: # Bank battle: history suggests Burnham faces fight if he opts for windfall tax

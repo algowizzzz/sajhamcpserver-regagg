@@ -1,1 +1,0 @@
-Summary: # Opinion du Government Actuary's Department (GAD) du Royaume-Uni sur la revue par les pairs du 31e rapport actuariel du RPC

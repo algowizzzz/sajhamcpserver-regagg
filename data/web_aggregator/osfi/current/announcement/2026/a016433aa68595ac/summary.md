@@ -1,1 +1,0 @@
-Summary: # General Guidelines for Use of Letters of Credit (LOC’s)

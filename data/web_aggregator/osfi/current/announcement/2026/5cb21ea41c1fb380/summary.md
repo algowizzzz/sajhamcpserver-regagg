@@ -1,1 +1,0 @@
-Summary: # Extension of holding period of temporary investments - minister’s approval

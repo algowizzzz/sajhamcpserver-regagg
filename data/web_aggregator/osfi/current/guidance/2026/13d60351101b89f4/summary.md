@@ -1,1 +1,0 @@
-Summary: # OSFI’s expectations for CDOR Transition

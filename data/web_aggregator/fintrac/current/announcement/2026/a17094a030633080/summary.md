@@ -1,1 +1,0 @@
-Summary: # Administrateurs, courtiers et prêteurs hypothécaires : Exigences de CANAFE

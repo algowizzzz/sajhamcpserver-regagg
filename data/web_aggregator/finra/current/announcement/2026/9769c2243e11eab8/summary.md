@@ -1,1 +1,0 @@
-Summary: # Website Language Translations in Your Browser

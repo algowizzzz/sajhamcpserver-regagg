@@ -1,1 +1,0 @@
-Summary: # Déclaration de biens appartenant à une personne ou entité inscrite à CANAFE

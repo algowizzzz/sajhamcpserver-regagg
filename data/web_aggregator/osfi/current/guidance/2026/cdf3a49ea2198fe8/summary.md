@@ -1,1 +1,0 @@
-Summary: # Bank of Montreal - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)

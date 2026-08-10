@@ -1,1 +1,0 @@
-Summary: # Stakeholder session on the IAIS’ work on diversity, equity and inclusion (DEI) in the insurance industry

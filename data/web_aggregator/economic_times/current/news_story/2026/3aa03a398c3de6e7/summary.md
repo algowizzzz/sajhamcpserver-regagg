@@ -1,1 +1,0 @@
-Summary: # DLF eyes Rs 1 lakh cr sales pipeline in 4-5 yrs, rules out REIT for now

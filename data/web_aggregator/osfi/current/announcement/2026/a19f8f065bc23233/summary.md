@@ -1,1 +1,0 @@
-Summary: # BSIF-597 – EFA, rapport des vérificateurs et documents destinés aux actionnaires

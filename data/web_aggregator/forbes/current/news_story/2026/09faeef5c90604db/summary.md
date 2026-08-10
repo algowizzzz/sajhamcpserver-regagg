@@ -1,1 +1,0 @@
-Summary: # Rodri Agrees To Join FC Barcelona, Reports Jijantes

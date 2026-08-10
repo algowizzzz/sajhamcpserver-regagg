@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Financial Industry Regulatory Authority, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the FINRA Rule 6300 Series (Trade Reporting Facilities) To Extend the Trade Reporting Facilities Operating Hours to 23 H

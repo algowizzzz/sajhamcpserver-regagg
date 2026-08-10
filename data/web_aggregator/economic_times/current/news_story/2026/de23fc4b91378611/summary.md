@@ -1,1 +1,0 @@
-Summary: # UPL Share Price Live Updates: UPL's recent returns reflect market challenges

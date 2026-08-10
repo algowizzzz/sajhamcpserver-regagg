@@ -1,1 +1,0 @@
-Summary: # Series 7 – General Securities Representative Exam

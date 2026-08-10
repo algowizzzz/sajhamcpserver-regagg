@@ -1,1 +1,0 @@
-Summary: Develop a career in a dynamic and international environment

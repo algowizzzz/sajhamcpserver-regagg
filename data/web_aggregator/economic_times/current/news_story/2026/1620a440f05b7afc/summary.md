@@ -1,1 +1,0 @@
-Summary: # Uber shares drop 6% as weak forecast overshadows strong bookings

@@ -1,1 +1,0 @@
-Summary: # What’s Behind the A.I. Shake-Up at Google

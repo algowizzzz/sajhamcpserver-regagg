@@ -1,1 +1,0 @@
-Summary: # Trump’s $400 million White House ballroom hits another legal roadblock

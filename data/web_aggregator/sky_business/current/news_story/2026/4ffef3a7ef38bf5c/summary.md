@@ -1,1 +1,0 @@
-Summary: # Oil giant BP profits more than double due to Iran war - again

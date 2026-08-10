@@ -1,7 +1,0 @@
-# Some Gen Zers swap smartphones for "dumb" phones in a bid to unplug
-
-"It really opens up your mind," said one 23-year-old who ditched smartphones to wean herself off social media.
-
-[Read the full story at the source](https://www.cbsnews.com/news/social-media-smartphones-gen-z-dumb-phones/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its updated [Risk Dashboard](/browse/financial-stability/risk-dashboard?prefLang=en) based on the fourth-quarter 2016 data.

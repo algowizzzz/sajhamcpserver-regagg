@@ -1,7 +1,0 @@
-# Kalshi strikes partnership with compliance tech firm to help companies police insider trading
-
-The company will announce a partnership with Comply, a compliance technology company, on Tuesday, Kalshi told CNBC.
-
-[Read the full story at the source](https://www.cnbc.com/2026/08/04/kalshi-makes-partnership-with-comply-compliance-tech-company.html)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

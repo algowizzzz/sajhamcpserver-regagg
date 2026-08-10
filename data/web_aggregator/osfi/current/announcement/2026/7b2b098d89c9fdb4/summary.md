@@ -1,1 +1,0 @@
-Summary: # Guide sur la prorogation d’une personne morale en tant que banque ou société de fiducie ou de prêt fédérale

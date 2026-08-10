@@ -1,1 +1,0 @@
-Summary: # Elevation Series Trust and CresAlta Investment Management, Inc.

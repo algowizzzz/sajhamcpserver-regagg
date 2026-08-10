@@ -1,1 +1,0 @@
-Summary: # BSIF-602 – Déclaration des actionnaires

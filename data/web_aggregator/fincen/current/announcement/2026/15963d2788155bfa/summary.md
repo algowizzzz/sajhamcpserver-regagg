@@ -1,1 +1,0 @@
-Summary: # Completion of TIN on FinCEN Form 107 for Inclusion on FinCEN’s Posted MSB Registration List

@@ -1,1 +1,0 @@
-Summary: # Politically exposed persons and heads of international organizations guidance for life insurance companies, brokers and agents

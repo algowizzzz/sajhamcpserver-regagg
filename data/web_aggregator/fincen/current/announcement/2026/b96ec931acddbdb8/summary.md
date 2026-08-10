@@ -1,1 +1,0 @@
-Summary: # Bank Secrecy Act Records Assist in Mortgage Fraud Investigation Resulting in Guilty Plea

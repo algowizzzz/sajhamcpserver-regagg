@@ -1,1 +1,0 @@
-Summary: # Corporate Governance – Guideline (2018)

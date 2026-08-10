@@ -1,1 +1,0 @@
-Summary: The [EU Digital Finance Platform](https://digital-finance-platform.ec.europa.eu/) is a new collaborative space bringing together industry and public authorities. Among other functionalities, such as the European fintech map, it enables [the cross-border testing framework](https:/

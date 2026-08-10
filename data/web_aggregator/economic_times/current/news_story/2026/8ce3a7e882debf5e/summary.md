@@ -1,1 +1,0 @@
-Summary: # No decision yet on merchant discount rate on UPI deals

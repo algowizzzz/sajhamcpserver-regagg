@@ -1,1 +1,0 @@
-Summary: # Rapport opérationnel : Risques et indicateurs pour les négociants en métaux précieux et pierres précieuses

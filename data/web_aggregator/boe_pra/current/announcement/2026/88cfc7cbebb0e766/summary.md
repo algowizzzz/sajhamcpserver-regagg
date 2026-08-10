@@ -1,1 +1,0 @@
-Summary: # Statistical Notice 2026/07 - Bank of England Levy: Notification Document Levy Year 2026/27

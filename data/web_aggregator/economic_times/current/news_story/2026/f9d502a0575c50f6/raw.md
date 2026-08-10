@@ -1,7 +1,0 @@
-# Sebi settles case against India Power Corp's Raghav Raj Kanoria for Rs 24.7 lakh
-
-The Securities and Exchange Board of India (Sebi) has concluded adjudication proceedings against Raghav Raj Kanoria, managing director of India Power Corporation. Kanoria has agreed to pay a settlement sum of Rs 24.7 lakh to settle allegations concerning misstatements in financial records for two fiscal years. He resolved the issue without admitting to any wrongdoing, leading to the conclusion of the proceedings.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/sebi-settles-case-against-india-power-corps-raghav-raj-kanoria-for-rs-24-7-lakh/articleshow/132945850.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

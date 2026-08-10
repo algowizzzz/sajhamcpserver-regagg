@@ -1,7 +1,0 @@
-# DLF eyes Rs 1 lakh cr sales pipeline in 4-5 yrs, rules out REIT for now
-
-DLF aims for a Rs one lakh crore sales pipeline over five years. The company will focus on luxury housing and avoid REITs for now. Profitability is expected to nearly double from 2028 onwards from residential sales. DLF plans to expand its customer base beyond Delhi-NCR and Mumbai. Younger buyers and NRIs are increasingly contributing to the company's sales.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/dlf-eyes-rs-1-lakh-cr-sales-pipeline-in-4-5-yrs-rules-out-reit-for-now/articleshow/132945987.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

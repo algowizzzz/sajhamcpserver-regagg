@@ -1,1 +1,0 @@
-Summary: # Money laundering and terrorist financing indicators—Dealers in precious metals and precious stones

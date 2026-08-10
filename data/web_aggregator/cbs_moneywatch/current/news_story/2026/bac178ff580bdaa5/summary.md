@@ -1,1 +1,0 @@
-Summary: # Trump says oil companies should cut gas prices after making "too much money"

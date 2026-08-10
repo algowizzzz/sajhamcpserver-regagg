@@ -1,1 +1,0 @@
-Summary: # Advisory 2017-01 – Restrictions on the use of the words “bank”, “banker” and “banking”

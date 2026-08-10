@@ -1,1 +1,0 @@
-Summary: # Exigences en matière de relations d’affaires : Directive de conformité de CANAFE

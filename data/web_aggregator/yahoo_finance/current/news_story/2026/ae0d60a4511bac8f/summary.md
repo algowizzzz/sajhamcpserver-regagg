@@ -1,1 +1,0 @@
-Summary: # Blue Owl BDC Q2 Key Metrics: Activity subdued as refis 'grind to a halt'

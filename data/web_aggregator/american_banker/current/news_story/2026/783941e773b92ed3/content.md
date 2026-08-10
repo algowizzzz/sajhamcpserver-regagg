@@ -1,7 +1,0 @@
-# WTW, SEI partner on private market offerings
-
-WTW Investments and SEI see enough of a market to develop private market offerings for U.S. defined contribution plans, such as 401(k) plans.
-
-[Read the full story at the source](https://www.americanbanker.com/news/wtw-sei-partner-on-private-market-offerings)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

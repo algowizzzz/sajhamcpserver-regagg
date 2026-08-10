@@ -1,1 +1,0 @@
-Summary: # Opérations sur l’actif avec un apparenté qui est une institution financière

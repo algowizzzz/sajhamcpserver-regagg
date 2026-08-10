@@ -1,1 +1,0 @@
-Summary: # Le 20 mars 2023 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d’action financière (GAFI)

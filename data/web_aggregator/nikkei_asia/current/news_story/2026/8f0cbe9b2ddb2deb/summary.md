@@ -1,1 +1,0 @@
-Summary: # Japan pension whale GPIF reaps record $150bn in mainly AI-driven gains

@@ -1,1 +1,0 @@
-Summary: # Relevé des éléments d’actif et de passif répartis par pays et comptabilisés au Canada (GQ)

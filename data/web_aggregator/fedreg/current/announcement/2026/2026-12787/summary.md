@@ -1,1 +1,0 @@
-Summary: # Financial Data Transparency Act Joint Data Standards

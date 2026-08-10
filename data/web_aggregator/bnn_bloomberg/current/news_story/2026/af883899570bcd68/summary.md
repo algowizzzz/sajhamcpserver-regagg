@@ -1,1 +1,0 @@
-Summary: # Opinion: Canadian CEOs can’t wait for Ottawa to explain the trade war

@@ -1,1 +1,0 @@
-Summary: # When to verify the identity of persons and entities — Life insurance companies, brokers and agents

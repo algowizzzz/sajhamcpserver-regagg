@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Cboe Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Remove the Silexx Logical Port Fee Waiver in the Fee Schedule in Accordance With SEC Exemptive Relief Issued

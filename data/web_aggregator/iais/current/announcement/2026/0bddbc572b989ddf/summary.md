@@ -1,1 +1,0 @@
-Summary: # IAIS publishes Application Paper on fair treatment of a wide range of consumers

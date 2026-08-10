@@ -1,1 +1,0 @@
-Summary: # Restrictions relatives aux marques de commerce

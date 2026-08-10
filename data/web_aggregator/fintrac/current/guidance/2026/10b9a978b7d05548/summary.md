@@ -1,1 +1,0 @@
-Summary: # Exigences en matière de tenue de documents s'appliquant aux négociants en métaux précieux et pierres précieuses

@@ -1,1 +1,0 @@
-Summary: # Trump administration to pay German firm $1.2bn to halt US wind projects

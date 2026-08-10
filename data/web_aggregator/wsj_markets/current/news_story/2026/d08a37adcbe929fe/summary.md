@@ -1,1 +1,0 @@
-Summary: # HSBC Posts Sharply Higher Quarterly Profit, Plans $1 Billion Share Buyback

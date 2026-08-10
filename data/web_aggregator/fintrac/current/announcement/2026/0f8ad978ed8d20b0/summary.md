@@ -1,1 +1,0 @@
-Summary: # FINTRAC publishes terrorist activity financing indicators in its new Operational Alert

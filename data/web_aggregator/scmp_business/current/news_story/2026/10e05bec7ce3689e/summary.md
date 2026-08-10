@@ -1,1 +1,0 @@
-Summary: # Price war fears grip China’s EV market after woeful July sales figures

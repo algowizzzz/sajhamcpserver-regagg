@@ -1,1 +1,0 @@
-Summary: # Substantial Investments\* Requiring Ministerial Approval – Permitted Entities

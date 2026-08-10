@@ -1,1 +1,0 @@
-Summary: # EasyJet agrees to Apollo takeover after rival Castlelake ends bid

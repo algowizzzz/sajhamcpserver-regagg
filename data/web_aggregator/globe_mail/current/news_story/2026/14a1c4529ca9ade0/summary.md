@@ -1,1 +1,0 @@
-Summary: # Thomson Reuters to roll out in-house AI model as quarterly revenue rises

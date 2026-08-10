@@ -1,5 +1,0 @@
-# Order Under Section 36 of the Securities Exchange Act of 1934 (the “Exchange Act”) and Rule 6h-1(d) Thereunder Granting Conditional Exemptive Relief to the Chicago Mercantile Exchange Inc. From the Opening Price Settlement Requirements of Rule 6h-1(b) Under the Exchange Act for Certain Cash-Settled Security Futures
-
-Federal Register document 2026-14198, published 2026-07-15.
-
-> Full text pending: the source page is bot-gated and no API abstract exists for this record.

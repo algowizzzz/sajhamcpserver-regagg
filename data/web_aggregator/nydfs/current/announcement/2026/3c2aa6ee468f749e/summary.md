@@ -1,1 +1,0 @@
-Summary: Applicant’s NMLS ID: _________________ 

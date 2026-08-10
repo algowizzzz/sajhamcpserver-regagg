@@ -1,1 +1,0 @@
-Summary: # FINTRAC imposes an administrative monetary penalty on 9197-9195 Québec Inc.

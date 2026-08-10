@@ -1,1 +1,0 @@
-Summary: # Fortuna Reports Results for the Second Quarter 2026

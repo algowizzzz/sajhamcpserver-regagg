@@ -1,1 +1,0 @@
-Summary: # Draft Capital Adequacy Requirements Guideline (2027) - letter

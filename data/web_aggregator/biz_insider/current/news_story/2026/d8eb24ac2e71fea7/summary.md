@@ -1,1 +1,0 @@
-Summary: # Bronstein, Gewirtz & Grossman LLC Urges BitGo Holdings, Inc. Investors to Act: Class Action Filed Alleging Investor Harm

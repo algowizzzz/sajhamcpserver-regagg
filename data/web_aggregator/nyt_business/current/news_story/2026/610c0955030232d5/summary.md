@@ -1,1 +1,0 @@
-Summary: # Justice Dept. Charges Doctor in $95 Million Skin Substitute Fraud Scheme

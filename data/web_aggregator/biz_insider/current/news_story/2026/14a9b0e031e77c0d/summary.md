@@ -1,1 +1,0 @@
-Summary: # EQS-PVR: STRATEC SE: Release according to Article 40, Section 1 of the WpHG [the German Securities Trading Act] with the objective of Europe-wide distribution

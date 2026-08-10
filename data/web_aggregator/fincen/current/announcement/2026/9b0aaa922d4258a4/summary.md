@@ -1,1 +1,0 @@
-Summary: # Chapter X Translator

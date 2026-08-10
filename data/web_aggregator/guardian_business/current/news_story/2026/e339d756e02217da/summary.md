@@ -1,1 +1,0 @@
-Summary: # Boeing 737 Max operators told to check fuselages for cracks

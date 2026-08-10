@@ -1,1 +1,0 @@
-Summary: # Update on the Development of a New Approach for Determining Regulatory Capital Requirements for Segregated Fund Guarantee (SFG) Risk

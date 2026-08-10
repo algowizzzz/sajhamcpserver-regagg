@@ -1,7 +1,0 @@
-# Is Elon Musk’s master plan with SpaceX to have rockets replace planes for global cargo delivery?
-
-SpaceX is targeting government and defense customers who need cargo fast. It will need to figure out where to land.
-
-[Read the full story at the source](https://fortune.com/2026/08/05/spacex-rockets-global-cargo-delivery/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

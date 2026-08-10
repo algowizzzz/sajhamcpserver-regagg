@@ -1,1 +1,0 @@
-Summary: # Co-Creation Strategy: Why Listening Beats Predicting Alone

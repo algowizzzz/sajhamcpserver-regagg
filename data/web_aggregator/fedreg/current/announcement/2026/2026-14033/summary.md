@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; MIAX Sapphire, LLC; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend Exchange Rule 100, Definitions, To Amend the Quarterly Review of Professional Interest Orders

@@ -1,1 +1,0 @@
-Summary: # Administrative Ruling on Application of the Prepaid Access Rule to Closed Loop Prepaid Access Sold or Exchanged in a Secondary Market

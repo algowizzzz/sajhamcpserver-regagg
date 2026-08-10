@@ -1,1 +1,0 @@
-Summary: # Turnover at the top: 17 people have held title of China’s richest person in past 27 years

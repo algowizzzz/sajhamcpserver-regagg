@@ -1,1 +1,0 @@
-Summary: # H4 – Foire aux questions

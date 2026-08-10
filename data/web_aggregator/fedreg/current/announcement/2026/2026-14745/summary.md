@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Nasdaq Texas, LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule General 8 Regarding Intrafirm Cabinet Connectivity

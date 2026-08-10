@@ -5,7 +5,7 @@ doc_type: "announcement"
 status: "final"
 source_kind: "web"
 source_url: "https://www.dfs.ny.gov/apps_and_licensing/pharmacy_benefit_managers"
-version: "1"
+version: "4"
 ---
 
 ![pharmacist](/sites/default/files/styles/wide_lead/public/media/2024/01/PressRelease_Generic-Heroes_Consumer_PrescriptionDrugCosts_02.jpg?h=b5f6a62e&itok=57GR4115 "pharmacist")
@@ -180,7 +180,7 @@ Obtaining a license to operate as a PBM in New York includes an application, sub
 
 * Apply for a PBM license and pay the fee through [DFS Connect](https://dfsconnect.dfs.ny.gov/), a secure web-based system.
 
-If you have questions, check our [FAQs About PBM Licensing](https://www.dfs.ny.gov/apps_and_licensing/pharmacy_benefit_managers/FAQs). If you still need help, email [[email protected]](/cdn-cgi/l/email-protection#c8988a8588acaebbe6a6b1e6afa7be).
+If you have questions, check our [FAQs About PBM Licensing](https://www.dfs.ny.gov/apps_and_licensing/pharmacy_benefit_managers/FAQs). If you still need help, email [[email protected]](/cdn-cgi/l/email-protection#a9f9ebe4e9cdcfda87c7d087cec6df).
 
 ### License Term and Renewal
 
@@ -220,7 +220,7 @@ Continue
 
 If any health plan, person, pharmacy, or other entity believes they have been harmed by a PBM, they should notify the Department by filing a complaint using DFS Connect. A copy of the complaint will be shared with the PBM, and the Department may take enforcement action when appropriate.
 
-Read our [FAQs About PBMs in New York](https://www.dfs.ny.gov/apps_and_licensing/pharmacy_benefit_managers/FAQs). If you have additional questions, please contact DFS using email [[email protected]](/cdn-cgi/l/email-protection#89d9cbc4c9edeffaa7e7f0a7eee6ff).
+Read our [FAQs About PBMs in New York](https://www.dfs.ny.gov/apps_and_licensing/pharmacy_benefit_managers/FAQs). If you have additional questions, please contact DFS using email [[email protected]](/cdn-cgi/l/email-protection#0b5b49464b6f6d78256572256c647d).
 
 [Back to Top ▲](#toc-sidebar)
 

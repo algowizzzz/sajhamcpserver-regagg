@@ -1,5 +1,0 @@
-# Data Reporting Requirements for Certain Event Contracts
-
-The Commodity Futures Trading Commission ("Commission" or "CFTC") is proposing revisions to the Commission's regulations that would set forth an alternate framework for reporting of data for certain fully collateralized event contracts (the "Proposal"). These revisions would require certain reporting markets, futures commission merchants, clearing members, and foreign brokers to report certain event contracts pursuant to the regulations in parts 15 through 18 rather than the reporting regulations contained in certain sections of parts 38, 39, 43 and 45.
-
-> Full text pending: source page is bot-gated; this is the official API abstract.

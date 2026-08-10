@@ -1,1 +1,0 @@
-Summary: # Police raid Starbucks Korea headquarters over 'Tank Day' fiasco

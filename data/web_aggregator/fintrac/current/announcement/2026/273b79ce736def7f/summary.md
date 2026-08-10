@@ -1,1 +1,0 @@
-Summary: # Pénalité administrative pécuniaire imposée à la Banque Royale du Canada

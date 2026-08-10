@@ -1,1 +1,0 @@
-Summary: ![Picture of people discussing things](/sites/default/files/styles/wide_lead/public/media/2019/01/istock-899023642_opinions_cropped.jpg?h=2cedd4b6&itok=LWPogD9n "DFS Opinions")

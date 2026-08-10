@@ -1,1 +1,0 @@
-Summary: # Directives du surintendant conformément à la Loi sur les régimes de pension agréés collectifs (en vigueur : 25 février 2021)

@@ -1,1 +1,0 @@
-Summary: # Institutions financières

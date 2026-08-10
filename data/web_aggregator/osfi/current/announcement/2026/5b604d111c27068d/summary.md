@@ -1,1 +1,0 @@
-Summary: # Relevé des changements (Test de suffisance du Capital des assureurs hypothécaires)

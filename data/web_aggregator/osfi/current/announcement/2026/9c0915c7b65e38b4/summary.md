@@ -1,1 +1,0 @@
-Summary: # Relevés d’assurance multirisque – Section I – Introduction

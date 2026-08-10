@@ -1,1 +1,0 @@
-Summary: # RXR Nuclear Receptor Agonists Promote Clearance of Alpha-Synuclein in Cellular Models

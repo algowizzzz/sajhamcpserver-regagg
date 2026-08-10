@@ -1,1 +1,0 @@
-Summary: # Cheque cashers : FINTRAC's requirements

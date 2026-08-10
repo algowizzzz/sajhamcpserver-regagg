@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) published a [statement on consumer detriment resulting from policyholder exposure to contracts for differences (CFDs) and binary options.](/document/download/d7af2c46-78c4-4d40-8a8c-19a9a934c663_en?filename

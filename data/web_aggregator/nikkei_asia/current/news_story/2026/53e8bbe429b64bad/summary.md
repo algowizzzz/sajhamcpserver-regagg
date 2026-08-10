@@ -1,1 +1,0 @@
-Summary: # Shares in Australia's Atlassian surge 33% as sales growth quells AI fears

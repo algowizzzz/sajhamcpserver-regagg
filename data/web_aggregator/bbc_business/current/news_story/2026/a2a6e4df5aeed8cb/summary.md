@@ -1,1 +1,0 @@
-Summary: # Shorts, strappy tops and sandals: What is acceptable to wear to work?

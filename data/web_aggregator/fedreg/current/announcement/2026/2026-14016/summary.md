@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; ICE Clear Credit LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change Relating to ICC's Fee Schedule

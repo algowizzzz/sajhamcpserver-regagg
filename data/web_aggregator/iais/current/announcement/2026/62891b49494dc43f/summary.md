@@ -1,1 +1,0 @@
-Summary: G20 Sustainable Finance Working Group 

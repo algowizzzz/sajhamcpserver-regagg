@@ -1,1 +1,0 @@
-Summary: We give our latest analysis of the intermediary sector, using data from the Retail Mediation Activities Return (RMAR) for 2025.

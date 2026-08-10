@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Cboe C2 Exchange, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Options Regulatory Fee (“ORF”)

@@ -1,1 +1,0 @@
-Summary: # Honda lifts full-year profit outlook on weak yen, strong motorcycle demand

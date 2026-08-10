@@ -1,1 +1,0 @@
-Summary: # Operational brief: Risks and indicators for dealers in precious metals and stones

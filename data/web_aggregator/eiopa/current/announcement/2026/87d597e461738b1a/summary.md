@@ -1,1 +1,0 @@
-Summary: ![Adobestock_pc](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-02/adobestock_278402323_helmets_uniformity.jpeg?itok=o3cOUqgn "Adobestock_pc")

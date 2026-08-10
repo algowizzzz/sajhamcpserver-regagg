@@ -1,1 +1,0 @@
-Summary: # Carney responds after Trump says ‘nasty’ Canada ‘screwed’ U.S. with tariffs

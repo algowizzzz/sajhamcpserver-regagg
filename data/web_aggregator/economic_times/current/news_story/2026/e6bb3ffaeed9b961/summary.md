@@ -1,1 +1,0 @@
-Summary: # Bonus issue alert! This smallcap infra stock that jumped 50% in a month has declared 1:1 bonus issue

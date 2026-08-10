@@ -1,0 +1,11 @@
+---
+title: "Unofficial Consolidation of NI 31-103 and its CP as of July 27, 2017 | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+reference: "31-103"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/3/31-103/unofficial-consolidation-ni-31-103-and-its-cp-july-27-2017"
+version: "1"
+---
+

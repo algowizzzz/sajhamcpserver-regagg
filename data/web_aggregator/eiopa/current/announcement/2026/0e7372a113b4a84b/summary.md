@@ -1,1 +1,0 @@
-Summary: Today, the European Insurance and Occupational Pensions Authority (EIOPA) issued a [call for candidates](https://www.eiopa.europa.eu/content/call-expression-interest-eiopa-consultative-expert-group-digital-ethics_en) to join a Consultative Expert Group on Digital Ethics in insura

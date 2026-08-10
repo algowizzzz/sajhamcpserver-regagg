@@ -1,1 +1,0 @@
-Summary: # Ligne directrice Gestion du risque lié aux tiers - Réponses aux commentaires reçus dans le cadre de la consultation

@@ -1,1 +1,0 @@
-Summary: The Joint Board of Appeal of the European Supervisory Authorities (ESAs – European Banking Authority, European Insurance and Occupational Pensions Authority, and European Securities and Markets Authority) published today its decision in an appeal brought by FinancialCraft Analyti

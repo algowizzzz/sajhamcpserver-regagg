@@ -1,1 +1,0 @@
-Summary: # PRA consults on updated guidance for friendly society amalgamations and transfers

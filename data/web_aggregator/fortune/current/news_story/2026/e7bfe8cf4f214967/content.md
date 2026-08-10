@@ -1,7 +1,0 @@
-# The Hugging Face hack is now a PR crisis that’s costing OpenAI millions
-
-The compute cost of the investment is staggering, according to a talk the company gave at a security conference this week.
-
-[Read the full story at the source](https://fortune.com/2026/08/07/the-hugging-face-hack-is-now-a-pr-crisis-thats-costing-openai-millions/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,0 +1,10 @@
+---
+title: "Salida Wealth Preservation Fund S.à.r.l. – s. 1(10)(a)(ii) | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/salida-wealth-preservation-fund-sarl-s-110aii"
+version: "1"
+---
+

@@ -1,1 +1,0 @@
-Summary: ![Adobestock_international](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_international.jpeg?itok=GIZ2Tm9S "Adobestock_international")

@@ -1,0 +1,11 @@
+---
+title: "Amendments to NI 45-106 Prospectus Exemptions | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+reference: "45-106"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/4/45-106/amendments-ni-45-106-prospectus-exemptions"
+version: "1"
+---
+

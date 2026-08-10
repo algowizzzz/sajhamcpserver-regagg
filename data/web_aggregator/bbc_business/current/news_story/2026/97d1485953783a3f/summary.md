@@ -1,1 +1,0 @@
-Summary: # Bid to extend holiday food and activities programme

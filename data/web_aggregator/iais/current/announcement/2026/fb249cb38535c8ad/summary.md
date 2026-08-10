@@ -1,1 +1,0 @@
-Summary: # IAIS relaunches the ICP Self-Assessment Tool (SAT)

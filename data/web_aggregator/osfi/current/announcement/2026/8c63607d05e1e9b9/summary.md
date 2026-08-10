@@ -1,1 +1,0 @@
-Summary: # Relevés d’assurance hypothécaire – Section VI – Relevé des modifications

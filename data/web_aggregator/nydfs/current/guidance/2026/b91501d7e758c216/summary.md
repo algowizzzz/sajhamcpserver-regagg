@@ -1,1 +1,0 @@
-Summary: NEW YORK STATE 

@@ -1,8 +1,0 @@
-# US efforts to prop up the yen risk doing more harm than good
-
-Has the interminable decline in the yen finally run its course? Since the beginning of 2022, Japan’s currency has fallen a staggering 36 per cent against the US dollar. Despite the resolve of the Bank of Japan (BOJ) to keep raising interest rates, the surge in Japanese bond yields over the past year, and frequent interventions by the government to support the currency, the yen has continued to weaken.
-On July 23, it dropped to its weakest level against the greenback since 1986, sliding past the...
-
-[Read the full story at the source](https://www.scmp.com/opinion/asia-opinion/article/3363123/us-efforts-prop-yen-risk-doing-more-harm-good?utm_source=rss_feed)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

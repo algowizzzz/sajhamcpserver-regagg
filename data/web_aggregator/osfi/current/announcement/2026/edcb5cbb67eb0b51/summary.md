@@ -1,1 +1,0 @@
-Summary: # Market Risk (OSFI-986)

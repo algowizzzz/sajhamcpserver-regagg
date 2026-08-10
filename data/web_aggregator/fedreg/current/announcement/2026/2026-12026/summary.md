@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE Texas, Inc.; Notice of Filing and Immediate Effectiveness of a Proposed Rule Change To Amend the Partial Cabinet Solution Bundles

@@ -1,1 +1,0 @@
-Summary: # Government contracts to require job creation instead of green targets under new rules

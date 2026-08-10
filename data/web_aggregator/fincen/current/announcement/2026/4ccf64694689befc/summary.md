@@ -1,1 +1,0 @@
-Summary: # Suspect Sentenced to Five Years in Prison and Ordered to Pay $1 Million in Restitution

@@ -1,1 +1,0 @@
-Summary: # 2019-2020 Annual Report to Parliament on the Administration of the Access to Information Act

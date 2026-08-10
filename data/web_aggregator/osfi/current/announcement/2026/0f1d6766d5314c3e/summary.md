@@ -1,1 +1,0 @@
-Summary: # Instructions – Mortgage Insurer Appointed Actuary’s Report (AAR) Supplementary Tables

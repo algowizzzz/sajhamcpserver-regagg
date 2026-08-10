@@ -1,1 +1,0 @@
-Summary: # WestJet ramps up operations after tentative deal with flight attendants ends strike

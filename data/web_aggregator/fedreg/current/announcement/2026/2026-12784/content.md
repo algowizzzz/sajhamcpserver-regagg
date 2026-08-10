@@ -1,5 +1,0 @@
-# Request for Comment on the Extension of Standard Futures Contracts to 24/7 Trading and on Perpetual Contracts Referencing Physically Delivered or Storable Energy Commodities
-
-The Commodity Futures Trading Commission (Commission or CFTC) is requesting public comment on two distinct but related matters arising from recent developments in energy derivatives markets. The first is the extension of standard futures contracts to 24/7 trading, without any change to the contracts' fixed expiration, delivery, or settlement terms. The second is the listing of perpetual contracts that reference physically delivered or storable energy commodities, such as crude oil. The Commission seeks comment on the implications of each matter for the reliability and manipulation-resistance of reference prices, market surveillance and operational readiness, the federal speculative position-limits regime, margin, clearing, and settlement, customer protection, and effects on the underlying physical markets and the commercial participants that rely on them.
-
-> Full text pending: source page is bot-gated; this is the official API abstract.

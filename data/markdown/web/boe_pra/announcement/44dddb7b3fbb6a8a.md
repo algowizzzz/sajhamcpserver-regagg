@@ -6,7 +6,7 @@ status: "final"
 source_kind: "web"
 source_url: "https://www.bankofengland.co.uk/minutes/2026/april/banknote-advisory-minutes-15-april"
 published: "2026-06-15"
-version: "1"
+version: "2"
 ---
 
 # Banknote imagery expert panel minutes – 15 April 2026
@@ -109,17 +109,17 @@ Private Secretary to the Chief Cashier
 
 15 June 2026
 
-### Banknote imagery expert panel minutes – 15...
+### Banknote imagery expert panel minutes – 10...
 
-### Banknote imagery expert panel minutes – 15 April 2026](/minutes/2026/april/banknote-advisory-minutes-15-april)
+### Banknote imagery expert panel minutes – 10 March 2026](/minutes/2026/march/banknote-expert-minutes-10-march)
 
 [News // Minutes
 
 15 June 2026
 
-### Banknote imagery expert panel minutes – 24...
+### Banknote imagery expert panel minutes – 15...
 
-### Banknote imagery expert panel minutes – 24 April 2026](/minutes/2026/april/banknote-expert-minutes-24-april)
+### Banknote imagery expert panel minutes – 15 April 2026](/minutes/2026/april/banknote-advisory-minutes-15-april)
 
 [News // Minutes
 

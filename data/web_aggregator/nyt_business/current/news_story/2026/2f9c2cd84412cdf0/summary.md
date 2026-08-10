@@ -1,1 +1,0 @@
-Summary: # A Currency Trader at Heart, Bessent Bets on Japan’s Yen

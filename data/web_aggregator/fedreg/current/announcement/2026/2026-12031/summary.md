@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; NYSE American LLC; Notice of Designation of a Longer Period for Commission Action on Proceedings To Determine Whether To Approve or Disapprove a Proposed Rule Change, as Modified by Amendment No. 3, To Amend Section 1003 of the NYSE American Compa

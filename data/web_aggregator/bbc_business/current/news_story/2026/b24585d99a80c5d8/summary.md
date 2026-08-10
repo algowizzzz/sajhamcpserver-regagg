@@ -1,1 +1,0 @@
-Summary: # Anthropic AI used fake profiles to target people in hack then hid the evidence

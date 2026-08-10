@@ -1,1 +1,0 @@
-Summary: # Canada’s Ivey PMI hits four-month low in July

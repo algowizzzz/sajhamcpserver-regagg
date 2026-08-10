@@ -1,7 +1,0 @@
-# Aurobindo Pharma among 8 stocks hitting 52-week highs; surge up to 20% in a month
-
-Eight stocks from the BSE 200 index hit fresh 52-week highs, reaching their highest price levels in the past year, indicating strong investor interest, and potential upward momentum in the share price.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/aurobindo-pharma-among-8-stocks-hitting-52-week-highs-surge-up-to-20-in-a-month/slideshow/133032470.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,1 +1,0 @@
-Summary: # Teachers need help with AI. A union is offering training – with $23m in funding from big tech

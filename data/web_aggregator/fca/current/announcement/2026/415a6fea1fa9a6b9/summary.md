@@ -1,1 +1,0 @@
-Summary: This is our fourth full year of general insurance (GI) value measures data, covering January to December 2025.

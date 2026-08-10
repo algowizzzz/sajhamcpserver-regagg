@@ -1,1 +1,0 @@
-Summary: Victims of convicted fraudster John Burford are set to recover the majority of the money they invested after the FCA obtained a confiscation order against him.

@@ -1,1 +1,0 @@
-Summary: # Extension of divestiture period for the control of or holding of a substantial investment in, an entity obtained as a result of a loan default

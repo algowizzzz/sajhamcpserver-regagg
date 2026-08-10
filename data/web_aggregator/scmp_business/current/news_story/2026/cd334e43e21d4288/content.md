@@ -1,8 +1,0 @@
-# AIIB explores digital payments, eyes Hong Kong hub as it raises record funds
-
-The Asian Infrastructure Investment Bank (AIIB) is setting its sights on tokenised payments and digital settlement systems, tapping into Hong Kong’s growing digital finance ecosystem as part of a broader push to modernise its capital market operations, according to a senior official at the bank.
-“That is a sector that we are exploring with interest,” Domenico Nardelli, the AIIB’s treasurer and acting chief financial officer, told the South China Morning Post in an interview last week,...
-
-[Read the full story at the source](https://www.scmp.com/business/banking-finance/article/3362580/aiib-explores-digital-payments-eyes-hong-kong-hub-it-raises-record-funds?utm_source=rss_feed)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

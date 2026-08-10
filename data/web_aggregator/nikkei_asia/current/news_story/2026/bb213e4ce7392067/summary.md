@@ -1,1 +1,0 @@
-Summary: # SoftBank quarterly profit falls 18% despite big Intel gains

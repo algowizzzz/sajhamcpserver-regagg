@@ -1,1 +1,0 @@
-Summary: # Counter Terrorist Financing Task Force – Israel (CTFTI): FIU Task Force Public Statement

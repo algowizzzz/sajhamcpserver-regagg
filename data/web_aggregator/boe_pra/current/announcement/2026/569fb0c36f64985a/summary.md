@@ -1,1 +1,0 @@
-Summary: # Minutes of the Synchronisation thematic engagement working group - 30 April 2026

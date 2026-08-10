@@ -1,1 +1,0 @@
-Summary: # Priority 3: Culture

@@ -1,1 +1,0 @@
-Summary: # How El Salvador Can Become Singapore West

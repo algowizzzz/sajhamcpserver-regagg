@@ -1,1 +1,0 @@
-Summary: # AI boom softens blow from China's July trade slowdown

@@ -1,1 +1,0 @@
-Summary: # Manuel d'évaluation de CANAFE : L’approche et les méthodes utilisées lors d’examens

@@ -1,8 +1,0 @@
-# China stock traders cut leveraged positions by 14% in July amid tech sell-off
-
-China’s stock traders have been unwinding their leveraged positions over the past month, fuelling the worst-ever stock sell-off on one major index of technology shares and undermining Beijing’s efforts to put a floor on the equity market.
-The outstanding value of the stock purchases financed by margin trading stood at 2.59 trillion yuan (US$383.4 billion) on Friday, a decrease of 14 per cent from the record high of 3.01 trillion yuan on June 25, according to Chinese financial data provider...
-
-[Read the full story at the source](https://www.scmp.com/business/china-business/article/3362797/china-stock-traders-cut-leveraged-positions-14-july-amid-tech-sell?utm_source=rss_feed)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

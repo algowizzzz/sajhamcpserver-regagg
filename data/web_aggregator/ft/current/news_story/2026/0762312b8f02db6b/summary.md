@@ -1,1 +1,0 @@
-Summary: # ‘Every dollar is mobile’: California’s rich snap up New Zealand ‘golden visas’

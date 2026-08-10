@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Investors Exchange LLC; Notice of Filing and Immediate Effectiveness of Proposed Rule Change To Amend Rule 11.190 to Permit Trading of Pegged Orders During Pre-Market and Post-Market Sessions

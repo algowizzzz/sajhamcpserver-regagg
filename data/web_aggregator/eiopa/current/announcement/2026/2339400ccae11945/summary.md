@@ -1,1 +1,0 @@
-Summary: ESMA, EBA and EIOPA warn consumers on the risks of Virtual Currencies.

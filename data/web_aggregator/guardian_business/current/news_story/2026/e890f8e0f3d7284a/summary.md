@@ -1,1 +1,0 @@
-Summary: # David Ellison claims opposition to his mega-merger stems from potential CNN control

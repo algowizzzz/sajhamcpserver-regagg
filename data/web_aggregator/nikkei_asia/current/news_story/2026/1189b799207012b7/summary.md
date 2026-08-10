@@ -1,1 +1,0 @@
-Summary: # Fujifilm weighs partial spinoff, IPO for multifunction printer business

@@ -1,0 +1,10 @@
+---
+title: "Vitol Anker International B.V. and Sterling Resources Ltd. | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/vitol-anker-international-bv-and-sterling-resources-ltd"
+version: "1"
+---
+

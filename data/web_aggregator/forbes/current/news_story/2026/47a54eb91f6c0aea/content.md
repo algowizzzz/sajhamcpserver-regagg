@@ -1,7 +1,0 @@
-# Trump’s $400 Million Ballroom Blocked By Appeals Court—Likely Sending Case To Supreme Court
-
-The ruling is on hold for 14 days to allow the Trump administration to appeal to the U.S. Supreme Court.
-
-[Read the full story at the source](https://www.forbes.com/sites/saradorn/2026/08/07/trumps-400-million-ballroom-blocked-by-appeals-court-likely-sending-case-to-supreme-court/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

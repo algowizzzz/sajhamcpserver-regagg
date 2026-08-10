@@ -1,1 +1,0 @@
-Summary: # ‘If we don’t fight back, we don’t have a future’: the journalist taking on the ‘tech fascists’ of Silicon Valley

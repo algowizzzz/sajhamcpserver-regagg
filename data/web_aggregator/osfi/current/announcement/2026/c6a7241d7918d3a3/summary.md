@@ -1,1 +1,0 @@
-Summary: # OSFI-602 – Return of Shareholders

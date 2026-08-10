@@ -1,1 +1,0 @@
-Summary: # The era of the machine: Silicon Valley shows off humanoid robots

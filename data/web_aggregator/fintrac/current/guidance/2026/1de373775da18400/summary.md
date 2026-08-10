@@ -1,1 +1,0 @@
-Summary: # When to verify the identity of persons and entities—Money services businesses and foreign money services businesses : FINTRAC's compliance guidance

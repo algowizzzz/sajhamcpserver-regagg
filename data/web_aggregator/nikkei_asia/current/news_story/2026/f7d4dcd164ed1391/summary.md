@@ -1,1 +1,0 @@
-Summary: # 4 US tech giants amass $1.46tn in physical assets, rivaling oil majors

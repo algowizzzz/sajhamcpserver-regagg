@@ -1,1 +1,0 @@
-Summary: # Electric air taxis are finally ready for takeoff

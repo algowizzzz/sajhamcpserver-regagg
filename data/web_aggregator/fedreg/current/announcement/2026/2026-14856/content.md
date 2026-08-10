@@ -1,5 +1,0 @@
-# Self-Regulatory Organizations; BOX Exchange LLC; Notice of Filing of a Proposed Rule Change To Amend BOX Rule 3060 (Gratuities) To Conform With FINRA Rule 3220
-
-Federal Register document 2026-14856, published 2026-07-23.
-
-> Full text pending: the source page is bot-gated and no API abstract exists for this record.

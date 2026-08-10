@@ -1,1 +1,0 @@
-Summary: # Dealers in precious metals and precious stones

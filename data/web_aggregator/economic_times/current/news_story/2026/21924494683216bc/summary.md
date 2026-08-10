@@ -1,1 +1,0 @@
-Summary: # Global Market: European bluechip earnings set for strongest growth since 2022 as energy sector powers profits

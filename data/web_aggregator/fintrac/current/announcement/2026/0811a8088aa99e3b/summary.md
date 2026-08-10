@@ -1,1 +1,0 @@
-Summary: # Quarterly financial report for the quarter ended September 30, 2024 (unaudited)

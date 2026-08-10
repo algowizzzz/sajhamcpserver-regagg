@@ -1,1 +1,0 @@
-Summary: # Materiality criteria for an RE or its subsidiaries to hold shares or ownership interests in a FRE or a FRE’s controlling entity

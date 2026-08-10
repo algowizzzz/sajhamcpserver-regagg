@@ -1,1 +1,0 @@
-Summary: # Sun Life posts higher profit on domestic business, strength in Asia

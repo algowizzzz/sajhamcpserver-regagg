@@ -1,1 +1,0 @@
-Summary: # Terrorist Financing Assessment: 2018

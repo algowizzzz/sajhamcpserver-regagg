@@ -1,1 +1,0 @@
-Summary: # Déclaration d'intention du groupe de travail d'URF sur le financement illicite et les sanctions liées à la Russie

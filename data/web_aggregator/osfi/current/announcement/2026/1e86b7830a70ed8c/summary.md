@@ -1,1 +1,0 @@
-Summary: # Répartition régionale de l'actif et du passif (R2)

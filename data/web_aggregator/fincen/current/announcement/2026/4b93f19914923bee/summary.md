@@ -1,1 +1,0 @@
-Summary: # FinCEN Issues Ruling (FIN-2008-R004) on Whether a Foreign Exchange Consultant is a Currency Dealer or Exchanger or Money Transmitter

@@ -1,0 +1,26 @@
+---
+title: "Financial Stability Report December 2017 - European Insurance and Occupational Pensions Authority"
+regulator: "eiopa"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.eiopa.europa.eu/publications/financial-stability-report-december-2017_en"
+version: "1"
+---
+
+## Details
+
+Publication date
+:   1 December 2017
+
+## Files
+
+* 31 JANUARY 2023
+
+Financial Stability Report December 2017
+
+English
+
+(3.62 MB - PDF)
+
+[Download](/document/download/9c14e852-9277-4976-a628-15d4300aecd9_en?filename=Financial%20Stability%20Report%20December%202017.pdf)

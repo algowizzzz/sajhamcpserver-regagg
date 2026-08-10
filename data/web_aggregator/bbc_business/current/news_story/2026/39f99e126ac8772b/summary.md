@@ -1,1 +1,0 @@
-Summary: # Green means go for uniform ahead of new school year

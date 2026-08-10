@@ -1,1 +1,0 @@
-Summary: # Pénalité administrative pécuniaire imposée à 1000085532 Ontario Inc.

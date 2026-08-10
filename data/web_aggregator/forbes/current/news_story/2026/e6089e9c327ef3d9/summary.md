@@ -1,1 +1,0 @@
-Summary: # Michael Jackson Rules Multiple Charts With Different No. 1 Albums

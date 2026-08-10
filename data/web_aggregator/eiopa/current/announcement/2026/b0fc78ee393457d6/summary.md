@@ -1,1 +1,0 @@
-Summary: Based on the work conducted in the area of pensions, EIOPA has drawn some key principles and recommendations which can be applied to information disclosures:

@@ -1,0 +1,10 @@
+---
+title: "OSC Announces New Chair of Investor Advisory Panel"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/news-events/news/osc-announces-new-chair-investor-advisory-panel-0"
+version: "1"
+---
+

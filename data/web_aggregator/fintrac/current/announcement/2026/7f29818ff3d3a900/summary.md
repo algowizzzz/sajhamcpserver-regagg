@@ -1,1 +1,0 @@
-Summary: # Check to see if you are covered under the Act and Regulations

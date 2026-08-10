@@ -1,1 +1,0 @@
-Summary: # Molbio diagnostics' Rs 940 crore initial public offering opens August 10

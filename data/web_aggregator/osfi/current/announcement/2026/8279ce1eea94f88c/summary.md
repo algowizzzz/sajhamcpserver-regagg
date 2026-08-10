@@ -1,1 +1,0 @@
-Summary: # Securities Holdings Return - Detailed validation rules

@@ -1,1 +1,0 @@
-Summary: # What to know about Taylor Farms amid the cyclospora outbreak

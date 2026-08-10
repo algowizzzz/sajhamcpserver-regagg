@@ -1,1 +1,0 @@
-Summary: # Reporting listed person or entity property to FINTRAC

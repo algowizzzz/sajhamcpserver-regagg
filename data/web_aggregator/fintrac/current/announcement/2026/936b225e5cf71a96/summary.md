@@ -1,1 +1,0 @@
-Summary: # Le 8 juillet 2022 – Avis de CANAFE : Opérations financières liées aux pays désignés par le Groupe d'action financière (GAFI)

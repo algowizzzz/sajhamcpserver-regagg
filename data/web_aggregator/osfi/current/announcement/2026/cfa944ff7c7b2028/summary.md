@@ -1,1 +1,0 @@
-Summary: # Key Metrics Report – Life insurers – Instructions (2025)

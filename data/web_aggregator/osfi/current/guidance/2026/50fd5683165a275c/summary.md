@@ -1,1 +1,0 @@
-Summary: # OSFI exempts uninsured mortgage straight switches from the prescribed MQR and implements portfolio LTI limits

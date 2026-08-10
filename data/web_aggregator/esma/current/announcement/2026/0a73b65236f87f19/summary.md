@@ -1,1 +1,0 @@
-Summary: # [ESMA launches data collection under the first phase of ESAP](/press-news/esma-news/esma-launches-data-collection-under-first-phase-esap)

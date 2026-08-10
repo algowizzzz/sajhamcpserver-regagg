@@ -1,1 +1,0 @@
-Summary: # Owner of Service Company Sentenced in Tax Evasion Scheme

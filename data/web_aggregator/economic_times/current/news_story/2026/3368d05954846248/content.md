@@ -1,7 +1,0 @@
-# CAS sparks trader backlash as losses mount, Sebi holds firm
-
-Concerns are mounting among traders regarding the recent shift to a closing auction system, which has led to significant price volatility. Numerous market participants have reported unexpected losses, prompting authorities to engage with brokers to explore these issues. Despite regulators' attempts to bolster trader involvement, the contentious pricing mechanism continues to stir debate within the financial community.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/news/cas-sparks-trader-backlash-as-losses-mount-sebi-holds-firm/articleshow/132978167.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

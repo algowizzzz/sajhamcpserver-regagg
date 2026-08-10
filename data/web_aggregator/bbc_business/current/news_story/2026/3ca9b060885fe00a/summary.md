@@ -1,1 +1,0 @@
-Summary: # BP's $5.7bn profit highest since 2022 as Iran war pushes up oil price

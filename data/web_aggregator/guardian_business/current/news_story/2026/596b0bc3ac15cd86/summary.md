@@ -1,1 +1,0 @@
-Summary: # Video game maker EA bought by Saudi-led group for $55bn

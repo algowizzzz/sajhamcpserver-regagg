@@ -1,7 +1,0 @@
-# Auto & Transport Roundup: Market Talk
-
-Find insight on Uber, Thai Airways,  Continental, Kia and more in the latest Market Talks covering auto and transport.
-
-[Read the full story at the source](https://www.wsj.com/business/auto-transport-roundup-market-talk-054bdd7a?mod=rss_markets_main)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

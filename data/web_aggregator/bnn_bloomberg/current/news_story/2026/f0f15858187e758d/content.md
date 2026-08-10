@@ -1,7 +1,0 @@
-# Meta AI model hacks another company during testing
-
-Meta said on Wednesday that one of its AI models hacked another company during cybersecurity testing, after an error by its testing partner gave the model unintended internet access.
-
-[Read the full story at the source](https://www.bnnbloomberg.ca/business/artificial-intelligence/2026/08/06/meta-ai-model-hacks-another-company-during-testing/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

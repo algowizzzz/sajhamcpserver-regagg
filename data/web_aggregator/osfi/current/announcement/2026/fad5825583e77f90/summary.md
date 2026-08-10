@@ -1,1 +1,0 @@
-Summary: # Geographic Distribution of Assets and Liabilities Booked in Canada (GQ)

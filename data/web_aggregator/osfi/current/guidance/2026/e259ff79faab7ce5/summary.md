@@ -1,1 +1,0 @@
-Summary: # Capital and Liquidity Treatment of Crypto-asset Exposures Guidelines – Letter

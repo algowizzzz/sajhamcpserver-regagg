@@ -1,1 +1,0 @@
-Summary: # Bank of Canada publishes its 2027 schedule for policy interest rate announcements and other major publications

@@ -1,7 +1,0 @@
-# SBI Q1 profit beats estimates on strong loan growth, asset quality
-
-SBI reported a 10% rise in Q1 net profit to Rs 21,121 crore, beating estimates on robust loan growth and higher net interest income. Improved asset quality, lower bad-loan provisions and strong credit demand offset weaker treasury income and slightly lower margins.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/stocks/earnings/sbi-q1-profit-beats-estimates-on-strong-loan-growth-asset-quality/articleshow/133035822.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

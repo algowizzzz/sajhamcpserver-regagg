@@ -1,1 +1,0 @@
-Summary: ![house and paperwork](/sites/default/files/styles/wide_lead/public/media/2019/01/istock-903035430_mortgage_companies_cropped_0.jpg?h=3defaffe&itok=YTLwdp-E "Mortgage Companies")

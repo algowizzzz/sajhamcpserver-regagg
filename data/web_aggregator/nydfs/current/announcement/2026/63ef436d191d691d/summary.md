@@ -1,1 +1,0 @@
-Summary: ![white car driving in front of buildings](/sites/default/files/styles/wide_lead/public/media/2025/08/Auto-car-driving.jpg?h=b5f6a62e&itok=4U6Fmm_m "white car driving in front of buildings")

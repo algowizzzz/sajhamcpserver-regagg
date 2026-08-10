@@ -1,1 +1,0 @@
-Summary: # Transaction Instructions – Part XII: Approval to have a financial establishment in Canada

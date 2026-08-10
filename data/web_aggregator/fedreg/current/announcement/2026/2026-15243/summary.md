@@ -1,1 +1,0 @@
-Summary: # Self-Regulatory Organizations; Texas Stock Exchange LLC; Order Approving a Proposed Rule Change, as Modified by Amendment No. 1, To Amend Certain Parts of Its Opening and Closing Auctions

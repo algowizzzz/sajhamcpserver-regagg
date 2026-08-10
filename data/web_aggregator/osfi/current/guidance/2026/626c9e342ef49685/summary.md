@@ -1,1 +1,0 @@
-Summary: # Technology and cyber risk management self-assessment tool

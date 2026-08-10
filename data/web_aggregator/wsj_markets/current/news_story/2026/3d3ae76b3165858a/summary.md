@@ -1,1 +1,0 @@
-Summary: # Strong Earnings Power Dow to Another Record

@@ -1,1 +1,0 @@
-Summary: # Penalties for non-compliance

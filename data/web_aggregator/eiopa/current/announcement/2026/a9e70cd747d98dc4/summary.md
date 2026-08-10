@@ -1,1 +1,0 @@
-Summary: EIOPA performs an annual Europe-wide comparative study on the modelling of market and credit risk. The objective of the study is to compare risk charges for a selection of asset portfolios to be used as a tool for the supervisory review of internal models. Additionally, the study

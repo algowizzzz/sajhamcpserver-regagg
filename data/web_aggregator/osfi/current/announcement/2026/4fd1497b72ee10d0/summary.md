@@ -1,1 +1,0 @@
-Summary: # 2026 Basel Capital Adequacy Reporting (BCAR)

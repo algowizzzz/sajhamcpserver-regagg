@@ -1,1 +1,0 @@
-Summary: ![Compass in Sunlight](/sites/default/files/styles/wide_lead/public/media/2025/08/compass-sunlight.jpg?h=b5f6a62e&itok=ChULB2Rz "Compass in Sunlight")

@@ -1,1 +1,0 @@
-Summary: # Does Beijing really have the power to lift up the Australian dollar?

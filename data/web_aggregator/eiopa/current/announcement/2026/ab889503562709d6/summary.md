@@ -1,1 +1,0 @@
-Summary: Today, EIOPA published a new set of statistical information on the European insurance sector based on Solvency II regulatory reporting.

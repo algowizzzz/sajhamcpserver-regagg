@@ -1,1 +1,0 @@
-Summary: # Relevé des modifications (B2)

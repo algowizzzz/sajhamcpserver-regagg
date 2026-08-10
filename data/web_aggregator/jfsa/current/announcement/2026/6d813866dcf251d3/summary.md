@@ -1,1 +1,0 @@
-Summary: ![Japan Fintech Week 2027 is scheduled to be held from February 24 to March 5.](img/top/jfw2027_en.webp)

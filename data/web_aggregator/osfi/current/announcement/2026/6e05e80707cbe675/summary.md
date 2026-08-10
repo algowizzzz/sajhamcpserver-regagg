@@ -1,1 +1,0 @@
-Summary: # Business Specifications for the Climate-Related Risk Returns for Insurers

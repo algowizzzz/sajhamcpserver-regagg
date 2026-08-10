@@ -1,7 +1,0 @@
-# US stocks: Alphabet shares fall 4% as DeepMind chief shifts role in Google’s AI shakeup
-
-Alphabet's Class C shares declined significantly after a major AI leadership restructuring. DeepMind CEO Demis Hassabis is moving to a new chief scientist role. Several prominent Gemini researchers have departed the company recently. This overhaul occurs as Google DeepMind faces challenges with its latest AI model. The company's cloud business, however, continues to show strong revenue growth.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/us-stocks-alphabet-shares-fall-4-as-deepmind-chief-shifts-role-in-googles-ai-shakeup/articleshow/132967508.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

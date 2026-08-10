@@ -1,7 +1,0 @@
-# Under Armour forecasts steeper annual sales decline on weak North America demand
-
-Under Armour on Friday forecast a steeper annual revenue decline, underscoring the challenge of reviving growth as cautious consumers rein in spending on athletic apparel amid economic uncertainty in its key North American market.
-
-[Read the full story at the source](https://www.bnnbloomberg.ca/business/company-news/2026/08/07/under-armour-forecasts-steeper-annual-sales-decline/)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

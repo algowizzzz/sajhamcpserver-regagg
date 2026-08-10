@@ -1,1 +1,0 @@
-Summary: # Prolongation de la période de détention d’un placement provisoire d’une banque étrangère ou d’une entité qui lui est associée

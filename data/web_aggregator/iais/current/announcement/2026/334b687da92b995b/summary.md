@@ -1,1 +1,0 @@
-Summary: # The IAIS is committed to diversity, equity and inclusion as a global membership association

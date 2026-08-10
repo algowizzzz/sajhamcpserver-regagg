@@ -1,1 +1,0 @@
-Summary: # As the U.S. tariff war evolves, Canada’s tourism industry sees massive spike

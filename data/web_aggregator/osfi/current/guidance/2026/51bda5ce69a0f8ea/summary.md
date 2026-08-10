@@ -1,1 +1,0 @@
-Summary: # The Use of Ratings and Estimates of Default and Loss at IRB Institutions

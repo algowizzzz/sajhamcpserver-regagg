@@ -1,0 +1,10 @@
+---
+title: "Correction to Notice: OSC Staff Notice - 11-728 - Withdrawal of Staff Notices | OSC"
+regulator: "osc"
+doc_type: "final_rule"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/11-728/correction-notice-osc-staff-notice-11-728-withdrawal-staff-notices"
+version: "1"
+---
+

@@ -1,1 +1,0 @@
-Summary: The European Insurance and Occupational Pensions Authority (EIOPA) has published its strategies for cyber underwriting and supervisory technology, or SupTech.  

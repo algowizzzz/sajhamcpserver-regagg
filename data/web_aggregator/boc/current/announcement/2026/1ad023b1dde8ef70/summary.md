@@ -1,1 +1,0 @@
-Summary: # Bank of Canada Museum marks 50th anniversary of the Montréal Olympics with an exhibition on Canada’s historic Olympic Coin Program

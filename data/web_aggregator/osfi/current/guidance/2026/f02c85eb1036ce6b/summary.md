@@ -1,1 +1,0 @@
-Summary: # Substantial Investments - Appendix A.6

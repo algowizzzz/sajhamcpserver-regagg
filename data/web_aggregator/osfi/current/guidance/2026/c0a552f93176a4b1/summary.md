@@ -1,1 +1,0 @@
-Summary: # Assessment of Regulatory Capital Models for Deposit-Taking Institutions

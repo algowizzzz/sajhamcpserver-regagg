@@ -1,1 +1,0 @@
-Summary: # Exigences en matière de tenue de documents pour les affactureurs : Directive de conformité de CANAFE

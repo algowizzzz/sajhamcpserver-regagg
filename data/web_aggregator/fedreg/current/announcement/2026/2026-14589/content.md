@@ -1,5 +1,0 @@
-# Reporting Forms and Instructions Associated With Requirements and Standards for FDIC-Supervised Permitted Payment Stablecoin Issuers
-
-The FDIC invites comment on new forms and instructions associated with an Office of Management and Budget (OMB) control number (3064-0225) assigned in connection with a notice of proposed rulemaking. In accordance with the requirements of the Paperwork Reduction Act of 1995 (PRA), the FDIC may not conduct or sponsor, and the respondent is not required to respond to, an information collection unless it displays a currently valid OMB control number. As part of the notice of proposed rulemaking, the FDIC sought a new OMB control number for a new information collection that would include weekly and quarterly reporting forms that must be completed by permitted payment stablecoin issuers.
-
-> Full text pending: source page is bot-gated; this is the official API abstract.

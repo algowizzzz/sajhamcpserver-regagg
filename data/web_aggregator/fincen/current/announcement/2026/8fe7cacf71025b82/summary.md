@@ -1,1 +1,0 @@
-Summary: # (Formerly known as 88-5) Does a financial institution havea duty to file a CTR on currency transactions where the financial institution never physically receives the cash because it uses an armored car service to collect, transport and process

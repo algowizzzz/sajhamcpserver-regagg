@@ -1,1 +1,0 @@
-Summary: # Sterling-denominated systemic stablecoins

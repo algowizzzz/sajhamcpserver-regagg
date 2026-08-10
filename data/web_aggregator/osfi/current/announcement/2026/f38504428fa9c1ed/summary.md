@@ -1,1 +1,0 @@
-Summary: # Risque de taux d'intérêt (I3)

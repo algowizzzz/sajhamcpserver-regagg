@@ -1,1 +1,0 @@
-Summary: # March 20, 2023 – FINTRAC Advisory: Financial transactions related to countries identified by the Financial Action Task Force (FATF)

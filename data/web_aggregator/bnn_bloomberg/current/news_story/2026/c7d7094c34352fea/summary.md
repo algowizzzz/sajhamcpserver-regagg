@@ -1,1 +1,0 @@
-Summary: # CVS profit outlook overshadows strong quarter, shares fall

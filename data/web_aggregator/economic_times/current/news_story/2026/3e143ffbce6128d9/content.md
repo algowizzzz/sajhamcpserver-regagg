@@ -1,7 +1,0 @@
-# Circle shares fall nearly 4% as revenue miss overshadows quarterly profit beat
-
-Circle's profits in the second quarter significantly outperformed expectations, attributed to the growing adoption of USDC tokens. The surge in USDC circulation, accompanied by a marked increase in onchain transaction activity, highlighted a positive trend. Despite a dip in the reserve return rate during this period, stronger circulation volumes partially mitigated the effects of reduced yields.
-
-[Read the full story at the source](https://economictimes.indiatimes.com/markets/us-stocks/news/circle-shares-fall-nearly-4-as-revenue-miss-overshadows-quarterly-profit-beat/articleshow/132948385.cms)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

@@ -1,7 +1,0 @@
-# Copper jumps to its highest level ever. What the metal is telling us
-
-Once a reliable gauge if economic health, "Dr. Copper" may be giving complicated signals this year.
-
-[Read the full story at the source](https://www.cnbc.com/2026/08/06/copper-jumps-to-its-highest-level-ever-what-the-metal-is-telling-us-.html)
-
-> Headline and summary as published in the source's public feed; full text remains at the publisher.

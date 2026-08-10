@@ -1,1 +1,0 @@
-Summary: # OSFI maintains the level of the Domestic Stability Buffer at 3.5% - Letter (December 2025)

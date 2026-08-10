@@ -1,5 +1,0 @@
-# Proposed Agency Information Collection Activities; Comment Request
-
-The Board of Governors of the Federal Reserve System (Board) invites comment on a proposal to extend for three years, with revision, the Applications for Employment with the Board of Governors of the Federal Reserve System (FR 28; OMB No. 7100-0181).
-
-> Full text pending: source page is bot-gated; this is the official API abstract.
