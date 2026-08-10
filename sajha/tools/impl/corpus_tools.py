@@ -94,14 +94,32 @@ class CorpusReadTool(_CorpusTool):
             return {"found": False,
                     "error": "No such document. Use corpus_list_files or a search "
                              "tool to get a doc_id."}
-        chars = int(arguments.get("max_chars", 12000))
-        return {"found": True, "doc_id": doc["doc_id"], "path": doc["path"],
-                "title": doc["title"], "source": doc["source"],
-                "doc_type": doc["doc_type"], "published": doc["published"],
-                "source_url": doc["source_url"], "status": doc["status"],
-                "version": doc["version"],
-                "truncated": len(doc["body"]) > chars,
-                "markdown": doc["body"][:chars]}
+        body = doc["body"]
+        total = len(body)
+        chars = max(1, int(arguments.get("max_chars", 40000)))
+        offset = max(0, int(arguments.get("offset", 0)))
+        window = body[offset:offset + chars]
+        end = offset + len(window)
+        more = end < total
+        out = {"found": True, "doc_id": doc["doc_id"], "path": doc["path"],
+               "title": doc["title"], "source": doc["source"],
+               "doc_type": doc["doc_type"], "published": doc["published"],
+               "source_url": doc["source_url"], "status": doc["status"],
+               "version": doc["version"],
+               # The reader has to be able to tell "the corpus lacks this" from
+               # "I have not read that far yet". A bare `truncated: true` was
+               # reported to a user as a gap in the corpus.
+               "total_chars": total, "offset": offset, "chars_returned": len(window),
+               "pct_of_document": round(end / total * 100, 1) if total else 100.0,
+               "truncated": more,
+               "next_offset": end if more else None,
+               "markdown": window}
+        if more:
+            out["note"] = (f"You have read to character {end:,} of {total:,} "
+                           f"({out['pct_of_document']}%). Call corpus_read again "
+                           f"with offset={end} for the next part. Do NOT describe "
+                           f"the unread part as missing from the corpus.")
+        return out
 
 
 class CorpusReadManyTool(_CorpusTool):
@@ -109,18 +127,34 @@ class CorpusReadManyTool(_CorpusTool):
 
     def execute(self, arguments: Dict[str, Any]) -> Any:
         ids: List[str] = arguments.get("doc_ids") or []
-        per = int(arguments.get("max_chars_each", 4000))
-        ix, out = self._index(), []
+        per = max(1, int(arguments.get("max_chars_each", 12000)))
+        ix, out, partial = self._index(), [], []
         for did in ids[:20]:
             doc = ix.get(doc_id=did)
             if doc is None:
                 out.append({"doc_id": did, "found": False})
                 continue
-            out.append({"doc_id": did, "found": True, "title": doc["title"],
-                        "source": doc["source"], "published": doc["published"],
-                        "source_url": doc["source_url"],
-                        "markdown": doc["body"][:per]})
-        return {"requested": len(ids), "returned": len(out), "documents": out}
+            body, total = doc["body"], len(doc["body"])
+            row = {"doc_id": did, "found": True, "title": doc["title"],
+                   "source": doc["source"], "published": doc["published"],
+                   "source_url": doc["source_url"],
+                   "total_chars": total, "chars_returned": min(per, total),
+                   "truncated": total > per,
+                   "markdown": body[:per]}
+            if row["truncated"]:
+                # This tool exists for comparison. A long document compared on
+                # its first 12k is a comparison of introductions, so name the
+                # ones that need a full read rather than letting it pass.
+                row["next_offset"] = per
+                partial.append(did)
+            out.append(row)
+        res = {"requested": len(ids), "returned": len(out), "documents": out}
+        if partial:
+            res["note"] = ("Only the opening of these documents was returned: "
+                           + ", ".join(partial)
+                           + ". Use corpus_read with offset to read one in full "
+                             "before drawing a conclusion about its contents.")
+        return res
 
 
 class CorpusKeywordSearchTool(_CorpusTool):

@@ -59,6 +59,18 @@ class AskRequest(BaseModel):
     cluster_key: Optional[str] = None
     regulator_id: Optional[str] = None
     doc_id: Optional[str] = None
+    notepad: Optional[str] = None      # name a pad to resume a long piece of work
+
+
+# Reconcile is a repair pass, not a read. Cache it so the status pill cannot
+# hold the single SQLite writer open on every page load.
+_INTEGRITY_TTL_S = 900
+_INTEGRITY_CACHE: dict = {"result": None, "at": 0.0}
+
+
+def _notepad_for(req: "AskRequest") -> str:
+    """Default pad: one per persona, so two lines of work do not interleave."""
+    return f"persona-{req.persona_id}" if req.persona_id else "scratch"
 
 
 class ManualDocRequest(BaseModel):
@@ -217,8 +229,13 @@ def create_admin_router() -> APIRouter:
 
         if req.mode == "agent" and req.context_kind not in ("cluster", "document"):
             from sajha.regagg import agent as _agent
+            # The notepad is per person and, by default, per persona — so
+            # "carry on with the crypto review" resumes the right notes rather
+            # than everyone sharing one pad.
             out = _agent.answer(req.question, page=req.page,
-                                context_mode=req.context_mode)
+                                context_mode=req.context_mode,
+                                owner=user.email,
+                                notepad=req.notepad or _notepad_for(req))
             out["context"] = {"kind": "corpus",
                               "title": (req.page or {}).get("label") or "the corpus"}
             # Resolve the doc_ids the agent cited into something a person can
@@ -812,9 +829,62 @@ def create_admin_router() -> APIRouter:
         return result
 
     @router.get("/integrity")
-    def integrity():
-        session = runtime.get_session()
-        return runtime.reconcile_report(session, runtime.get_storage())
+    def integrity(force: bool = False):
+        """The integrity pill. Cached, because reconcile is not a read.
+
+        `reconcile()` walks every document and REPAIRS what it finds — 24
+        seconds over 10,277 of them, inside a write transaction. Running that
+        on every dashboard open was already slow when it was awaited; making it
+        non-blocking was worse, because it then ran concurrently with the
+        page's other queries and SQLite has a single writer, so the panels sat
+        at "loading…" behind it.
+
+        So it runs at most once every `_INTEGRITY_TTL_S` and otherwise reports
+        the last result with the time it was taken. `?force=1` reconciles now.
+        """
+        import threading
+        import time as _time
+
+        now = _time.monotonic()
+        cached = _INTEGRITY_CACHE.get("result")
+
+        # `force` means "reconcile now and tell me" — the maintenance path,
+        # and the only one that may pay the full cost inline.
+        if force:
+            result = runtime.reconcile_report(runtime.get_session(),
+                                              runtime.get_storage())
+            _INTEGRITY_CACHE.update(result=result, at=_time.monotonic())
+            return {**result, "cached": False, "age_seconds": 0}
+
+        fresh = cached is not None and now - _INTEGRITY_CACHE["at"] < _INTEGRITY_TTL_S
+        if fresh:
+            return {**cached, "cached": True,
+                    "age_seconds": round(now - _INTEGRITY_CACHE["at"])}
+
+        # Refresh off the request path. Even the first call must not hold the
+        # writer while the dashboard is trying to load its panels.
+        def _refresh():
+            try:
+                from sajha.regagg import runtime as _rt
+                res = _rt.reconcile_report(_rt.get_session(), _rt.get_storage())
+                _INTEGRITY_CACHE.update(result=res, at=_time.monotonic())
+            except Exception as e:  # noqa: BLE001
+                _INTEGRITY_CACHE.update(
+                    result={"ok": False, "error": str(e)[:200], "checked": 0},
+                    at=_time.monotonic())
+            finally:
+                _INTEGRITY_CACHE["running"] = False
+
+        if not _INTEGRITY_CACHE.get("running"):
+            _INTEGRITY_CACHE["running"] = True
+            threading.Thread(target=_refresh, name="regagg-integrity",
+                             daemon=True).start()
+
+        if cached is not None:      # stale but real beats nothing
+            return {**cached, "cached": True, "checking": True,
+                    "age_seconds": round(now - _INTEGRITY_CACHE["at"])}
+        return {"checking": True, "cached": False,
+                "detail": "first integrity pass is running; ask again shortly"}
 
     @router.post("/documents/upload")
     async def upload_document(

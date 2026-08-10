@@ -1,7 +1,7 @@
 {
   "name": "corpus_read",
   "implementation": "sajha.tools.impl.corpus_tools.CorpusReadTool",
-  "description": "Read one document's markdown in full, by doc_id or path.",
+  "description": "Read one document's markdown, by doc_id or path. Long documents are returned in windows: use offset with the returned next_offset to page to the end. total_chars and pct_of_document say how much of the document you have actually seen.",
   "version": "1.0.0",
   "enabled": true,
   "inputSchema": {
@@ -15,7 +15,13 @@
       },
       "max_chars": {
         "type": "integer",
-        "default": 12000
+        "default": 40000,
+        "description": "characters to return in this window"
+      },
+      "offset": {
+        "type": "integer",
+        "default": 0,
+        "description": "character offset to start from; pass the next_offset from the previous call to continue reading the same document"
       }
     },
     "required": []

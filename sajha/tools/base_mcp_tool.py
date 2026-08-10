@@ -115,18 +115,43 @@ class BaseMCPTool(ABC):
     def validate_arguments(self, arguments: Dict[str, Any]) -> bool:
         """
         Validate arguments against input schema
-        
+
+        A parameter the tool does not implement is rejected rather than
+        ignored. Silently dropping an argument is the worst failure a tool
+        can have: the caller asked for "changes at OSFI", got every source
+        back, and had no way to tell that the filter never applied. A
+        narrowing request that quietly does not narrow turns a wrong answer
+        into a confident one.
+
+        Strictness comes from the schema itself, so it is per-tool
+        configuration and not a rule baked in here: a schema that declares
+        ``properties`` is closed unless it opts out with
+        ``additionalProperties: true``.
+
         Args:
             arguments: Tool arguments
-            
+
         Returns:
             True if valid
         """
-        # Basic validation - can be enhanced with jsonschema
-        required_params = self.input_schema.get('required', [])
-        for param in required_params:
+        schema = self.input_schema or {}
+        for param in schema.get('required', []):
             if param not in arguments:
                 raise ValueError(f"Missing required parameter: {param}")
+
+        # An empty `properties` means "this tool takes no parameters", which
+        # rejects everything; a missing one means the contract was never
+        # written down, and there is nothing to check against.
+        known = schema.get('properties')
+        if known is not None and schema.get('additionalProperties', False) is not True:
+            unknown = sorted(set(arguments or {}) - set(known))
+            if unknown:
+                raise ValueError(
+                    f"{self.name} does not accept {', '.join(unknown)}. "
+                    f"It would have been ignored, so the result would not have "
+                    f"been filtered the way you asked. Accepted parameters: "
+                    f"{', '.join(sorted(known))}."
+                )
         return True
     
     def execute_with_tracking(self, arguments: Dict[str, Any]) -> Any:

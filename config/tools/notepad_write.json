@@ -1,0 +1,52 @@
+{
+  "name": "notepad_write",
+  "implementation": "sajha.tools.impl.notepad_tools.NotepadWriteTool",
+  "description": "Write a finding to your working notepad so it survives beyond this reply. Use it as you read, not at the end: notes persist across turns, so a long qualitative pass over many documents can continue later. Appends by default.",
+  "version": "1.0.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "note": {
+        "type": "string",
+        "description": "the finding, in markdown; cite the doc_id it came from"
+      },
+      "section": {
+        "type": "string",
+        "default": "notes",
+        "description": "which section to file it under, e.g. a topic or a doc_id"
+      },
+      "mode": {
+        "type": "string",
+        "enum": [
+          "append",
+          "replace"
+        ],
+        "default": "append",
+        "description": "'replace' overwrites the section \u2014 use it to consolidate"
+      },
+      "notepad": {
+        "type": "string",
+        "default": "scratch",
+        "description": "notepad name; use one name for one piece of work"
+      }
+    },
+    "required": [
+      "note"
+    ]
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Working Memory",
+    "tags": [
+      "notepad",
+      "agent",
+      "riskgpt"
+    ],
+    "cacheTTL": 0,
+    "readOnly": false
+  }
+}

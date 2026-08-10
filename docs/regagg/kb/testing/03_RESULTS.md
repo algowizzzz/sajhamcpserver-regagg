@@ -3,13 +3,43 @@
 Everything below was executed against the running system. Where a number is
 quoted, it came from that run.
 
-## Automated suites — last full run 2026-08-09
+## Automated suites — last full run 2026-08-09 (evening)
 
 ```
-./.venv/bin/python -m pytest tests/regagg -q      →  299 passed in 7.5s
-bash tests/ui/run_suite.sh                        →   76 passed in 6.6m
+./.venv/bin/python -m pytest tests/regagg -q      →  358 passed in 8s
+bash tests/ui/run_suite.sh                        →   76 passed in 1.7m
 ./.venv/bin/python scripts/regagg_verify_foundation.py  →  gate green
 ```
+
+The browser suite was **13.9 minutes** earlier the same evening, with 11
+failures, and 6.6 minutes before that. None of it was the tests. `/integrity`
+reconciles every document inside a write transaction; at 10,277 documents that
+is 24 seconds, and the dashboard awaited it before loading anything. Once the
+corpus outgrew `j()`'s 15s timeout, every page load stalled the full 30s.
+Making it non-blocking was *worse* — the reconcile then ran concurrently with
+the page's own queries and held the single SQLite writer, so panels sat at
+"loading…". Caching it and refreshing on a background thread fixed both:
+signup 14.8s → 1.9s, suite 13.9m → 1.7m.
+
+## Reading a document end to end (2026-08-09)
+
+The worker previously received 5,500 of 104,508 characters of the OSFI crypto
+capital guideline and reported the rest as absent from the corpus.
+
+| | Before | After |
+|---|---|---|
+| Characters of the document reaching the model | 5,500 (5.3%) | **104,508 (100%)**, in 3 paged calls |
+| `corpus_read` window | 12,000, no offset | 40,000 with `offset` |
+| Harness cap on a tool result | 6,000 per call | 60,000 per call, 400,000 per run |
+| Follow-up question on the same work | re-read the document | **5s, one `notepad_read`** |
+
+Provider probe: `deepseek-chat` (resolves to `deepseek-v4-flash`) accepted a
+**400,005-token** prompt and answered. The model was never the constraint.
+
+Spot-checked against the source, every figure the worker quoted was correct:
+32%, 120%, 94% (each appears exactly once in the document), 5% of Net Tier 1
+(para 75), the 1% notification trigger (para 76) and the breach rule (para 77).
+It correctly did **not** claim 1250%, which does not appear in this guideline.
 
 ## Backfills, measured
 

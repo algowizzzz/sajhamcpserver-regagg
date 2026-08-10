@@ -8,6 +8,8 @@ from __future__ import annotations
 from datetime import date, datetime, timezone
 from pathlib import Path
 
+import time
+
 import pytest
 from fastapi import FastAPI
 from fastapi.testclient import TestClient
@@ -110,9 +112,48 @@ def test_toggle_flips_active_and_audits(client):
     assert session.query(AuditLog).filter_by(action="regagg.toggle").count() == 1
 
 
-def test_integrity_ok(client):
-    body = client.get("/api/regagg/integrity").json()
+def test_integrity_reconciles_and_reports_clean(client):
+    """`force` reconciles synchronously — that is the real check."""
+    body = client.get("/api/regagg/integrity?force=1").json()
     assert body["ok"] is True and body["invariant_violations"] == []
+
+
+def test_the_integrity_pill_never_blocks_the_page(client):
+    """`reconcile()` repairs every document inside a write transaction — 24s
+    over 10,277 of them, and SQLite has one writer. Serving that on the request
+    path left the dashboard's panels sitting at "loading…" behind it.
+
+    So the unforced call must answer immediately, even the very first one, and
+    refresh in the background.
+    """
+    from sajha.regagg import admin as A
+
+    A._INTEGRITY_CACHE.update(result=None, at=0.0, running=False)
+    calls = []
+
+    def slow_reconcile(session, storage):
+        calls.append(1)
+        return {"ok": True, "checked": 1, "invariant_violations": [],
+                "repaired": [], "orphan_staging_cleaned": []}
+
+    from sajha.regagg import runtime
+    orig = runtime.reconcile_report
+    runtime.reconcile_report = slow_reconcile
+    try:
+        first = client.get("/api/regagg/integrity").json()
+        assert first["checking"] is True          # answered without reconciling
+        assert "ok" not in first                  # and does not invent a verdict
+
+        for _ in range(100):                      # the background pass lands
+            if A._INTEGRITY_CACHE.get("result") is not None:
+                break
+            time.sleep(0.02)
+        second = client.get("/api/regagg/integrity").json()
+        assert second["ok"] is True and second["cached"] is True
+        assert len(calls) == 1                    # cached, not reconciled again
+    finally:
+        runtime.reconcile_report = orig
+        A._INTEGRITY_CACHE.update(result=None, at=0.0, running=False)
 
 
 def test_run_all_on_a_lane_page_runs_only_that_lane(client, session, seed_regulator):

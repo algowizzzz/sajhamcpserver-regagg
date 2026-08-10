@@ -21,8 +21,45 @@
 | 15 | ~~A rerun for a past date silently collects today~~ | **Fixed 2026-08-09.** `spawn_ingest` accepted `logical_date` and dropped it — the runner had no `--date` and called `date.today()`, so "▶ Run these N" on a missed day filed under today and the gap never closed. `--date` added and threaded through. Verified: a backfill for 2026-08-05 writes `logical_date=2026-08-05` with `started_at=2026-08-10`, so the collected-at and filed-under times stay distinguishable |
 | 16 | ~~One source rerun costs a whole-corpus enrichment sweep~~ | **Fixed 2026-08-09: ~6 min → 4.8s.** `regagg_ingest_live.py` ended with `for doc in session.query(Document).all()` regardless of scope. Now scoped to the sources in the run (`--enrich-all` restores the sweep). A one-source rerun enriched 23 documents instead of 10,277 |
 | 17 | ~~Rerun from the UI is uncapped~~ | **Fixed 2026-08-09.** The Health page's Rerun sent no `max_docs`, so osc (~29k URLs) ran **1h37m** before being stopped. Default cap of 200/source, shown in the cap field and stated in the confirmation ("up to 200 docs each"); `0` still means no limit for a deliberate deep pass |
+| 18 | ~~`/integrity` is a full reconcile on every page load~~ | **Fixed 2026-08-09.** `reconcile()` repairs every document inside a write transaction — 24s over 10,277, and SQLite has one writer, so the pill stalled every other panel. Now cached (15 min TTL) and refreshed on a background thread; the request path never reconciles. `?force=1` still runs it inline for maintenance. **Browser suite 13.9 min → 1.7 min**, signup 14.8s → 1.9s |
 
 ## War stories — bugs that shaped the code. Do not regress them.
+
+**00. The worker reported a buffer size as a fact about the corpus.** Asked
+about OSFI's crypto capital guideline it answered with a section headed *"What
+the corpus does NOT contain"*, stating the risk-weight tables were truncated
+out of the data. They were not. The document is 104,508 characters, complete,
+tables and all — they begin at character 27,519.
+
+Three ceilings stacked up, and the smallest was invisible: `corpus_read_many`
+returned 4,000 characters per document, `corpus_read` 12,000, and
+`agent.MAX_TOOL_CHARS` cut the entire JSON tool result to **6,000** — about
+5,500 characters of actual text, roughly paragraph 9. The tool *did* return
+`truncated: true`; nothing said what that meant, and the worker resolved the
+ambiguity in the most damaging direction.
+
+The model was never the constraint. Probed directly, this install's provider
+accepted a **400,000-token** prompt — the whole guideline is ~26,000. The limit
+was ours, set when the corpus was news stories and never revisited.
+
+Fixed by making the reader honest and the reading resumable: `corpus_read`
+takes an `offset` and reports `total_chars` / `pct_of_document` /
+`next_offset`; the per-run budget replaced the per-call cap; and when the
+harness truncates it says so in the payload, in words that forbid reading it as
+a gap in the corpus. A notepad was added so a long pass can record findings
+instead of holding them in the window.
+
+*Measured after:* the same question now pages the document in three calls
+(41,353 + 41,057 + 25,347 = 104,508 — all of it), reproduces Table 2, and cites
+paragraph numbers and Annex clauses. Every figure it quoted (32%, 120%, 94%,
+5% of Net Tier 1, the para 75/76/77 breach rule) was checked against the source
+and is correct. A follow-up turn answered in **5 seconds from one
+`notepad_read`** instead of re-reading 104,508 characters.
+
+*The lesson:* "I could not read all of it" and "it is not there" are different
+sentences, and only one of them is about the data. Any limit the reader imposes
+must be legible to whoever hits it — otherwise the system's most confident
+output is a statement about its own plumbing.
 
 **0. Nine Rerun clicks, one run, nine "started" messages.** `spawn_ingest`
 refuses a second concurrent fleet (SQLite has one writer) and returns

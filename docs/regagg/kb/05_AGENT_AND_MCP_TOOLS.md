@@ -1,6 +1,6 @@
 # 05 — MCP Tools, the Digital Worker, and Grounding
 
-## 22 tools, two families
+## 24 tools, three families
 
 Registered through SAJHA's config-driven discovery: a tool exists because
 `config/tools/{name}.json` names an implementation class. **No config means the
@@ -16,8 +16,8 @@ than a workflow: the worker is given the *moves*, not a route.
 |---|---|
 | `corpus_list_sources` | what exists at all — the map before the territory |
 | `corpus_list_files` | directory listing with filters |
-| `corpus_read` | one document, whole or head |
-| `corpus_read_many` | several at once, for comparison without round trips |
+| `corpus_read` | one document — a WINDOW, with `offset` to page to the end |
+| `corpus_read_many` | several openings at once, for comparison; each reports its true size |
 | `corpus_search_keyword` | exact terms — a rule number, a ticker |
 | `corpus_search_bm25` | ranked relevance, robust to phrasing |
 | `corpus_search_similar` | documents that read like this one (TF-IDF cosine) |
@@ -27,6 +27,52 @@ than a workflow: the worker is given the *moves*, not a route.
 
 No embedding service is required for any of them. An on-prem install should not
 need a second network dependency to answer "what changed at OSFI".
+
+**Reading is windowed, and the window is legible.** `corpus_read` returns
+`total_chars`, `pct_of_document` and `next_offset`; loop on `next_offset` to
+reach the end. This exists because a 104,508-character guideline was delivered
+5,500 characters at a time and the worker reported the rest as absent from the
+corpus (war story 00). Nothing in a result may leave "I have not read that far"
+and "it is not there" indistinguishable.
+
+### `notepad_*` — 2 tools, the worker's own working memory
+
+The only tools that write, and they write only the worker's reasoning — never
+collected data. Notes live in `data/notepads/<owner>/<name>.md`, well away from
+the archive.
+
+| Tool | Answers |
+|---|---|
+| `notepad_write` | record a finding; appends by default, `replace` to consolidate |
+| `notepad_read` | one section back; with no section, just the cheap index |
+
+Why it exists: the context window is not the binding constraint (this install's
+provider accepted a 400,000-token prompt) — the *accumulated transcript* is.
+Reading forty documents in full overflows; summarising as you read does not,
+and an agent cannot summarise as it goes without somewhere to put the summary.
+
+Three properties make it work rather than decorate:
+
+- **It survives the turn.** Pads are keyed by owner and name, so a qualitative
+  pass over a rulebook can be picked up in a later question. Measured: a
+  follow-up answered in 5 seconds from one `notepad_read` instead of re-reading
+  104,508 characters.
+- **Only the index enters the prompt.** Each step the worker is shown section
+  names and sizes — tens of characters — and reads a section on demand. A pad
+  that re-entered in full every step would be the problem it exists to solve.
+- **Ownership is not an argument.** It is bound per request by the caller, so a
+  model cannot name someone else's pad. Names are slugged, never joined raw.
+
+Headings inside a note are demoted to `###` on write: a `##` line in note text
+used to split the file, so the section the worker named read back **empty**.
+
+### The reading budget
+
+`MAX_TOOL_CHARS` (60,000) caps one result; `TOOL_CHAR_BUDGET` (400,000) caps
+the whole run. The per-call cap used to be 6,000 with no run-level accounting,
+which is how 95% of a document disappeared silently. When the harness truncates
+it says so inside the payload; when the budget is gone it stops calling tools
+altogether rather than spending a round trip to return an apology.
 
 ### `reg_*` — 12 tools over the index plane
 
@@ -67,7 +113,7 @@ rejection only the model sees is a contract gap nobody gets to fix.
 `sajha/regagg/agent.py`. An agentic loop: `MAX_STEPS = 12`, tool schemas read
 from the registry so adding a tool offers it without a code edit.
 
-Registered in the agent platform as **`w-riskgpt`** with all 22 tools enabled,
+Registered in the agent platform as **`w-riskgpt`** with all 24 tools enabled,
 created by `scripts/regagg_create_worker.py` (which discovers tools by
 `fnmatch` on `["corpus_*", "reg_*"]` rather than hard-coding a list).
 

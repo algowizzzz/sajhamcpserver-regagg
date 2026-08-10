@@ -212,6 +212,37 @@ def test_the_agent_surfaces_a_rejected_argument_to_the_model():
     assert "source" in out["error"] and "doc_id" in out["error"]
 
 
+def test_every_tool_the_agent_asks_for_can_actually_be_instantiated():
+    """A config file is not proof the tool loads.
+
+    Two notepad tools shipped with a config, a valid schema and passing unit
+    tests, and were rejected at startup — the base class has an abstract
+    `get_output_schema` neither implemented. The registry logged it and carried
+    on, so the agent simply had a smaller toolset than its prompt described.
+    Nothing failed; a capability was quietly absent.
+    """
+    import importlib
+
+    from sajha.regagg.agent import DEFAULT_TOOLSET
+
+    broken = {}
+    for name in DEFAULT_TOOLSET:
+        cfg_path = Path(f"config/tools/{name}.json")
+        if not cfg_path.exists():
+            broken[name] = "no config file — it would not be registered at all"
+            continue
+        cfg = json.loads(cfg_path.read_text())
+        dotted = cfg.get("implementation", "")
+        mod, _, cls = dotted.rpartition(".")
+        try:
+            tool = getattr(importlib.import_module(mod), cls)()
+            tool.get_input_schema()
+            tool.get_output_schema()
+        except Exception as e:  # noqa: BLE001
+            broken[name] = f"{type(e).__name__}: {e}"
+    assert not broken, f"tools the agent expects but cannot load: {broken}"
+
+
 def test_every_configured_tool_declares_the_parameters_it_accepts():
     """A schema with no properties cannot reject anything — the same hole."""
     import glob

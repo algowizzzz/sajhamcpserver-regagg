@@ -1,4 +1,4 @@
-# Python suites — 329 tests
+# Python suites — 358 tests
 
 ```bash
 ./.venv/bin/python -m pytest tests/regagg -q        # all, ~7s
@@ -115,6 +115,33 @@ is attributed, and the concurrent-fleet guard reports the pids it found.
 disagree. Verified to fail on the original bug — dropping the `--date` line
 makes the backfill test fail.
 
+### `test_notepad_and_paging.py` — 26
+Reading a long document to the end, and keeping notes while you do.
+
+*Paging:* a window reports `total_chars`, `pct_of_document` and `next_offset`;
+looping on `next_offset` reconstructs the document exactly; the last window is
+not truncated; an offset past the end returns empty rather than wrapping;
+`corpus_read_many` reports each document's real size and names the ones that
+need a full read.
+
+*The harness:* when it truncates it says so **in the payload**, in words that
+forbid reading it as missing data; the budget is spent across the run, never
+goes negative, and once exhausted the tool is **not run at all** rather than
+served an apology.
+
+*The notepad:* notes survive and read back; append is the default so a long
+pass cannot erase itself; `replace` must be asked for by name; an unknown mode
+is refused without losing anything; reading with no section returns the index
+only; two people never share a pad; a traversing name cannot escape the
+directory; an oversized section is refused rather than silently cut. And —
+found live — **a `##` heading inside a note cannot split the notepad**: the
+worker wrote its own heading, the section it had named came back empty, and
+the notes read as lost.
+
+*Protects:* the failure that started this. 5,500 of 104,508 characters reached
+the model, and the worker told a user "the corpus does not contain the
+risk-weight tables". It did; they start at character 27,519.
+
 ### `test_date_recovery.py` — 20
 Dates from URL paths and from the opening of a document. The refusals matter
 more than the finds: an effective date, a comment deadline, a "last updated"
@@ -166,7 +193,7 @@ tree / browse / changes / diff / runs / inventory. **Filter-before-LIMIT
 regression.** Manual add and update (v2). Multipart PDF upload. **fs jail —
 path traversal returns 400.**
 
-### `test_admin.py` — 6
+### `test_admin.py` — 7
 Coverage matrix, drill-down, audited rerun and toggle, integrity, and
 **"Run all" on a lane page runs only that lane**.
 
@@ -176,12 +203,16 @@ Signup, login, password rules, persona ownership and sharing.
 ### `test_news_lane.py` — 8
 The news dashboard read model and the credit-analyst ranking lens.
 
-### `test_dashboard_markup.py` — 3
+### `test_dashboard_markup.py` — 4
 Structural, not functional: **every `<div>` balanced**, **every view inside
 `.page`**, and `className=""` never used (it strips layout classes).
+Plus: **`loadAll` must not await `/integrity`**. That endpoint reconciles every
+document — 24s at 10,277 — and awaiting it left the dashboard blank behind it;
+once the corpus outgrew `j()`'s 15s timeout, every load stalled 30s and the
+browser suite started failing on unrelated auth tests.
 *Protects:* the class of bug where every element exists and every endpoint
 answers, and the page is still broken. Verified to fail on the exact stray
-`</div>` that caused it.
+`</div>` that caused it, and on restoring the awaited integrity call.
 
 ## Foundation gate
 

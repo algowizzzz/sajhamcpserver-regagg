@@ -69,3 +69,22 @@ def test_content_containers_keep_their_layout_class_when_filled():
         "use classList.remove('empty') — assigning className='' also strips "
         "scrollbox/halfgrid and lets a feed grow to any height"
     )
+
+
+def test_the_dashboard_does_not_block_on_the_integrity_reconcile():
+    """`/integrity` runs a full reconcile over every document — 24 seconds at
+    10,277 of them, and it grows with the corpus.
+
+    `loadAll` used to `await` it before loading anything else, so the whole
+    dashboard sat blank behind it. Once the corpus outgrew `j()`'s 15s timeout
+    every page load stalled the full 30s (two attempts) and the browser suite
+    began timing out on unrelated auth tests. A status pill must never gate
+    the page.
+    """
+    src = DASHBOARD.read_text(encoding="utf-8")
+    body = src[src.index("async function loadAll"):]
+    body = body[:body.index("\n}")]
+    assert "integrity" not in body or "await" not in body.split("integrity")[0][-40:], (
+        "loadAll must not await /integrity — fire it and fill the pill in later"
+    )
+    assert "loadIntegrity()" in body, "the pill should still be requested, just not awaited"

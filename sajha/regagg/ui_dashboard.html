@@ -3615,12 +3615,30 @@ async function openDiff(reg,docId){
 }
 
 /* ── boot ─────────────────────────────────────────────────── */
+/* The integrity pill runs a FULL reconcile over every document — 24 seconds at
+   10,277 of them, and it grows with the corpus. This used to be awaited before
+   anything else loaded, so the whole dashboard sat blank behind it, and once
+   the corpus outgrew j()'s 15s timeout every page load stalled the full 30s
+   (two attempts) before rendering a thing. It is a status pill; it must never
+   gate the page. */
+function loadIntegrity(tries){
+  const el=$("integrity"); if(!el)return;
+  el.textContent="checking integrity…"; el.className="pill";
+  j(`/integrity`,{timeout:20000,retries:0}).then(ig=>{
+    // the first pass runs in the background; come back for the verdict
+    if(ig.checking&&ig.ok===undefined){
+      if((tries||0)<10)setTimeout(()=>loadIntegrity((tries||0)+1),6000);
+      else el.textContent="integrity ?";
+      return;
+    }
+    el.textContent=ig.ok?"✓ integrity clean":"✗ integrity issues";
+    el.className="pill "+(ig.ok?"ok":"failed");
+    if(ig.age_seconds>0)el.title=`last checked ${ig.age_seconds}s ago`;
+  }).catch(()=>{el.textContent="integrity ?";el.className="pill";});
+}
+
 async function loadAll(){
-  try{
-    const ig=await j(`/integrity`);
-    $("integrity").textContent=ig.ok?"✓ integrity clean":"✗ integrity issues";
-    $("integrity").className="pill "+(ig.ok?"ok":"failed");
-  }catch(e){$("integrity").textContent="integrity ?";}
+  loadIntegrity();                       // deliberately not awaited
   // The tree must finish before any deep link can select a region: the filter
   // <select> is populated FROM the tree, and setting .value on an empty select
   // silently does nothing (a deep link then showed the unfiltered corpus).

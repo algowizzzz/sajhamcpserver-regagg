@@ -24,8 +24,39 @@ import logging
 import re
 from typing import Any, Callable, Dict, List, Optional, Tuple
 
-MAX_STEPS = 12
-MAX_TOOL_CHARS = 6000
+MAX_STEPS = 20
+
+# What one tool result may contribute, and what the whole run may.
+#
+# MAX_TOOL_CHARS was 6,000 — set when the corpus was news stories. Against a
+# 104,000-character capital guideline it delivered 5% of the document, and the
+# worker reported the other 95% to a user as "not contained in the corpus".
+# The model is not the constraint: this install's provider accepted a
+# 400,000-token prompt. What actually overflows is the accumulated transcript,
+# so the limit belongs on the RUN, not on each call.
+MAX_TOOL_CHARS = 60_000            # ~15k tokens: most documents in one call
+TOOL_CHAR_BUDGET = 400_000         # ~100k tokens of tool output across the run
+
+# Below this the worker is told to write up rather than keep reading, because
+# an investigation that dies at the budget with nothing in the notepad has to
+# start over.
+BUDGET_WARN_AT = 80_000
+
+# Room held back from the allowance so the harness can explain a cut without
+# the explanation itself overrunning the budget.
+_NOTE_RESERVE = 400
+
+_EXHAUSTED = ("[READING BUDGET EXHAUSTED — this tool was not run. Answer now "
+              "from what you have read and from your notepad, and say which "
+              "document would settle anything still open.]")
+
+
+def _truncation_note(cut: int, total: int) -> str:
+    """Say who did the cutting. The model must not read this as missing data."""
+    return (f"\n[TRUNCATED BY THE HARNESS: {cut:,} of {total:,} characters were "
+            f"dropped from this result. A limit of the reader, NOT a gap in the "
+            f"corpus. Re-read in smaller windows with corpus_read "
+            f"offset/max_chars, and write findings to the notepad as you go.]")
 
 SYSTEM = """You are riskGPT, a research assistant for a bank's credit and market
 risk teams. You answer from a corpus of regulatory documents and financial news
@@ -41,6 +72,31 @@ HOW TO WORK
 - Read before you conclude. A search snippet is a pointer, not evidence.
 - If the corpus does not answer the question, say exactly that, and say what it
   DOES contain on the subject. Never fill a gap with general knowledge.
+
+READING A LONG DOCUMENT
+- corpus_read returns a WINDOW, not always the whole file. Every result carries
+  total_chars, pct_of_document and next_offset. Check them.
+- If next_offset is not null you have not finished the document. Call
+  corpus_read again with offset=next_offset and keep going until it is null.
+  Detail that matters — tables, numeric thresholds, risk weights, annexes — is
+  usually deep in the file, not in the opening paragraphs.
+- NEVER say the corpus lacks something you did not read to the end of. "I read
+  the first 12% and the tables were not in it" is a fact about your reading;
+  "the corpus does not contain the tables" is a claim about the data, and it is
+  the one thing you must not get wrong. Page to the end, or say plainly how far
+  you read.
+
+YOUR NOTEPAD
+- notepad_write records a finding; notepad_read returns it later. Notes persist
+  after this reply, so work can be resumed.
+- Write as you read, not at the end. Reading forty documents and holding it all
+  in your head is what runs you out of room — a note costs a fraction of the
+  document it summarises.
+- One section per topic or per document, and cite the doc_id in the note.
+- notepad_read with no section returns just the index, which is cheap. Read a
+  section only when you need it.
+- Use it for anything qualitative and long: reading a rulebook end to end,
+  comparing versions, building up a picture across many sources.
 
 WHEN A TOOL PUSHES BACK
 - A rejected argument names the parameters the tool does accept. Retry with one
@@ -70,6 +126,8 @@ DEFAULT_TOOLSET = [
     "corpus_list_sources", "corpus_list_files", "corpus_read", "corpus_read_many",
     "corpus_search_keyword", "corpus_search_bm25", "corpus_search_similar",
     "corpus_changes", "corpus_entity_lookup", "corpus_stats",
+    # the only two that write, and only ever the worker's own reasoning
+    "notepad_write", "notepad_read",
 ]
 
 
@@ -132,12 +190,19 @@ def page_brief(page: Optional[dict]) -> str:
 
 def answer(question: str, *, page: Optional[dict] = None,
            context_mode: str = "active", toolset: Optional[List[str]] = None,
-           client=None, max_steps: int = MAX_STEPS) -> dict:
+           client=None, max_steps: int = MAX_STEPS,
+           owner: Optional[str] = None, notepad: str = "scratch",
+           budget: int = TOOL_CHAR_BUDGET) -> dict:
     """Run the loop. Returns the answer plus the route it took."""
     question = (question or "").strip()
     if not question:
         return {"ok": False, "answer": "Ask a question about the corpus.",
                 "steps": [], "generator": "none"}
+
+    # Bind the notepad to this request before any tool can touch it. Ownership
+    # is never an argument the model supplies.
+    from sajha.regagg import notepad as _notepad
+    _notepad.set_owner(owner)
 
     if client is None:
         from sajha.regagg.extraction import _provider_from_env
@@ -162,21 +227,38 @@ def answer(question: str, *, page: Optional[dict] = None,
         system += ("\n\nCONTEXT: Ignore what is on screen; answer from the whole "
                    "corpus.")
 
+    # What is already in the notepad, as one line. The contents are not
+    # injected — that would put every note back in the prompt on every step,
+    # which is the cost the notepad exists to avoid.
+    carried = _notepad.summary_line(notepad, owner)
+    if carried:
+        system += ("\n\nCARRIED OVER: " + carried +
+                   " This is your own earlier work on this — read the relevant "
+                   "section before repeating a search you have already done.")
+    system += f"\n\nYour notepad for this work is named '{notepad}'."
+
     messages: List[dict] = [{"role": "system", "content": system},
                             {"role": "user", "content": question}]
     steps: List[dict] = []
     used_docs: List[str] = []
+
+    spent = 0
+    warned = False
 
     for step in range(max_steps):
         # Running out of budget mid-investigation and returning nothing wastes
         # everything gathered. Two steps out, ask for the answer it can already
         # support — a partial answer with citations beats an apology.
         remaining = max_steps - step
-        if remaining == 2:
+        left = budget - spent
+        if remaining == 2 or (left <= BUDGET_WARN_AT and not warned):
+            warned = True
             messages.append({"role": "user", "content":
-                "You are near the end of your tool budget. Answer now from what "
-                "you have already read, citing the doc_ids you opened. If some "
-                "part is unresolved, say what is missing."})
+                f"You are near the end of your budget ({remaining} tool calls and "
+                f"{left:,} characters of reading left). Write anything you have "
+                f"not yet recorded to the notepad now, then answer from what you "
+                f"have, citing the doc_ids you opened. If some part is unresolved, "
+                f"say what is missing and which document would settle it."})
         try:
             msg = client.chat(messages, tools=specs)
         except Exception as e:  # noqa: BLE001
@@ -201,13 +283,41 @@ def answer(question: str, *, page: Optional[dict] = None,
                 args = json.loads(fn.get("arguments") or "{}")
             except (TypeError, ValueError):
                 args = {}
+            # Out of budget: do not run the tool at all. Running it to return
+            # nothing but an apology spends time and the provider's tokens for
+            # no reading, and the honest move is to go and write the answer.
+            if budget - spent <= _NOTE_RESERVE:
+                payload, cut, content = _EXHAUSTED, 0, 0
+                steps.append({"tool": name, "arguments": args, "skipped": True,
+                              "result_chars": len(payload), "content_chars": 0,
+                              "dropped_chars": 0, "budget_left": 0})
+                messages.append({"role": "tool", "tool_call_id": call.get("id"),
+                                 "name": name, "content": payload})
+                continue
+
             try:
                 result = _run_tool(name, args)
             except Exception as e:  # noqa: BLE001 — a failed tool is a fact, not a crash
                 result = {"error": str(e)[:200]}
-            payload = json.dumps(result, default=str)[:MAX_TOOL_CHARS]
+            # Cut to whatever is smaller: this call's cap, or what is left of
+            # the run. A silent cut is what made a 5%-read look like a complete
+            # one, so when it happens the model is told, in the payload — and
+            # room for saying so is reserved out of the allowance, or the
+            # explanation would itself push the run over budget.
+            encoded = json.dumps(result, default=str)
+            allowed = max(0, min(MAX_TOOL_CHARS, budget - spent))
+            if len(encoded) <= allowed:
+                payload, cut = encoded, 0
+            else:
+                room = max(0, allowed - _NOTE_RESERVE)
+                payload = encoded[:room]
+                cut = len(encoded) - room
+                payload += _truncation_note(cut, len(encoded))
+            content = len(encoded) - cut          # corpus text, not bookkeeping
+            spent += content
             steps.append({"tool": name, "arguments": args,
-                          "result_chars": len(payload)})
+                          "result_chars": len(payload), "content_chars": content,
+                          "dropped_chars": cut, "budget_left": max(0, budget - spent)})
             for key in ("doc_id",):
                 used_docs.extend(_collect(result, key))
             messages.append({"role": "tool", "tool_call_id": call.get("id"),

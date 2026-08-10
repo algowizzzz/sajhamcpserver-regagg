@@ -1,7 +1,7 @@
 {
   "name": "corpus_read_many",
   "implementation": "sajha.tools.impl.corpus_tools.CorpusReadManyTool",
-  "description": "Read several documents at once by doc_id \u2014 use when comparing or summarising a set.",
+  "description": "Read the opening of several documents in one call, for comparison. Each result reports total_chars and whether it was truncated \u2014 use corpus_read with offset to read any of them in full.",
   "version": "1.0.0",
   "enabled": true,
   "inputSchema": {
@@ -15,7 +15,8 @@
       },
       "max_chars_each": {
         "type": "integer",
-        "default": 4000
+        "default": 12000,
+        "description": "characters per document"
       }
     },
     "required": [

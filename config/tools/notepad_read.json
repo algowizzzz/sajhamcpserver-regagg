@@ -1,0 +1,43 @@
+{
+  "name": "notepad_read",
+  "implementation": "sajha.tools.impl.notepad_tools.NotepadReadTool",
+  "description": "Read your working notepad. With no section it returns only the index (section names and sizes), which is cheap; pass section= to read one back in full.",
+  "version": "1.0.0",
+  "enabled": true,
+  "inputSchema": {
+    "type": "object",
+    "properties": {
+      "section": {
+        "type": "string",
+        "description": "omit to get the index alone"
+      },
+      "notepad": {
+        "type": "string",
+        "default": "scratch"
+      },
+      "max_chars": {
+        "type": "integer",
+        "default": 40000
+      },
+      "offset": {
+        "type": "integer",
+        "default": 0
+      }
+    },
+    "required": []
+  },
+  "outputSchema": {
+    "type": "object"
+  },
+  "metadata": {
+    "author": "regagg",
+    "category": "Working Memory",
+    "tags": [
+      "notepad",
+      "agent",
+      "riskgpt"
+    ],
+    "cacheTTL": 0,
+    "readOnly": true
+  }
+}

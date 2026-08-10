@@ -1,11 +1,11 @@
 # Testing — index
 
-**405 automated tests: 329 Python + 76 browser.** Everything offline and
+**434 automated tests: 358 Python + 76 browser.** Everything offline and
 deterministic; network is always injected.
 
 | Suite | Count | Command | Time |
 |---|---|---|---|
-| Python | 329 | `./.venv/bin/python -m pytest tests/regagg -q` | ~7s |
+| Python | 358 | `./.venv/bin/python -m pytest tests/regagg -q` | ~7s |
 | Browser | 76 | `bash tests/ui/run_suite.sh` | ~4 min |
 | Foundation gate | — | `./.venv/bin/python scripts/regagg_verify_foundation.py` | ~2s |
 
