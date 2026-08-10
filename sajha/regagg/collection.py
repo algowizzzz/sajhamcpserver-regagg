@@ -25,6 +25,7 @@ a defect rather than hidden by arithmetic.
 from __future__ import annotations
 
 import datetime as _dt
+import subprocess
 from collections import defaultdict
 from typing import Dict, List, Optional, Sequence
 
@@ -34,6 +35,47 @@ from sajha.regagg import schedule as _sched
 from sajha.regagg.models import Document, Regulator, Run
 
 CATEGORIES = [("regulatory", "Regulatory"), ("news", "News wires")]
+
+
+# A run row is written as `running` before the work starts, so the page can
+# show it in flight. If the process then dies — killed, OOM, host rebooted —
+# nothing ever closes the row and Health shows a collection that has been
+# running for days. `osc` sat like that after a 1h37m run was stopped.
+STALE_RUN_MINUTES = 90
+
+
+def reap_orphaned_runs(session, now: Optional[_dt.datetime] = None,
+                       grace_minutes: int = STALE_RUN_MINUTES) -> List[str]:
+    """Close run rows whose process is gone. Returns the run_ids closed.
+
+    Deliberately conservative: it only fires when NO ingest process is alive,
+    so a genuinely long run is never cut off mid-flight, and it waits out a
+    grace period on top of that.
+    """
+    try:
+        probe = subprocess.run(["pgrep", "-f", "regagg_ingest_live"],
+                               capture_output=True, text=True, timeout=10)
+        if probe.stdout.strip():
+            return []                      # something really is running
+    except Exception:  # noqa: BLE001 — no pgrep is not a reason to skip the sweep
+        pass
+
+    cutoff = _utc(now) - _dt.timedelta(minutes=grace_minutes)
+    stale = session.scalars(
+        select(Run).where(Run.status == "running",
+                          Run.finished_at.is_(None),
+                          Run.started_at < cutoff.replace(tzinfo=None))).all()
+    closed = []
+    for run in stale:
+        run.status = "failed"
+        # `finished_at` stays NULL on purpose. We do not know when the process
+        # died, and stamping started_at would claim a zero-second run for one
+        # that had been going for over an hour. Duration is already reported
+        # only where both ends are real; an unknown end must read as unknown.
+        closed.append(run.run_id)
+    if closed:
+        session.commit()
+    return closed
 
 
 def _utc(now: Optional[_dt.datetime] = None) -> _dt.datetime:

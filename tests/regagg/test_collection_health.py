@@ -224,3 +224,104 @@ def test_the_verdict_is_healthy_only_when_nothing_is_outstanding(wired):
     assert v["level"] in ("healthy", "watch", "degraded")
     if v["level"] == "healthy":
         assert not v["points"]
+
+
+# ── run status: nothing new is not a failure ────────────────────────────────
+
+def _manifest(**kw):
+    from sajha.regagg.events import RunManifest
+    base = dict(run_id="r", regulator_id="x", logical_date="2026-08-09",
+                trigger="rerun")
+    base.update(kw)
+    return RunManifest(**base).finalize()
+
+
+def test_finding_nothing_new_is_not_a_failure_just_because_a_link_was_dead():
+    """fintrac fetched 198 documents, found nothing new — correct, it had
+    ingested them an hour earlier — and went RED over two 404s in 889 URLs.
+    'Nothing changed today' is the most common healthy outcome there is."""
+    m = _manifest(detected=889, fetched=198, ingested=0, errors=2)
+    assert m.status == "success_empty"
+
+
+def test_one_unreachable_pdf_does_not_fail_a_run(  ):
+    """hkma: 17 detected, one PDF on a different host unreachable."""
+    assert _manifest(detected=17, fetched=16, ingested=0, errors=1).status == "success_empty"
+
+
+def test_a_systemically_throttled_run_still_fails():
+    """finra: 141 HTTP 429s out of 369 detected. 38% is a real fault."""
+    m = _manifest(detected=369, fetched=61, ingested=15, errors=142)
+    assert m.status == "failed"
+
+
+def test_a_run_that_fetched_nothing_at_all_fails():
+    assert _manifest(detected=50, fetched=0, ingested=0, errors=50).status == "failed"
+
+
+def test_detecting_things_and_fetching_none_of_them_is_fine_without_errors():
+    """The lastmod fast path: everything was already held, so nothing was
+    re-fetched. That must not read as a collapsed fetch."""
+    assert _manifest(detected=100, fetched=0, ingested=0, errors=0).status == "success_empty"
+
+
+def test_documents_landing_is_success_even_with_scattered_errors():
+    assert _manifest(detected=100, fetched=90, ingested=40, errors=10).status == "success"
+
+
+# ── orphaned runs ───────────────────────────────────────────────────────────
+
+def test_a_killed_run_is_closed_rather_than_running_forever(session, seed_regulator,
+                                                            monkeypatch):
+    """A row is written as `running` before the work starts. Kill the process
+    and nothing ever closes it — osc showed as in flight for good."""
+    import datetime as dt
+    from sajha.regagg import collection as C
+    from sajha.regagg.models import Run
+
+    monkeypatch.setattr(C.subprocess, "run", lambda *a, **k: type("R", (), {"stdout": ""})())
+    seed_regulator("osc", "CA", "sitemap_diff")
+    session.add(Run(run_id="stuck", regulator_id="osc", logical_date=dt.date(2026, 8, 9),
+                    trigger="rerun", status="running",
+                    started_at=dt.datetime.now(dt.timezone.utc).replace(tzinfo=None) - dt.timedelta(hours=4)))
+    session.commit()
+
+    assert C.reap_orphaned_runs(session) == ["stuck"]
+    row = session.get(Run, "stuck")
+    assert row.status == "failed"
+    # we do not know when it died; claiming a zero-second run would be a lie
+    assert row.finished_at is None
+
+
+def test_a_run_still_inside_its_grace_period_is_left_alone(session, seed_regulator,
+                                                           monkeypatch):
+    import datetime as dt
+    from sajha.regagg import collection as C
+    from sajha.regagg.models import Run
+
+    monkeypatch.setattr(C.subprocess, "run", lambda *a, **k: type("R", (), {"stdout": ""})())
+    seed_regulator("osc", "CA", "sitemap_diff")
+    session.add(Run(run_id="young", regulator_id="osc", logical_date=dt.date(2026, 8, 9),
+                    trigger="rerun", status="running",
+                    started_at=dt.datetime.now(dt.timezone.utc).replace(tzinfo=None) - dt.timedelta(minutes=5)))
+    session.commit()
+    assert C.reap_orphaned_runs(session) == []
+    assert session.get(Run, "young").status == "running"
+
+
+def test_a_live_ingest_process_stops_the_sweep_entirely(session, seed_regulator,
+                                                        monkeypatch):
+    """A genuinely long run must never be cut off mid-flight."""
+    import datetime as dt
+    from sajha.regagg import collection as C
+    from sajha.regagg.models import Run
+
+    monkeypatch.setattr(C.subprocess, "run",
+                        lambda *a, **k: type("R", (), {"stdout": "4242\n"})())
+    seed_regulator("osc", "CA", "sitemap_diff")
+    session.add(Run(run_id="long", regulator_id="osc", logical_date=dt.date(2026, 8, 9),
+                    trigger="rerun", status="running",
+                    started_at=dt.datetime.now(dt.timezone.utc).replace(tzinfo=None) - dt.timedelta(hours=9)))
+    session.commit()
+    assert C.reap_orphaned_runs(session) == []
+    assert session.get(Run, "long").status == "running"

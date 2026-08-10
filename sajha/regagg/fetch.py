@@ -70,12 +70,22 @@ def pdf_to_md(raw: bytes) -> Tuple[str, bool]:
 
 
 class RateLimiter:
-    """Simple per-domain token spacing (default 0.5 rps)."""
+    """Simple per-domain token spacing (default 0.5 rps).
+
+    The rate is settable because it belongs to the *source*, not to the run:
+    `rate_limit_rps` is declared in each regulator's YAML, and the fleet runner
+    walks sources serially, retuning the limiter as it moves between them. The
+    `_last` map is deliberately kept across those changes — two sources sharing
+    a host must still be spaced apart from each other.
+    """
 
     def __init__(self, rps: float = 0.5, sleep: Callable[[float], None] = time.sleep):
         self.min_interval = 1.0 / rps if rps > 0 else 0.0
         self._last: Dict[str, float] = {}
         self._sleep = sleep
+
+    def set_rate(self, rps: float) -> None:
+        self.min_interval = 1.0 / rps if rps > 0 else 0.0
 
     def wait(self, url: str, clock: Callable[[], float] = time.monotonic) -> None:
         host = urlparse(url).netloc

@@ -529,6 +529,9 @@ def create_admin_router() -> APIRouter:
                 raise HTTPException(
                     400, f"no active sources in lane '{req.lane}'" if req.lane
                     else "no active sources to run")
+        # clear any row a killed run left open before adding more
+        from sajha.regagg import collection as _coll
+        _coll.reap_orphaned_runs(runtime.get_session())
         _audit(runtime.get_session(), x_operator, "regagg.rerun", "regulator",
                ",".join(ids), f"date={logical_date}")
         out = runqueue.get_queue().submit(
@@ -759,8 +762,12 @@ def create_admin_router() -> APIRouter:
 
     @router.get("/health/overview")
     def health_overview():
-        from sajha.regagg import health
-        return health.overview(runtime.get_session())
+        from sajha.regagg import collection as _coll, health
+        session = runtime.get_session()
+        # A killed ingest leaves its row at `running` forever; the page that
+        # reports on runs is the right place to notice and close it.
+        _coll.reap_orphaned_runs(session)
+        return health.overview(session)
 
     @router.get("/scheduler/status")
     def scheduler_status():

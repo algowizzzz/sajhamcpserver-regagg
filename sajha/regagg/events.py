@@ -71,15 +71,25 @@ class RunManifest:
 
     def finalize(self) -> "RunManifest":
         """Status semantics (humane, not brutal):
-        failed        — the run produced nothing despite trying, or >20% of
-                        detected URLs errored (systemic problem worth a red row)
+
+        failed        — systemically wrong: more than 20% of detected URLs
+                        errored, or fetching failed outright (errors, and not
+                        one document came back)
         success       — docs landed; scattered per-URL errors (dead links on
-                        the regulator's side, throttling) stay visible as an
-                        error count, not a false alarm
-        success_empty — nothing new and nothing wrong
+                        the regulator's side) stay visible as an error count,
+                        not a red row
+        success_empty — nothing new. Whether a couple of links were dead is a
+                        detail; it is not a failed collection.
+
+        The old rule made ANY error fatal whenever nothing was ingested, so a
+        source that correctly found nothing new went red over two 404s in 889
+        URLs (fintrac, 0.2%) and one unreachable PDF in 17 (hkma). "Nothing
+        changed today" is the most common healthy outcome there is, and it was
+        being reported as a fault the moment a regulator left a dead link up.
         """
         error_rate = self.errors / max(self.detected, 1)
-        if self.errors and (self.ingested == 0 or error_rate > 0.20):
+        fetch_collapsed = self.errors > 0 and self.fetched == 0 and self.detected > 0
+        if error_rate > 0.20 or fetch_collapsed:
             self.status = "failed"
         elif self.ingested == 0:
             self.status = "success_empty"

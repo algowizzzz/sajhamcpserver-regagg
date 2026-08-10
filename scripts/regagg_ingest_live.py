@@ -43,8 +43,16 @@ UA = "BMO-RegIntel/1.0 (+regintel-ops@example.com)"
 def make_openers(rps: float, timeout: int):
     sess = requests.Session()
     sess.headers["User-Agent"] = UA
+    limiter = RateLimiter(rps)
 
     def source_opener(url: str) -> bytes:
+        # Detection went through the same host as the documents but bypassed
+        # the limiter entirely: sitemaps and listing pages were fetched back to
+        # back at whatever speed the network allowed, which is a large part of
+        # why FINRA answered with 429s even after the per-document rate was
+        # honoured. A host cannot tell our sitemap request from our document
+        # request, and neither should we.
+        limiter.wait(url)
         try:
             r = sess.get(url, timeout=timeout, allow_redirects=True)
             return r.content if r.status_code == 200 else b""
@@ -56,15 +64,19 @@ def make_openers(rps: float, timeout: int):
         r.raise_for_status()
         return r.content, r.headers.get("Content-Type", ""), r.url
 
-    fetcher = Fetcher(opener=doc_opener, rate_limiter=RateLimiter(rps))
-    return source_opener, fetcher
+    fetcher = Fetcher(opener=doc_opener, rate_limiter=limiter)
+    return source_opener, fetcher, limiter
 
 
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--max-docs", type=int, default=None,
                     help="per-regulator cap (default: uncapped)")
-    ap.add_argument("--rps", type=float, default=1.0)
+    ap.add_argument("--rps", type=float, default=1.0,
+                    help="fleet-wide CEILING on request rate. Each source is "
+                         "polled at its own declared rate_limit_rps, or this, "
+                         "whichever is slower — a source's politeness setting "
+                         "is not something a run may override upward")
     ap.add_argument("--timeout", type=int, default=20)
     ap.add_argument("--only", help="comma-separated regulator ids")
     ap.add_argument("--skip", help="comma-separated regulator ids to exclude")
@@ -115,7 +127,7 @@ def main() -> int:
                                 staleness_alert_days=cfg.staleness_alert_days))
     session.commit()
 
-    source_opener, fetcher = make_openers(args.rps, args.timeout)
+    source_opener, fetcher, limiter = make_openers(args.rps, args.timeout)
     logical = args.logical_date or date.today().isoformat()
     now = datetime.now(timezone.utc)
     if args.logical_date and args.logical_date != date.today().isoformat():
@@ -124,6 +136,16 @@ def main() -> int:
     totals = {"docs": 0, "errors": 0}
 
     for cfg in configs.values():
+        # Politeness is declared per source and must be honoured. This used to
+        # poll every source at one global --rps: FINRA declares 0.5 and was
+        # being hit at 3, which earned 141 consecutive HTTP 429s and a failed
+        # run. --rps is a ceiling now, never a licence to go faster.
+        effective_rps = min(cfg.rate_limit_rps, args.rps)
+        limiter.set_rate(effective_rps)
+        if effective_rps < args.rps:
+            print(f"  {cfg.id:9s} rate {effective_rps} rps (its own limit, "
+                  f"below the --rps {args.rps} ceiling)", flush=True)
+
         # distinct run_id per UI-triggered rerun so history rows aren't merged
         suffix = f"ui{now:%H%M%S}" if args.operator else "live"
         run_id = f"{logical}_{cfg.id}_{suffix}"
