@@ -1,4 +1,4 @@
-# Python suites — 367 tests
+# Python suites — 371 tests
 
 ```bash
 ./.venv/bin/python -m pytest tests/regagg -q        # all, ~7s
@@ -69,7 +69,7 @@ unscheduled day, next-run-skips-weekend, DST handled by the zone, missing or
 broken config does not take the page down, and **with no declaration nothing is
 ever late**.
 
-### `test_collection_health.py` — 27
+### `test_collection_health.py` — 31
 Coverage matrix (weekend ≠ failure; a category that did not run is missed even
 when the other did; a cell names who is missing; a rerun clears an earlier
 failure). Today bar (never claims "complete" over a partial day; duration

@@ -104,7 +104,22 @@ def _is_empty(r: Run) -> bool:
 
 
 def _is_failed(r: Run) -> bool:
-    return (r.status or "") == "failed" or (r.errors or 0) > 0
+    """Did this run fail? The recorded status, and nothing else.
+
+    This used to be `status == "failed" OR errors > 0`, which made a single
+    dead link on the regulator's side count as a failed run. The damage was
+    wide, because four separate readings go through here: iosco and nydfs had
+    **no failed run in their entire history** and both sat in the red Failed
+    bucket with a "consecutive failures" streak, purely because every run
+    carried one 404. The same predicate drove the coverage matrix cells and
+    Health's "run pass rate", so that figure was really "runs with zero
+    errors" wearing a different label.
+
+    Whether the error count is systemic is already decided once, when the run
+    is finalized (`events.RunManifest.finalize`). Deciding it a second time,
+    differently, here is how the two disagreed.
+    """
+    return (r.status or "") == "failed"
 
 
 def _duration_s(runs: Sequence[Run]) -> Optional[int]:

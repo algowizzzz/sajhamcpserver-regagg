@@ -31,7 +31,7 @@ traces to a row you can open.
 | Collection runs recorded | 157 |
 | Personas | 12 |
 | Database tables | 15 `reg_*` tables, SQLite dev / Postgres on-prem |
-| Python tests | **367**, `./.venv/bin/python -m pytest tests/regagg -q` (~8s) |
+| Python tests | **371**, `./.venv/bin/python -m pytest tests/regagg -q` (~8s) |
 | Browser tests | **76**, `bash tests/ui/run_suite.sh` (~7 min) |
 | MCP tools | 24 — 12 `reg_*` + 10 `corpus_*` + 2 `notepad_*` |
 | Server | `./.venv/bin/python run_server.py --port 3005` → UI at `/api/regagg/ui` |
@@ -118,7 +118,7 @@ DEEPSEEK_API_KEY=<key> REGAGG_SECRET=<secret> \
 open http://localhost:3005/api/regagg/ui
 ```
 
-Then `./.venv/bin/python -m pytest tests/regagg -q` should print **367 passed**.
+Then `./.venv/bin/python -m pytest tests/regagg -q` should print **371 passed**.
 
 Environment variables that matter:
 

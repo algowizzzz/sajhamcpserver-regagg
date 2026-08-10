@@ -26,6 +26,8 @@
 | 20 | ~~"Nothing new" was reported as a failed run~~ | **Fixed 2026-08-10.** Any error with `ingested == 0` meant `failed`, so fintrac went red over 2 dead links in 889 URLs (0.2%) and hkma over one unreachable PDF in 17. Now failed means a >20% error rate or a collapsed fetch. hkma re-run: `failed` → `success_empty`, same single dead link |
 | 21 | ~~A killed run stayed `running` forever~~ | **Fixed 2026-08-10.** The row is written before the work starts, so a killed process left it open — `osc` showed in flight indefinitely. `collection.reap_orphaned_runs` closes rows with no live ingest process after a 90-minute grace. `finished_at` stays NULL: we do not know when it died, and stamping `started_at` would claim a zero-second run |
 
+| 22 | ~~A dead link made a green run count as failed~~ | **Fixed 2026-08-10.** `collection._is_failed` was `status == "failed" OR errors > 0`. Four readings go through it, so one 404 on the regulator's side put a source in the red Failed bucket, gave it a "consecutive failures" streak, painted its matrix cell red, and lowered Health's "run pass rate" — which was really measuring *runs with zero errors*. iosco and nydfs had **no failed run in their history** and both showed as Failed. Now the recorded status decides, once. **Failed 7 → 2, pass rate 83% → 92.1%** |
+
 ## War stories — bugs that shaped the code. Do not regress them.
 
 **00. The worker reported a buffer size as a fact about the corpus.** Asked

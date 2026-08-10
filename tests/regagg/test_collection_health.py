@@ -325,3 +325,48 @@ def test_a_live_ingest_process_stops_the_sweep_entirely(session, seed_regulator,
     session.commit()
     assert C.reap_orphaned_runs(session) == []
     assert session.get(Run, "long").status == "running"
+
+
+# ── a scattered error is not a failed run ───────────────────────────────────
+
+def test_a_successful_run_with_a_dead_link_is_not_a_failure(wired):
+    """Found live. `_is_failed` was `status == 'failed' OR errors > 0`, so a
+    single 404 on the regulator's side made a green run count as red.
+
+    iosco and nydfs had NO failed run in their entire history and both sat in
+    the Failed bucket with a "consecutive failures" streak, because every run
+    carried one dead link.
+    """
+    for day in ("2026-08-05", "2026-08-06", "2026-08-07"):
+        _run(wired, "osfi", day, status="success", ingested=9, errors=1)
+    rows = {r["regulator_id"]: r
+            for r in C.candidates(wired, now=_now("2026-08-07", 20))["sources"]}
+    assert rows["osfi"]["bucket"] == "ok"
+    assert rows["osfi"]["fail_streak"] == 0
+    assert rows["osfi"]["last_clean"] == "2026-08-07"
+
+
+def test_the_streak_counts_failed_runs_not_imperfect_ones(wired):
+    _run(wired, "osfi", "2026-08-05", status="success", ingested=5, errors=7)
+    _run(wired, "osfi", "2026-08-06", status="failed", ingested=0, errors=9)
+    _run(wired, "osfi", "2026-08-07", status="failed", ingested=0, errors=9)
+    rows = {r["regulator_id"]: r
+            for r in C.candidates(wired, now=_now("2026-08-07", 20))["sources"]}
+    assert rows["osfi"]["fail_streak"] == 2          # not 3
+
+
+def test_the_matrix_does_not_paint_a_cell_red_for_a_dead_link(wired):
+    _run(wired, "osfi", "2026-08-07", status="success", ingested=4, errors=2)
+    _run(wired, "fintrac", "2026-08-07", status="success", ingested=4, errors=0)
+    m = C.coverage_matrix(wired, days=1, now=_now("2026-08-07", 20))
+    reg = [r for r in m["rows"] if r["key"] == "regulatory"][0]["cells"][0]
+    assert reg["failed"] == 0
+
+
+def test_the_run_pass_rate_measures_passes_not_perfection(wired):
+    """The Health headline read 83%. It was counting runs with zero errors —
+    a different quantity wearing the same label."""
+    for day in ("2026-08-05", "2026-08-06", "2026-08-07"):
+        _run(wired, "osfi", day, status="success", ingested=3, errors=4)
+    rel = H.reliability(wired, now=_now("2026-08-07", 20))
+    assert rel["pass_rate"] == 100.0
