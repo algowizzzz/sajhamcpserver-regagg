@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/consumer-trends-insurance-and-pensions-2025-heatmap-key-findings_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

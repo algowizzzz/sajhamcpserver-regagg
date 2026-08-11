@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/consultations/review-technical-implementation-means-package-solvency-2-supervisory-reporting-and-public-disclosure_en"
 version: "1"
 ---
-
 ## Details
 
 Status

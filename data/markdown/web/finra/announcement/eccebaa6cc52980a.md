@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.finra.org/registration-exams-ce/broker-dealers"
 version: "1"
 ---
-
 # Broker-Dealer Registration
 
 The FINRA broker-dealer (BD) registration process covers a firm's full life cycle, from meeting initial membership standards to updating and renewing its registration. This page offers guidance to broker-dealer firms seeking to become FINRA members, including details on the various filing and qualification requirements and what member firms need to do to expand their business or withdraw their registration.

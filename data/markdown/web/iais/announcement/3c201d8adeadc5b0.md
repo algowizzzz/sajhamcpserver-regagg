@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2023/12/update-on-iais-work-on-artificial-intelligence-and-machine-learning-in-insurance/"
 version: "1"
 ---
-
 # Update on IAIS work on artificial intelligence and machine learning in insurance
 
 [7 Dec 2023](https://www.iais.org/2023/12/update-on-iais-work-on-artificial-intelligence-and-machine-learning-in-insurance/)

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/digital-operational-resilience-act-dora/dora-oversight_en"
 version: "1"
 ---
-
 The Digital Operational Resilience Act (DORA) establishes an EU-wide **oversight framework for critical ICT (information and communication technology) third-party providers (CTPPs)** to ensure that the financial sector remains secure and resilient against ICT disruptions.
 
 Under DORA, the **European Supervisory Authorities (EBA, EIOPA and ESMA)** are responsible for designating third-party providers as critical and acting as their Lead Overseers, coordinating oversight actions across the Union.

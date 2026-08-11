@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/eu-commission-request-opinion-efrags-technical-advice-esrs_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

@@ -7,4 +7,119 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/15-901/unofficial-consolidation-osc-policy-15-901-procedures-opportunities-be-heard-directors-decisions"
 version: "1"
 ---
+# Unofficial Consolidation: OSC Policy 15-901 Procedures for Opportunities to be Heard before Director's Decisions on Registration Matters Made under the Statutory Powers Procedure Act
 
+Unofficial Consolidation
+OSC Policy
+
+## March 3, 2006
+
+[Download document](/sites/default/files/2020-09/pol_20060303_15-901_unofficial-consolidation.pdf "Open document in new window")
+
+Ontario Securities Commission
+
+Policy 15-901
+
+Unofficial consolidation current to 2006-03-03.
+
+This document is not an official statement of law or policy and should be used for reference purposes only.
+
+Any forms referenced in this document are available separately on the Ontario Securities Commission website.
+
+Ontario Securities Commission Policy 15-901  
+Procedures for Opportunities to be Heard Before Director's Decisions on Registration Matters Made under the *Statutory Powers Procedure Act.*
+
+Contents
+
+[1. When These Procedures Are Used](#_Toc35245844)
+
+[2. Who Is Involved](#_Toc35245845)
+
+[3. Extension of Time Periods](#_Toc35245846)
+
+[4. Staff's Notice to Applicant](#_Toc35245847)
+
+[5. Applicant's Response](#_Toc35245848)
+
+[6. Choice of Written Submissions or Appearance](#_Toc35245849)
+
+[7. Exchange of Written Submissions](#_Toc35245850)
+
+[8. Appearance Before the Director](#_Toc35245851)
+
+[9. Director's Decision](#_Toc35245852)
+
+[10. Public Record](#_Toc35245853)
+
+[11. Right of Review](#_Toc35245854)
+
+# 1.           When These Procedures Are Used
+
+These Procedures apply wherever section 31 of the *Securities Act* gives an applicant the right to an opportunity to be heard by the Director before the Director makes a decision concerning the applicant's registration status.
+
+# 2.           Who Is Involved
+
+1. 1. In these Procedures,
+
+the **"applicant"** is the individual or entity that has the right to an opportunity to be heard;
+
+the **"Director"** is the senior employee of the Ontario Securities Commission who has been authorized to act as decision-maker for purposes of section 31 of the *Securities Act;* and
+
+**"staff"** refers to employees of the Ontario Securities Commission other than the Director.
+
+1. 2. The applicant may choose to be represented by a lawyer or an agent, but is not required to do so. These Procedures are intended to ensure that opportunities to be heard by the Director are handled in a way that is not unnecessarily formal, while ensuring a fair hearing. If the applicant chooses to be represented by a lawyer or an agent, staff will communicate with the applicant through the lawyer or agent.
+
+# 3.           Extension of Time Periods
+
+The Director may extend any time period set out in these Procedures. If either staff or the applicant wishes to request the extension of a time period, they should send their request to the Director in writing, and copy the other party. Their request should include the reason that the extension is required.
+
+# 4.           Staff's Notice to Applicant
+
+If staff recommends that the Director refuse to grant, renew, reinstate or amend the applicant's registration or if staff recommends that the Director impose terms and conditions on the applicant's registration, staff must send a letter giving the applicant notice of the recommendation and brief reasons for it. Staff must include a copy of these Procedures in the letter to the applicant.
+
+# 5.           Applicant's Response
+
+1. 1. If the applicant wishes to be heard by the Director before a decision is made on staff's recommendation, the applicant must inform staff by letter or by e-mail. Normally, the applicant's response must be delivered within two weeks after receiving staff’s letter. However, in exceptional circumstances, staff may require the applicant to respond more quickly. The time period for response will be set out in staff's letter to the applicant.
+   2. If the applicant does not respond within the time set out in staff’s letter, the Director will proceed to make a decision.
+
+The rest of these Procedures describe the process to be followed if the applicant chooses to be heard by the Director.
+
+# 6.           Choice of Written Submissions or Appearance
+
+1. 1. The opportunity to be heard will normally be conducted as an exchange of written submissions. However, either the applicant or staff may request that the opportunity to be heard be conducted as an appearance. Written submissions may be made by letter or by e-mail. An appearance means an appearance in the presence of the Director or by telephone conference or other interactive electronic means acceptable to both the applicant and staff.
+   2. A request that the opportunity to be heard be conducted as an appearance must be made in writing to the Director with a brief statement of the reasons for making the request. The Director will give the other party an opportunity to object to the request before deciding whether to grant a request for an appearance.
+   3. The Director may also decide on his or her own initiative that the opportunity to be heard will be conducted as an appearance, in which case the Director must promptly inform the applicant and staff of his or her decision.
+
+# 7.           Exchange of Written Submissions
+
+This paragraph describes the process to be followed if the opportunity to be heard is to be conducted by exchange of written submissions.
+
+1. 1. Staff must provide the applicant and the Director with a written submission setting out the facts and law supporting staff's recommendation. Normally, staff's submission must be delivered to the applicant and the Director within two weeks after staff receives notice that the applicant wishes to exercise the right to be heard. However, in exceptional circumstances, the Director may require staff's submissions to be delivered more quickly.
+   2. The applicant must then provide the Director and staff with a written submission responding to staff's submissions. Normally, the applicant's submissions must be delivered within two weeks after the applicant receives staff’s submission. However, in exceptional circumstances, the Director may require the applicant's submissions to be delivered more quickly.
+   3. In most cases, there will only be one exchange of written submissions so that the Director is able to render a decision without unnecessary delay. However, the applicant and staff may agree to make further submissions or either of them may request that the Director allow further submissions. Any such request or agreement must be made within one week after the delivery of the applicant's submissions under (b), above.
+
+# 8.           Appearance Before the Director
+
+This paragraph describes the process to be followed if the opportunity to be heard is to be conducted as an appearance.
+
+1. 1. An appearance before the Director will generally be an informal proceeding. The *Ontario Securities Commission Rules of Practice* and the *Rules of Civil Procedure* do not apply to such proceedings.
+   2. At the appearance, the Director may ask any question and admit any evidence which he or she sees fit, except where the evidence is subject to a legal privilege. Witnesses may be called, examined and cross-examined with the consent of the Director. The applicant and any witnesses may give evidence under oath or affirmation.
+   3. The proceedings will be open to the public unless intimate financial, personal or other matters may be disclosed that, in the opinion of the Director, would outweigh the public benefit of openness in Ontario Securities Commission proceedings.
+
+# 9.           Director's Decision
+
+1. 1. Where an opportunity to be heard has been conducted by exchange of written submissions, the Director will normally make a decision concerning staff's recommendation no more than thirty days after delivery of the final submissions of the applicant and staff. If either the applicant or staff fails to meet the deadlines for delivery of their submissions, the Director may make a decision concerning staff's recommendation without further notice or delay.
+   2. Where an opportunity to be heard has been conducted as an appearance, the Director must make a decision concerning staff's recommendation no more than thirty days after the end of the appearance.
+   3. The Director must provide written reasons for his or her decision to the applicant and staff as soon as reasonably possible, but need not do so at the same time as the decision is first communicated to the applicant and staff.
+
+# 10.         Public Record
+
+1. 1. All written submissions and transcripts of appearances will be available to the public upon request, unless intimate financial, personal or other matters may be disclosed that, in the opinion of the Director, would outweigh the public benefit of openness in Ontario Securities Commission proceedings.
+   2. The decision of the Director and his or her reasons for decision will be published in the *Ontario Securities Commission Bulletin* and posted on the Ontario Securities Commission's website.
+
+# 11.         Right of Review
+
+1. 1. The applicant has the right under subsection 8(2) of the *Securities Act* to ask the Ontario Securities Commission to review the Director's decision.
+   2. A request for a review must be made by registered mail sent to the Secretary of the Ontario Securities Commission and copied to the Director within thirty days after the later of the making of the Director's decision or the issuing of reasons for the Director's decision.
+   3. Applications for review are governed by Rule 9 of the *Ontario Securities Commission's Rules of Practice.* A copy of the *Rules of Practice* can be obtained from the Secretary's office or from the Ontario Securities Commission's website.
+   4. If the applicant requests a review, the Director's decision will still take effect immediately after it is made unless the Commission grants the applicant a stay of the decision.

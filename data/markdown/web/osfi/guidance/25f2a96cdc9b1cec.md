@@ -8,7 +8,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/draft-guideline-b-2-large-exposure-limits-2028-letter"
 version: "1"
 ---
-
 # Draft Guideline B-2 Large Exposure Limits (2028) - Letter
 
 Information

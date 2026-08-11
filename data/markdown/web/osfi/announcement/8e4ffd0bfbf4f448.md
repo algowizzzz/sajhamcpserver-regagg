@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/transaction-instructions/reinsurance-assumption-basis-assumption-reinsurance"
 version: "1"
 ---
-
 # Reinsurance on an assumption basis (“assumption reinsurance”)
 
 Information

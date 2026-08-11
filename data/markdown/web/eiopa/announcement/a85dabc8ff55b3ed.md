@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-publishes-ultimate-forward-rate-ufr-2026-2025-03-31_en"
 version: "1"
 ---
-
 The European Insurance and Occupational Pensions Authority (EIOPA) published today the calculation of the Ultimate Forward Rate (UFR) for 2026.
 
 The UFR does not change for any of the relevant currencies compared to this year. This means an applicable UFR of 3.30% as of 1 January 2026 for the euro.

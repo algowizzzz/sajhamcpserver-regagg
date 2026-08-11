@@ -1,0 +1,24 @@
+---
+title: "Gryphon Gold Corporation et al. s. 144(1) | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/gryphon-gold-corporation-et-al-s-1441"
+version: "1"
+---
+# Gryphon Gold Corporation et al. s. 144(1)
+
+Order
+
+## May 28, 2014
+
+Headnote
+
+Section 144(1) -- Application to vary a cease trade order -- cease trade order varied to permit individual beneficial shareholders, who are not insiders or control persons, to sell securities outside of Canada, subject to conditions.
+
+Applicable Legislative Provisions
+
+Securities Act, R.S.O. 1990, c. S.5, as am., ss. 127, 144.
+
+#### IN THE MATTER OF THE SECURITIES ACT. R.S.O. 1990, c. S.5, AS AMENDED (THE "ACT") AND IN THE MATTER OF GRYPHON GOLD CORPORATION (THE "ISSUER") AND JON HUEMILLER AND RALPH KRUMME (THE "APPLICANTS")ORDER (Section 144(1) of the Act) **WHEREAS** the Ontario Securities Commission (the "**Commission**") issued an order on July 23, 2013, under paragraph 2 of subsection 127(1) and subsection 127(5) of the Act, ordering that trading in the securities of the Issuer cease trading for a period of fifteen days from the date of the order; **AND WHEREAS** the Commission issued a further order dated August 2, 2013, pursuant to paragraph 2 of subsection 127(1) of the Act, ordering that all trading in the securities of the Issuer shall cease until revoked by a further order (the "**Cease** **Trade Order**"); **AND WHEREAS** the Applicants have made an application to the Commission pursuant to section 144(1) of the Act to vary the Cease Trade Order; **AND WHEREAS** the Issuer is a reporting issuer in British Columbia, Alberta, Saskatchewan, Manitoba and Ontario and its head office is in the state of Nevada, U.S.A. **AND WHEREAS** the trading of the Issuer's common shares have also been cease traded by the British Columbia Securities Commission since July 12, 2013, the Manitoba Securities Commission since August 8, 2013 and the Alberta Securities Commission since October 11, 2013; **AND WHEREAS** the Issuer publicly disclosed in a material change report dated July 31, 2013 that on July 29, 2013, it had filed a voluntary petition in the United States Bankruptcy Court for the District of Nevada seeking relief under the provisions of Chapter 11 of Title 11 of the United States Bankruptcy Code. The Issuer also disclosed it remains in possession of its assets and continues to operate its business as a debtor-in-possession under the jurisdiction of the Bankruptcy Court and in accordance with the applicable provisions of the Bankruptcy Code and the orders of the Bankruptcy Court; **AND WHEREAS** the Applicants have represented to the Commission that: 1. The Applicants purchased their common shares in the capital of the Issuer prior to the issuance of the Cease Trade Order, when the Issuer's common shares were trading on the Toronto Stock Exchange. 2. Jon Huemiller presently owns 66,000 common shares in the capital of the Issuer, which were purchased on June 27, 2013 (the "**Huemiller Shares**"). 3. Ralph Krumme presently owns 22,500 common shares in the capital of the Issuer, of which 2,500 common shares were purchased on January 25, 2013 and 20,000 common shares were purchased on June 28, 2013 (the "**Krumme Shares**", and together with the Huemiller Shares, the "**Subject Shares**") 4. The Issuer's securities are not listed on and do not trade on any exchange in Canada. 5. The Issuer's securities are not subject to cease trade orders in jurisdictions outside of Canada. The Issuer's securities currently trade on the OTC Markets Group. 6. Neither of the Applicants is an insider or control person of the Issuer, or has been employed by or in any way affiliated with the Issuer. 7. The Applicants are seeking a variation of the Cease Trade Order under section 144(1) of the Act permitting the Applicants to dispose of the Subject Shares outside of Canada. **AND UPON** the Commission being satisfied that: a) the terms and conditions to the Cease Trade Order put the Applicants in disadvantage to non-Canadian shareholders who are free to trade their shares on OTC Markets Group; and b) it is not prejudicial to the public interest to vary the Cease Trade Order under section 144(1) of the Act; **IT IS ORDERED** that, pursuant to section 144(1) of the Act, the Cease Trade Order be varied by including the following section: Despite this order, Jon Huemiller and Ralph Krumme, who are not, and were not at the date of this order, insiders or control persons of Gryphon Gold Corporation, may sell securities of Gryphon Gold Corporation acquired before the date of this order, if: 1. the sale is made through the OTC Markets Group; and 2. the sale is made through an investment dealer registered in Ontario. **DATED** this 28th day of May, 2014. "Kathryn Daniels" Deputy Director, Corporate Finance Branch

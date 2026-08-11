@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/consultations/pog-guidelines-insurance-undertakings-and-insurance-distributors_en"
 version: "1"
 ---
-
 ## Details
 
 Status

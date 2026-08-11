@@ -8,7 +8,6 @@ source_url: "https://www.fdic.gov/news/board-matters/2026/june-25-2026-sunshine-
 published: "2026-06-18"
 version: "1"
 ---
-
 **NOTICE OF MEETING TO BE HELD WITH LESS THAN SEVEN DAYS ADVANCE NOTICE**
 
 **Time and Date:** 2 p.m. on June 25, 2026

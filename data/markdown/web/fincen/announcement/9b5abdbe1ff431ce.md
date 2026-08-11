@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/sars-help-dismantle-interstate-cigarette-smuggling"
 version: "1"
 ---
-
 # SARs Help Dismantle Interstate Cigarette Smuggling Operation
 
 [Issue 23-story3.pdf](/system/files/case_example/Issue%2023-story3.pdf "Issue 23-story3.pdf")

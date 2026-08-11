@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/sound-reinsurance-practices-procedures-guideline-2025"
 version: "1"
 ---
-
 # Sound Reinsurance Practices and Procedures – Guideline (2025)
 
 Information

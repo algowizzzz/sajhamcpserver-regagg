@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2021/11/iais-publishes-2020-annual-report/"
 version: "1"
 ---
-
 # IAIS publishes 2020 Annual Report
 
 [15 Nov 2021](https://www.iais.org/2021/11/iais-publishes-2020-annual-report/)

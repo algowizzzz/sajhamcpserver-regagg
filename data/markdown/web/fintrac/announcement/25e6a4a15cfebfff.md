@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/re-ed/cars-vehicules-fra.php"
 version: "1"
 ---
-
 # Véhicules blindés : Exigences de CANAFE
 
 La présente directive a pour but de vous aider à déterminer si les exigences en matière de lutte contre le blanchiment d’argent et le financement des activités terroristes de CANAFE s’appliquent à vous **depuis le 1er juillet 2024** et à comprendre ce que vous devrez faire pour vous y conformer.

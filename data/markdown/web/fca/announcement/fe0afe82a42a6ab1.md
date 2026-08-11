@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fca.org.uk/publications/good-and-poor-practice/outcomes-monitoring-good-practice-and-areas-improvement"
 version: "1"
 ---
-
 Read the findings of our review into firms’ approaches to monitoring consumer outcomes.
 
 ## 1. Introduction

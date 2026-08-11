@@ -8,7 +8,6 @@ source_url: "https://www.occ.gov/news-issuances/bulletins/2026/bulletin-2026-28.
 published: "2026-06-22"
 version: "1"
 ---
-
 OCC Bulletin 2026-28
 |
 June 22, 2026

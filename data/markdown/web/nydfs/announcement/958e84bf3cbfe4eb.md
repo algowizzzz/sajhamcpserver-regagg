@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.dfs.ny.gov/apps_and_licensing/pharmacy_benefit_managers"
 version: "4"
 ---
-
 ![pharmacist](/sites/default/files/styles/wide_lead/public/media/2024/01/PressRelease_Generic-Heroes_Consumer_PrescriptionDrugCosts_02.jpg?h=b5f6a62e&itok=57GR4115 "pharmacist")
 
 [Applications and Filings](/apps_and_licensing)

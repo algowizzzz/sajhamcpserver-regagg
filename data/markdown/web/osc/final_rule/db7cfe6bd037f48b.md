@@ -7,4 +7,10 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/13-502/notice-final-rule-and-companion-policy-osc-rule-13-502-fees-1"
 version: "1"
 ---
+# Notice of Final Rule and Companion Policy: OSC Rule - 13-502 - Fees
 
+OSC Rule
+
+## November 28, 2003
+
+[Download document](/sites/default/files/pdfs/irps/rule_20031128_13-502_consolidated.pdf "Open document in new window")

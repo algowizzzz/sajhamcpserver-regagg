@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/h4-foire-questions"
 version: "1"
 ---
-
 # H4 – Foire aux questions
 
 Information

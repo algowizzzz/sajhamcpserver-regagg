@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/intel/operation/iso-osi-eng.php"
 version: "1"
 ---
-
 # Operational Alert: Laundering the proceeds of illicit synthetic opioids
 
 [![](/images/download.png)

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.finra.org/"
 version: "2"
 ---
-
 # FINRA Homepage
 
 ![](/sites/default/files/2024-05/Mask%20Group%2039_0.png)

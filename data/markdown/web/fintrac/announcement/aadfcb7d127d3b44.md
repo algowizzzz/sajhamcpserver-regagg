@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/re-ed/cars-vehicules-eng.php"
 version: "1"
 ---
-
 # Armoured cars : FINTRAC's requirements
 
 This guidance is to help you determine if FINTRAC’s anti-money laundering and anti-terrorist activity financing requirements apply to you **as of July 1, 2024** and to understand what you will have to do to comply.

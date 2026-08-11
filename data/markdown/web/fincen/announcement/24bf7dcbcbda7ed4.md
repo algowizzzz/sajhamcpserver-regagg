@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/business-accused-structuring"
 version: "1"
 ---
-
 # Business Accused of Structuring
 
 [019.pdf](/system/files/case_example/019.pdf "019.pdf")

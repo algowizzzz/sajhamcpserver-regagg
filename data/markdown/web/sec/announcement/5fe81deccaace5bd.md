@@ -8,7 +8,6 @@ source_url: "https://www.sec.gov/newsroom/press-releases/2026-58-sec-appoints-ka
 published: "2026-06-24"
 version: "1"
 ---
-
 ## More in this Section
 
 Press Release

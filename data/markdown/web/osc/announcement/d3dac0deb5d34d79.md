@@ -1,0 +1,200 @@
+---
+title: "CanDeal.ca Inc. and Tradeweb LLC - MRRS Decision | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/candealca-inc-and-tradeweb-llc-mrrs-decision-0"
+version: "1"
+---
+# CanDeal.ca Inc. and Tradeweb LLC - MRRS Decision
+
+MRRS Decision
+
+## May 30, 2005
+
+Headnote
+
+Exemption from sections 6.1, 6.3 and 6.7 of National Instrument 21-101 Marketplace Operation and Part 8 of National Instrument 23-101 Trading Rules under certain terms and conditions.
+
+**May 30, 2005**
+
+**IN THE MATTER OF**
+
+**THE SECURITIES LEGISLATION**
+
+**OF BRITISH COLUMBIA, SASKATCHEWAN, ALBERTA, MANITOBA,**
+
+**ONTARIO, QUEBEC, NEW BRUNSWICK, NOVA SCOTIA, NEWFOUNDLAND AND LABRADOR,**
+
+**NORTHWEST TERRITORIES, NUNAVUT AND THE YUKON (THE JURISDICTIONS)**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**THE MUTUAL RELIANCE REVIEW SYSTEM FOR**
+
+**EXEMPTIVE RELIEF APPLICATIONS**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**CANDEAL.CA INC. (CANDEAL) AND**
+
+**TRADEWEB LLC (TRADEWEB), COLLECTIVELY, THE FILERS**
+
+**MRRS DECISION DOCUMENT**
+
+**Background**
+
+The local securities regulatory authority or regulator (the Decision Maker) in each of the Jurisdictions has received an application from the Filers for a decision under the securities legislation of the Jurisdictions (the Legislation) for the following relief (the Requested Relief):
+
+> (a) from the requirement that TradeWeb notify the Decision Makers when during at least three of the preceding four calendar quarters, certain trading thresholds in Non-Canadian Fixed Income Securities are exceeded until December 31, 2006;
+>
+> (b) from the requirement that TradeWeb become registered as a dealer and become a member of a self-regulatory entity before carrying on business as an ATS;
+>
+> (c) from restrictions in the Legislation that prohibit CanDeal and TradeWeb, acting through CanDeal, from offering trading in Non-Canadian Fixed Income Securities; and
+>
+> (d) from the requirement that TradeWeb enter into agreements meeting certain conditions with both regulation service providers and its customers before offering trading in Non-Canadian Fixed Income Securities.
+
+Under the Mutual Reliance Review System for Exemptive Relief Applications
+
+> (a) the Ontario Securities Commission (OSC) is the principal regulator for this application, and
+>
+> (b) the MRRS decision document evidences the decision of each Decision Maker.
+
+**Interpretation**
+
+Defined terms contained in National Instrument 14-101 *Definitions* have the same meaning in this decision unless they are defined in this decision.
+
+In this decision:
+
+> (a) Approved Customers means Permitted Dealer Participants and other sophisticated institutions, other than individuals, that (a) are customers of the Permitted Dealer Participants; (b) are enabled by a Permitted Dealer Participant to use the TradeWeb System; and (c) meet the definition of "Institutional Investor" as defined in Schedule A to this MRRS Decision Document,
+>
+> (b) ATS means alternative trading system,
+>
+> (c) Non-Canadian Fixed-Income Securities means (i) U.S. government securities, including U.S. Treasury securities, STRIPS, and discount notes; securities issued by U.S. governmental agencies, including Ginnie Mae securities; securities issued by government sponsored enterprises, including Fannie Mae, Freddie Mac, Sallie Mae, and Federal Home Loan Bank System securities; and securities issued by the International Bank for Reconstruction and Development (the World Bank), the Inter-American Development Bank, the Asian Development Bank, the European Investment Bank and supranational issuers; (ii) debt securities issued by governments in the European Economics Area; (iii) corporate debt securities including U.S. and non-U.S investment grade and non-investment grade corporate bonds denominated in U.S. dollars and Euros; (iv) debt securities of Canadian issuers issued outside of Canada and denominated in other than Canadian dollars; (v) European mortgage bonds (Pfandbriefe/covered bonds) issued by European private mortgage banks and public sector credit institutions for the purpose of funding mortgage loans; and (vi) money market instruments, including commercial paper, bills and short government securities denominated in U.S. dollars, Euros, Swiss Francs, British Pounds, Japanese Yen, Swedish Krona, and Danish Krone.
+>
+> (d) Permitted Dealer Participants means brokers and investment dealers who agree under contractual arrangements with CanDeal and TradeWeb that their use of the TradeWeb System will comply with applicable securities laws, and
+>
+> (e) TradeWeb System means the TradeWeb electronic trading system which matches orders in fixed-income securities in the U.S. and other jurisdictions.
+
+**Representations**
+
+This decision is based on the following facts represented by the Filers:
+
+> 1. CanDeal is an Ontario corporation and is registered as an investment dealer in each of the Jurisdictions and is a member of the Investment Dealers Association of Canada.
+>
+> 2. CanDeal operates an ATS in Canada which permits institutional customers to access multi-dealer online fixed income trading.
+>
+> 3. CanDeal has executed an agreement (the "RSP Agreement") with the Investment Dealers Association of Canada ("IDA") to act its regulation services provider with respect to trading in respect of Canadian fixed income instruments.
+>
+> 4. TradeWeb is a Delaware limited liability company and is regulated as an ATS in the U.S. TradeWeb is registered as a broker-dealer in the U.S. and is a member of the National Association of Securities Dealers (NASD).
+>
+> 5. TradeWeb operates the TradeWeb System.
+>
+> 6. TradeWeb and its participating U.S. and European-based liquidity providers have applied, or will apply in Ontario to be registered as international dealers. In other jurisdictions, statutory registration exemptions will be utilized permitting TradeWeb, its liquidity providers and other users to trade with accredited investors.
+>
+> 7. The TradeWeb System will facilitate trading in U.S. government securities, non-U.S. sovereign debt securities, corporate debt securities and money market instruments. Through TradeWeb, Canadian customers will be permitted to trade as and when available in non-U.S. dollar denominated fixed income securities that are offered by European dealers over the TradeWeb system through TradeWeb Europe Ltd., a company licensed by the U.K. F.S.A. Specifically, the TradeWeb system will facilitate trading in Non-Canadian Fixed-Income Securities.
+>
+> 8. The TradeWeb system will be available in Canada to Approved Customers through CanDeal.
+>
+> 9. TradeWeb and CanDeal have entered into a technology and services agreement whereby (i) TradeWeb, utilizing CanDeal as the "client-facing entity", will offer trading in Non-Canadian Fixed-Income Securities to Approved Customers, (ii) utilizing TradeWeb, CanDeal will make Canadian fixed-income securities available in foreign jurisdictions, and (iii) the CanDeal platform will be migrated to and maintained on the TradeWeb network.
+>
+> 10. In addition to the Canadian customer's contractual relationship with CanDeal, Canadian customers that access TradeWeb's services will have the benefit of U.S. and U.K. law protections available to TradeWeb customers by virtue of TradeWeb's status as a registered broker-dealer and member of NASD in the U.S. and TradeWeb Europe Ltd.'s status as an authorized investment firm with the U.K. F.S.A.
+
+**Decision**
+
+Each of the Decision Makers is satisfied that the test contained in the Legislation that provides the Decision Maker with the jurisdiction to make the Decision has been met.
+
+The decision of the Decision Makers under the Legislation is that the Requested Relief is granted provided that:
+
+> 1. TradeWeb will only offer trading in securities to Canadian customers through CanDeal.
+>
+> 2. CanDeal and TradeWeb will only offer trading in Non-Canadian Fixed-Income Securities to Approved Customers.
+>
+> 3. CanDeal will remain a registered ATS pursuant to the Legislation.
+>
+> 4. CanDeal will remain registered as an investment dealer in each of the Jurisdictions and a member of the IDA and shall keep in place the RSP Agreement.
+>
+> 5. TradeWeb and its participating U.S. and European-based liquidity providers will become registered as, and maintain registration as, international dealers in Ontario.
+>
+> 6. CanDeal will certify in a quarterly filing with the Decision Makers that all trades with Canadian customers were executed through liquidity providers registered as international dealers in Ontario or relying on available exemptions in the other Jurisdictions.
+>
+> 7. TradeWeb will remain registered with the SEC and a member in good standing of the NASD.
+>
+> 8. TradeWeb Europe Ltd. will remain registered in the U.K. as a dealer and a member in good standing of the U.K. FSA.
+>
+> 9. TradeWeb and CanDeal will immediately notify the Decision Makers if any proceedings of a material or non-administrative nature have been filed or regulatory action been taken against TradeWeb by any foreign regulator.
+>
+> 10. The TradeWeb account agreement will set out the contractual relationship with TradeWeb governing trading services and also with CanDeal in an addendum. The addendum will be signed by the customer and will describe the relationship between CanDeal and TradeWeb. The addendum will also disclose that TradeWeb LLC is a non-Canadian resident company and that proceedings and enforcement against it may be more difficult than if it were resident in Canada. CanDeal's Canadian customers that access TradeWeb's services will have recourse against CanDeal, as a registered ATS, and TradeWeb, as an international dealer, registered with Canadian securities regulatory authorities.
+>
+> 11. CanDeal's current Canadian customers, will receive an addendum that will set out the contractual relationship between TradeWeb and CanDeal. CanDeal's agreement with future Canadian customers, will set out the contractual relationship between TradeWeb and CanDeal within the CanDeal agreement.
+>
+> 12. Canadian unlisted debt securities that are introduced on TradeWeb will be subject to all Canadian transparency requirements.
+>
+> 13. The arrangements between TradeWeb and CanDeal will remain in all material respects as described to the Decision Makers. Subsequent material changes are subject to prior approval of each of the Decision Makers, except the Decision Makers in British Columbia, Alberta, Manitoba, Saskatchewan and the Northwest Territories.
+>
+> 14. TradeWeb will not subcontract or delegate the performance of its obligations to CanDeal without prior approval of each of the Decision Makers, except the Decision Makers in British Columbia, Alberta, Manitoba, Saskatchewan and the Northwest Territories.
+>
+> 15. TradeWeb will meet its obligations to file the initial operations report of an ATS required by the Legislation by filing with the Decision Makers U.S. Form ATS information, supplemented where necessary, with a cross-reference sheet matching information required in the Initial Report.
+>
+> 16. TradeWeb will provide all required documents as requested by the Decision Makers, and the applicable regulation services provider.
+
+"Randee B Pavalow"
+
+Director
+
+Ontario Securities Commission
+
+**SCHEDULE A**
+
+In this Decision Document, "Institutional Investor" means:
+
+> a) a bank listed in Schedule I or II of the *Bank Act* (Canada), or an authorized foreign bank listed in Schedule III of that Act;
+>
+> b) the Business Development Bank incorporated under the *Business Development Bank Act* (Canada);
+>
+> c) a loan corporation, trust company, trust corporation, savings company or loan and investment society registered under the *Trust and Loan Companies Act* (Canada) or under comparable legislation in any province or territory of Canada;
+>
+> d) a co-operative credit society, credit union central, federation of caisses populaires, credit union or league, or regional caisse populaire, or an association under the *Cooperative Credit Associations Act* (Canada), in each case, located in Canada;
+>
+> e) a company licensed to do business as an insurance company in a province or territory of Canada;
+>
+> f) a subsidiary of any company referred to in paragraph (a), (b), (c), (d) or (e), where the company owns all of the voting shares of the subsidiary;
+>
+> g) a financial services cooperative within the meaning of *the Act respecting Financial Services Cooperatives* (Quebec);
+>
+> h) the Caisse centrale Desjardins du Québec established under *the Act respecting the Mouvement des Caisses Desjardins* (Quebec);
+>
+> i) a person or company registered under the securities legislation of the applicable province or territory of Canada as an adviser or dealer, other than a limited market dealer;
+>
+> j) the government of Canada or of any jurisdiction, or any crown corporation, instrumentality or agency of a Canadian federal, provincial or territorial government;
+>
+> k) any Canadian municipality or any Canadian provincial or territorial capital city;
+>
+> l) any national, federal, state, provincial, territorial or municipal government of or in any foreign jurisdiction, or any instrumentality or agency thereof;
+>
+> m) a pension fund that is regulated by either the Office of the Superintendent of Financial Institutions (Canada) or a provincial pension commission or similar regulatory authority;
+>
+> n) a registered charity under the *Income Tax Act* (Canada);
+>
+> o) a company, limited partnership, limited liability partnership, trust or estate, other than a mutual fund or non-redeemable investment fund, that had net assets of at least Cdn.$5,000,000 as reflected in its most recently prepared financial statements;
+>
+> p) a person or company, other than an individual, that is recognized or designated by a Canadian securities regulatory authority as an "accredited investor" or by the Autorité des marchés financiers as a "sophisticated purchaser";
+>
+> q) a mutual fund or non-redeemable investment fund that, in the applicable province of Canada, distributes its securities only to persons or companies that are accredited investors;
+>
+> r) a mutual fund or non-redeemable investment fund that, in the applicable province of Canada, distributes its securities under a prospectus for which a receipt has been granted;
+>
+> s) an account that is fully managed by a registered portfolio manager or an entity listed in paragraphs (a), (c), (d) or (e);
+>
+> t) an entity organized outside of Canada that is analogous to any of the entities referred to in paragraphs (a) through (f) and paragraph (m) in form and function; and
+>
+> u) a person or company in respect of which all of the owners of interests, direct or indirect, legal or beneficial, are persons or companies that are Institutional Investors; provided that:
+>
+> > (i) two or more persons who are the joint registered holders of one or more securities of the issuer shall be counted as one beneficial owner of those securities; and
+> >
+> > (ii) a corporation, partnership, trust or other entity shall be counted as one beneficial owner of securities of the issuer unless the entity has been created or is being used primarily for the purpose of acquiring or holding securities of the issuer, in which event each beneficial owner of an equity interest in the entity or each beneficiary of the entity, as the case may be, shall be counted as a separate beneficial owner of those securities of the issuer.

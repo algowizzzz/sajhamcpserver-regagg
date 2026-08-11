@@ -7,4 +7,36 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/investors/warnings/bristol-consulting-fx-also-doing-business-wwwbristolconsultingfxcom"
 version: "1"
 ---
+# Bristol Consulting FX , also doing business as www.bristolconsultingfx.com
 
+As part of the Ontario Securities Commission’s (OSC) mandate to protect investors and the integrity of our markets, we issue [investor warnings and alerts](/en/investors/investor-warnings-and-alerts). Investor warnings caution the public about individuals or companies that may pose a risk to investors.
+
+The OSC has issued an investor warning with the following information:
+
+Name:
+
+Bristol Consulting FX , also doing business as www.bristolconsultingfx.com
+
+Date:
+
+June 15, 2018
+
+Addresses:
+
+Tower Financial Centre, Calle 50
+
+City: 
+Panama
+
+Country: 
+Panama
+
+Other Names Used:
+
+Additional Information:
+
+Bristol Consulting FX , also doing business as www.bristolconsultingfx.com is not registered in Ontario to engage in the business of trading in securities.
+
+If you have been approached by the individual or company above, [contact us](/en/about-us/contact-us) immediately. Please also contact us if you are approached by anyone who is not registered.
+
+[See all Investor Warnings](/en/investors/investor-warnings-and-alerts "Investor warnings and alerts")

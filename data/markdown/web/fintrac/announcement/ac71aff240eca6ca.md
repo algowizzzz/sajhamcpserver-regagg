@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/publications/qfr-rft/20241231-fra.php"
 version: "1"
 ---
-
 # Rapport financier trimestriel pour le trimestre ayant pris fin le 31 décembre 2024 (non audité)
 
 ISSN 2817-2957  

@@ -1,0 +1,26 @@
+---
+title: "Portfolio 22 Multi-Family REIT LP | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/portfolio-22-multi-family-reit-lp"
+version: "1"
+---
+# Portfolio 22 Multi-Family REIT LP
+
+Order
+
+## October 29, 2019
+
+Headnote
+
+National Policy 11-206 Process for Cease to be a Reporting Issuer Applications -- The issuer ceased to be a reporting issuer under securities legislation.
+
+Applicable Legislative Provisions
+
+Securities Act, R.S.O. 1990, c. S.5, as am., s. 1(10)(a)(ii).
+
+**October 29, 2019**
+
+#### IN THE MATTER OF THE SECURITIES LEGISLATION OF BRITISH COLUMBIA AND ONTARIO (THE JURISDICTIONS) AND IN THE MATTER OF THE PROCESS FOR CEASE TO BE A REPORTING ISSUER APPLICATION AND IN THE MATTER OF PORTFOLIO 22 MULTI-FAMILY REIT LP (the Filer)ORDER * 1 Background The securities regulatory authority or regulator in each of the Jurisdictions (Decision Maker) have received an application from the Filer for an order under the securities legislation of the Jurisdictions (the Legislation) that the Filer has ceased to be a reporting issuer in all jurisdictions of Canada in which it is a reporting issuer (the Order Sought). Under the Process for Cease to be a Reporting Issuer Applications (for a dual application): (a) the British Columbia Securities Commission is the principal regulator for this application, (b) the Filer has provided notice that subsection 4C.5(1) of Multilateral Instrument 11-102 *Passport System* (MI 11-102) is intended to be relied upon in Alberta, Saskatchewan, Manitoba, New Brunswick, Nova Scotia, Prince Edward Island and Newfoundland and Labrador, and (c) this order is the order of the principal regulator and evidences the decision of the securities regulatory authority or regulator in Ontario. * 2 Interpretation Terms defined in National Instrument 14-101 *Definitions* and MI 11-102 have the same meaning if used in this order, unless otherwise defined. * 3 Representations This order is based on the following facts represented by the Filer: 1. the Filer is not an OTC reporting issuer under Multilateral Instrument 51-105 *Issuers Quoted in the U.S. Over-the-Counter Markets;* 2. the outstanding securities of the Filer, including debt securities, are beneficially owned, directly or indirectly, by fewer than 15 securityholders in each of the jurisdictions of Canada and fewer than 51 securityholders in total worldwide; 3. no securities of the Filer, including debt securities, are traded in Canada or another country on a marketplace as defined in National Instrument 21-101 *Marketplace Operation* or any other facility for bringing together buyers and sellers of securities where trading data is publicly reported; 4. the Filer is applying for an order that the Filer has ceased to be a reporting issuer in all of the jurisdictions of Canada in which it is a reporting issuer; and 5. the Filer is not in default of securities legislation in any jurisdiction. * 4 Order Each of the Decision Makers is satisfied that the order meets the test set out in the Legislation for the Decision Maker to make the order. The decision of the Decision Makers under the Legislation is that the Order Sought is granted. "John Hinze" Director, Corporate Finance British Columbia Securities Commission

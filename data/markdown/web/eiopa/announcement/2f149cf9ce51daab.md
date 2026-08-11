@@ -7,6 +7,13 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/introductory-statement-scrutiny-hearing-priips-2018-10-08_en"
 version: "1"
 ---
+[Skip to main content](#main-content)
+
+# Introductory Statement at the Scrutiny Hearing on PRIIPs
+
+* News article
+* 8 October 2018
+* 1 min read
 
 ## ECON Committee, European Parliament, Brussels
 

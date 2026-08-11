@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-publishes-its-annual-report-2016-2017-06-15_en"
 version: "1"
 ---
-
 Page Content
 
 Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its Annual Report 2016. To ensure sound and effective supervision of the insurance and pensions sectors, EIOPA strongly believes in a holistic and integrated approach towards European prudential and conduct supervision and this has been the guiding principle for EIOPA's activity over the past year.

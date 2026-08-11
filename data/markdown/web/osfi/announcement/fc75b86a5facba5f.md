@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/transaction-instructions/termination-business-canada-authorized-foreign-bank"
 version: "1"
 ---
-
 # Termination of Business in Canada of an Authorized Foreign Bank
 
 Information

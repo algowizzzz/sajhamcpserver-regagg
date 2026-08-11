@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.finra.org/rules-guidance/rule-filings"
 version: "1"
 ---
-
 # Rule Filings
 
 View the [Rule Filing Status Report](https://tools.finra.org/rule_filings/).

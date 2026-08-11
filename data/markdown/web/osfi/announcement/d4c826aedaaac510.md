@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/supervision/pensions/administering-pension-plans/guidance-topic/asset-transfers-related-defined-contribution-provisions-pension-plans/final-instruction-guide-asset-transfers-related-defined-contribution-provisions-pension-plans"
 version: "1"
 ---
-
 # Final Instruction Guide – Asset Transfers related to Defined Contribution Provisions of Pension Plans
 
 **Type of publication:** Letter  

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/transparency/access-information-privacy/access-information-privacy-annual-reports-assessments/osfi-summaries-privacy-impact-assessments"
 version: "1"
 ---
-
 # OSFI – Summaries of Privacy Impact Assessments
 
 ## 1. September 2025

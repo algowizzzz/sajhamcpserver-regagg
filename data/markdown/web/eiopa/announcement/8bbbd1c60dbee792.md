@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-consults-reinsurance-value-chain-and-new-business-models-arising-digitalisation-2020-06-10_en"
 version: "1"
 ---
-
 ![Adobestock_innovation](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_innovation.jpeg?itok=DJau6I-s "Adobestock_innovation")
 
 Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a public consultation on a ‘[Discussion paper on (re)insurance value chain and new business models arising from digitalisation](https://www.eiopa.europa.eu/content/discussion-paper-reinsurance-value-chain-and-new-business-models-arising-digitalisation_en)’.

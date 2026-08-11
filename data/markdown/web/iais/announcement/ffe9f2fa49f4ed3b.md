@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2021/12/career-opportunity-at-the-iais/"
 version: "1"
 ---
-
 # Career opportunity at the IAIS
 
 [13 Dec 2021](https://www.iais.org/2021/12/career-opportunity-at-the-iais/)

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/consultations/requests-consultation/digital-innovation-open-door"
 version: "1"
 ---
-
 # Digital Innovation Open Door
 
 We will be hosting a series of stakeholder engagement opportunities. This initiative will allow industry and the Office of the Superintendent of Financial Institutions to have open discussions on digital innovation topics.

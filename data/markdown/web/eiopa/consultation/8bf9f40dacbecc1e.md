@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/consultations/consultation-review-insurance-disclosures-under-taxonomy-disclosures-delegated-act_en"
 version: "1"
 ---
-
 ## Details
 
 Status

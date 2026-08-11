@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-updates-internal-model-consistency-projects-2017-10-25_en"
 version: "1"
 ---
-
 Page Content
 
 Today, the European Insurance and Occupational Pensions Authority (EIOPA) published an update on Internal Model Consistency Projects to strengthen supervisory consistency and convergence in the European Union. The activities are part of the follow-up on the *Opinion on the preparation for Internal Model applications* issued in April 2015.

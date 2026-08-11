@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/browse/sustainable-finance/addressing-protection-gaps_en"
 version: "1"
 ---
-
 (Natural) catastrophes have a damaging effect on society and cause significant losses.
 
 To improve the resilience against sustainability risks and reduce losses, EIOPA works to improve the awareness of risk that consumers face and to foster adaptation measures across public and private initiatives.

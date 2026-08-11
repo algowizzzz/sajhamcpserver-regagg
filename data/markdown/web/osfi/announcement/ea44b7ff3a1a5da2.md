@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/reporting-anti-money-laundering-anti-terrorist-financing-sanctions/osfi-590-report-instructions"
 version: "1"
 ---
-
 # OSFI-590 Report Instructions
 
 ## Document Properties

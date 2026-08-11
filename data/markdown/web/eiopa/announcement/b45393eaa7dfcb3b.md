@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/damian-jaworski_en"
 version: "1"
 ---
-
 ![Damian Jaworski 202604_1](/sites/default/files/styles/oe_theme_medium_no_crop/public/2026-04/DSC07081_ed.jpg?itok=hkqm5Z0r)
 
 Damian Jaworski is the Executive Director of the European Insurance and Occupational Pensions Authority (EIOPA) since 1 April 2026. He was elected by EIOPA's Board of Supervisors on 23 October 2025 and confirmed by the European Parliament on 17 December 2025. In his role, he presides over the day-to-day management of EIOPA.

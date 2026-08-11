@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/suspicious-activity-reports-aid-ponzi-scheme-investigation"
 version: "1"
 ---
-
 # Suspicious Activity Reports Aid in Ponzi Scheme Investigation
 
 [112.pdf](/system/files/case_example/112.pdf "112.pdf")

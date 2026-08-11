@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/demandes-approbations/instructions-relatives-operations/cessation-operations-dassurance-au-canada-societes-dassurances-etrangeres"
 version: "1"
 ---
-
 # Cessation des opérations d’assurance au Canada des sociétés d’assurances étrangères
 
 Information

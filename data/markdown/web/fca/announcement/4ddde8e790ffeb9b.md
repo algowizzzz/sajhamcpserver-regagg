@@ -8,7 +8,6 @@ source_url: "https://www.fca.org.uk/news/news-stories/prosper-capital-llp-enters
 published: "2026-06-01"
 version: "3"
 ---
-
 On 1 June 2026, Prosper Capital LLP (Prosper) went into creditors’ voluntary liquidation. Jeremy Karr and Simon Killick of BTG Begbies Traynor (Central) LLP were appointed as joint liquidators.
 
 ## On this page

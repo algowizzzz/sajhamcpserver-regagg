@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-analyses-use-limitations-and-exemptions-reporting-under-solvency-ii-2021-12-21_en"
 version: "1"
 ---
-
 The European Insurance and Occupational Pensions Authority (EIOPA) published today its annual report on the use of limitations and exemptions from the regular Solvency II reporting by national competent authorities (NCAs) during 2020 and the first quarter of 2021.
 
 During 2020, three NCAs granted limitations and exemptions from reporting to 113 solo undertakings, while during the first quarter of 2021 there were 11 NCAs which granted limitations to 669 solo undertakings.

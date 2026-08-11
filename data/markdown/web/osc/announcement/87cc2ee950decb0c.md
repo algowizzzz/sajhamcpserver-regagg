@@ -1,0 +1,348 @@
+---
+title: "RBC Asset Management Inc. et al. - MRRS Decision | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/rbc-asset-management-inc-et-al-mrrs-decision-2"
+version: "1"
+---
+# RBC Asset Management Inc. et al. - MRRS Decision
+
+MRRS Decision
+
+## January 16, 2006
+
+Headnote
+
+Mutual Reliance Review System for Exemptive Relief Applications -- Exemption to allow dealer managed mutual funds to invest in securities of an issuer during the 60 days after the distribution period in which an affiliate of the dealer manager has acted as an underwriter in connection with the distribution of securities of the issuer. -- The conflict is mitigated by the oversight of an independent review committee -- Conditions included to reflect transition of oversight function from current independent committee to independent 'review' committee to be established during the 60-day period and compliant with the provisions of National Instrument 81-107 Independent Review Committee for Investment Funds in force November 1, 2006.
+
+**Applicable Legislative Provisions**
+
+National Instrument 81-102 Mutual Funds, ss. 4.1(1), 19.1.
+
+**November 8, 2006**
+
+**IN THE MATTER OF**
+
+**THE SECURITIES LEGISLATION OF**
+
+**BRITISH COLUMBIA, ALBERTA, SASKATCHEWAN,**
+
+**MANITOBA, ONTARIO, QUEBEC, NEW BRUNSWICK,**
+
+**NOVA SCOTIA, PRINCE EDWARD ISLAND,**
+
+**NEWFOUNDLAND AND LABRADOR, AND THE**
+
+**NORTHWEST TERRITORIES, NUNAVUT AND**
+
+**THE YUKON**
+
+**(the "Jurisdictions")**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**THE MUTUAL RELIANCE REVIEW SYSTEM**
+
+**FOR EXEMPTIVE RELIEF APPLICATIONS**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**RBC ASSET MANAGEMENT INC.,**
+
+**CIBC ASSET MANAGEMENT INC. AND**
+
+**CIBC GLOBAL ASSET MANAGEMENT INC.**
+
+**(the "Applicants")**
+
+**MRRS DECISION DOCUMENT**
+
+**Background**
+
+The local securities regulatory authority or regulator (the "**Decision Maker**") in each of the Jurisdictions has received an application from the Applicants (or "**Dealer Managers**"), for and on behalf of the mutual funds named in Appendix "A" (the "**Funds**" or "**Dealer Managed Funds**") for whom the Applicants act as manager or portfolio advisor or both, for a decision under section 19.1 of National Instrument 81-102 *Mutual Funds* ("**NI 81-102**") for:
+
+• an exemption from subsection 4.1(1) of NI 81-102 to enable the Dealer Managed Funds to invest in the units (the "**Units**") of H&R Real Estate Investment Trust (the "**Issuer**") on the Toronto Stock Exchange (the "**TSX**") during the period beginning on the completion of the distribution of the Units and ending on the earlier of (i) the end of the 60-day period (the "**60-Day Period**") following the completion of the distribution, and (ii) the end of the day prior to the Dealer Manager providing the principal regulator with a notice (the "**Notice**") of intention to comply with National Instrument 81-107 *Independent Review Committee for Investment Funds* ("**NI 81-107**") pursuant to section 8.2 of that instrument (the "**Prohibition Period**"), notwithstanding that the Dealer Managers or their associates or affiliates act or have acted as an underwriter in connection with the offering (the "**Offering**") of Units pursuant to a short form prospectus dated October 20, 2006 (the "**Prospectus**") which was filed in accordance with the securities legislation of all Canadian provinces (the "**Requested Relief**").
+
+Under the Mutual Reliance Review System for Exemptive Relief Applications:
+
+> (a) the Ontario Securities Commission (the "**OSC**") is the principal regulator for this application, and
+>
+> (b) this MRRS decision document evidences the decision of each Decision Maker.
+
+It is the responsibility of each of the Decision Makers to make a global assessment of the risks involved in granting exemptive relief from subsection 4.1 of NI 81-102 in relation to the specific facts of each application.
+
+**Interpretation**
+
+Defined terms contained in National Instrument 14-101 - *Definitions* have the same meanings in this decision unless they are defined in this decision.
+
+**Representations**
+
+This decision is based on the following facts represented by the Applicant:
+
+> 1. Each Dealer Manager is a "dealer manager" with respect to the Dealer Managed Funds, and each Dealer Managed Fund is a "dealer managed fund", as such terms are defined in section 1.1 of NI 81-102.
+>
+> 2. The securities of the Dealer Managed Funds are qualified for distribution in one or more of the provinces and territories of Canada pursuant to simplified prospectuses that have been prepared and filed in accordance with their respective securities legislation.
+>
+> 3. The head offices of RBC Asset Management Inc. and CIBC Asset Management Inc. are in Toronto, Ontario. The head office of CIBC Global Asset Management Inc. is in Montreal, Quebec.
+>
+> 4. The Issuer is an unincorporated real estate investment trust created under, and governed by the laws of the Province of Ontario. The Issuer is an open-ended investment trust which owns properties in Canada and the United States totaling approximately 37.3 million square feet in leaseable area.
+>
+> 5. According to the Issuer's preliminary short form prospectus (the "**Preliminary Prospectus**"), the Offering consists of 6,500,000 Units at a price of $23.15 per Unit. The gross proceeds of the Offering are expected to be approximately $150,475,000. The Issuer has been advised that, in connection with the offering, the Underwriters may over-allot or effect transactions, which stabilize or maintain the market price of the Units at a level above that which might otherwise prevail on the open market. Such transactions, if commenced, may be discontinued at any time.
+>
+> 6. The Offering was underwritten, subject to certain terms, by an underwriting syndicate which included RBC Dominion Securities Inc. and CIBC World Markets Inc. (the "**Related Underwriter**"), among others (the Related Underwriter together with the other underwriters, the "**Underwriters**"). The Related Underwriters are affiliates of the Dealer Managers.
+>
+> 7. According to the Preliminary Prospectus, the Issuer intends to use the net proceeds to fund the acquisition of additional properties. Any proceeds not initially used for such purposes will be used to reduce the Issuer's indebtedness.
+>
+> 8. The Issuer and the Underwriters have entered into an underwriting agreement dated October 20, 2006 whereby the Underwriters have agreed to purchase a total of 6,500,000 Units for an aggregate consideration of $150,475,000. The Issuer has agreed to pay the Underwriters a fee of $0.926 per Unit for the services provided by the Underwriters in distributing such Units to the public.
+>
+> 9. The Issuer's outstanding units are listed on the Toronto Stock Exchange ("**TSX**") under the symbol "HR.UN". The Issuer has applied to list the Units on the TSX.
+>
+> 10. According to the Preliminary Prospectus, the Issuer may be considered a "connected issuer" as defined in National Instrument 33-105 ("**NI 33-105**") to the Related Underwriters and two of the Underwriters which are subsidiaries of banks (the "**Banks**") that are, or are related to, lenders to the Issuer for reasons set forth in the Preliminary Prospectus. The Issuer may use a portion of the net proceeds of this offering to, among other things, reduce its indebtedness to one of the Banks. The Banks, and their related entities have agreed to make available to the Issuer credit facilities in the maximum aggregate principal amount of approximately $180 million, which is secured by a first charge over certain properties, and have granted mortgage financings to the Issuer in the aggregate amount of approximately $78.6 million, secured by certain of the Issuer's assets. As of October 19, 2006, the Issuer was indebted to the Banks, and their related entities, in respect of such credit facilities in the aggregate amount of approximately $66.8 million and in respect of such mortgage financings in the aggregate amount of approximately $78.6 million. As at October 20, 2006, the Issuer was in compliance with the terms of all such indebtedness. The decision to distribute the Units and the determination of the terms of distribution were made through negations between the Issuer and the Underwriters. The Banks did not have any involvement in such decision or determination.
+>
+> 11. The Issuer is not a "related issuer" of the Related Underwriters, as defined in NI 33-105.
+>
+> 12. Despite the affiliation between the Dealer Managers and the Related Underwriters, they operate independently of each other. In particular, the investment banking and related dealer activities of the Related Underwriters and the investment portfolio management activities of the Dealer Managers are separated by "ethical" walls. Accordingly, no information flows from one to the other concerning their respective business operations or activities generally, except in the following or similar circumstances:
+>
+> > (a) in respect of compliance matters (for example, the Dealer Manager and the Related Underwriter may communicate to enable the Dealer Manager to maintain an up to date restricted-issuer list to ensure that the Dealer Manager complies with applicable securities laws); and
+> >
+> > (b) the Dealer Manager and the Related Underwriter may share general market information such as discussion on general economic conditions, bank rates, etc.
+>
+> 13. The Dealer Managed Funds are not required or obligated to purchase any Units during the Prohibition Period.
+>
+> 14. The Dealer Managers may cause the Dealer Managed Funds to invest in Units during the Prohibition Period. Any purchase of the Units will be consistent with the investment objectives of the Dealer Managed Funds and represent the business judgment of the Dealer Manager uninfluenced by considerations other than the best interests of the Dealer Managed Funds or in fact be in the best interests of the Dealer Managed Funds.
+>
+> 15. To the extent that the same portfolio manager or team of portfolio managers of a Dealer Manager manages two or more Dealer Managed Funds and other client accounts that are managed on a discretionary basis (the "Managed Accounts"), the Units purchased for them will be allocated:
+>
+> > (a) in accordance with the allocation factors or criteria stated in the written policies or procedures put in place by the Dealer Manager for its Dealer Managed Funds and Managed Accounts, and
+> >
+> > (b) taking into account the amount of cash available to each Dealer Managed Fund for investment.
+>
+> 16. There will be an independent committee (the "**Independent Committee**") appointed in respect of the Dealer Managed Funds to review the investments of the Dealer Managed Funds in Units during the Prohibition Period.
+>
+> 17. The Independent Committee will have at least three members and every member must be independent. A member of the Independent Committee is not independent if the member has a direct or indirect material relationship with its Dealer Manager, the Dealer Managed Funds, or any affiliate or associate thereof. For the purpose of this Decision, a material relationship means a relationship which could, in the view of a reasonable person, reasonably interfere with the exercise of the member's independent judgment regarding conflicts of interest facing the Dealer Manager.
+>
+> 18. The members of the Independent Committee will exercise their powers and discharge their duties honestly, in good faith, and in the best interests of investors in the Dealer Managed Funds and, in so doing, exercise the degree of care, diligence and skill that a reasonably prudent person would exercise in the circumstances.
+>
+> 19. If a Dealer Manager files a Notice during the 60-Day Period, the Funds will no longer be able to rely on this Decision and will only be able to make further investments in Units during the remainder of the 60-Day Period in compliance with NI 81-107, including compliance with an applicable standing instruction under NI 81-107.
+>
+> 20. Each Dealer Manager, in respect of the Dealer Managed Funds, will notify a member of staff in the Investment Funds Branch of the Ontario Securities Commission, of the filing of the SEDAR Report on SEDAR, as soon as practicable after the filing of such report, and the notice shall include the SEDAR project number of the SEDAR Report and the date on which it was filed.
+>
+> 21. Each Dealer Manager has not been involved in the work of the Related Underwriter and the Related Underwriter has not been and will not be involved in the decisions of the Dealer Manager as to whether the Dealer Managed Funds will purchase Units during the Prohibition Period.
+
+**Decision**
+
+Each of the Decision Makers has assessed the conflict of interest risks associated with granting an exemption in this instance from subsection 4.1(1) of NI 81-102 and is satisfied that, at the time this Decision is granted, the potential risks are sufficiently mitigated.
+
+Each of the Decision Makers is satisfied that the test contained in NI 81-102 that provides the Decision Maker with the jurisdiction to make the Decision has been met.
+
+The Decision of the Decision Makers under the Legislation is that the Requested Relief is granted, notwithstanding that the Related Underwriters act or have acted as underwriter in the Offering provided that, in respect of the Dealer Managers and their Dealer Managed Funds, the following conditions are satisfied:
+
+> I. At the time of each purchase (the "**Purchase**") of Units by a Dealer Managed Fund pursuant to this Decision, the following conditions are satisfied:
+>
+> > (a) the Purchase
+> >
+> > > (i) represents the business judgment of the Dealer Manager uninfluenced by considerations other than the best interests of the Dealer Managed Fund, or
+> > >
+> > > (ii) is, in fact, in the best interests of the Dealer Managed Fund;
+> >
+> > (b) the Purchase is consistent with, or is necessary to meet, the investment objective of the Dealer Managed Fund as disclosed in its simplified prospectus; and
+> >
+> > (c) the Dealer Managed Fund does not place the order to purchase, on a principal or agency basis, with its Related Underwriter;
+>
+> II. Prior to effecting any Purchase pursuant to this Decision, the Dealer Managed Fund has in place written policies or procedures to ensure that,
+>
+> > (a) there is compliance with the conditions of this Decision; and
+> >
+> > (b) in connection with any Purchase,
+> >
+> > > (i) there are stated factors or criteria for allocating the Units purchased for two or more Dealer Managed Funds and other Managed Accounts, and
+> > >
+> > > (ii) there is full documentation of the reasons for any allocation to a Dealer Managed Fund or Managed Account that departs from the stated allocation factors or criteria;
+>
+> III. Each Dealer Managed Fund has an Independent Committee to review the Dealer Managed Fund's investments in the Units during the Prohibition Period;
+>
+> IV. The Independent Committee has a written mandate describing its duties and standard of care which, as a minimum, sets out the applicable conditions of this Decision;
+>
+> V. The members of the Independent Committee exercise their powers and discharge their duties honestly, in good faith, and in the best interests of investors in the Dealer Managed Funds and, in so doing, exercise the degree of care, diligence and skill that a reasonably prudent person would exercise in the circumstances;
+>
+> VI. The Dealer Managed Fund does not relieve the members of the Independent Committee from liability for loss that arises out of a failure to satisfy the standard of care set out in paragraph V above;
+>
+> VII. Until a Notice is provided to the principal regulators, the Dealer Managed Fund does not incur the cost of any portion of liability insurance that insures a member of the Independent Committee for a liability for loss that arises out of a failure to satisfy the standard of care set out in paragraph V above;
+>
+> VIII. The cost of any indemnification or insurance coverage paid for by a Dealer Manager, any portfolio manager of the Dealer Managed Fund, or any associate or affiliate of the Dealer Manager or any portfolio manager of the Dealer Managed Funds to indemnify or insure the members of the Independent Committee in respect of a loss that arises out of a failure to satisfy the standard of care set out in paragraph V above is not paid either directly or indirectly by the Dealer Managed Fund;
+>
+> IX. Each Dealer Manager files a certified report on SEDAR (the "**SEDAR Report**") in respect of each Dealer Managed Fund, no later than 30 days after the end of the 60-Day Period; provided, however, that if the Dealer Manager files a Notice during the 60-Day Period, the SEDAR Report shall be field concurrently with the Notice being provided to the principal regulator. The SEDAR Report shall contain a certification by the Dealer Manager that contains:
+>
+> > (a) the following particulars of each Purchase:
+> >
+> > > (i) the number of Units purchased by the Dealer Managed Fund;
+> > >
+> > > (ii) the date of the Purchase and purchase price;
+> > >
+> > > (iii) whether it is known whether any underwriter or syndicate member has engaged in market stabilization activities in respect of the Units;
+> > >
+> > > (iv) if the Units were purchased for two or more Dealer Managed Funds and other Managed Accounts of the Dealer Manager, the aggregate amount so purchased and the percentage of such aggregate amount that was allocated to each Dealer Managed Fund; and
+> > >
+> > > (v) the dealer from whom the Dealer Managed Fund purchased the Units and the fees or commissions, if any, paid by the Dealer Managed Fund in respect of such Purchase;
+> >
+> > (b) a certification by the Dealer Manager that the Purchase:
+> >
+> > > (i) was made free from any influence by the Related Underwriter or any affiliate or associate thereof and without taking into account any consideration relevant to the Related Underwriter or any associate or affiliate thereof; and
+> > >
+> > > (ii) represented the business judgment of the Dealer Manager uninfluenced by considerations other than the best interest of the Dealer Managed Fund, or
+> > >
+> > > (iii) was, in fact, in the best interests of the Dealer Managed Fund;
+> >
+> > (c) confirmation of the existence of the Independent Committee to review the Purchase of the Units by the Dealer Managed Funds, the names of the members of the Independent Committee, the fact that they meet the independence requirements set forth in this Decision, and whether and how they were compensated for their review;
+> >
+> > (d) a certification by each member of the Independent Committee that after reasonable inquiry the member formed the opinion that the policies and procedures referred to in Condition II(a) above are adequate and effective to ensure compliance with this Decision and that the decision made on behalf of each Dealer Managed Fund by the Dealer Manager to purchase Units for the Dealer Managed Funds and each Purchase by the Dealer Managed Fund:
+> >
+> > > (i) was made in compliance with the conditions of this Decision;
+> > >
+> > > (ii) was made by the Dealer Manager free from any influence by the Related Underwriter or any affiliate or associate thereof and without taking into account any consideration relevant to the Related Underwriter or any associate or affiliate thereof; and
+> > >
+> > > (iii) represented the business judgment of the Dealer Manager uninfluenced by considerations other than the best interests of the Dealer Managed Fund, or
+> > >
+> > > (iv) was, in fact, in the best interests of the Dealer Managed Fund.
+>
+> X. The Independent Committee, or, if a Notice has been provided to the principal regulator during the 60-Day Period, an independent review committee established under NI 81-107, advises the Decision Makers in writing of:
+>
+> > (a) any determination by it that the condition set out in paragraph IX(d) has not been satisfied with respect to any Purchase of the Units by a Dealer Managed Fund;
+> >
+> > (b) any determination by it that any other condition of this Decision has not been satisfied;
+> >
+> > (c) any action it has taken or proposes to take following the determinations referred to above; and
+> >
+> > (d) any action taken, or proposed to be taken, by the Dealer Manager or a portfolio manager of a Dealer Managed Fund, in response to the determinations referred to above.
+>
+> XI. Each Purchase of Units during the Prohibition Period is made on the TSX; and
+>
+> XII. An underwriter provides to each Dealer Manager written confirmation that the "dealer restricted period" in respect of the Offering, as defined in Ontario Securities Commission Rule 48-501, Trading During Distributions, Formal Bids and Share Exchange Transactions, has ended.
+
+"Rhonda Goldberg"
+
+Assistant Manager, Investment Funds Branch
+
+Ontario Securities Commission
+
+**APPENDIX A**
+
+**THE MUTUAL FUNDS**
+
+**RBC Funds (formerly Royal Mutual Funds)**
+
+RBC Balanced Fund
+
+RBC Canadian Equity Fund
+
+RBC North American Growth Fund
+
+(formerly RBC Canadian Growth Fund)
+
+RBC North American Value Fund
+
+(formerly RBC Canadian Value Fund)
+
+RBC Balanced Growth Fund
+
+RBC Monthly Income Fund
+
+RBC Canadian Diversified Income Trust Fund
+
+RBC North American Dividend Fund
+
+(formerly RBC Blue Chip Canadian Equity Fund)
+
+RBC Canadian Dividend Fund
+
+(formerly RBC Dividend Fund)
+
+RBC Tax Managed Return Fund
+
+**RBC Private Pools**
+
+RBC Private Income Pool
+
+RBC Private Canadian Dividend Pool
+
+(formerly, RBC Private Dividend Pool)
+
+RBC Private Canadian Growth & Income Equity Pool
+
+RBC Private Canadian Equity Pool
+
+RBC Private Canadian Mid Cap Equity Pool
+
+**Imperial Pools**
+
+Imperial Canadian Equity Pool
+
+Imperial Canadian Dividend Income Pool
+
+Imperial Canadian Dividend Pool
+
+Imperial Canadian Income Trust Pool
+
+**Renaissance Talvest Mutual Funds**
+
+Renaissance Canadian Balanced Value Fund
+
+Renaissance Canadian Dividend Income Fund
+
+Renaissance Canadian Growth Fund
+
+Renaissance Canadian Core Value Fund
+
+Renaissance Canadian Income Trust Fund
+
+Renaissance Canadian Income Trust Fund II
+
+Renaissance Canadian Small Cap Fund
+
+Talvest Dividend Fund
+
+Talvest Cdn. Equity Growth Fund
+
+Talvest Cdn. Asset Allocation Fund
+
+Talvest Cdn. Equity Value Fund
+
+Talvest Small Cap Cdn. Equity Fund
+
+**CIBC Mutual Funds and CIBC Family of Managed Portfolios**
+
+CIBC Balanced Fund
+
+CIBC Canadian Equity Fund
+
+(formerly CIBC Core Canadian Equity Fund)
+
+CIBC Capital Appreciation Fund
+
+CIBC Dividend Fund
+
+CIBC Diversified Income Fund
+
+CIBC Financial Companies Fund
+
+CIBC Canadian Equity Value Fund
+
+(formerly Canadian Imperial Equity Fund)
+
+CIBC Canadian Small Companies Fund
+
+CIBC Monthly Income Fund
+
+CIBC Canadian Real Estate Fund
+
+**Frontiers Pools**
+
+Frontiers Canadian Equity Pool
+
+Frontiers Canadian Monthly Income Pool

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-revokes-previous-guidelines-avoid-duplications-and-overlaps-dora-2024-12-19_en"
 version: "1"
 ---
-
 ![AdobeStock_165665393](/sites/default/files/styles/oe_theme_medium_no_crop/public/2024-04/AdobeStock_165665393.jpeg?itok=Ri4tX2D3)
 
 **The European Insurance and Occupational Pensions Authority (EIOPA) announced today that it will withdraw two previously published Guidelines and amend an Opinion – all related, at least in part, to the use of information communication technology (ICT) by undertakings. This decision comes in anticipation of the Digital Operational Resilience Act (DORA) coming into application.**

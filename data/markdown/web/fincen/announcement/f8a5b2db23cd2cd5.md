@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/one-hundred-sars-help-outline-size-and-scope-fraudulent-0"
 version: "1"
 ---
-
 # One Hundred SARs Help Outline Size and Scope of Fraudulent Mortgage Elimination Scheme
 
 [mortgage1.pdf](/system/files/case_example/mortgage1.pdf "mortgage1.pdf")

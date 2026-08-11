@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/client/sec-fra.php"
 version: "1"
 ---
-
 # À quel moment vérifier l'identité des personnes et des entités – Courtiers en valeurs mobilières
 
 **Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)

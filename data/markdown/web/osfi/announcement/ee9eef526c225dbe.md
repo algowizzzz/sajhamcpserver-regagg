@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/demandes-approbations/instructions-relatives-operations/interet-groupe-financier-assujetti-lagrement-du-ministre-entites-admissibles"
 version: "1"
 ---
-
 # Intérêt de groupe financier\* assujetti à l’agrément du ministre – entités admissibles
 
 Information

@@ -8,7 +8,6 @@ source_url: "https://www.bankofengland.co.uk/financial-stability/boe-system-wide
 published: "2026-06-19"
 version: "2"
 ---
-
 # Private markets system-wide exploratory scenario: publication of the stress scenario
 
 The Bank of England (the Bank) has launched the scenario phase of the private markets system-wide exploratory scenario.

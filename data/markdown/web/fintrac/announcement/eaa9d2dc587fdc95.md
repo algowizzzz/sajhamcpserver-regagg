@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/re-ed/sec-fra.php"
 version: "1"
 ---
-
 # Courtiers en valeurs mobilières
 
 Les [courtiers en valeurs mobilières](/guidance-directives/glossary-glossaire/1-fra#cvm) ont des obligations particulières à remplir en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et des règlements connexes pour contribuer à la lutte contre le blanchiment d'argent et le financement des activités terroristes au Canada. Aux fins de la Loi, les courtiers en valeurs mobilières sont des personnes ou des entités autorisées en vertu de la législation provinciale à se livrer au commerce des valeurs mobilières ou d'autres instruments financiers, ou à la fourniture de services de gestion de portefeuille et de conseils en placement.

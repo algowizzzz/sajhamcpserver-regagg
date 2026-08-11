@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/methodology-assess-value-money-unit-linked-market_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

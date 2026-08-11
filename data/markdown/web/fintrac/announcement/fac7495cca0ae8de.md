@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/publications/dsds-smdd/dsds-smdd-fra.php"
 version: "1"
 ---
-
 # Stratégie ministérielle de développement durable 2023-2027
 
 **Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)

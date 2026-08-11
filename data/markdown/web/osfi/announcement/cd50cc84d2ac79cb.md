@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/allowances-expected-credit-losses-e3"
 version: "1"
 ---
-
 # Allowances for Expected Credit Losses (E3)
 
 Information

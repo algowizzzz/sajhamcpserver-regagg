@@ -1,0 +1,10 @@
+---
+title: "Mobil Corporation - s. 83 | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/mobil-corporation-s-83"
+version: "1"
+---
+

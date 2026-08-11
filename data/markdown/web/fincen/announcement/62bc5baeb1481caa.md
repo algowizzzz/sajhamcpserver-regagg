@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/restaurant-owner-pleads-guilty-charge-structuring-bank"
 version: "1"
 ---
-
 # Restaurant Owner Pleads Guilty to a Charge of Structuring Bank Deposits
 
 [Issue14-story4.pdf](/system/files/case_example/Issue14-story4.pdf "Issue14-story4.pdf")

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/guidance-directives/recordkeeping-document/record/acc-eng.php"
 version: "1"
 ---
-
 # Record keeping requirements for accountants
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

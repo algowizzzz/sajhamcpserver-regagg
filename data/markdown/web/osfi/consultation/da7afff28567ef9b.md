@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/consultations/consultation-summaries/consultation-outcomes-osfi-guideline-consequential-changes-result-ifrs-17"
 version: "1"
 ---
-
 # Consultation outcomes - OSFI Guideline Consequential Changes as a Result of IFRS 17
 
 **Type of Publication:** Letter  

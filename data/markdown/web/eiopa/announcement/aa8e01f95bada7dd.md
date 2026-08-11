@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/esas-provide-guidance-prevent-terrorist-financing-and-money-laundering-electronic-fund-transfers-2017-09-22_en"
 version: "1"
 ---
-
 Page Content
 
 Publication date

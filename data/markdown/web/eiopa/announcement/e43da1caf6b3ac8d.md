@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/browse/regulation-and-policy/insurance-distribution-directive-idd_en"
 version: "1"
 ---
-
 [Directive (EU) 2016/97 — the Insurance Distribution Directive](https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32016L0097) (IDD) — regulates how insurance products are designed and distributed in the EU. It sets out to harmonise regulation of the insurance market across the single European market and to improve consumer protection standards. The IDD aims to ensure that distributors take responsibility for consumer outcomes and that the products sold meet consumers’ needs.
 
 The IDD sets out the information to be given to consumers before they sign an insurance contract. It also:

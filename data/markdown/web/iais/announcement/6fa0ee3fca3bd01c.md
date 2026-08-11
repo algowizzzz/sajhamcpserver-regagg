@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/events/mrc-meeting-june-2026/"
 version: "1"
 ---
-
 # MRC meeting, June 2026
 
 [30 Jun 2026](https://www.iais.org/events/mrc-meeting-june-2026/)

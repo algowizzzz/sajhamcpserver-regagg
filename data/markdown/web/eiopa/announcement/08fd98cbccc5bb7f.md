@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-publishes-monthly-technical-information-solvency-ii-relevant-risk-free-interest-rate-term-2025-09-03_en"
 version: "1"
 ---
-
 Today, the European Insurance and Occupational Pensions Authority (EIOPA) published technical information on the relevant risk-free interest rate term structures (RFR) with reference to the end of August 2025.
 
 The RFR information has been calculated on the basis of the [Technical Documentation](https://www.eiopa.europa.eu/document/download/1701f4be-aa06-43c1-af54-95a45e69c4cb_en?filename=EIOPA-BoS-25-47%20-%20RFR%20Technical%20Documentation.pdf).

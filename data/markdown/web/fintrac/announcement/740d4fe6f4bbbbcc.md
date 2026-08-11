@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/intel/advisories-avis/atm-ga-eng.php"
 version: "1"
 ---
-
 # The role of virtual currency automated teller machines in laundering the proceeds of crime
 
 [![](/images/download.png)

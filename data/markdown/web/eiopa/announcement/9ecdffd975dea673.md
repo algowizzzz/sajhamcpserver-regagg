@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/second-idd-application-report-20222023_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

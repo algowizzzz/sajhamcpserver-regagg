@@ -8,4 +8,11 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/14-101/unofficial-consolidation-ni-14-101-effective-february-1-2017"
 version: "1"
 ---
+# Unofficial consolidation of NI 14-101, effective February 1, 2017
 
+Unofficial Consolidation
+National Instrument
+
+## April 13, 2017
+
+[Download document](/sites/default/files/pdfs/irps/rule_20170201_14-101_unofficial-consolidated.pdf "Open document in new window")

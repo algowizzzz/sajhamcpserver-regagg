@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/transp/transition/tb-ct-2020-eng.php"
 version: "1"
 ---
-
 # Director's briefing binder - November 2020
 
 ## On this page

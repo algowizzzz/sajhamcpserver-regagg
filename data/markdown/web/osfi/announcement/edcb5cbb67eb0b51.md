@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/market-risk-osfi-986"
 version: "1"
 ---
-
 # Market Risk (OSFI-986)
 
 Information

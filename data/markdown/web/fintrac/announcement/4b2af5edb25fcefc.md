@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/transp/pco-bcp/ioc2021-eng.php"
 version: "1"
 ---
-
 # Implementation of the Order in Council re: Avoiding Complicity in Mistreatment by Foreign Entities - 2021 Annual Report
 
 ## Introduction

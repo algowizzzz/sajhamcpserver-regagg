@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-upholds-current-lar-guideline-treatment-hisa-etfs"
 version: "1"
 ---
-
 # OSFI upholds current LAR guideline treatment for HISA ETFs
 
 Information

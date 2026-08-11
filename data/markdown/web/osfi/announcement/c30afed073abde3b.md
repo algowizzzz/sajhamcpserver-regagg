@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/demandes-approbations/instructions-relatives-operations/abandon-du-controle-fait-dune-entite-tout-en-continuant-controler-dune-autre-facon"
 version: "1"
 ---
-
 # Abandon du contrôle de fait\* d’une entité tout en continuant de la contrôler d’une autre façon
 
 Information

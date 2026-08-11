@@ -8,4 +8,13 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/4/45-102/unofficial-consolidation-national-instrument-45-102-and-its-companion-policy"
 version: "1"
 ---
+# Unofficial consolidation of National Instrument 45-102 and its Companion Policy
 
+Unofficial Consolidation
+National Instrument
+Companion Policy
+Forms
+
+## April 13, 2017
+
+[Download document](/sites/default/files/pdfs/irps/ni_20170413_45-102_unofficial-consolidation.pdf "Open document in new window")

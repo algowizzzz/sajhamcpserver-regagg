@@ -8,7 +8,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/client/mort-fra.php"
 version: "1"
 ---
-
 # À quel moment vérifier l'identité des personnes et des entités — Administrateurs, courtiers et prêteurs hypothécaires : Directive de conformité de CANAFE
 
 **Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/new-neuf/nr/2021-07-30-eng.php"
 version: "1"
 ---
-
 # FINTRAC provides additional money laundering indicators associated with human trafficking for sexual exploitation in support of Project Protect
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

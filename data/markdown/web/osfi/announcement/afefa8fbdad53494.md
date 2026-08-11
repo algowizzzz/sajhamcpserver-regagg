@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/memorandum-appointed-actuary-2024"
 version: "1"
 ---
-
 # Memorandum to the Appointed Actuary (2024)
 
 Information

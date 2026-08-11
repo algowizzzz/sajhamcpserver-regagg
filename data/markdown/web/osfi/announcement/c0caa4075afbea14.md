@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releve-afferent-capacite-totale-dabsorption-pertes-etablissement"
 version: "1"
 ---
-
 # Relevé afférent à la capacité totale d’absorption des pertes par établissement
 
 Information

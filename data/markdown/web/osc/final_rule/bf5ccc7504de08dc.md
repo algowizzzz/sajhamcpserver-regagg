@@ -8,4 +8,11 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/3/31-103/proposed-companion-policy-ni-31-103-registration-requirements"
 version: "1"
 ---
+# Proposed Companion Policy: NI 31-103 - Registration Requirements
 
+Request for Comment
+National Instrument
+
+## February 20, 2007
+
+[Download document](/sites/default/files/pdfs/irps/rule_20070220_31-103_pro-cp-reg-require.pdf "Open document in new window")

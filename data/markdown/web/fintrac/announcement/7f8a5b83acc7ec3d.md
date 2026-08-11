@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/publications/dp-fra.php"
 version: "1"
 ---
-
 # Plan ministériel
 
 **Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)

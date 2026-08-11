@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/pen/amps/pen-2022-07-12-eng.php"
 version: "1"
 ---
-
 # FINTRAC imposes an administrative monetary penalty on Nu Stream Realty Inc.
 
 [**2022-07-12**]

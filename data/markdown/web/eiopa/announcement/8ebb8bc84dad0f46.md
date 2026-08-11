@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/statement-economic-and-monetary-affairs-committee-european-parliament-november-2025-2025-11-17_en"
 version: "1"
 ---
-
 Madam Chair,
 
 Honourable Members of the Economic and Monetary Affairs (ECON) Committee,

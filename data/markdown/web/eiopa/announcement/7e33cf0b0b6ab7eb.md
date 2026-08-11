@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/letter-european-commission-eiopas-funding-model_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

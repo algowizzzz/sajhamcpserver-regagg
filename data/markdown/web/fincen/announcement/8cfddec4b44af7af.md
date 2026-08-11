@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/fincen-issues-ruling-fin-2008-r002-whether"
 version: "1"
 ---
-
 # FinCEN Issues Ruling (FIN-2008-R002) on Whether a Foreign Exchange Dealer is a Currency Dealer or Exchanger or Money Transmitter
 
 [fin-2008-r002.pdf](/system/files/guidance/fin-2008-r002.pdf "fin-2008-r002.pdf")

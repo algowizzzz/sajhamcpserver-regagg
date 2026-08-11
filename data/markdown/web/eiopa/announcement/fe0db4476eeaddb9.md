@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-publishes-annual-report-use-capital-add-ons-under-solvency-ii-2019-12-13_en"
 version: "1"
 ---
-
 The European Insurance and Occupational Pensions Authority (EIOPA) published today its [Report on the use of capital add-ons during 2018](/publications/report-use-capital-add-ons-during-2018_en). The objective of the capital add-on measure is ensure that the regulatory capital requirements reflect the risk profile of the undertaking or of the group. Therefore, it is important that it is used by NCAs when needed and it is also important to ensure a high degree of supervisory convergence within the 31 European Economic Area (EEA) countries, including the EU Member States, regarding its use.
 
 This analysis is based on 2018 year-end Solvency II data collected under Directive 2009/138/EC as reported by the undertakings and insurance groups complemented by a survey that entailed both qualitative and quantitative questions.

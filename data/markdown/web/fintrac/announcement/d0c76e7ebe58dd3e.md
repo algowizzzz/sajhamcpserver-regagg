@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/emplo/wq-fra.php"
 version: "1"
 ---
-
 # Ce que nous recherchons
 
 Nous attirons les plus grands talents des secteurs public et privé. Nous embauchons des étudiants et des finissants qui ont soif d’apprendre, des personnes cherchant à faire avancer leur carrière, de même que des professionnels chevronnés qui souhaitent pousser leur potentiel au maximum. Nos employés représentent un grand éventail de connaissances, de spécialisations, de compétences et d’expériences. Nous sommes unis par notre engagement envers [nos valeurs](/emplo/lv-fra#s1) et nous voulons que les futurs employés les adoptent également.

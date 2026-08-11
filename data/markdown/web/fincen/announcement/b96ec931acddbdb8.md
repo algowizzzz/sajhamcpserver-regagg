@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/bank-secrecy-act-records-assist-mortgage-fraud"
 version: "1"
 ---
-
 # Bank Secrecy Act Records Assist in Mortgage Fraud Investigation Resulting in Guilty Plea
 
 [July2014\_Case5.pdf](/system/files/case_example/July2014_Case5.pdf "July2014_Case5.pdf")

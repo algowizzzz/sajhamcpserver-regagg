@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2021/06/2021-global-seminar-videos/"
 version: "1"
 ---
-
 # 2021 Global Seminar videos
 
 [25 Jun 2021](https://www.iais.org/2021/06/2021-global-seminar-videos/)

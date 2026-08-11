@@ -8,7 +8,6 @@ source_url: "https://www.fsa.go.jp/en/announce/state/index_speeches.html"
 published: "2026-06-01"
 version: "2"
 ---
-
 * [HOME](/en/index.html)
 
 [Tweet](https://twitter.com/share)

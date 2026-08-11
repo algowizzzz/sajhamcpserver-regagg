@@ -8,7 +8,6 @@ source_url: "https://www.fsa.go.jp/en/news/2026/20260619/20260619.html"
 published: "2026-06-19"
 version: "2"
 ---
-
 * [HOME](/en/index.html)
 
 [Tweet](https://twitter.com/share)

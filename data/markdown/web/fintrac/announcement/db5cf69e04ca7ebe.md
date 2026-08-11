@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/publications/audit-verification/plan-fra.php"
 version: "1"
 ---
-
 # Plan d'action de la direction
 
 ## Point de vue du Centre d'analyse des opérations et déclarations financières du Canada sur le rapport de vérification :

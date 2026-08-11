@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/advisories/advisory-withdrawal-issue-16w"
 version: "1"
 ---
-
 # Advisory Withdrawal - Issue 16W
 
 ## Advisory Information

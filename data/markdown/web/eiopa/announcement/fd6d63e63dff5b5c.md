@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/esas-opinion-european-commission-jurisdictional-scope-application-securitisation-regulation_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-publishes-its-annual-report-2024-06-14_en"
 version: "1"
 ---
-
 ![Annual report 2023](/sites/default/files/styles/oe_theme_medium_no_crop/public/2024-06/AdobeStock_480775603_0.jpeg?itok=CCjxFxWt)
 
 AdobeStock

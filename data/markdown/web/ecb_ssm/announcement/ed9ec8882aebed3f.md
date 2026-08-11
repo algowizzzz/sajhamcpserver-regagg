@@ -8,7 +8,6 @@ source_url: "https://www.bankingsupervision.europa.eu//press/interviews/date/202
 published: "2026-06-23"
 version: "1"
 ---
-
 * INTERVIEW
 
 # Interview with Central Banking

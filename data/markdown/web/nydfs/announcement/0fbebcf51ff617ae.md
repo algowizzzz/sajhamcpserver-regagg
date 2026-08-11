@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.dfs.ny.gov/apps-and-licensing/health-insurers/health-equity-filing"
 version: "1"
 ---
-
 ![Elderly couple meeting with a pharmacist](/sites/default/files/styles/wide_lead/public/media/2025/03/Health-Pharmacy-Elderly-Couple.jpg?h=b5f6a62e&itok=qlcKkaeu "Elderly couple meeting with a pharmacist")
 
 ## Health Equity

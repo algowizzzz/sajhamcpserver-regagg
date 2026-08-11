@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/statutes-and-regulations/special-measures"
 version: "1"
 ---
-
 # Special Measures
 
 ## Special Measures for Jurisdictions, Financial Institutions, or International Transactions of Primary Money Laundering Concern

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/ris-value-money-benchmarks-and-simplification-boosting-consumer-outcomes_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

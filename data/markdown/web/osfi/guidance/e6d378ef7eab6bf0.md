@@ -8,7 +8,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/final-updated-guideline-e-16-participating-account-management-disclosure-participating-policyholders"
 version: "1"
 ---
-
 # Final updated guideline E-16 – Participating account management and disclosure to participating policyholders and adjustable policyholders – Letter (2023)
 
 Information

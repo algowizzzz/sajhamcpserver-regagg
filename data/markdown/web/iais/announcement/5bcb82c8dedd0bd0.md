@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2022/04/afsa-joins-iais-cooperation-and-information-exchange-agreement/"
 version: "1"
 ---
-
 # AFSA joins IAIS cooperation and information exchange agreement
 
 [29 Apr 2022](https://www.iais.org/2022/04/afsa-joins-iais-cooperation-and-information-exchange-agreement/)

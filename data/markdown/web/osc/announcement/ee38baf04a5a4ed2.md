@@ -1,0 +1,62 @@
+---
+title: "Abitibi-Consolidated Inc. - s. 1(10) | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/abitibi-consolidated-inc-s-110"
+version: "1"
+---
+# Abitibi-Consolidated Inc. - s. 1(10)
+
+Decision
+
+## February 20, 2008
+
+Headnote
+
+Mutual Reliance Review System for Exemptive Relief Applications -- application for an order that the issuer is not a reporting issuer.
+
+**Ontario Statutes**
+
+Securities Act, R.S.O. 1990, c. S.5, as am., s. 1(10).
+
+February 20, 2008
+
+**Abitibi-Consolidated Inc.**
+
+c/o Davies Ward Phillips & Vineberg LLP
+
+1501 McGill College Ave., 26th floor
+
+Montréal (Québec)
+
+H3A 3N9
+
+**Attention: Me Brian Kujavsky**
+
+Dear Sir:
+
+|  |  |
+| --- | --- |
+| **Re:** | **Abitibi-Consolidated Inc. (the "Applicant") - Application to Cease to be a Reporting Issuer under the securities legislation of Alberta, Saskatchewan, Manitoba, Ontario, Quebec, Nova Scotia, New Brunswick and Newfoundland and Labrador ("Jurisdictions").** |
+
+The Applicant has applied to the local securities regulatory authority or regulator (the "Decision Maker") in each of the Jurisdictions for a decision under the securities legislation (the "Legislation") of the Jurisdictions to be deemed to have ceased to be a reporting issuer in the Jurisdictions.
+
+As the Applicant has represented to the Decision Makers that:
+
+• the outstanding securities of the Applicant, including debt securities, are beneficially owned, directly or indirectly, by less than 15 security holders in each of the jurisdictions in Canada and less than 51 security holders in total in Canada;
+
+• no securities of the Applicant are traded on a marketplace as defined in Regulation 21-101 respecting Marketplace Operation;
+
+• the Applicant is applying for relief to cease to be a reporting issuer in all of the jurisdictions in Canada in which it is currently a reporting issuer; and
+
+• the Applicant is not in default of any of its obligations under the Legislation as a reporting issuer,
+
+each of the Decision Makers is satisfied that the test contained in the Legislation that provides the Decision Maker with the jurisdiction to make the decision has been met and orders that the Applicant is deemed to have ceased to be a reporting issuer.
+
+"Marie-Christine Barrette"
+
+Manager, Financial Information
+
+Autorité des marchés financiers

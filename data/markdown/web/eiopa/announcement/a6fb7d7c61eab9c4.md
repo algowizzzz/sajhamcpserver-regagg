@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/bankruptcy-qudos-insurance-equal-treatment-european-policyholders-2018-12-20_en"
 version: "1"
 ---
-
 Today, upon request of the [Danish Financial Supervisory Authority](https://www.dfsa.dk/en/News/Press-releases/2018/Qudos-bankrupt-201218) (Finanstilsynet), the Danish Maritime and Commercial High Court declared the bankruptcy of Qudos Insurance A/S.
 
 The European Insurance and Occupational Pensions Authority (EIOPA) has been in close contact with the Finanstilsynet to ensure equal treatment of policyholders throughout Europe.

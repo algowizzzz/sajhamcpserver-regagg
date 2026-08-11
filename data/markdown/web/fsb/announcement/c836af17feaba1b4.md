@@ -8,7 +8,6 @@ source_url: "https://www.fsb.org/2026/07/fsb-regional-consultative-group-for-sub
 published: "2026-07-16"
 version: "1"
 ---
-
 [Press](https://www.fsb.org/content_types/press/ "Go to the Press Content Type archives.")[Announcements](https://www.fsb.org/content_types/announcements/ "Go to the Announcements Content Type archives.")FSB Regional Consultative Group for Sub-Saharan Africa meets in Mauritius
 
 The Financial Stability Board (FSB) Regional Consultative Group for Sub-Saharan Africa (RCG SSA) met on 16-17 July 2026 in Mauritius, hosted by the Bank of Mauritius. The meeting brought together senior officials from central banks, financial authorities, and regulatory bodies in the region to discuss key financial stability topics. Co-chaired by Lesetja Kganyago, Governor of the South African Reserve Bank, and Denny Kalyalya, Governor of the Bank of Zambia, the meeting covered a range of topics, including:

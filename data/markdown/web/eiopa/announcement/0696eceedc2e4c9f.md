@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/minutes-bos-irsg-meeting-5-february-2026_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

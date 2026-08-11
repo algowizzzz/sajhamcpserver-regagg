@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/publications/drr-rrm/2023-2024/1-fra.php"
 version: "1"
 ---
-
 # Rapport sur les résultats ministériels 2023-2024 du Centre d’analyse des opérations et déclarations financières du Canada : En un coup d’œil
 
 Un rapport sur les résultats ministériels fournit un compte rendu des réalisations réelles par rapport aux plans, aux priorités et aux résultats attendus énoncés dans le [plan ministériel](/publications/dp/2023-2024/dp-pm-fra) connexe

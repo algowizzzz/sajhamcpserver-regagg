@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/intro-fra.php"
 version: "2"
 ---
-
 # Centre d’analyse des opérations et déclarations financières du Canada
 
 Le Centre d'analyse des opérations et déclarations financières du Canada (CANAFE) est l'unité du renseignement financier et le superviseur en matière de la lutte contre le blanchiment d’argent et le financement des activités terroristes du Canada. Son mandat est de faciliter la détection, la prévention et la dissuasion du blanchiment d'argent et du financement des activités terroristes, tout en assurant la protection des renseignements personnels qu'il détient.

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopas-new-risk-dashboard-first-time-based-solvency-ii-data-2017-02-28_en"
 version: "1"
 ---
-
 Today, the European Insurance and Occupational Pensions Authority (EIOPA) published for the first time after the implementation of the new Solvency II regime its new [Risk Dashboard](/browse/financial-stability/risk-dashboard?prefLang=en).
 
 Although Solvency II implied a major change in the methodological framework for the calculation of the solvency capital requirements, the initial transition to the new regime was smooth. The results for the third-quarter 2016 show that the low-yield environment and market risks continue to be a major challenge for the European insurance sector.

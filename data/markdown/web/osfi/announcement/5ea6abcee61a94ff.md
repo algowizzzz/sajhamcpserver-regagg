@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/demandes-approbations/instructions-relatives-operations/reassurance-fins-prise-en-charge"
 version: "1"
 ---
-
 # Réassurance aux fins de prise en charge
 
 Information

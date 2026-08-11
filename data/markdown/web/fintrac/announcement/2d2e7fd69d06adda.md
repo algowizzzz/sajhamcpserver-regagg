@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/contact-contactez/list-liste-fra.php"
 version: "1"
 ---
-
 # Liste de diffusion de CANAFE
 
 Soyez informé de ce qui se passe à CANAFE en ajoutant votre nom à sa

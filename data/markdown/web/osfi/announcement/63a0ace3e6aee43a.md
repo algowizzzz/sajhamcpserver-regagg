@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/supervision/pensions/administering-pension-plans/guidance-topic/termination-defined-contribution-pension-plan/final-instruction-guide-termination-defined-contribution-pension-plan"
 version: "1"
 ---
-
 # Final Instruction Guide – Termination of a Defined Contribution Pension Plan
 
 **Type of Publication:** Letter  

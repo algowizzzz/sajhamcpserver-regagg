@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/consultations/consultation-assessment-prudential-treatment-under-solvency-ii-adaptation-measures-natcat-insurance_en"
 version: "1"
 ---
-
 ## Details
 
 Status

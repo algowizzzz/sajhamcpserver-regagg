@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/reinforcing-residential-mortgage-risk-management-practices"
 version: "1"
 ---
-
 # Reinforcing residential mortgage risk management practices
 
 Information

@@ -7,6 +7,13 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/speech-gabriel-bernardino-launch-event-cross-border-benefits-alliance-2017-12-06_en"
 version: "1"
 ---
+[Skip to main content](#main-content)
+
+# Speech by Gabriel Bernardino at the Launch Event of the Cross Border Benefits Alliance
+
+* News article
+* 6 December 2017
+* 1 min read
 
 Page Content
 

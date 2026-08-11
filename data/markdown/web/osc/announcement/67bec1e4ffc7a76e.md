@@ -1,0 +1,198 @@
+---
+title: "Sentry Select Capital Corp. - MRRS Decision | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/sentry-select-capital-corp-mrrs-decision-0"
+version: "1"
+---
+# Sentry Select Capital Corp. - MRRS Decision
+
+MRRS Decision
+
+## March 24, 2006
+
+Headnote
+
+Mutual Reliance Review System for Exemptive Relief Applications --
+
+NI 81-106 Investment Fund Continuous Disclosure, s. 17.1 - exemption from the requirement in items 3.1, 4.1 and 4.3 of Part B of Form 81-106F1 to permit the Fund to present information in the Management Report of Fund Performance in a manner applicable to money market funds - Although the Fund does not meet the definition of a "money market fund", it invests substantially all of its assets in an underlying money market fund -- The investment objectives and attributes of the Fund make it similar to that of a "money market fund" and this should be reflected in the disclosure provided in the MRFP.
+
+**Applicable Legislative Provisions**
+
+National Instrument 81-106 Investment Fund Continuous Disclosure, s. 17.1, items 3.1, 4.1 and 4.3 of Part B of Form 81-106F1.
+
+**March 24, 2006**
+
+**IN THE MATTER OF**
+
+**THE SECURITIES LEGISLATION**
+
+**OF BRITISH COLUMBIA, ALBERTA, SASKATCHEWAN,**
+
+**MANITOBA, ONTARIO, QUEBEC, NEW BRUNSWICK,**
+
+**NOVA SCOTIA, PRINCE EDWARD ISLAND,**
+
+**NEWFOUNDLAND AND LABRADOR, YUKON TERRITORY,**
+
+**NORTHWEST TERRITORIES AND NUNAVUT TERRITORY**
+
+**(the "Jurisdictions")**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**THE MUTUAL RELIANCE REVIEW SYSTEM**
+
+**FOR EXEMPTIVE RELIEF APPLICATIONS**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**THE FUNDS LISTED IN APPENDIX "A" (the "Existing Funds")**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**SENTRY SELECT CAPITAL CORP. (the "Manager or the"Filer")**
+
+**MRRS DECISION DOCUMENT**
+
+**Background**
+
+The local securities regulatory authority or regulator (the "Decision Maker") in each of the Jurisdictions has received an application from the Filer, on behalf of the Existing Funds and each mutual fund for which the Filer hereafter becomes the manager (the "Future Funds" and, together with the Existing Funds, the "Funds"), for a decision under the securities legislation of the Jurisdictions (the "Legislation") exempting the Funds from the following requirements of the Legislation, subject to certain terms and conditions:
+
+> (a) the requirement contained in subsection 2.6(a) of National Instrument 8l-102 *Mutual Funds* ("NI 81-102") prohibiting a mutual fund from providing a security interest over a mutual fund's assets;
+>
+> (b) the requirement contained in subsection 2.6(c) of NI 81-102 prohibiting a mutual fund from selling securities short; and
+>
+> (c) the requirement contained in subsection 6.1(1) of NI 8 1-102 prohibiting a mutual fund from depositing any part of a mutual fund's assets with an entity other than the mutual fund's custodian.
+
+(paragraphs (a), (b) and (c) together shall be referred to as the "Requested Relief").
+
+Under the Mutual Reliance Review System for Exemptive Relief Applications:
+
+> (a) the Ontario Securities Commission is the principal regulator for this application; and
+>
+> (b) this MRRS decision document evidences the decision of each Decision Maker.
+
+**Interpretation**
+
+Defined terms contained in National Instrument 14-101 *Definitions* have the same meaning in this decision unless they are defined in this decision.
+
+**Representations**
+
+This decision is based on the following facts represented by the Filer:
+
+> 1. Each Fund is, or will be, a reporting issuer in all of the provinces and territories of Canada and will distribute securities under a simplified prospectus and annual information form qualified for sale under National Instrument 81-101 and NI 81-102.
+>
+> 2. Except for specific exemptions or approvals granted by the relevant Decision Makers, the investment practices of each Fund will comply in all respects with the requirements of Part 2 of NI 81-102.
+>
+> 3. Each short sale made by a Fund will be subject to compliance with the investment objective of such Fund.
+>
+> 4. In order to effect a short sale, a Fund will borrow securities from either its custodian or a dealer (in either case, the Borrowing Agent), which Borrowing Agent may be acting either as principal for its own account or as agent for other lenders of securities.
+>
+> 5. Each Fund will implement the following controls when conducting a short sale:
+>
+> > (a) securities will be sold short for cash, with the Fund assuming the obligation to return to the Borrowing Agent the securities borrowed to effect the short sale;
+> >
+> > (b) the short sale will be effected through market facilities through which the securities sold short are normally bought and sold;
+> >
+> > (c) the Fund will receive cash for the securities sold short within normal trading settlement periods for the market in which the short sale is effected;
+> >
+> > (d) the securities sold short will be liquid securities that:
+> >
+> > > (i) are listed and posted for trading on a stock exchange, and
+> > >
+> > > > A. the issuer of the security has a market capitalization of not less than CDN$300 million, or the equivalent thereof, of such security at the time the short sale is effected; or
+> > > >
+> > > > B. the investment advisor has pre-arranged to borrow for the purposes of such short sale,
+> > >
+> > > or
+> > >
+> > > (ii) are bonds, debentures or other evidences of indebtedness of or guaranteed by the Government of Canada or any province or territory of Canada or the Government of the United States of America:
+> >
+> > (e) at the time securities of a particular issuer are sold short:
+> >
+> > > (i) the aggregate market value of all securities of that issuer sold short by the Fund will not exceed 5% of the net assets of the Fund; and
+> > >
+> > > (ii) the Fund will place a stop loss order with a dealer to immediately purchase for the Fund an equal number of the same securities if the trading price of the securities exceeds 115% (or such lesser percentage as the Manager may determine) of the price at which the securities were sold short;
+> >
+> > (f) the Fund will deposit Fund assets with the Borrowing Agent as security in connection with the short sale transaction;
+> >
+> > (g) the Fund will keep proper books and records of all short sales and Fund assets deposited with Borrowing Agents as security;
+> >
+> > (h) the Fund will develop written policies and procedures for the conduct of short sales prior to conducting any short sales; and
+> >
+> > (i) the Fund will provide disclosure in its prospectus of the short selling strategies and the details of this exemptive relief prior to implementing the short selling strategy.
+
+**Decision**
+
+Each of the Decision Makers is satisfied that the test contained in the Legislation that provides the Decision Maker with the jurisdiction to make the decision has been met. The decision of the Decision Makers under the Legislation is that the Requested Relief is granted to each Fund provided that:
+
+> 1. the aggregate market value of all securities sold short by the Fund does not exceed 20% of the net assets of the Fund on a daily marked-to-market basis;
+>
+> 2. the Fund holds cash cover (as defined in NI 81-102) in an amount, including the Fund assets deposited with Borrowing Agents as security in connection with short sale transactions, that is at least 150% of the aggregate market value of all securities sold short by the Fund on a daily marked-to-market basis;
+>
+> 3. no proceeds from short sales by the Fund are used by the Fund to purchase long positions in securities other than cash cover;
+>
+> 4. the Fund maintains appropriate internal controls regarding its short sales including written policies and procedures, risk management controls and proper books and records;
+>
+> 5. any short sale made by a Fund is subject to compliance with the investment objectives of the Fund;
+>
+> 6. the Requested Relief will not apply to a Future Fund that is classified as a money market fund or a short-term income fund;
+>
+> 7. for short sale transactions in Canada, every dealer that holds Fund assets as security in connection with short sale transactions by the Fund shall be a registered dealer in Canada and a member of a self-regulatory organization that is a participating member of the Canadian Investor Protection Fund;
+>
+> 8. for short sale transactions outside of Canada, every dealer that holds Fund assets as security in connection with short sale transactions by the Fund shall:
+>
+> > (a) be a member of a stock exchange and, as a result, be subject to a regulatory audit; and
+> >
+> > (b) have a net worth in excess of the equivalent of CDN$50 million determined from its most recent audited financial statements that have been made public;
+>
+> 9. except where the Borrowing Agent is the Fund's custodian, when the Fund deposits Fund assets with a Borrowing Agent as security in connection with a short sale transaction, the amount of Fund assets deposited with the Borrowing Agent does not, when aggregated with the amount of Fund assets already held by the Borrowing Agent as security for outstanding short sale transactions of the Fund, exceed 10% of the net assets of the Fund, taken at market value as at the time of the deposit;
+>
+> 10. the security interest provided by the Fund over any of its assets that is required to enable the Fund to effect short sale transactions is made in accordance with industry practice for that type of transaction and relates only to obligations arising under such short sale transactions;
+>
+> 11. prior to conducting any short sales, the Fund discloses in its simplified prospectus (or an amendment thereto) a description of (a) short selling, (b) how the Fund intends to engage in short selling, (c) the risks associated with short selling, and (d) in the investment strategy section of the simplified prospectus, the Fund's strategy and this exemptive relief;
+>
+> 12. prior to conducting any short sales, the Fund discloses in its annual information form (or an amendment thereto) the following information:
+>
+> > (a) that there are written policies and procedures in place that set out the objectives and goals for short selling and the risk management procedures applicable to short selling;
+> >
+> > (b) who is responsible for setting and reviewing the policies and procedures referred to in the preceding paragraph, how often the policies and procedures are reviewed, and the extent and nature of the involvement of the board of directors of the Manager in the risk management process;
+> >
+> > (c) the trading limits and other controls on short selling in place and who is responsible for authorizing the trading and placing limits or other controls on the trading;
+> >
+> > (d) whether there are individuals or groups that monitor the risks independent of those who trade; and
+> >
+> > (e) whether risk measurement procedures or simulations are used to test the portfolio under stress conditions;
+>
+> 13. prior to conducting any short sales, each Existing Fund has provided to its existing securityholders that purchased securities of the Existing Fund prior to the simplified prospectus and annual information form of the Fund including the information outlined in paragraphs 11 and 12 above, not less than 60 days' written notice that discloses the Fund's intent to begin short selling transactions and the disclosure required in the Fund's simplified prospectus and annual information form as outlined in paragraphs 11 and 12 above;
+>
+> 14. this relief shall terminate upon the coming into force of any legislation or rule of the Decision Makers dealing with matters referred to in subsections 2.6(a), 2.6(c) and 6.1(1) of NI 81-102.
+
+"Rhonda Goldberg"
+
+Assistant Manager, Investment Funds Branch
+
+Ontario Securities Commission
+
+**Appendix "A"**
+
+**Existing Funds**
+
+|  |  |
+| --- | --- |
+| Sentry Select Balanced Fund | Sentry Select Canadian Energy Growth Fund |
+| Sentry Select Canadian Income Fund | Sentry Select Diversified Total Return Fund |
+| Sentry Select REIT Fund | Sentry Select Precious Metals Growth Fund |
+| Sentry Select Canadian Resource Class | Sentry Select Small Cap Income Fund |
+|  | |
+| (of Sentry Select Corporate Class Ltd.) |  |
+| Sentry Select Dividend Fund |  |

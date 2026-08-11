@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/settlement-risk-foreign-exchange-transactions-letter-2013"
 version: "1"
 ---
-
 # Settlement Risk in Foreign Exchange Transactions – Letter (2013)
 
 Information

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fca.org.uk/news/press-releases/joint-taskforce-continues-crack-down-misleading-car-finance-claims-adverts"
 version: "1"
 ---
-
 The FCA, Advertising Standards Authority, Solicitors Regulation Authority and Information Commissioner's Office are tackling the poor handling of motor finance claims by some claims companies and law firms.
 
 As part of the [joint taskforce's](/about/how-we-operate/who-work-with/joint-regulatory-taskforce-motor-finance-claims "Joint regulatory taskforce to tackle poor practice in motor finance claims") continued crackdown, in June the FCA had 170 misleading car finance claims adverts removed or amended by claims management companies (CMCs), bringing the total up to 1,200 since January 2024.

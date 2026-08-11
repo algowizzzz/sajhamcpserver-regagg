@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/transp/exp-dep/202311-fra.php"
 version: "1"
 ---
-
 # Rapport annuel sur les dépenses de voyage, d’accueil et de conférences
 
 Pour la période se terminant le 31 mars 2023

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iosco.org/rss/rss.xml"
 version: "1"
 ---
-
 xml version="1.0" encoding="UTF-8"?
 
 IOSCO

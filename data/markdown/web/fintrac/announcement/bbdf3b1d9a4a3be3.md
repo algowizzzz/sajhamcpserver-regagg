@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/reporting-declaration/info/api/validation/cdr-ddc-eng.php"
 version: "1"
 ---
-
 # Validation rules for the submission of Casino Disbursement Report by API
 
 Updated on June 23, 2026

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/risque-marche-osfi-986"
 version: "1"
 ---
-
 # Risque de marché (OSFI-986)
 
 Information

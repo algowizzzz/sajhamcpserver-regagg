@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/formerly-known-89-5-how-does-financial"
 version: "1"
 ---
-
 # (Formerly known as 89-5) How does a financial institution fulfill the requirement that it furnish information about the person on whose behalf a reportable currency transaction is being conducted?
 
 FIN-1989-R005

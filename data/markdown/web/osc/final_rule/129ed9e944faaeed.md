@@ -7,4 +7,1561 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/6/61-501-61-501cp/rule-osc-rule-61-501-61-501cp-insider-bids-issuer-bids-business-combinations-and-0"
 version: "1"
 ---
+# Rule: OSC Rule - 61-501, 61-501CP - Insider Bids, Issuer Bids, Business Combinations and Related Party Transactions
 
+OSC Rule
+
+## May 7, 2004
+
+[Download document](/sites/default/files/pdfs/irps/rule_20040507_61-501-insiderbids-issuerbids.pdf "Open document in new window")
+
+> > **ONTARIO SECURITIES COMMISSION RULE 61-501  
+> > INSIDER BIDS, ISSUER BIDS, BUSINESS COMBINATIONS  
+> > AND RELATED PARTY TRANSACTIONS  
+> > PART 1 INTERPRETATION**
+> >
+> > > **1.1 Definitions and Interpretations**
+> > >
+> > > In this Rule
+> > >
+> > > > "affected security" means
+> > > >
+> > > > > (a) for a business combination of an issuer, an equity security of the issuer in which the interest of a holder would be terminated as a consequence of the transaction, and
+> > > > >
+> > > > > (b) for a related party transaction of an issuer, an equity security of the issuer;
+> > > >
+> > > > "affiliated entity": a person or company is considered to be an affiliated entity of another person or company if one is a subsidiary entity of the other or if both are subsidiary entities of the same person or company;
+> > > >
+> > > > "arm's length" has the meaning ascribed to that term in section 251 of the *Income Tax Act* (Canada), or any successor to that legislation, and, in addition to that meaning, an entity is deemed not to deal at arm's length with a related party of the entity;
+> > > >
+> > > > "associated entity", where used to indicate a relationship with an entity, has the meaning ascribed to the term "associate" in subsection 1(1) of the Act and also includes any person of which the entity beneficially owns voting securities carrying more than 10 per cent of the voting rights attached to all the outstanding voting securities of the person;
+> > > >
+> > > > "beneficially owns" includes direct or indirect beneficial ownership, and
+> > > >
+> > > > > (a) despite subsections 1(5) and 1(6) of the Act, a person or company is not deemed to beneficially own securities that are beneficially owned by its affiliated entity, unless the affiliated entity is also its subsidiary entity, and
+> > > > >
+> > > > > (b) for the purposes of the definitions of control block holder and related party, section 90 of the Act applies in determining beneficial ownership of securities;
+> > > >
+> > > > "bona fide lender" means a person or company that
+> > > >
+> > > > > (a) holds securities sufficient to affect materially the controlis an issuer insider of an issuer solely through the holding of, or the exercise of control or direction over, securities used as collateral for a debt under a written agreement entered into by the person or company as a lender, assignee, transferee or participant,
+> > > > >
+> > > > > (b) is not yet legally entitled to dispose of the securities for the purpose of applying proceeds of realization in repayment of the secured debt, and
+> > > > >
+> > > > > (c) was not a related party of the issuer at the time the agreement referred to in paragraph (a) was entered into;
+> > > >
+> > > > "business combination" means, for an issuer, an amalgamation, arrangement, consolidation, amendment to the terms of a class of equity securities or any other transaction of the issuer, as a consequence of which the interest of a holder of an equity security of the issuer may be terminated without the holder's consent, regardless of whether the equity security is replaced with another security, but does not include
+> > > >
+> > > > > (a) an acquisition of an equity security of the issuer under a statutory right of compulsory acquisition, or, if the issuer is not a corporation, under provisions substantially equivalent to those comprising section 188 of the OBCA,
+> > > > >
+> > > > > (b) a consolidation of securities that does not have the effect of terminating the interests of holders of equity securities of the issuer in those securities without their consent, through the elimination of post-consolidated fractional interests or otherwise, except to an extent that is nominal in the circumstances,
+> > > > >
+> > > > > (c) a termination of a holder's interest in a security, under the terms attached to the security, for the purpose of enforcing an ownership or voting constraint that is necessary to enable the issuer to comply with legislation, lawfully engage in a particular activity or have a specified level of Canadian ownership,
+> > > > >
+> > > > > (d) a downstream transaction for the issuer, or
+> > > > >
+> > > > > (e) a transaction in which no person or company that is a related party of the issuer at the time the transaction is agreed to
+> > > > >
+> > > > > > (i) would, as a consequence of the transaction, directly or indirectly acquire the issuer or the business of the issuer, or combine with the issuer, through an amalgamation, arrangement or otherwise, whether alone or with joint actors,
+> > > > > >
+> > > > > > (ii) is a party to any connected transaction to the transaction, or
+> > > > > >
+> > > > > > (iii) is entitled to receive, directly or indirectly, as a consequence of the transaction
+> > > > > >
+> > > > > > > (A) consideration per equity security that is not identical in amount and form to the entitlement of the general body of holders in Canada of securities of the same class,
+> > > > > > >
+> > > > > > > (B) a collateral benefit, or
+> > > > > > >
+> > > > > > > (C) consideration for securities of a class of equity securities of the issuer if the issuer has more than one outstanding class of equity securities, unless that consideration is not greater than the entitlement of the general body of holders in Canada of every other class of equity securities of the issuer in relation to the voting and financial participating interests in the issuer represented by the respective securities;
+> > > >
+> > > > "class" includes a series of a class;
+> > > >
+> > > > "collateral benefit", for a transaction of an issuer or for a formal bid for securities of an issuer, means any benefit that a related party of the issuer is entitled to receive, directly or indirectly, as a consequence of the transaction or bid, including, without limitation, an increase in salary, a lump sum payment, a payment for surrendering securities, or other enhancement in benefits related to past or future services as an employee or, director or consultant of the issuer or of another entity, regardless of the existence of any offsetting costs to the related party or whether the benefit is provided, or agreed to, by the issuer, another party to the transaction or the offeror in the bid, but does not include
+> > > >
+> > > > > (a) a payment or distribution per equity security that is identical in amount and form to the entitlement of the general body of holders in Canada of securities of the same class,
+> > > > >
+> > > > > (b) an enhancement of employee benefits resulting from participation by the related party in a group plan, other than an incentive plan, for employees of a successor to the business of the issuer, if the benefits provided by the group plan are generally provided to employees of the successor to the business of the issuer who hold positions of a similar nature to the position held by the related party, or
+> > > > >
+> > > > > (c) a benefit, not described in paragraph (b), that is received solely in connection with the related party's services as an employee or, director or consultant of the issuer, of an affiliated entity of the issuer or of a successor to the business of the issuer, if
+> > > > >
+> > > > > > (i) the benefit is not conferred for the purpose, in whole or in part, of increasing the value of the consideration paid to the related party for securities relinquished under the transaction or bid,
+> > > > > >
+> > > > > > (ii) the conferring of the benefit is not, by its terms, conditional on the related party supporting the transaction or bid in any manner,
+> > > > > >
+> > > > > > (iii) full particulars of the benefit are disclosed in the disclosure document for the transaction, or in the directors' circular in the case of a take-over bid, and
+> > > > > >
+> > > > > > (iv)
+> > > > > >
+> > > > > > > (A) at the time the transaction is agreed to or the bid is publicly announced, the related party and its associated entities beneficially own or exercise control or direction over less than one per cent of the outstanding securities of each class of equity securities of the issuer, or
+> > > > > > >
+> > > > > > > (B) if the transaction is a business combination for the issuer or a formal bid for securities of the issuer,
+> > > > > > >
+> > > > > > > > (I) the related party discloses to an independent committee of the issuer the amount of consideration that the related party expects it will be beneficially entitled to receive, under the terms of the transaction or bid, in exchange for the equity securities beneficially owned by the related party,
+> > > > > > > >
+> > > > > > > > (II) the independent committee, acting in good faith, determines that the value of the benefit, net of any offsetting costs to the related party, is less than five per cent of the value referred to in subclause (I), and
+> > > > > > > >
+> > > > > > > > (III) the independent committee's determination is disclosed in the disclosure document for the transaction, or in the directors' circular in the case of a take-over bid;
+> > > >
+> > > > "connected transactions" means two or more transactions that have at least one party in common, directly or indirectly, and
+> > > >
+> > > > > (a) are negotiated or completed at approximately the same time, or
+> > > > >
+> > > > > (b) the completion of at least one of the transactions is conditional on the completion of each of the other transactions,
+> > > >
+> > > > other than transactions related solely to services as an employee or director;, director or consultant;
+> > > >
+> > > > "consultant" has the meaning ascribed to that term in section 1.1 of Multilateral Instrument 45-105 - *Trades to Employees, Senior Officers, Directors, and Consultants*;
+> > > >
+> > > > "control block holder" of an entity means a person or company, other than a bona fide lender, that, whether alone or with joint actors, beneficially owns or exercises control or direction over securities of the entity sufficient to affect materially the control of the entity, and in the absence of evidence to the contrary, beneficial ownership or control or direction over voting securities to which are attached more than 20 per cent of the votes attached to all the outstanding voting securities of the entity is considered sufficient to affect materially the control of the entity;
+> > > >
+> > > > "controlled": for the purposes only of the definition of "subsidiary entity", an entity is considered to be controlled by a person or company if
+> > > >
+> > > > > (a) in the case of an entity that has directors
+> > > > >
+> > > > > > (i) the person or company beneficially owns or exercises control or direction over voting securities of the entity carrying more than 50 per cent of the votes for the election of directors, and
+> > > > > >
+> > > > > > (ii) the votes carried by the securities entitle the holder to elect a majority of the directors of the entity,
+> > > > >
+> > > > > (b) in the case of a partnership or other entity that does not have directors, other than a limited partnership, the person or company beneficially owns or exercises control or direction over more than 50 per cent of the voting interests in the partnership or other entity, or
+> > > > >
+> > > > > (c) in the case of an entity that is a limited partnership, the person or company is the general partner or controls the general partner within the meaning of paragraph (a) or (b);
+> > > >
+> > > > "convertible" means convertible into, exchangeable for, or carrying the right to purchase or cause the purchase of, another security;
+> > > >
+> > > > "director", for an issuer that is a limited partnership, includes a director of the general partner of the issuer, except for the purposes of the definition of "controlled";
+> > > >
+> > > > "disclosure document" means
+> > > >
+> > > > > (a) for a take-over bid (including an insider bid),
+> > > > >
+> > > > > > (i) a take-over bid circular sent to holders of offeree securities, or
+> > > > > >
+> > > > > > (ii) if the take-over bid takes the form of a stock exchange take-over bid, the disclosure document sent to holders of offeree securities that is deemed to be a take-over bid circular under subsection 131(10) of the Act,
+> > > > >
+> > > > > (b) for an issuer bid,
+> > > > >
+> > > > > > (i) an issuer bid circular sent to holders of offeree securities, or
+> > > > > >
+> > > > > > (ii) if the issuer bid takes the form of a stock exchange issuer bid, the disclosure document sent to holders of offeree securities that is deemed to be an issuer bid circular under subsection 131(10) of the Act,
+> > > > >
+> > > > > (c) for a business combination, an information circular sent to holders of affected securities, or, if no information circular is required, another document sent to holders of affected securities in connection with a meeting of holders of affected securities, and
+> > > > >
+> > > > > (d) for a related party transaction,
+> > > > >
+> > > > > > (i) an information circular sent to holders of affected securities,
+> > > > > >
+> > > > > > (ii) if no information circular is required, another document sent to holders of affected securities in connection with a meeting of holders of affected securities, or
+> > > > > >
+> > > > > > (iii) if no information circular or other document referred to in subparagraph (ii) is required, a material change report filed for the transaction;
+> > > >
+> > > > "downstream transaction" means, for an issuer, a transaction between the issuer and a related party of the issuer if, at the time the transaction is agreed to
+> > > >
+> > > > > (a) the issuer is a control block holder of the related party, and
+> > > > >
+> > > > > (b) to the knowledge of the issuer after reasonable inquiry, no related party of the issuer, other than a wholly-owned subsidiary entity of the issuer, beneficially owns or exercises control or direction over, other than through its interest in the issuer, more than five per cent of any class of voting or equity securities of the related party that is a party to the transaction;
+> > > >
+> > > > "entity" means a person or company;
+> > > >
+> > > > "equity security" has the meaning ascribed to that term in subsection 89(1) of the Act;
+> > > >
+> > > > "fair market value" means, except as provided in paragraph 6.4(2)(d), the monetary consideration that, in an open and unrestricted market, a prudent and informed buyer would pay to a prudent and informed seller, each acting at arm's length with the other and under no compulsion to act;
+> > > >
+> > > > "formal bid" has the meaning ascribed to that term in subsection 89(1) of the Act;
+> > > >
+> > > > "formal valuation" means a valuation prepared in accordance with Part 6;
+> > > >
+> > > > "freely tradeable" means, for securities, that
+> > > >
+> > > > > (a) the securities are transferable,
+> > > > >
+> > > > > (b) the securities are not subject to any escrow requirements,
+> > > > >
+> > > > > (c) the securities do not form part of the holdings of any person or company or combination of persons or companies referred to in paragraph (c) of the definition of "distribution" in the Act,
+> > > > >
+> > > > > (d) the securities are not subject to any cease trade order imposed by a Canadian securities regulatory authority,
+> > > > >
+> > > > > (e) all hold periods imposed by Canadian securities legislation before the securities can be traded without a prospectus or in reliance on a prospectus exemption have expired, and
+> > > > >
+> > > > > (f) any period of time imposed by Canadian securities legislation for which the issuer has to have been a reporting issuer in a jurisdiction before the securities can be traded without a prospectus or in reliance on a prospectus exemption has passed;
+> > > >
+> > > > "incentive plan" means a group plan that provides for stock options or other equity incentives, profit sharing, bonuses, or other performance-based payments;
+> > > >
+> > > > "income trust" means a trust or other entity that issues securities that entitle the holders to net cash flows generated by another entity;
+> > > >
+> > > > "independent committee" means, for an issuer, a committee consisting exclusively of one or more independent directors of the issuer;
+> > > >
+> > > > "independent director" means, for an issuer in respect of a transaction, a director who is independent as determined in section 7.1;
+> > > >
+> > > > "independent valuator" means, for a transaction, a valuator that is independent of all interested parties in the transaction, as determined in section 6.1;
+> > > >
+> > > > "insider bid" means a take-over bid made by
+> > > >
+> > > > > (a) an issuer insider of the offeree issuer,
+> > > > >
+> > > > > (b) an associated or affiliated entity of an issuer insider of the offeree issuer,
+> > > > >
+> > > > > (c) an associated or affiliated entity of the offeree issuer,
+> > > > >
+> > > > > (d) a person or company described in paragraph (a), (b) or (c) at any time within 12 months preceding the commencement of the bid, or
+> > > > >
+> > > > > (e) a joint actor with a person or company referred to in paragraph (a), (b), (c) or (d);
+> > > >
+> > > > "interested party" means
+> > > >
+> > > > > (a) for a take-over bid (including an insider bid), the offeror or a joint actor with the offeror,
+> > > > >
+> > > > > (b) for an issuer bid
+> > > > >
+> > > > > > (i) the issuer, and
+> > > > > >
+> > > > > > (ii) any control block holder of the issuer, or any person or company that would reasonably be expected to be a control block holder of the issuer upon successful completion of the issuer bid,
+> > > > >
+> > > > > (c) for a business combination, a related party of the issuer at the time the transaction is agreed to, if the related party
+> > > > >
+> > > > > > (i) would, as a consequence of the transaction, directly or indirectly acquire the issuer or the business of the issuer, or combine with the issuer, through an amalgamation, arrangement or otherwise, whether alone or with joint actors,
+> > > > > >
+> > > > > > (ii) is a party to any connected transaction to the business combination, or
+> > > > > >
+> > > > > > (iii) is entitled to receive, directly or indirectly, as a consequence of the transaction
+> > > > > >
+> > > > > > > (A) consideration per affected security that is not identical in amount and form to the entitlement of the general body of holders in Canada of securities of the same class,
+> > > > > > >
+> > > > > > > (B) a collateral benefit, or
+> > > > > > >
+> > > > > > > (C) consideration for securities of a class of equity securities of the issuer if the issuer has more than one outstanding class of equity securities, unless that consideration is not greater than the entitlement of the general body of holders in Canada of every other class of equity securities of the issuer in relation to the voting and financial participating interests in the issuer represented by the respective securities, and
+> > > > >
+> > > > > (d) for a related party transaction, a related party of the issuer at the time the transaction is agreed to, if the related party
+> > > > >
+> > > > > > (i) is a party to the transaction, unless it is a party only in its capacity as a holder of affected securities and is treated identically to the general body of holders in Canada of securities of the same class on a per security basis, or
+> > > > > >
+> > > > > > (ii) is entitled to receive, directly or indirectly, as a consequence of the transaction
+> > > > > >
+> > > > > > > (A) a collateral benefit, or
+> > > > > > >
+> > > > > > > (B) a payment or distribution made to one or more holders of a class of equity securities of the issuer if the issuer has more than one outstanding class of equity securities, unless the amount of that payment or distribution is not greater than the entitlement of the general body of holders in Canada of every other class of equity securities of the issuer in relation to the voting and financial participating interests in the issuer represented by the respective securities;
+> > > >
+> > > > "issuer insider" means, for an issuer
+> > > >
+> > > > > (a) everya director or senior officer of the issuer,
+> > > > >
+> > > > > (b) everya director or senior officer of an entity that is itself an issuer insider or subsidiary entity of the issuer, andor
+> > > > >
+> > > > > (c) a person or company that beneficially owns voting securities of the issuer or thator exercises control or direction over voting securities of the issuer, or a combination of both, carrying more than 10 per cent of the voting rights attached to all voting securities of the issuer for the time being outstanding, other than voting securities beneficially owned by the person or company as an underwriter in the course of a distributionof the issuer;
+> > > >
+> > > > "joint actors", when used to describe the relationship among two or more entities, means persons or companies "acting jointly or in concert" as defined in section 91 of the Act, with necessary modifications where the term is used in the context of a transaction that is not a take-over bid or issuer bid, but a security holder is not considered to be a joint actor with an offeror making a formal bid, or with a person or company involved in a business combination or related party transaction, solely because there is an agreement, commitment or understanding that the security holder will tender to the bid or vote in favour of the transaction;
+> > > >
+> > > > "liquid market" means a market that meets the criteria specified in section 1.2;
+> > > >
+> > > > "market capitalization" of an issuer means, for a transaction, the aggregate market price of all outstanding securities of all classes of equity securities of the issuer, the market price of the outstanding securities of a class being
+> > > >
+> > > > > (a) in the case of equity securities of a class for which there is a published market, the product of
+> > > > >
+> > > > > > (i) the number of securities of the class outstanding as of the close of business on the last business day of the calendar month preceding the calendar month in which the transaction is agreed to or, if no securities of the class were outstanding on that day, on the first business day after that day that securities of the class became outstanding, so long as that day precedes the date the transaction is agreed to, and
+> > > > > >
+> > > > > > (ii) the market price of the securities at the time referred to in subparagraph (i), on the published market on which the class of securities is principally traded, as determined in accordance with subsections 183(1), (2) and (4) of the Regulation,
+> > > > >
+> > > > > (b) in the case of equity securities of a class for which there is no published market but that are currently convertible into a class of equity securities for which there is a published market, the product of
+> > > > >
+> > > > > > (i) the number of equity securities into which the convertible securities were convertible as of the close of business on the last business day of the calendar month preceding the calendar month in which the transaction is agreed to or, if no convertible securities were outstanding or convertible on that day, on the first business day after that day that the convertible securities became outstanding or convertible, so long as that day precedes the date the transaction is agreed to, and
+> > > > > >
+> > > > > > (ii) the market price of the securities into which the convertible securities were convertible, at the time referred to in subparagraph (i), on the published market on which the class of securities is principally traded, as determined in accordance with subsections 183(1), (2) and (4) of the Regulation, and
+> > > > >
+> > > > > (c) in the case of equity securities of a class not referred to in paragraph (a) or (b), the amount determined by the issuer's board of directors in good faith to represent the fair market value of the outstanding securities of that class;
+> > > >
+> > > > "minority approval" means, for a business combination or related party transaction of an issuer, approval of the proposed transaction by a majority of the votes as specified in Part 8, cast by holders of each class of affected securities at a meeting of security holders of that class called to consider the transaction;
+> > > >
+> > > > "OBCA" means the *Business Corporations Act*;
+> > > >
+> > > > "offeree security" means a security that is subject to a take-over bid or issuer bid;
+> > > >
+> > > > "offeror" has the meaning ascribed to that term in subsection 89(1) of the Act;
+> > > >
+> > > > "prior valuation" means a valuation or appraisal of an issuer or its securities or material assets, whether or not prepared by an independent valuator, that, if disclosed, would reasonably be expected to affect the decision of a security holder to vote for or against a transaction, or to retain or dispose of affected securities or offeree securities, other than
+> > > >
+> > > > > (a) a report of a valuation or appraisal prepared by an entity other than the issuer, if
+> > > > >
+> > > > > > (i) the report was not solicited by the issuer, and
+> > > > > >
+> > > > > > (ii) the entity preparing the report did so without knowledge of any material information concerning the issuer, its securities or any of its material assets, that had not been generally disclosed at the time the report was prepared,
+> > > > >
+> > > > > (b) an internal valuation or appraisal prepared for the issuer in the ordinary course of business that has not been made available to, and has been prepared without the participation of
+> > > > >
+> > > > > > (i) the board of directors of the issuer, or
+> > > > > >
+> > > > > > (ii) any director or senior officer of an interested party, except a senior officer of the issuer in the case of an issuer bid,
+> > > > >
+> > > > > (c) a report of a market analyst or financial analyst that
+> > > > >
+> > > > > > (i) has been prepared by or for and at the expense of an entity other than the issuer, an interested party, or an associated or affiliated entity of the issuer or an interested party, and
+> > > > > >
+> > > > > > (ii) is either generally available to clients of the analyst or of the analyst's employer or of an associated or affiliated entity of the analyst's employer or, if not, is not based, so far as the entity required to disclose a prior valuation is aware, on any material information concerning the issuer, its securities or any of its material assets, that had not been generally disclosed at the time the report was prepared,
+> > > > >
+> > > > > (d) a valuation or appraisal prepared by an entity or a person or company retained by the entity, for the purpose of assisting the entity in determining the price at which to propose a transaction that resulted in the entity becoming an issuer insider, if the valuation or appraisal is not made available to any of the independent directors of the issuer, or
+> > > > >
+> > > > > (e) a valuation or appraisal prepared by an interested party or an entity retained by the interested party, for the purpose of assisting the interested party in determining the price at which to propose a transaction that, if pursued, would be an insider bid, business combination or related party transaction, if the valuation or appraisal is not made available to any of the independent directors of the issuer;
+> > > >
+> > > > "related party" of an entity means a person or company that, at the relevant time and after reasonable inquiry, is known by the entity or a director or senior officer of the entity to be
+> > > >
+> > > > > (a) a control block holder of the entity,
+> > > > >
+> > > > > (b) a person or company of which a person or company referred to in paragraph (a) is a control block holder,
+> > > > >
+> > > > > (c) a person or company of which the entity is a control block holder,
+> > > > >
+> > > > > (d) a person or company, other than a bona fide lender, that beneficially owns or exercises control or direction over voting securities of the entity carrying more than 10 per cent of the voting rights attached to all the outstanding voting securities of the entity,
+> > > > >
+> > > > > (e) a director or senior officer of
+> > > > >
+> > > > > > (i) the entity, or
+> > > > > >
+> > > > > > (ii) a person or company described in any other paragraph of this definition,
+> > > > >
+> > > > > (f) a person or company that manages or directs, to any substantial degree, the affairs or operations of the entity under an agreement, arrangement or understanding between the person or company and the entity, including the general partner of an entity that is a limited partnership, but excluding a person or company acting under bankruptcy or insolvency law,
+> > > > >
+> > > > > (g) a person or company of which persons or companies described in any paragraph of this definition beneficially own, in the aggregate, more than 50 per cent of the securities of any outstanding class of equity securities, or
+> > > > >
+> > > > > (h) an affiliated entity of any person or company described in any other paragraph of this definition;
+> > > >
+> > > > "related party transaction" means, for an issuer, a transaction between the issuer and a person or company that is a related party of the issuer at the time the transaction is agreed to, whether or not there are also other parties to the transaction, as a consequence of which, either through the transaction itself or together with connected transactions, the issuer directly or indirectly
+> > > >
+> > > > > (a) purchases or acquires an asset from the related party for valuable consideration,
+> > > > >
+> > > > > (b) purchases or acquires, as a joint actor with the related party, an asset from a third party if the proportion of the asset acquired by the issuer is less than the proportion of the consideration paid by the issuer,
+> > > > >
+> > > > > (c) sells, transfers or disposes of an asset to the related party,
+> > > > >
+> > > > > (d) sells, transfers or disposes of, as a joint actor with the related party, an asset to a third party if the proportion of the consideration received by the issuer is less than the proportion of the asset sold, transferred or disposed of by the issuer,
+> > > > >
+> > > > > (e) leases property to or from the related party,
+> > > > >
+> > > > > (f) acquires the related party, or combines with the related party, through an amalgamation, arrangement or otherwise, whether alone or with joint actors,
+> > > > >
+> > > > > (g) issues a security to the related party or subscribes for a security of the related party,
+> > > > >
+> > > > > (h) amends the terms of a security of the issuer if the security is beneficially owned, or is one over which control or direction is exercised, by the related party, or agrees to the amendment of the terms of a security of the related party if the security is beneficially owned by the issuer or is one over which the issuer exercises control or direction,
+> > > > >
+> > > > > (i) assumes or otherwise becomes subject to a liability of the related party,
+> > > > >
+> > > > > (j) borrows money from or lends money to the related party, or enters into a credit facility with the related party,
+> > > > >
+> > > > > (k) releases, cancels or forgives a debt or liability owed by the related party,
+> > > > >
+> > > > > (l) materially amends the terms of an outstanding debt or liability owed by or to the related party, or the terms of an outstanding credit facility with the related party, or
+> > > > >
+> > > > > (m) provides a guarantee or collateral security for a debt or liability of the related party, or materially amends the terms of the guarantee or security;
+> > > >
+> > > > "senior officer", for an issuer that is a limited partnership, includes a senior officer of the general partner of the issuer;
+> > > >
+> > > > "stock exchange insider bid" means an insider bid described in subclause (b)(i) of the definition of "formal bid" in subsection 89(1) of the Act;
+> > > >
+> > > > "stock exchange issuer bid" means an issuer bid described in subclause (b)(i) of the definition of "formal bid" in subsection 89(1) of the Act;
+> > > >
+> > > > "subsidiary entity": a person or company is considered to be a subsidiary entity of another person or company if
+> > > >
+> > > > > (a) it is controlled by
+> > > > >
+> > > > > > (i) that other,
+> > > > > >
+> > > > > > (ii) that other and one or more persons or companies, each of which is controlled by that other, or
+> > > > > >
+> > > > > > (iii) two or more persons or companies, each of which is controlled by that other, or
+> > > > >
+> > > > > (b) it is a subsidiary entity of a person or company that is that other's subsidiary entity; and
+> > > >
+> > > > "wholly-owned subsidiary entity": a person or company is considered to be a wholly-owned subsidiary entity of an issuer if the issuer owns, directly or indirectly, all the voting and equity securities and securities convertible into voting and equity securities of the person or company.
+> > >
+> > > **1.2 Liquid Market**
+> > >
+> > > > (1) For the purposes of this Rule, a liquid market in a class of securities of an issuer in respect of a transaction exists at a particular time only
+> > > >
+> > > > > (a) if
+> > > > >
+> > > > > > (i) there is a published market for the class of securities,
+> > > > > >
+> > > > > > (ii) during the period of 12 months before the date the transaction is agreed to in the case of a business combination, or 12 months before the date the transaction is publicly announced in the case of an insider bid or issuer bid
+> > > > > >
+> > > > > > > (A) the number of outstanding securities of the class was at all times at least 5,000,000, excluding securities beneficially owned, or over which control or direction was exercised, by related parties and securities that were not freely tradeable,
+> > > > > > >
+> > > > > > > (B) the aggregate trading volume of the class of securities on the published market on which the class was principally traded was at least 1,000,000 securities,
+> > > > > > >
+> > > > > > > (C) there were at least 1,000 trades in securities of the class on the published market on which the class was principally traded, and
+> > > > > > >
+> > > > > > > (D) the aggregate value of the trades in securities of the class on the published market on which the class was principally traded was at least $15,000,000, and
+> > > > > >
+> > > > > > (iii) the market value of the class of securities on the published market on which the class was principally traded, as determined in accordance with subsection (2), was at least $75,000,000 for the calendar month preceding the calendar month
+> > > > > >
+> > > > > > > (A) in which the transaction is agreed to, in the case of a business combination, or
+> > > > > > >
+> > > > > > > (B) in which the transaction is publicly announced, in the case of an insider bid or issuer bid; or
+> > > > >
+> > > > > (b) if the test set out in paragraph (a) is not met,
+> > > > >
+> > > > > > (i) there is a published market for the class of securities,
+> > > > > >
+> > > > > > (ii) a person or company that is qualified and independent of all interested parties to the transaction, as determined on the same basis applicable to a valuator preparing a formal valuation under section 6.1, provides an opinion to the issuer that there is a liquid market in the class at the date the transaction is agreed to in the case of a business combination, or at the date the transaction is publicly announced in the case of an insider bid or issuer bid,
+> > > > > >
+> > > > > > (iii) the opinion is included in the disclosure document for the transaction, together with a statement that the published market on which the class is principally traded has sent a letter to the Director indicating concurrence with the opinion or providing a similar opinion, and
+> > > > > >
+> > > > > > (iv) the disclosure document for the transaction includes the same disclosure regarding the person or company providing the opinion as is required for a valuator under section 6.2.
+> > > >
+> > > > (2) For the purpose of determining whether an issuer satisfies the market value requirement of subparagraph (1)(a)(iii), the market value of a class of securities for a calendar month is calculated by multiplying
+> > > >
+> > > > > (a) the number of securities of the class outstanding as of the close of business on the last business day of the calendar month, excluding securities beneficially owned, or over which control or direction was exercised, by related parties of the issuer and securities that were not freely tradeable; by
+> > > > >
+> > > > > (b) if
+> > > > >
+> > > > > > (i) the published market provides a closing price for the securities, the arithmetic average of the closing prices of the securities of that class on the published market on which that class was principally traded for each of the trading days during the calendar month, or
+> > > > > >
+> > > > > > (ii) the published market does not provide a closing price, but provides only the highest and lowest prices of securities traded on a particular day, the arithmetic average of the simple averages of the highest and lowest prices of the securities of that class on the published market on which that class was principally traded for each of the trading days for which the securities traded during the calendar month.
+> > > >
+> > > > (3) An issuer that relies on an opinion referred to in subparagraph (1)(b)(ii) shall cause the letter referred to in subparagraph (1)(b)(iii) to be sent promptly to the Director.
+> > >
+> > > **1.3 Transactions by Wholly-Owned Subsidiary Entity -** In this Rule, a transaction of a wholly-owned subsidiary entity of an issuer is deemed to be also a transaction of the issuer, and, for greater certainty, a formal bid made by a wholly-owned subsidiary entity of an issuer for securities of the issuer is deemed to be also an issuer bid made by the issuer.
+> > >
+> > > **1.4 Transactions by Underlying Operating Entity of Income Trust -** In this Rule, a transaction of an underlying operating entity of an income trust is deemed to be a transaction of the income trust, and a related party of the underlying operating entity is deemed to be a related party of the income trust.
+> > >
+> > > **1.5 Redeemable Securities as Consideration in Business Combination -** In this Rule, if all or part of the consideration that holders of affected securities receive in a business combination consists of securities that are redeemed for cash within seven days of their issuance, the cash proceeds of the redemption, rather than the redeemed securities, are deemed to be consideration that the holders of the affected securities receive in the business combination.
+> > >
+> > > **1.6 Application to Act, Regulation and Other Rules -** For the purposes of the Act, the Regulation and the rules, "going private transaction" has the meaning ascribed to the term "business combination" in section 1.1 of this Rule, and "insider bid" and "related party transaction" have the meanings ascribed to those terms in section 1.1 of this Rule.
+> >
+> > **PART 2 INSIDER BIDS**
+> >
+> > > **2.1 Application**
+> > >
+> > > > (1) This Part does not apply to an insider bid that is exempt from sections 95 to 100 of the Act under
+> > > >
+> > > > > (a) clausesubsection 93(1)(a) of the Act, unless it is a stock exchange insider bid; or
+> > > > >
+> > > > > (b) clauses 93(1)(b) to (f) of the Act or section 184 of the Regulation; or(c) a decision made by the Commission under clause 104(2)(c) of the Act, unless the decision provides otherwise.
+> > > >
+> > > > (2) This Part does not apply to a take-over bid that is an insider bid solely because of the application of section 90 of the Act to an agreement between the offeror and a security holder of the offeree issuer that offeree securities beneficially owned by the security holder, or over which the security holder exercises control or direction, will be tendered to the bid, if
+> > > >
+> > > > > (a) the security holder is not a joint actor with the offeror; and
+> > > > >
+> > > > > (b) the general nature and material terms of the agreement to tender are disclosed in a news release and report filed under section 101 of the Act, or are otherwise generally disclosed.
+> > > >
+> > > > (3) This Part does not apply to an insider bid in respect of which the offeror complies with National Instrument 71-101 - *The Multijurisdictional Disclosure System*, unless persons or companies whose last address as shown on the books of the offeree issuer is in Canada, as determined in accordance with subsections 12.1(2) to (4) of National Instrument 71-101, hold 20 per cent or more of the class of securities that is the subject of the bid.
+> > >
+> > > **2.2 Disclosure**
+> > >
+> > > > (1) The offeror shall disclose in the disclosure document for an insider bid
+> > > >
+> > > > > (a) the background to the insider bid;
+> > > > >
+> > > > > (b) in accordance with section 6.8, every prior valuation in respect of the offeree issuer
+> > > > >
+> > > > > > (i) that has been made in the 24 months before the date of the insider bid, and
+> > > > > >
+> > > > > > (ii) the existence of which is known, after reasonable inquiry, to the offeror or any director or senior officer of the offeror; and
+> > > > >
+> > > > > (c) the formal valuation exemption, if any, on which the offeror is relying under section 2.4 and the facts supporting that reliance.
+> > > >
+> > > > (2) The offeror shall include in the disclosure document for a stock exchange insider bid the disclosure required by Form 33 of the Regulation, appropriately modified.
+> > > >
+> > > > (3) The board of directors of the offeree issuer shall include in the directors' circular for an insider bid
+> > > >
+> > > > > (a) disclosure, in accordance with section 6.8, of every prior valuation in respect of the offeree issuer not disclosed in the disclosure document for the insider bid
+> > > > >
+> > > > > > (i) that has been made in the 24 months before the date of the insider bid, and
+> > > > > >
+> > > > > > (ii) the existence of which is known, after reasonable inquiry, to the offeree issuer or to any director or senior officer of the offeree issuer;
+> > > > >
+> > > > > (b) a description of the background to the insider bid to the extent the background has not been disclosed in the disclosure document for the insider bid;
+> > > > >
+> > > > > (c) disclosure of any bona fide prior offer that relates to the offeree securities or is otherwise relevant to the insider bid, which offer was received by the issuer during the 24 months before the insider bid was publicly announced, and a description of the offer and the background to the offer; and
+> > > > >
+> > > > > (d) a discussion of the review and approval process adopted by the board of directors and the special committee, if any, of the offeree issuer for the insider bid, including a discussion of any materially contrary view or abstention by a director and any material disagreement between the board and the special committee.
+> > >
+> > > **2.3 Formal Valuation**
+> > >
+> > > > (1) Subject to section 2.4, the offeror in an insider bid shall
+> > > >
+> > > > > (a) obtain, at its own expense, a formal valuation;
+> > > > >
+> > > > > (b) provide the disclosure required by section 6.2;
+> > > > >
+> > > > > (c) include, in accordance with section 6.5, a summary of the formal valuation in the disclosure document for the insider bid, unless the formal valuation is included in its entirety in the disclosure document; and
+> > > > >
+> > > > > (d) comply with the other provisions of Part 6 applicable to it relating to formal valuations.
+> > > >
+> > > > (2) An independent committee of the offeree issuer shall, and the offeror shall enable the independent committee to
+> > > >
+> > > > > (a) determine who the valuator will be;
+> > > > >
+> > > > > (b) supervise the preparation of the formal valuation; and
+> > > > >
+> > > > > (c) use its best efforts to ensure that the formal valuation is completed and provided to the offeror in a timely manner.
+> > >
+> > > **2.4 Exemptions from Formal Valuation Requirement**
+> > >
+> > > > (1) Section 2.3 does not apply to an offeror in connection with an insider bid in any of the following circumstances:
+> > > >
+> > > > > 1. Discretionary Exemption - The offeror has been granted an exemption from section 2.3 under section 9.1.
+> > > > >
+> > > > > 2. Lack of Knowledge and Representation - Neither the offeror nor any joint actor with the offeror has, or has had within the preceding 12 months, any board or management representation in respect of the offeree issuer, or has knowledge of any material information concerning the offeree issuer or its securities that has not been generally disclosed.
+> > > > >
+> > > > > 3. Previous Arm's Length Negotiations - If
+> > > > >
+> > > > > > (a) the consideration per security under the insider bid is at least equal in value to and is in the same form as the highest consideration agreed to with one or more selling security holders of the offeree issuer in arm's length negotiations in connection with
+> > > > > >
+> > > > > > > (i) the making of the insider bid,
+> > > > > > >
+> > > > > > > (ii) one or more other transactions agreed to within 12 months before the date of the first public announcement of the insider bid, or
+> > > > > > >
+> > > > > > > (iii) a combination of transactions referred to in clauses (i) and (ii),
+> > > > > >
+> > > > > > (b) at least one of the selling security holders party to an agreement referred to in clause (a)(i) or (ii) beneficially owns or exercises control or direction over, or beneficially owned or exercised control or direction over, and agreed to sell
+> > > > > >
+> > > > > > > (i) at least five per cent of the outstanding securities of the class of offeree securities, as determined in accordance with subsection (2), if the person or company that entered into the agreement with the selling security holder beneficially owned 80 per cent or more of the outstanding securities of the class of offeree securities, as determined in accordance with subsection (2), or
+> > > > > > >
+> > > > > > > (ii) at least 10 per cent of the outstanding securities of the class of offeree securities, as determined in accordance with subsection (2), if the person or company that entered into the agreement with the selling security holder beneficially owned less than 80 per cent of the outstanding securities of the class of offeree securities, as determined in accordance with subsection (2),
+> > > > > >
+> > > > > > (c) one or more of the selling security holders party to any of the transactions referred to in subparagraph (a) beneficially own or exercise control or direction over, or beneficially owned or exercised control or direction over, and agreed to sell, in the aggregate, at least 20 per cent of the outstanding securities of the class of offeree securities, as determined in accordance with subsection (3), beneficially owned, or over which control or direction was exercised, by entities other than the person or company, and joint actors with the person or company, that entered into the agreements with the selling security holders,
+> > > > > >
+> > > > > > (d) the offeror reasonably believes, after reasonable inquiry, that at the time of each of the agreements referred to in subparagraph (a)
+> > > > > >
+> > > > > > > (i) each selling security holder party to the agreement had full knowledge and access to information concerning the offeree issuer and its securities, and
+> > > > > > >
+> > > > > > > (ii) any factors peculiar to a selling security holder party to the agreement, including non-financial factors, that were considered relevant by that selling security holder in assessing the consideration did not have the effect of reducing the price that would otherwise have been considered acceptable by that selling security holder,
+> > > > > >
+> > > > > > (e) at the time of each of the agreements referred to in subparagraph (a), the offeror did not know of any material information in respect of the offeree issuer or the offeree securities that
+> > > > > >
+> > > > > > > (i) had not been generally disclosed, and
+> > > > > > >
+> > > > > > > (ii) if generally disclosed, could have reasonably been expected to increase the agreed consideration,
+> > > > > >
+> > > > > > (f) any of the agreements referred to in subparagraph (a) was entered into with a selling security holder by a person or company other than the offeror, the offeror reasonably believes, after reasonable inquiry, that at the time of that agreement, the person or company did not know of any material information in respect of the offeree issuer or the offeree securities that
+> > > > > >
+> > > > > > > (i) had not been generally disclosed, and
+> > > > > > >
+> > > > > > > (ii) if disclosed, could have reasonably been expected to increase the agreed consideration, and
+> > > > > >
+> > > > > > (g) the offeror does not know, after reasonable inquiry, of any material information in respect of the offeree issuer or the offeree securities since the time of each of the agreements referred to in subparagraph (a) that has not been generally disclosed and could reasonably be expected to increase the value of the offeree securities.
+> > > > >
+> > > > > 4. Auction - If
+> > > > >
+> > > > > > (a) the insider bid is publicly announced or made while
+> > > > > >
+> > > > > > > (i) one or more formal bids for securities of the same class that is the subject of the insider bid have been made and are outstanding, or
+> > > > > > >
+> > > > > > > (ii) one or more proposed transactions are outstanding that
+> > > > > > >
+> > > > > > > > (A) are business combinations in respect of securities of the same class that is the subject of the insider bid, or
+> > > > > > > >
+> > > > > > > > (B) would be business combinations in respect of securities of the same class that is the subject of the insider bid, except that they come within the exception in paragraph (e) of the definition of business combination,
+> > > > > > >
+> > > > > > > and ascribe a per security value to those securities,
+> > > > > >
+> > > > > > (b) at the time the insider bid is made, the offeree issuer has provided equal access to the offeree issuer, and to information concerning the offeree issuer and its securities, to the offeror in the insider bid, all offerors in the other formal bids, and all parties to the proposed transactions described in clause (a)(ii), and
+> > > > > >
+> > > > > > (c) the offeror, in the disclosure document for the insider bid,
+> > > > > >
+> > > > > > > (i) includes all material information concerning the offeree issuer and its securities that is known to the offeror after reasonable inquiry but has not been generally disclosed, together with a description of the nature of the offeror's access to the issuer, and
+> > > > > > >
+> > > > > > > (ii) states that the offeror does not know, after reasonable inquiry, of any material information concerning the offeree issuer and its securities other than information that has been disclosed under clause (i) or that has otherwise been generally disclosed.
+> > > >
+> > > > (2) For the purposes of subparagraph 3(b) of subsection (1), the number of outstanding securities of the class of offeree securities
+> > > >
+> > > > > (a) is calculated at the time of the agreement referred to in clause 3(a)(i) or (ii) of subsection (1), if the offeror knows the number of securities of the class outstanding at that time; or
+> > > > >
+> > > > > (b) if paragraph (a) does not apply, is determined based on the information most recently provided by the offeree issuer in a material change report, or under section 2.1 of National Instrument 62-102 - *Disclosure of Outstanding* *Share Data* or section 5.4 of National Instrument 51-102 - *Continuous Disclosure Obligations*, immediately preceding the date of the agreement referred to in clause 3(a)(i) or (ii) of subsection (1).
+> > > >
+> > > > (3) For the purposes of subparagraph 3(c) of subsection (1), the number of outstanding securities of the class of offeree securities
+> > > >
+> > > > > (a) is calculated at the time of the last of the agreements referred to in subparagraph 3(a) of subsection (1), if the offeror knows the number of securities of the class outstanding at that time; or
+> > > > >
+> > > > > (b) if paragraph (a) does not apply, is determined based on the information most recently provided by the offeree issuer in a material change report, or under section 2.1 of National Instrument 62-102 or section 5.4 of National Instrument 51-102, immediately preceding the date of the last of the agreements referred to in subparagraph 3(a) of subsection (1).
+> >
+> > **PART 3 ISSUER BIDS**
+> >
+> > > **3.1 Application**
+> > >
+> > > > (1) This Part does not apply to an issuer bid that is exempt from sections 95 to 100 of Part XX of the Act under
+> > > >
+> > > > > (a) clausessubsection 93(3)(a) to (d) and (f) to (i) of the Act;(b) clause 93(3)(e) of the Act, unless it is a stock exchange issuer bid; or
+> > > > >
+> > > > > (cb) a decision made by the Commission under clause 104(2)(c) of the Act, unless the decision provides otherwise.
+> > > >
+> > > > (2) This Part does not apply to an issuer bid that complies with National Instrument 71-101 - *The Multijurisdictional Disclosure System*, unless persons or companies whose last address as shown on the books of the issuer is in Canada, as determined in accordance with subsections 12.1(2) to (4) of National Instrument 71-101, hold 20 per cent or more of the class of securities that is the subject of the bid.
+> > >
+> > > **3.2 Disclosure**
+> > >
+> > > > (1) **-** The issuer shall include in the disclosure document for an issuer bid
+> > > >
+> > > > > (a) the disclosure required by Item 16, "Right of Appraisal and Acquisition", of Form 32 of the Regulation, to the extent applicable;
+> > > > >
+> > > > > (b) a description of the background to the issuer bid;
+> > > > >
+> > > > > (c) disclosure, in accordance with section 6.8, of every prior valuation in respect of the issuer
+> > > > >
+> > > > > > (i) that has been made in the 24 months before the date of the issuer bid, and
+> > > > > >
+> > > > > > (ii) the existence of which is known, after reasonable inquiry, to the issuer or to any director or senior officer of the issuer;
+> > > > >
+> > > > > (d) disclosure of any bona fide prior offer that relates to the offeree securities or is otherwise relevant to the issuer bid, which offer was received by the issuer during the 24 months before the issuer bid was publicly announced, and a description of the offer and the background to the offer;
+> > > > >
+> > > > > (e) a discussion of the review and approval process adopted by the board of directors and the special committee, if any, of the issuer for the issuer bid, including a discussion of any materially contrary view or abstention by a director and any material disagreement between the board and the special committee;
+> > > > >
+> > > > > (f) a statement of the intention, if known to the issuer after reasonable inquiry, of every interested party to accept or not to accept the issuer bid;
+> > > > >
+> > > > > (g) a description of the effect that the issuer anticipates the issuer bid, if successful, will have on the direct or indirect voting interest in the issuer of every interested party; and
+> > > > >
+> > > > > (h) disclosure of the formal valuation exemption, if any, on which the issuer is relying under section 3.4 and the facts supporting that reliance.
+> > > >
+> > > > (2) The issuer shall include in the disclosure document for a stock exchange issuer bid the applicable disclosure required by Form 33 of the Regulation.
+> > >
+> > > **3.3 Formal Valuation**
+> > >
+> > > > (1) Subject to section 3.4, an issuer that makes an issuer bid shall
+> > > >
+> > > > > (a) obtain a formal valuation;
+> > > > >
+> > > > > (b) provide the disclosure required by section 6.2;
+> > > > >
+> > > > > (c) include, in accordance with section 6.5, a summary of the formal valuation in the disclosure document for the issuer bid, unless the formal valuation is included in its entirety in the disclosure document;
+> > > > >
+> > > > > (d) if there is an interested party other than the issuer, state in the disclosure document who will pay or has paid for the valuation; and
+> > > > >
+> > > > > (e) comply with the other provisions of Part 6 applicable to it relating to formal valuations.
+> > > >
+> > > > (2) The board of directors of the issuer or an independent committee of the board shall
+> > > >
+> > > > > (a) determine who the valuator will be; and
+> > > > >
+> > > > > (b) supervise the preparation of the formal valuation.
+> > >
+> > > **3.4 Exemptions from Formal Valuation Requirement -** Section 3.3 does not apply to an issuer in connection with an issuer bid in any of the following circumstances:
+> > >
+> > > > 1. Discretionary Exemption - The issuer has been granted an exemption from section 3.3 under section 9.1.
+> > > >
+> > > > 2. Bid for Non-Convertible Securities - The issuer bid is for securities that are not equity securities and that are not, directly or indirectly, convertible into equity securities.
+> > > >
+> > > > 3. Liquid Market - The issuer bid is made for securities for which
+> > > >
+> > > > > (a) a liquid market exists,
+> > > > >
+> > > > > (b) it is reasonable to conclude that, following the completion of the bid, there will be a market for holders of the securities who do not tender to the bid that is not materially less liquid than the market that existed at the time of the making of the bid, and
+> > > > >
+> > > > > (c) if an opinion referred to in subparagraph (b)(ii) of subsection 1.2(1) is provided, the person or company providing the opinion reaches the conclusion described in subparagraph 3(b) of this section 3.4 and so states in its opinion.
+> >
+> > **PART 4 BUSINESS COMBINATIONS**
+> >
+> > > **4.1 Application -** This Part does not apply to an issuer carrying out a business combination if
+> > >
+> > > > (a) the issuer is not a reporting issuer;
+> > > >
+> > > > (b) the issuer is a mutual fund; or
+> > > >
+> > > > (c)
+> > > >
+> > > > > (i) at the time the business combination is agreed to,
+> > > > >
+> > > > > > (A) persons or companies whose last address as shown on the books of the issuer is in Ontario hold less than two per cent of the outstanding securities of each class of affected securities of the issuer, and
+> > > > > >
+> > > > > > (B) the issuer reasonably believes that persons or companies who are in Ontario beneficially own less than two per cent of the outstanding securities of each class of affected securities of the issuer, and
+> > > > >
+> > > > > (ii) all documents concerning the transaction that are sent generally to other holders of affected securities of the issuer are concurrently sent to all holders of the securities whose last address as shown on the books of the issuer is in Ontario.
+> > >
+> > > **4.2 Meeting and Information Circular**
+> > >
+> > > > (1) Without limiting the application of any other legal requirements that apply to meetings of security holders and information circulars, this section applies only to a business combination for which section 4.5 requires the issuer to obtain minority approval.
+> > > >
+> > > > (2) An issuer proposing to carry out a business combination shall call a meeting of holders of affected securities and send an information circular to those holders.
+> > > >
+> > > > (3) The issuer shall include in the information circular
+> > > >
+> > > > > (a) the disclosure required by Form 33 of the Regulation, to the extent applicable and with necessary modifications;
+> > > > >
+> > > > > (b) the disclosure required by Item 16, "Right of Appraisal and Acquisition", of Form 32 of the Regulation, to the extent applicable, together with a description of rights that may be available to security holders opposed to the transaction;
+> > > > >
+> > > > > (c) a description of the background to the business combination;
+> > > > >
+> > > > > (d) disclosure in accordance with section 6.8 of every prior valuation in respect of the issuer
+> > > > >
+> > > > > > (i) that has been made in the 24 months before the date of the information circular, and
+> > > > > >
+> > > > > > (ii) the existence of which is known, after reasonable inquiry, to the issuer or to any director or senior officer of the issuer;
+> > > > >
+> > > > > (e) disclosure of any bona fide prior offer that relates to the subject matter of or is otherwise relevant to the transaction, which offer was received by the issuer during the 24 months before the business combination was agreed to, and a description of the offer and the background to the offer;
+> > > > >
+> > > > > (f) a discussion of the review and approval process adopted by the board of directors and the special committee, if any, of the issuer for the transaction, including a discussion of any materially contrary view or abstention by a director and any material disagreement between the board and the special committee;
+> > > > >
+> > > > > (g) disclosure of the formal valuation exemption, if any, on which the issuer is relying under section 4.4 and the facts supporting that reliance; and
+> > > > >
+> > > > > (h) disclosure of the number of votes attached to the securities that, to the knowledge of the issuer after reasonable inquiry, will be excluded in determining whether minority approval for the business combination is obtained.
+> > > >
+> > > > (4) If, after sending the information circular and before the meeting, a change occurs that, if disclosed, would reasonably be expected to affect the decision of a holder of affected securities to vote for or against the business combination or to retain or dispose of affected securities, the issuer shall promptly disseminate disclosure of the change
+> > > >
+> > > > > (a) in a manner that the issuer reasonably determines will inform beneficial owners of affected securities of the change; and
+> > > > >
+> > > > > (b) sufficiently in advance of the meeting that the beneficial owners of affected securities will be able to assess the impact of the change.
+> > > >
+> > > > (5) If subsection (4) applies, the issuer shall file a copy of the disseminated information contemporaneously with its dissemination.
+> > >
+> > > **4.3 Formal Valuation**
+> > >
+> > > > (1) Subject to section 4.4, an issuer shall obtain a formal valuation for a business combination if
+> > > >
+> > > > > (a) an interested party would, as a consequence of the transaction, directly or indirectly acquire the issuer or the business of the issuer, or combine with the issuer, through an amalgamation, arrangement or otherwise, whether alone or with joint actors, or
+> > > > >
+> > > > > (b) an interested party is a party to any connected transaction to the business combination, if the connected transaction is a related party transaction for which the issuer is required to obtain a formal valuation under section 5.4.
+> > > >
+> > > > (2) If a formal valuation is required under subsection (1), the issuer shall
+> > > >
+> > > > > (a) provide the disclosure required by section 6.2;
+> > > > >
+> > > > > (b) include, in accordance with section 6.5, a summary of the formal valuation in the disclosure document for the business combination, unless the formal valuation is included in its entirety in the disclosure document;
+> > > > >
+> > > > > (c) state in the disclosure document for the business combination who will pay or has paid for the valuation; and
+> > > > >
+> > > > > (d) comply with the other provisions of Part 6 applicable to it relating to formal valuations.
+> > > >
+> > > > (3) The board of directors of the issuer or an independent committee of the board shall
+> > > >
+> > > > > (a) determine who the valuator will be; and
+> > > > >
+> > > > > (b) supervise the preparation of the formal valuation.
+> > >
+> > > **4.4 Exemptions from Formal Valuation Requirement**
+> > >
+> > > > (1) Section 4.3 does not apply to an issuer carrying out a business combination in any of the following circumstances:
+> > > >
+> > > > > 1. Discretionary Exemption - The issuer has been granted an exemption from section 4.3 under section 9.1.
+> > > > >
+> > > > > 2. Issuer Not Listed on Specified Markets - No securities of the issuer are listed or quoted on the Toronto Stock Exchange, the New York Stock Exchange, the American Stock Exchange, the NASDAQ Stock Market, or a stock exchange outside of Canada and the United States.
+> > > > >
+> > > > > 3. Previous Arm's Length Negotiations - If
+> > > > >
+> > > > > > (a) the consideration per affected security under the business combination is at least equal in value to and is in the same form as the highest consideration agreed to with one or more selling security holders of the issuer in arm's length negotiations in connection with
+> > > > > >
+> > > > > > > (i) the business combination,
+> > > > > > >
+> > > > > > > (ii) one or more other transactions agreed to within 12 months before the date of the first public announcement of the business combination, or
+> > > > > > >
+> > > > > > > (iii) a combination of transactions referred to in clauses (i) and (ii),
+> > > > > >
+> > > > > > (b) at least one of the selling security holders party to an agreement referred to in clause (a)(i) or (ii) beneficially owns or exercises control or direction over, or beneficially owned or exercised control or direction over, and agreed to sell
+> > > > > >
+> > > > > > > (i) at least five per cent of the outstanding securities of the class of affected securities, as determined in accordance with subsection (2), if the person or company that entered into the agreement with the selling security holder beneficially owned 80 per cent or more of the outstanding securities of the class of affected securities, as determined in accordance with subsection (2), or
+> > > > > > >
+> > > > > > > (ii) at least 10 per cent of the outstanding securities of the class of affected securities, as determined in accordance with subsection (2), if the person or company that entered into the agreement with the selling security holder beneficially owned less than 80 per cent of the outstanding securities of the class of affected securities, as determined in accordance with subsection (2),
+> > > > > >
+> > > > > > (c) one or more of the selling security holders party to any of the transactions referred to in subparagraph (a) beneficially owns or exercises control or direction over, or beneficially owned or exercised control or direction over, and agreed to sell, in the aggregate, at least 20 per cent of the outstanding securities of the class of affected securities, as determined in accordance with subsection (3), beneficially owned or over which control or direction was exercised by entities other than the person or company, and joint actors with the person or company, that entered into the agreements with the selling security holders,
+> > > > > >
+> > > > > > (d) the person or company proposing to carry out the business combination with the issuer reasonably believes, after reasonable inquiry, that at the time of each of the agreements referred to in subparagraph (a)
+> > > > > >
+> > > > > > > (i) each selling security holder party to the agreement had full knowledge of and access to information concerning the issuer and its securities, and
+> > > > > > >
+> > > > > > > (ii) any factors peculiar to a selling security holder party to the agreement, including non-financial factors, that were considered relevant by the selling security holder in assessing the consideration did not have the effect of reducing the price that would otherwise have been considered acceptable by that selling security holder,
+> > > > > >
+> > > > > > (e) at the time of each of the agreements referred to in subparagraph (a), the person or company proposing to carry out the business combination with the issuer did not know of any material information in respect of the issuer or the affected securities that
+> > > > > >
+> > > > > > > (i) had not been generally disclosed, and
+> > > > > > >
+> > > > > > > (ii) if disclosed, could have reasonably been expected to increase the agreed consideration,
+> > > > > >
+> > > > > > (f) any of the agreements referred to in subparagraph (a) was entered into with a selling security holder by an entity other than the person or company proposing to carry out the business combination with the issuer, the person or company proposing to carry out the business combination with the issuer reasonably believes, after reasonable inquiry, that at the time of that agreement, the entity did not know of any material information in respect of the issuer or the affected securities that
+> > > > > >
+> > > > > > > (i) had not been generally disclosed, and
+> > > > > > >
+> > > > > > > (ii) if disclosed, could have reasonably been expected to increase the agreed consideration, and
+> > > > > >
+> > > > > > (g) the person or company proposing to carry out the business combination with the issuer does not know, after reasonable inquiry, of any material information in respect of the issuer or the affected securities since the time of each of the agreements referred to in subparagraph (a) that has not been generally disclosed and could reasonably be expected to increase the value of the affected securities.
+> > > > >
+> > > > > 4. Auction - If
+> > > > >
+> > > > > > (a) the business combination is publicly announced while
+> > > > > >
+> > > > > > > (i) one or more proposed transactions are outstanding that
+> > > > > > >
+> > > > > > > > (A) are business combinations in respect of the affected securities, or
+> > > > > > > >
+> > > > > > > > (B) would be business combinations in respect of the affected securities, except that they come within the exception in paragraph (e) of the definition of business combination,
+> > > > > > >
+> > > > > > > and ascribe a per security value to those securities, or
+> > > > > > >
+> > > > > > > (ii) one or more formal bids for the affected securities have been made and are outstanding, and
+> > > > > >
+> > > > > > (b) at the time the disclosure document for the business combination is sent to the holders of affected securities, the issuer has provided equal access to the issuer, and to information concerning the issuer and its securities, to the person or company proposing to carry out the business combination with the issuer, all parties to the proposed transactions described in clause (a)(i), and all offerors in the formal bids.
+> > > > >
+> > > > > 5. Second Step Business Combination - If
+> > > > >
+> > > > > > (a) the business combination is being effected by an offeror that made a formal bid, or an affiliated entity of that offeror, and is in respect of the securities of the same class for which the bid was made and that were not acquired in the bid,
+> > > > > >
+> > > > > > (b) the business combination is completed no later than 120 days after the date of expiry of the formal bid,
+> > > > > >
+> > > > > > (c) the consideration per security that the security holders would be entitled to receive in the business combination is at least equal in value to and is in the same form as the consideration that the tendering security holders were entitled to receive in the formal bid,
+> > > > > >
+> > > > > > (d) the disclosure document for the formal bid
+> > > > > >
+> > > > > > > (i) disclosed that if the offeror acquired securities under the formal bid, the offeror intended to acquire the remainder of the securities under a statutory right of acquisition or under a business combination that would satisfy the conditions in subparagraphs (b) and (c),
+> > > > > > >
+> > > > > > > (ii) described the expected tax consequences of both the formal bid and the business combination if, at the time the bid was made, the tax consequences arising from the business combination
+> > > > > > >
+> > > > > > > > (A) were reasonably foreseeable to the offeror, and
+> > > > > > > >
+> > > > > > > > (B) were reasonably expected to be different from the tax consequences of tendering to the bid, and
+> > > > > > >
+> > > > > > > (iii) disclosed that the tax consequences of the formal bid and the business combination may be different if, at the time the bid was made, the offeror could not reasonably foresee the tax consequences arising from the business combination.
+> > > > >
+> > > > > 6. Non-redeemable Investment Fund - The issuer is a non-redeemable investment fund that
+> > > > >
+> > > > > > (a) at least once each quarter calculates and publicly disseminates the net asset value of its securities, and
+> > > > > >
+> > > > > > (b) at the time of publicly announcing the business combination, publicly disseminates the net asset value of its securities as of the business day before the announcement.
+> > > >
+> > > > (2) For the purposes of subparagraph 3(b) of subsection (1), the number of outstanding securities of the class of affected securities
+> > > >
+> > > > > (a) is calculated at the time of the agreement referred to in clause 3(a)(i) or (ii) of subsection (1), if the person or company proposing to carry out the business combination with the issuer knows the number of securities of the class outstanding at that time; or
+> > > > >
+> > > > > (b) if subparagraph (a) does not apply, is determined based on the information most recently provided by the issuer in a material change report, or under section 2.1 of National Instrument 62-102 - *Disclosure of Outstanding Share Data* or section 5.4 of National Instrument 51-102 - *Continuous Disclosure Obligations*, immediately preceding the date of the agreement referred to in clause 3(a)(i) or (ii) of subsection (1).
+> > > >
+> > > > (3) For the purposes of subparagraph 3(c) of subsection (1), the number of outstanding securities of the class of affected securities
+> > > >
+> > > > > (a) is calculated at the time of the last of the agreements referred to in subparagraph 3(a) of subsection (1), if the person or company proposing to carry out the business combination with the issuer knows the number of securities of the class outstanding at that time; or
+> > > > >
+> > > > > (b) if paragraph (a) does not apply, is determined based on the information most recently provided by the issuer in a material change report, or under section 2.1 of National Instrument 62-102 or section 5.4 of National Instrument 51-102, immediately preceding the date of the last of the agreements referred to in subparagraph 3(a) of subsection (1).
+> > >
+> > > **4.5 Minority Approval -** Subject to section 4.6, an issuer shall not carry out a business combination unless the issuer has obtained minority approval for the business combination under Part 8.
+> > >
+> > > **4.6 Exemptions from Minority Approval Requirement**
+> > >
+> > > > (1) Section 4.5 does not apply to an issuer carrying out a business combination in any of the following circumstances if the exemption relied on, any formal valuation exemption relied on, and the facts supporting reliance on those exemptions are disclosed in the disclosure document for the business combination:
+> > > >
+> > > > > 1. Discretionary Exemption - The issuer has been granted an exemption from section 4.5 under section 9.1.
+> > > > >
+> > > > > 2. 90 Per Cent Exemption - Subject to subsection (2), one or more persons or companies that are interested parties within the meaning of subparagraph (c)(i) of the definition of interested party beneficially own, in the aggregate, 90 per cent or more of the outstanding securities of a class of affected securities at the time that the business combination is agreed to, and either
+> > > > >
+> > > > > > (a) an appraisal remedy is available to holders of the class of affected securities under the statute under which the issuer is organized or is governed as to corporate law matters, or
+> > > > > >
+> > > > > > (b) if an appraisal remedy referred to in subparagraph (a) is not available, holders of the class of affected securities are given an enforceable right that is substantially equivalent to the appraisal remedy provided for in subsection 185(4) of the OBCA and that is described in the disclosure document for the business combination.
+> > > >
+> > > > (2) If there are two or more classes of affected securities, paragraph 2 of subsection (1) applies only to a class of which the applicable interested parties beneficially own, in the aggregate, 90 per cent or more of the outstanding securities.
+> > >
+> > > **4.7 Conditions for Relief from OBCA Requirements -** An issuer that is governed by the OBCA and proposes to carry out a "going private transaction", as defined in subsection 190(1) of the OBCA, is exempt from subsections (2), (3) and (4) of section 190 of the OBCA, and is not required to make an application for exemption from those subsections under subsection 190(6) of the OBCA, if
+> > >
+> > > > (a) the transaction is not a business combination;
+> > > >
+> > > > (b) Part 4 does not apply to the transaction by reason of section 4.1; or
+> > > >
+> > > > (c) the transaction is carried out in compliance with Part 4, and, for this purpose, compliance includes reliance on any applicable exemption from a requirement of Part 4, including a discretionary exemption granted by the Director under section 9.1.
+> >
+> > **PART 5 RELATED PARTY TRANSACTIONS**
+> >
+> > > **5.1 Application -** This Part does not apply to an issuer carrying out a related party transaction if
+> > >
+> > > > (a) the issuer is not a reporting issuer;
+> > > >
+> > > > (b) the issuer is a mutual fund;
+> > > >
+> > > > (c)
+> > > >
+> > > > > (i) at the time the transaction is agreed to,
+> > > > >
+> > > > > > (A) persons or companies whose last address as shown on the books of the issuer is in Ontario hold less than two per cent of the outstanding securities of each class of affected securities of the issuer, and
+> > > > > >
+> > > > > > (B) the issuer reasonably believes that persons or companies who are in Ontario beneficially own less than two per cent of the outstanding securities of each class of affected securities of the issuer, and
+> > > > >
+> > > > > (ii) all documents concerning the transaction that are sent generally to other holders of affected securities of the issuer are concurrently sent to all holders of the securities whose last address as shown on the books of the issuer is in Ontario;
+> > > >
+> > > > (d) the parties to the transaction consist solely of
+> > > >
+> > > > > (i) an entity and one or more of its wholly-owned subsidiary entities, or
+> > > > >
+> > > > > (ii) wholly-owned subsidiary entities of the same entity;
+> > > >
+> > > > (e) the transaction is a business combination for the issuer;
+> > > >
+> > > > (f) the transaction would be a business combination for the issuer except that it comes within an exception in any of paragraphs (a) to (e) of the definition of business combination;
+> > > >
+> > > > (g) the transaction is a downstream transaction for the issuer;
+> > > >
+> > > > (h) the issuer is obligated to and does carry out the transaction substantially under the terms
+> > > >
+> > > > > (i) that were agreed to, and generally disclosed, before May 1, 2000,
+> > > > >
+> > > > > (ii) that were agreed to, and generally disclosed, before the issuer became a reporting issuer, or
+> > > > >
+> > > > > (iii) of a previous transaction the terms of which were generally disclosed, including an issuance of a convertible security, if the previous transaction was carried out in compliance with this Rule, including in reliance on any applicable exemption or exclusion, or was not subject to this Rule;
+> > > >
+> > > > (i) the transaction is a distribution
+> > > >
+> > > > > (i) of securities of the issuer and is a related party transaction for the issuer solely because the interested party is an underwriter of the distribution, and
+> > > > >
+> > > > > (ii) carried out in compliance with, including in reliance on any applicable exemption from, National Instrument 33-105 - *Underwriting Conflicts*;
+> > > >
+> > > > (j) the issuer is subject to the requirements of Part IX of the *Loan and Trust Corporations Act*, Part XI of the *Bank Act* (Canada), Part XI of the *Insurance Companies Act* (Canada), or Part XI of the *Trust and Loan Companies Act* (Canada), or any successor to that legislation, and the issuer complies with those requirements; or
+> > > >
+> > > > (k) the transaction is a rights offering, dividend, or any other transaction in which the general body of holders in Canada of affected securities of the same class are treated identically on a per security basis, if
+> > > >
+> > > > > (i) the transaction has no interested party within the meaning of paragraph (d) of the definition of interested party, or
+> > > > >
+> > > > > (ii) the transaction is a rights offering, there is an interested party only because a related party of the issuer provides a stand-by commitment for the rights offering, and the stand-by commitment complies with Rule 45-101 - *Rights Offerings*.
+> > >
+> > > **5.2 Material Change Report**
+> > >
+> > > > (1) An issuer shall include in a material change report, if any, required to be filed under the Act for a related party transaction
+> > > >
+> > > > > (a) a description of the transaction and its material terms;
+> > > > >
+> > > > > (b) the purpose and business reasons for the transaction;
+> > > > >
+> > > > > (c) the anticipated effect of the transaction on the issuer's business and affairs;
+> > > > >
+> > > > > (d) a description of
+> > > > >
+> > > > > > (i) the interest in the transaction of every interested party and of the related parties and associated entities of the interested parties, and
+> > > > > >
+> > > > > > (ii) the anticipated effect of the transaction on the percentage of securities of the issuer, or of an affiliated entity of the issuer, beneficially owned or controlled by each person or company referred to in subparagraph (i) for which there would be a material change in that percentage;
+> > > > >
+> > > > > (e) unless this information will be included in another disclosure document for the transaction, a discussion of the review and approval process adopted by the board of directors and the special committee, if any, of the issuer for the transaction, including a discussion of any materially contrary view or abstention by a director and any material disagreement between the board and the special committee;
+> > > > >
+> > > > > (f) subject to subsection (3), a summary, in accordance with section 6.5, of the formal valuation, if any, obtained for the transaction, unless the formal valuation is included in its entirety in the material change report or will be included in its entirety in another disclosure document for the transaction;
+> > > > >
+> > > > > (g) disclosure, in accordance with section 6.8, of every prior valuation in respect of the issuer that relates to the subject matter of or is otherwise relevant to the transaction
+> > > > >
+> > > > > > (i) that has been made in the 24 months before the date of the material change report, and
+> > > > > >
+> > > > > > (ii) the existence of which is known, after reasonable inquiry, to the issuer or to any director or senior officer of the issuer;
+> > > > >
+> > > > > (h) the general nature and material terms of any agreement entered into by the issuer, or a related party of the issuer, with an interested party or a joint actor with an interested party, in connection with the transaction; and
+> > > > >
+> > > > > (i) disclosure of the formal valuation and minority approval exemptions, if any, on which the issuer is relying under sections 5.5 and 5.7, respectively, and the facts supporting reliance on the exemptions.
+> > > >
+> > > > (2) If the issuer files a material change report less than 21 days before the expected date of the closing of the transaction, the issuer shall explain in the news release required to be issued under the Act and in the material change report why the shorter period is reasonable or necessary in the circumstances.
+> > > >
+> > > > (3) Despite paragraphs (1)(f) and 5.4(2)(a), if the issuer is required to include a summary of the formal valuation in the material change report and the formal valuation is not available at the time the issuer files the material change report, the issuer shall file a supplementary material change report containing the disclosure required by paragraph (1)(f) as soon as the formal valuation is available.
+> > > >
+> > > > (4) The issuer shall send a copy of any material change report prepared by it in respect of the transaction to any security holder of the issuer upon request and without charge.
+> > >
+> > > **5.3 Meeting and Information Circular**
+> > >
+> > > > (1) Without limiting the application of any other legal requirements that apply to meetings of security holders and information circulars, this section applies only to a related party transaction for which section 5.6 requires the issuer to obtain minority approval.
+> > > >
+> > > > (2) An issuer proposing to carry out a related party transaction to which this section applies shall call a meeting of holders of affected securities and send an information circular to those holders.
+> > > >
+> > > > (3) The issuer shall include in the information circular
+> > > >
+> > > > > (a) the disclosure required by Form 33 of the Regulation, to the extent applicable and with necessary modifications;
+> > > > >
+> > > > > (b) the disclosure required by Item 16, "Right of Appraisal and Acquisition", of Form 32 of the Regulation, to the extent applicable, together with a description of rights that may be available to security holders opposed to the transaction;
+> > > > >
+> > > > > (c) a description of the background to the transaction;
+> > > > >
+> > > > > (d) disclosure, in accordance with section 6.8, of every prior valuation in respect of the issuer that relates to the subject matter of or is otherwise relevant to the transaction
+> > > > >
+> > > > > > (i) that has been made in the 24 months before the date of the information circular, and
+> > > > > >
+> > > > > > (ii) the existence of which is known, after reasonable inquiry, to the issuer or to any director or senior officer of the issuer;
+> > > > >
+> > > > > (e) disclosure of any bona fide prior offer that relates to the subject matter of or is otherwise relevant to the transaction, which offer was received by the issuer during the 24 months before the transaction was agreed to, and a description of the offer and the background to the offer;
+> > > > >
+> > > > > (f) a discussion of the review and approval process adopted by the board of directors and the special committee, if any, of the issuer for the transaction, including a discussion of any materially contrary view or abstention by a director and any material disagreement between the board and the special committee;
+> > > > >
+> > > > > (g) disclosure of the formal valuation exemption, if any, on which the issuer is relying under section 5.5 and the facts supporting that reliance; and
+> > > > >
+> > > > > (h) disclosure of the number of votes attached to the securities that, to the knowledge of the issuer after reasonable inquiry, will be excluded in determining whether minority approval for the related party transaction is obtained.
+> > > >
+> > > > (4) If, after sending the information circular and before the meeting, a change occurs that, if disclosed, would reasonably be expected to affect the decision of a holder of affected securities to vote for or against the related party transaction or to retain or dispose of affected securities, the issuer shall promptly disseminate disclosure of the change
+> > > >
+> > > > > (a) in a manner that the issuer reasonably determines will inform beneficial owners of affected securities of the change; and
+> > > > >
+> > > > > (b) sufficiently in advance of the meeting that the beneficial owners of affected securities will be able to assess the impact of the change.
+> > > >
+> > > > (5) If subsection (4) applies, the issuer shall file a copy of the disseminated information contemporaneously with its dissemination.
+> > >
+> > > **5.4 Formal Valuation**
+> > >
+> > > > (1) Subject to section 5.5, an issuer shall obtain a formal valuation for a related party transaction described in any of paragraphs (a) to (g) of the definition of related party transaction.
+> > > >
+> > > > (2) If a formal valuation is required under subsection (1), the issuer shall
+> > > >
+> > > > > (a) include, in accordance with section 6.5, a summary of the formal valuation in the disclosure document for the related party transaction, unless the formal valuation is included in its entirety in the disclosure document;
+> > > > >
+> > > > > (b) state in the disclosure document who will pay or has paid for the valuation; and
+> > > > >
+> > > > > (c) comply with the other provisions of Part 6 applicable to it relating to formal valuations.
+> > > >
+> > > > (3) The board of directors of the issuer or an independent committee of the board shall
+> > > >
+> > > > > (a) determine who the valuator will be; and
+> > > > >
+> > > > > (b) supervise the preparation of the formal valuation.
+> > >
+> > > **5.5 Exemptions from Formal Valuation Requirement -** Section 5.4 does not apply to an issuer carrying out a related party transaction in any of the following circumstances:
+> > >
+> > > > 1. Discretionary Exemption - The issuer has been granted an exemption from section 5.4 under section 9.1.
+> > > >
+> > > > 2. Fair Market Value Not More Than 25% of Market Capitalization - At the time the transaction is agreed to, neither the fair market value of the subject matter of, nor the fair market value of the consideration for, the transaction, insofar as it involves interested parties, exceeds 25 per cent of the issuer's market capitalization, and for this purpose
+> > > >
+> > > > > (a) if either of the fair market values is not readily determinable, any determination as to whether that fair market value exceeds the threshold for this exemption shall be made by the issuer's board of directors acting in good faith,
+> > > > >
+> > > > > (b) if the transaction is one in which the issuer or a wholly-owned subsidiary entity of the issuer combines with a related party, through an amalgamation, arrangement or otherwise, the subject matter of the transaction shall be deemed to be the securities of the related party held, at the time the transaction is agreed to, by persons or companies other than the issuer or a wholly-owned subsidiary entity of the issuer, and the consideration for the transaction shall be deemed to be the consideration received by those persons or companies,
+> > > > >
+> > > > > (c) if the transaction is one of two or more connected transactions that are related party transactions and would, without the exemption in this paragraph 2, require formal valuations under this Rule, the fair market values for all of those transactions shall be aggregated in determining whether the fair market value tests for this exemption are met, and
+> > > > >
+> > > > > (d) if the assets involved in the transaction (the "initial transaction") include warrants, options or other instruments providing for the possible future purchase of securities or other assets (the "future transaction"), the calculation of the fair market value for the initial transaction shall include the fair market value, as of the time the initial transaction is agreed to, of the maximum number of securities or other consideration that the issuer may be required to issue or pay in the future transaction.
+> > > >
+> > > > 3. Issuer Not Listed on Specified Markets - No securities of the issuer are listed or quoted on the Toronto Stock Exchange, the New York Stock Exchange, the American Stock Exchange, the NASDAQ Stock Market, or a stock exchange outside of Canada and the United States.
+> > > >
+> > > > 4. Distribution of Securities for Cash - The transaction is a distribution of securities of the issuer to a related party for cash consideration, if
+> > > >
+> > > > > (a) neither the issuer nor, to the knowledge of the issuer after reasonable inquiry, the related party has knowledge of any material information concerning the issuer or its securities that has not been generally disclosed, and the disclosure document for the transaction includes a statement to that effect, and
+> > > > >
+> > > > > (b) the disclosure document for the transaction includes a description of the effect of the distribution on the direct or indirect voting interest of the related party.
+> > > >
+> > > > 5. Certain Transactions in the Ordinary Course of Business - The transaction is
+> > > >
+> > > > > (a) a purchase or sale, in the ordinary course of business of the issuer, of inventory consisting of personal property under an agreement that has been approved by the board of directors of the issuer and the existence of which has been generally disclosed, or
+> > > > >
+> > > > > (b) a lease of real or personal property under an agreement on reasonable commercial terms that, considered as a whole, are not less advantageous to the issuer than if the lease was with a person or company dealing at arm's length with the issuer and the existence of which has been generally disclosed.
+> > > >
+> > > > 6. Transaction Supported by Arm's Length Control Block Holder - The interested party beneficially owns, or exercises control or direction over, voting securities of the issuer that carry fewer voting rights than the voting securities beneficially owned, or over which control or direction is exercised, by another security holder of the issuer who is a control block holder of the issuer and who, in the circumstances of the transaction
+> > > >
+> > > > > (a) is not also an interested party,
+> > > > >
+> > > > > (b) is at arm's length to the interested party, and
+> > > > >
+> > > > > (c) supports the transaction.
+> > > >
+> > > > 7. Bankruptcy, Insolvency, Court Order - If
+> > > >
+> > > > > (a) the transaction is subject to court approval, or a court orders that the transaction be effected, under
+> > > > >
+> > > > > > (i) bankruptcy or insolvency law, or
+> > > > > >
+> > > > > > (ii) section 191 of the *Canada Business Corporations Act*, any successor to that section, or equivalent legislation of a jurisdiction,
+> > > > >
+> > > > > (b) the court is advised of the requirements of this Rule regarding formal valuations for related party transactions, and of the provisions of this paragraph 7, and
+> > > > >
+> > > > > (c) the court does not require compliance with section 5.4.
+> > > >
+> > > > 8. Financial Hardship - If
+> > > >
+> > > > > (a) the issuer is insolvent or in serious financial difficulty,
+> > > > >
+> > > > > (b) the transaction is designed to improve the financial position of the issuer,
+> > > > >
+> > > > > (c) paragraph 7 is not applicable,
+> > > > >
+> > > > > (d) the issuer has one or more independent directors in respect of the transaction, and
+> > > > >
+> > > > > (e) the issuer's board of directors, acting in good faith, determines, and at least two-thirds of the issuer's independent directors, acting in good faith, determine that
+> > > > >
+> > > > > > (i) subparagraphs (a) and (b) apply, and
+> > > > > >
+> > > > > > (ii) the terms of the transaction are reasonable in the circumstances of the issuer.
+> > > >
+> > > > 9. Amalgamation or Equivalent Transaction with No Adverse Effect on Issuer or Minority - The transaction is a statutory amalgamation, or substantially equivalent transaction, resulting in the combination of the issuer or a wholly-owned subsidiary entity of the issuer with an interested party, that is undertaken in whole or in part for the benefit of another related party, if
+> > > >
+> > > > > (a) the transaction does not and will not have any adverse tax or other consequences to the issuer, the entity resulting from the combination, or beneficial owners of affected securities generally,
+> > > > >
+> > > > > (b) no material actual or contingent liability of the interested party with which the issuer or a wholly-owned subsidiary entity of the issuer is combining will be assumed by the issuer, the wholly-owned subsidiary entity of the issuer or the entity resulting from the combination,
+> > > > >
+> > > > > (c) the related party benefiting from the transaction agrees to indemnify the issuer against any liabilities of the interested party with which the issuer, or a wholly-owned subsidiary entity of the issuer, is combining,
+> > > > >
+> > > > > (d) after the transaction, the nature and extent of the voting and financial participating interests of holders of affected securities in the entity resulting from the combination will be the same as, and the value of their financial participating interests will not be less than, that of their interests in the issuer before the transaction, and
+> > > > >
+> > > > > (e) the related party benefiting from the transaction pays for all of the costs and expenses resulting from the transaction.
+> > > >
+> > > > 10. Asset Resale - The subject matter of the related party transaction was acquired by the issuer or an interested party, as the case may be, in a prior arm's length transaction that was agreed to not more than 12 months before the date that the related party transaction is agreed to, and a qualified, independent valuator provides a written opinion that, after making such adjustments, if any, as the valuator considers appropriate in the exercise of the valuator's professional judgment
+> > > >
+> > > > > (a) the value of the consideration payable by the issuer for the subject matter of the related party transaction is not more than the value of the consideration paid by the interested party in the prior arm's length transaction, or
+> > > > >
+> > > > > (b) the value of the consideration to be received by the issuer for the subject matter of the related party transaction is not less than the value of the consideration paid by the issuer in the prior arm's length transaction,
+> > > >
+> > > > and the disclosure document for the related party transaction includes the same disclosure regarding the valuator as is required in the case of a formal valuation under section 6.2.
+> > > >
+> > > > 11. Non-redeemable Investment Fund - The issuer is a non-redeemable investment fund that
+> > > >
+> > > > > (a) at least once each quarter calculates and publicly disseminates the net asset value of its securities, and
+> > > > >
+> > > > > (b) at the time of publicly announcing the related party transaction, publicly disseminates the net asset value of its securities as of the business day before the announcement.
+> > >
+> > > **5.6 Minority Approval -** Subject to section 5.7, an issuer shall not carry out a related party transaction unless the issuer has obtained minority approval for the transaction under Part 8.
+> > >
+> > > **5.7 Exemptions from Minority Approval Requirement**
+> > >
+> > > > (1) Subject to subsections (2), (3), (4) and (5), section 5.6 does not apply to an issuer carrying out a related party transaction in any of the following circumstances if the exemption relied on, any formal valuation exemption relied on, and the facts supporting reliance on those exemptions are disclosed in the disclosure document, if any, for the transaction:
+> > > >
+> > > > > 1. Discretionary Exemption - The issuer has been granted an exemption from section 5.6 under section 9.1.
+> > > > >
+> > > > > 2. Fair Market Value Not More Than 25 Per Cent of Market Capitalization - The circumstances described in paragraph 2 of section 5.5.
+> > > > >
+> > > > > 3. Fair Market Value Not More Than $2,500,000 -- Distribution of Securities for Cash - The circumstances described in paragraph 4 of section 5.5, if
+> > > > >
+> > > > > > (a) no securities of the issuer are listed or quoted on the Toronto Stock Exchange, the New York Stock Exchange, the American Stock Exchange, the NASDAQ Stock Market, or a stock exchange outside of Canada and the United States,
+> > > > > >
+> > > > > > (b) at the time the transaction is agreed to, neither the fair market value of the subject matter of, nor the fair market value ofsecurities to be distributed in the transaction nor the consideration to be received for, the transactionthose securities, insofar as itthe transaction involves interested parties, exceeds $2,500,000,
+> > > > > >
+> > > > > > (c) the issuer has one or more independent directors in respect of the transaction who are not employees of the issuer, and
+> > > > > >
+> > > > > > (d) at least two-thirds of the directors described in subparagraph (c) approve the transaction.
+> > > > >
+> > > > > 4. Other Transactions Exempt from Formal Valuation - The circumstances described in paragraphs 5, 6 and 9 of section 5.5.
+> > > > >
+> > > > > 5. Bankruptcy, Insolvency, Court Order - The circumstances described in subparagraph 7(a) of section 5.5, if the court is advised of the requirements of this Rule regarding minority approval for related party transactions, and of the provisions of this paragraph 5, and the court does not require compliance with section 5.6.
+> > > > >
+> > > > > 6. Financial Hardship - The circumstances described in paragraph 8 of section 5.5, if there is no other requirement, corporate or otherwise, to hold a meeting to obtain any approval of the holders of any class of affected securities.
+> > > > >
+> > > > > 7. Loan to Issuer, No Equity or Voting Component - The transaction is a loan, or the creation of a credit facility, that is obtained by the issuer from a related party on reasonable commercial terms that are not less advantageous to the issuer than if the loan or credit facility were obtained from a person or company dealing at arm's length with the issuer, and the loan, or each advance under the credit facility, as the case may be, is not
+> > > > >
+> > > > > > (a) convertible, directly or indirectly, into equity or voting securities of the issuer or a subsidiary entity of the issuer, or otherwise participating in nature, or
+> > > > > >
+> > > > > > (b) repayable as to principal or interest, directly or indirectly, in equity or voting securities of the issuer or a subsidiary entity of the issuer,
+> > > > >
+> > > > > and for this purpose, any amendment to the terms of a loan or credit facility shall be deemed to create a new loan or credit facility.
+> > > > >
+> > > > > 8. 90 Per Cent Exemption - One or more persons or companies that are interested parties within the meaning of subparagraph (d)(i) of the definition of interested party beneficially own, in the aggregate, 90 per cent or more of the outstanding securities of a class of affected securities at the time the transaction is agreed to, and either
+> > > > >
+> > > > > > (a) an appraisal remedy is available to holders of the class of affected securities under the statute under which the issuer is organized or is governed as to corporate law matters, or
+> > > > > >
+> > > > > > (b) if an appraisal remedy referred to in subparagraph (a) is not available, holders of the class of affected securities are given an enforceable right that is substantially equivalent to the appraisal remedy provided for in subsection 185(4) of the OBCA and that is described in an information circular or other document sent to holders of that class of affected securities in connection with a meeting to approve the related party transaction, or, if there is no such meeting, in another document that is sent to those security holders not later than the time by which an information circular or other document would have been required to be sent to them if there had been a meeting.
+> > > >
+> > > > (2) Despite subparagraph 2(c) of section 5.5, if the transaction is one of two or more connected transactions that are related party transactions and would, without the exemptions in paragraphs 2 and 3 of subsection (1), require minority approval under this Rule, the fair market values for all of those transactions shall be aggregated in determining whether the fair market value tests for those exemptions are met.
+> > > >
+> > > > (3) If the transaction is a material amendment to the terms of a security, or of a loan or credit facility to which the exemption in paragraph 7 of subsection (1) does not apply, the fair market value tests for the exemptions in paragraphs 2 and 3 of subsection (1) shall be applied to the whole transaction as amended, insofar as it involves interested parties, rather than just to the amendment, and, for this purpose, any addition of, or amendment to, a term involving a right to convert into or otherwise acquire equity or voting securities is deemed to be a material amendment.
+> > > >
+> > > > (4) Subparagraphs 2(a), (b) and (d) of section 5.5 apply to paragraph 3 of subsection 5.7(1).
+> > > >
+> > > > (5) If there are two or more classes of affected securities, paragraph 8 of subsection (1) applies only to a class of which the applicable interested parties beneficially own, in the aggregate, 90 per cent or more of the outstanding securities.
+> >
+> > **PART 6 FORMAL VALUATIONS AND PRIOR VALUATIONS**
+> >
+> > > **6.1 Independence and Qualifications of Valuator**
+> > >
+> > > > (1) Every formal valuation required by this Rule for a transaction shall be prepared by a valuator that is independent of all interested parties in the transaction and that has appropriate qualifications.
+> > > >
+> > > > (2) Subject to subsections (3) and (4), it is a question of fact as to whether a valuator is independent of an interested party or has appropriate qualifications.
+> > > >
+> > > > (3) A valuator is not independent of an interested party in connection with a transaction if
+> > > >
+> > > > > (a) the valuator is an associated or affiliated entity or issuer insider of the interested party;
+> > > > >
+> > > > > (b) except in the circumstances described in paragraph (e), the valuator acts as an adviser to the interested party in respect of the transaction, but for this purpose, a valuator that is retained by an issuer to prepare a formal valuation for an issuer bid is not, for that reason alone, considered to be an adviser to the interested party in respect of the transaction;
+> > > > >
+> > > > > (c) the compensation of the valuator depends in whole or in part on an agreement, arrangement or understanding that gives the valuator a financial incentive in respect of the conclusion reached in the formal valuation or the outcome of the transaction;
+> > > > >
+> > > > > (d) the valuator is
+> > > > >
+> > > > > > (i) a manager or co-manager of a soliciting dealer group for the transaction, or
+> > > > > >
+> > > > > > (ii) a member of a soliciting dealer group for the transaction, if the valuator, in its capacity as a soliciting dealer, performs services beyond the customary soliciting dealer's function or receives more than the per security or per security holder fees payable to other members of the group;
+> > > > >
+> > > > > (e) the valuator is the external auditor of the issuer or of an interested party, unless the valuator will not be the external auditor of the issuer or of an interested party upon completion of the transaction and that fact is publicly disclosed at the time of or prior to the public disclosure of the results of the valuation; or
+> > > > >
+> > > > > (f) the valuator has a material financial interest in the completion of the transaction,
+> > > >
+> > > > and for the purposes of this subsection, references to the valuator include any affiliated entity of the valuator.
+> > > >
+> > > > (4) A valuator that is paid by one or more interested parties in a transaction, or paid jointly by the issuer and one or more interested parties in a transaction, to prepare a formal valuation for the transaction is not, by virtue of that fact alone, not independent.
+> > >
+> > > **6.2 Disclosure Re Valuator -** An issuer or offeror required to obtain a formal valuation for a transaction shall include in the disclosure document for the transaction
+> > >
+> > > > (a) a statement that the valuator has been determined to be qualified and independent;
+> > > >
+> > > > (b) a description of any past, present or anticipated relationship between the valuator and the issuer or an interested party that may be relevant to a perception of lack of independence;
+> > > >
+> > > > (c) a description of the compensation paid or to be paid to the valuator;
+> > > >
+> > > > (d) a description of any other factors relevant to a perceived lack of independence of the valuator;
+> > > >
+> > > > (e) the basis for determining that the valuator is qualified; and
+> > > >
+> > > > (f) the basis for determining that the valuator is independent, despite any perceived lack of independence, having regard to the amount of the compensation and any factors referred to in paragraphs (b) and (d).
+> > >
+> > > **6.3 Subject Matter of Formal Valuation**
+> > >
+> > > > (1) An issuer or offeror required to obtain a formal valuation shall provide the valuation in respect of
+> > > >
+> > > > > (a) the offeree securities, in the case of an insider bid or issuer bid;
+> > > > >
+> > > > > (b) the affected securities, in the case of a business combination;
+> > > > >
+> > > > > (c) subject to subsection (2), any non-cash consideration being offered to, or to be received by, the holders of securities referred to in paragraph (a) or (b); and
+> > > > >
+> > > > > (d) subject to subsection (2), the non-cash assets involved in a related party transaction.
+> > > >
+> > > > (2) A formal valuation of non-cash consideration or assets referred to in paragraph (1)(c) or (d) is not required if
+> > > >
+> > > > > (a) the non-cash consideration or assets are securities of a reporting issuer or are securities of a class for which there is a published market;
+> > > > >
+> > > > > (b) the person or company that would otherwise be required to obtain the formal valuation of those securities states in the disclosure document for the transaction that the person or company has no knowledge of any material information concerning the issuer of the securities, or concerning the securities, that has not been generally disclosed;
+> > > > >
+> > > > > (c) in the case of an insider bid, issuer bid or business combination
+> > > > >
+> > > > > > (i) a liquid market in the class of securities exists,
+> > > > > >
+> > > > > > (ii) the securities constitute 25 per cent or less of the number of securities of the class that are outstanding immediately before the transaction,
+> > > > > >
+> > > > > > (iii) the securities are freely tradeable at the time the transaction is completed, and
+> > > > > >
+> > > > > > (iv) the valuator is of the opinion that a valuation of the securities is not required; and
+> > > > >
+> > > > > (d) in the case of a related party transaction for the issuer of the securities, the conditions in subparagraphs 4(a) and (b) of section 5.5 are satisfied, regardless of the form of the consideration for the securities.
+> > >
+> > > **6.4 Preparation of Formal Valuation**
+> > >
+> > > > (1) A formal valuation shall contain the valuator's opinion as to a value or range of values representing the fair market value of the subject matter of the valuation.
+> > > >
+> > > > (2) A person or company preparing a formal valuation under this Rule shall
+> > > >
+> > > > > (a) prepare the formal valuation in a diligent and professional manner;
+> > > > >
+> > > > > (b) prepare the formal valuation as of an effective date that is not more than 120 days before the earlier of
+> > > > >
+> > > > > > (i) the date that the disclosure document for the transaction is first sent to security holders, if applicable, and
+> > > > > >
+> > > > > > (ii) the date that the disclosure document is filed;
+> > > > >
+> > > > > (c) make appropriate adjustments in the formal valuation for material intervening events of which it is aware between the effective date of the valuation and the earlier of the dates referred to in subparagraphs (i) and (ii) of paragraph (b);
+> > > > >
+> > > > > (d) in determining the fair market value of offeree securities or affected securities, not include in the formal valuation a downward adjustment to reflect the liquidity of the securities, the effect of the transaction on the securities or the fact that the securities do not form part of a controlling interest; and
+> > > > >
+> > > > > (e) provide sufficient disclosure in the formal valuation to allow the readers to understand the principal judgments and principal underlying reasoning of the valuator so as to form a reasoned judgment of the valuation opinion or conclusion.
+> > >
+> > > **6.5 Summary of Formal Valuation**
+> > >
+> > > > (1) An issuer or offeror required to provide a summary of a formal valuation shall ensure that the summary provides sufficient detail to allow the readers to understand the principal judgments and principal underlying reasoning of the valuator so as to form a reasoned judgment of the valuation opinion or conclusion.
+> > > >
+> > > > (2) In addition to the disclosure referred to in subsection (1), if an issuer or offeror is required to provide a summary of a formal valuation, the issuer or offeror shall ensure that the summary
+> > > >
+> > > > > (a) discloses
+> > > > >
+> > > > > > (i) the effective date of the valuation, and
+> > > > > >
+> > > > > > (ii) any distinctive material benefit that might accrue to an interested party as a consequence of the transaction, including the earlier use of available tax losses, lower income taxes, reduced costs or increased revenues;
+> > > > >
+> > > > > (b) if the formal valuation differs materially from a prior valuation, explains the differences between the two valuations or, if it is not practicable to do so, the reasons why it is not practicable to do so;
+> > > > >
+> > > > > (c) indicates an address where a copy of the formal valuation is available for inspection; and
+> > > > >
+> > > > > (d) states that a copy of the formal valuation will be sent to any security holder upon request and without charge or, if the issuer or offeror providing the summary so chooses, for a nominal charge sufficient to cover printing and postage.
+> > >
+> > > **6.6 Filing of Formal Valuation**
+> > >
+> > > > (1) An issuer or offeror required to obtain a formal valuation in respect of a transaction shall file a copy of the formal valuation
+> > > >
+> > > > > (a) concurrently with the sending of the disclosure document for the transaction to security holders; or
+> > > > >
+> > > > > (b) concurrently with the filing of a material change report for a related party transaction for which no disclosure document is sent to security holders, or if the formal valuation is not available at the time of filing the material change report, as soon as the formal valuation is available.
+> > > >
+> > > > (2) If the formal valuation is included in its entirety in the disclosure document, an issuer or offeror satisfies the requirement in subsection (1) by filing the disclosure document.
+> > >
+> > > **6.7 Valuator's Consent -** An issuer or offeror required to obtain a formal valuation shall
+> > >
+> > > > (a) obtain the valuator's consent to the filing of the formal valuation and to the inclusion of the formal valuation or its summary in the disclosure document for the transaction for which the formal valuation was obtained; and
+> > > >
+> > > > (b) include in the disclosure document a statement, signed by the valuator, substantially as follows:
+> > > >
+> > > > > *We refer to the formal valuation dated •, which we prepared for (indicate name of the person or company) for (briefly describe the transaction for which the formal valuation was prepared). We consent to the filing of the formal valuation with the Ontario Securities Commission and the inclusion of [a summary of the formal valuation/the formal valuation] in this document.*
+> > >
+> > > **6.8 Disclosure of Prior Valuation**
+> > >
+> > > > (1) A person or company required to disclose a prior valuation shall, in the document in which the prior valuation is required to be disclosed
+> > > >
+> > > > > (a) disclose sufficient detail to allow the readers to understand the prior valuation and its relevance to the present transaction;
+> > > > >
+> > > > > (b) indicate an address where a copy of the prior valuation is available for inspection; and
+> > > > >
+> > > > > (c) state that a copy of the prior valuation will be sent to any security holder upon request and without charge or, if the issuer or offeror providing the summary so chooses, for a nominal charge sufficient to cover printing and postage.
+> > > >
+> > > > (2) If there are no prior valuations, the existence of which is known after reasonable inquiry, the person or company that would be required to disclose prior valuations, if any existed, shall include a statement to that effect in the document.
+> > > >
+> > > > (3) Despite anything to the contrary in this Rule, disclosure of the contents of a prior valuation is not required in a document if
+> > > >
+> > > > > (a) the contents are not known to the person or company required to disclose the prior valuation;
+> > > > >
+> > > > > (b) the prior valuation is not reasonably obtainable by the person or company required to disclose it, irrespective of any obligations of confidentiality; and
+> > > > >
+> > > > > (c) the document contains statements regarding the prior valuation substantially to the effect of paragraphs (a) and (b).
+> > >
+> > > **6.9 Filing of Prior Valuation -** A person or company required to disclose a prior valuation shall file a copy of the prior valuation concurrently with the filing of the first document in which that disclosure is required.
+> > >
+> > > **6.10 Consent of Prior Valuator Not Required -** Despite section 196 of the Regulation, a person or company required to disclose a prior valuation under this Rule is not required to obtain or file the valuator's consent to the filing or disclosure of the prior valuation.
+> >
+> > **PART 7 INDEPENDENT DIRECTORS**
+> >
+> > > **7.1 Independent Directors**
+> > >
+> > > > (1) Subject to subsections (2) and (3), it is a question of fact as to whether a director of an issuer is independent.
+> > > >
+> > > > (2) A director of an issuer is not independent in connection with a transaction if he or she
+> > > >
+> > > > > (a) is an interested party in the transaction;
+> > > > >
+> > > > > (b) is currently, or has been at any time during the 12 months before the date the transaction is agreed to, an employee, associated entity or issuer insider of an interested party, or of an affiliated entity of an interested party, other than solely in his or her capacity as a director of the issuer;
+> > > > >
+> > > > > (c) is currently, or has been at any time during the 12 months before the date the transaction is agreed to, an adviser to an interested party in connection with the transaction, or an employee, associated entity or issuer insider of an adviser to an interested party in connection with the transaction, or of an affiliated entity of such an adviser, other than solely in his or her capacity as a director of the issuer;
+> > > > >
+> > > > > (d) has a material financial interest in an interested party or an affiliated entity of an interested party; or
+> > > > >
+> > > > > (e) would reasonably be expected to receive a benefit as a consequence of the transaction that is not also available on a pro rata basis to the general body of holders in Canada of offeree securities or affected securities, including, without limitation, the opportunity to obtain a financial interest in an interested party, an affiliated entity of an interested party, the issuer or a successor to the business of the issuer.
+> > > >
+> > > > (3) For the purposes of this section, in the case of an issuer bid, a director of the issuer is not, by that fact alone, not independent of the issuer.
+> >
+> > **PART 8 MINORITY APPROVAL**
+> >
+> > > **8.1 General**
+> > >
+> > > > (1) If minority approval is required for a business combination or related party transaction, it shall be obtained from the holders of every class of affected securities of the issuer, in each case voting separately as a class.
+> > > >
+> > > > (2) Subject to section 8.2, in determining minority approval for a business combination or related party transaction, an issuer shall exclude the votes attached to affected securities that, to the knowledge of the issuer or any interested party or their respective directors or senior officers, after reasonable inquiry, are beneficially owned or over which control or direction is exercised by
+> > > >
+> > > > > (a) the issuer;
+> > > > >
+> > > > > (b) an interested party;
+> > > > >
+> > > > > (c) a related party of an interested party, unless the related party meets that description solely in its capacity as a director or senior officer of one or more entities that are neither interested parties nor issuer insiders of the issuer; or
+> > > > >
+> > > > > (d) a joint actor with a person or company referred to in paragraph (b) or (c) in respect of the transaction.
+> > >
+> > > **8.2 Second Step Business Combination -** Despite subsection 8.1(2), the votes attached to securities acquired under a formal bid may be included as votes in favour of a subsequent business combination in determining whether minority approval has been obtained if
+> > >
+> > > > (a) the security holder that tendered the securities to the bid was not a joint actor with the offeror in respect of the bid;
+> > > >
+> > > > (b) the security holder that tendered the securities to the bid was not
+> > > >
+> > > > > (i) a direct or indirect party to any connected transaction to the formal bid, or
+> > > > >
+> > > > > (ii) entitled to receive, directly or indirectly, in connection with the formal bid
+> > > > >
+> > > > > > (A) consideration per offeree security that was not identical in amount and form to the entitlement of the general body of holders in Canada of securities of the same class,
+> > > > > >
+> > > > > > (B) a collateral benefit, or
+> > > > > >
+> > > > > > (C) consideration for securities of a class of equity securities of the issuer if the issuer had more than one outstanding class of equity securities, unless that consideration was not greater than the entitlement of the general body of holders in Canada of every other class of equity securities of the issuer in relation to the voting and financial participating interests in the issuer represented by the respective securities;
+> > > >
+> > > > (c) the business combination is being effected by the offeror that made the formal bid, or an affiliated entity of that offeror, and is in respect of the securities of the same class for which the bid was made and that were not acquired in the bid;
+> > > >
+> > > > (d) the business combination is completed no later than 120 days after the date of expiry of the formal bid;
+> > > >
+> > > > (e) the consideration per security that the holders of affected securities would be entitled to receive in the business combination is at least equal in value to and is in the same form as the consideration that the tendering security holders were entitled to receive in the formal bid; and
+> > > >
+> > > > (f) the disclosure document for the formal bid
+> > > >
+> > > > > (i) disclosed that if the offeror acquired securities under the formal bid, the offeror intended to acquire the remainder of the securities under a statutory right of acquisition or under a business combination that would satisfy the conditions in paragraphs (d) and (e),
+> > > > >
+> > > > > (ii) contained a summary of a formal valuation of the securities in accordance with the applicable provisions of Part 6, or contained the valuation in its entirety, if the offeror in the formal bid was subject to and not exempt from the requirement to obtain a formal valuation,
+> > > > >
+> > > > > (iii) stated that the business combination would be subject to minority approval,
+> > > > >
+> > > > > (iv) identified the securities, if known to the offeror after reasonable inquiry, the votes attached to which would be required to be excluded in determining whether minority approval for the business combination had been obtained,
+> > > > >
+> > > > > (v) identified each class of securities the holders of which would be entitled to vote separately as a class on the business combination,
+> > > > >
+> > > > > (vi) described the expected tax consequences of both the formal bid and the business combination if, at the time the bid was made, the tax consequences arising from the business combination
+> > > > >
+> > > > > > (A) were reasonably foreseeable to the offeror, and
+> > > > > >
+> > > > > > (B) were reasonably expected to be different from the tax consequences of tendering to the bid, and
+> > > > >
+> > > > > (vii) disclosed that the tax consequences of the formal bid and the business combination may be different if, at the time the bid was made, the offeror could not reasonably foresee the tax consequences arising from the business combination.
+> >
+> > **PART 9 EXEMPTION**
+> >
+> > > **9.1 Exemption -** The Director may grant an exemption to this Rule, in whole or in part, subject to such conditions or restrictions as may be imposed in the exemption.
+> >
+> > **ONTARIO SECURITIES COMMISSION**
+> >
+> > **COMPANION POLICY 61-501CP**
+> >
+> > **TO ONTARIO SECURITIES COMMISSION RULE 61-501**
+> >
+> > **INSIDER BIDS, ISSUER BIDS, BUSINESS COMBINATIONS**
+> >
+> > **AND RELATED PARTY TRANSACTIONS**
+> >
+> > **PART 1 GENERAL**
+> >
+> > > **1.1 General -** The Commission regards it as essential, in connection with the disclosure, valuation, review and approval processes followed for insider bids, issuer bids, business combinations and related party transactions, that all security holders be treated in a manner that is fair and that is perceived to be fair. In the view of the Commission, issuers and others who benefit from access to the capital markets assume an obligation to treat security holders fairly, and the fulfilment of this obligation is essential to the protection of the public interest in maintaining capital markets that operate efficiently, fairly and with integrity.
+> > >
+> > > The Commission does not consider that the types of transactions covered by Rule 61-501 (the "Rule") are inherently unfair. The Commission recognizes, however, that these transactions are capable of being abusive or unfair, and has made the Rule to address this.
+> > >
+> > > This Policy expresses the Commission's views on certain matters related to the Rule.
+> >
+> > **PART 2 INTERPRETATION**
+> >
+> > > **2.1 Equal Treatment of Security Holders**
+> > >
+> > > > (1) **Security Holder Choice -** The definitions of business combination, collateral benefit and interested party, as well as other provisions in the Rule, include the concept of identical treatment of security holders in a transaction. For the purposes of the Rule, if security holders have an identical opportunity under a transaction, then they are considered to be treated identically. For example, if, under the terms of a business combination, each security holder has the choice of receiving, for each affected security, either $10 in cash or one common share of ABC Co., the Commission regards the security holders as having identical entitlements in amount and form, and as receiving identical treatment, even though they may not all make the same choice. This interpretation also applies where the Rule refers to consideration that is "at least equal in value" and "in the same form", such as in the provisions on second step business combinations.
+> > > >
+> > > > (2) **Multiple Classes of Equity Securities -** The definitions of business combination and interested party, and the provisions on second step business combinations in section 8.2 of the Rule, refer to circumstances where an issuer carrying out a business combination or related party transaction has more than one class of equity securities. The Rule's treatment of these transactions depends on whether the entitlements of the holders of one class under the transaction are greater than those of the holders of the other classes in relation to the voting and financial participating interests in the issuer represented by the respective securities.
+> > > >
+> > > > For example: An issuer has outstanding Subordinate Voting Shares carrying one vote per share, and Multiple Voting Shares carrying ten votes per share, with the shares of the two classes otherwise carrying identical rights. Under the terms of a business combination, holders of the Subordinate Voting Shares will receive $10 per share. For the Multiple Voting shareholders to be regarded as not being entitled to greater consideration than the Subordinate Voting shareholders under the Rule, the Multiple Voting shareholders must receive no more than $10 per share. As a second example: An issuer has the same share structure as the issuer in the first example. Under the terms of a business combination, Subordinate Voting shareholders will receive, for each Subordinate Voting Share, $10 and one Subordinate Voting Share of a successor issuer, carrying one vote per share. For the Multiple Voting shareholders to be regarded as not being entitled to greater consideration than the Subordinate Voting shareholders under the Rule, the Multiple Voting shareholders must receive, for each Multiple Voting Share, no more than $10 and one Multiple Voting Share of the successor issuer, carrying no more than ten votes per share and otherwise carrying no greater rights than those of the Subordinate Voting Shares of the successor issuer.
+> > > >
+> > > > (3) **Related Party Holding Securities of Other Party to Transaction -** The Rule sets out specific criteria for determining related party and interested party status. Without limiting the application of those criteria, a related party of an issuer is not considered to be treated differently from other security holders of the issuer in a transaction, or to receive a collateral benefit, solely by reason of being a security holder of another party to the transaction. For example, if ABC Co. proposes to amalgamate with XYZ Co., the fact that a director of ABC Co., who is not a control block holder of ABC Co., owns common shares of XYZ Co. (but less than 50 per cent) will not, in and of itself, cause the amalgamation to be considered a business combination for ABC Co. under the Rule.
+> > > >
+> > > > (4) **Consolidation of Securities -** One of the methods that may be used to effect a business combination is a consolidation of an issuer's securities at a ratio that eliminates the entire holdings of most holders of affected securities, through the elimination of post-consolidated fractional interests. Where this or a similar method is used, the security holders whose entire holdings are not eliminated are not considered to be treated identically to the general body of security holders under the Rule.
+> > > >
+> > > > (5) **Principle of Equal Treatment in Business Combinations -** The Rule contemplates that a related party of an issuer might not be treated identically to all other security holders in the context of a business combination in which a person or company other than that related party acquires the issuer. There are provisions in the Rule, including the minority approval requirement, that are intended to address this circumstance. Despite these provisions, the Commission is of the view that, as a general principle, security holders should be treated equally in the context of a business combination, and that differential treatment is only justified if its benefits to the general body of security holders outweigh the principle of equal treatment. While the Commission will generally rely on an issuer's review and approval process, in combination with the provisions of the Rule, to achieve fairness for security holders, the Commission may intervene if it appears that differential treatment is not reasonably justified. Giving a security holder preferential treatment in order to obtain that holder's support of the transaction will not normally be considered justifiable.
+> > >
+> > > **2.2 Joint Actors in Bids -** The definition of joint actor in the Rule incorporates the interpretation of the term "acting jointly or in concert" in section 91 of the Act, subject to certain qualifications. Among other things, the concept is relevant in determining whether a take-over bid is an insider bid under the Rule and whether securities acquired by an offeror in a formal bid can be included in a minority approval vote regarding a second step business combination under section 8.2 of the Rule. Without limiting the application of the definition, the Commission is of the view that, for a formal bid, an offeror and an insider may be viewed as joint actors if an agreement, commitment or understanding between the offeror and the insider provides that the insider shall not tender to the bid, or provides the insider with an opportunity not offered to all security holders to maintain or acquire a direct or indirect equity interest in the offeror, the issuer or a material asset of the issuer.
+> > >
+> > > **2.3 Director for Purposes of Section 1.2** - **Liquid Market -** Subsection 1.2(3) of the Rule requires a letter to be sent to the Director for purposes of satisfying the liquid market test in certain circumstances. That letter should be sent to the Director, Take-over/Issuer Bids, Mergers & Acquisitions.
+> > >
+> > > **2.4 Direct or Indirect Parties to a Transaction**
+> > >
+> > > > (1) The Rule makes references to direct and indirect parties to a transaction in the definition of connected transactions and in subparagraph 8.2(b)(i) regarding minority approval for a second step business combination. For the purposes of the Rule, a person or company is considered to be an indirect party if, for example, a direct party to the transaction is a subsidiary entity, nominee or agent of the person or company. A person or company is not an indirect party merely because it negotiates or approves the transaction on behalf of a party, holds securities of a party or agrees to support the transaction in the capacity of a security holder of a party.
+> > > >
+> > > > (2) For the purposes of the Rule, the Commission does not consider an entity to be a direct or indirect party to a business combination solely because the entity receives pro rata consideration in its capacity as a security holder of the issuer carrying out the business combination.
+> > >
+> > > **2.5 Amalgamations -** Under the Rule, an amalgamation may be a business combination, related party transaction or neither, depending on the circumstances. For example, an amalgamation is a business combination for an issuer if, as a consequence of the amalgamation, holders of equity securities of the issuer become security holders of the amalgamated entity, unless an exception in one of the lettered paragraphs in the definition of business combination applies. An amalgamation is a related party transaction for an issuer rather than a business combination if, for example, a wholly-owned subsidiary entity of the issuer amalgamates with a related party of the issuer, leaving the equity securities of the issuer unaffected.
+> > >
+> > > **2.6 Transactions Involving More than One Reporting Issuer -** The characterization of a transaction or the availability of a valuation or minority approval exemption under the Rule must be considered individually for each reporting issuer involved in the transaction. For example, an amalgamation may be a downstream transaction for one party and a business combination for the other, in which case the latter party is the only party to whom the requirements of the Rule may apply.
+> > >
+> > > **2.7 Previous Arm's Length Negotiations Exemption**
+> > >
+> > > > (1) For the purposes of the formal valuation exemptions based on previous arm's length negotiations in paragraph 3 of subsection 2.4(1) and paragraph 3 of subsection 4.4(1) of the Rule for insider bids and business combinations, respectively, the arm's length relationship must be between the selling security holder and all persons or companies that negotiated with the selling security holder.
+> > > >
+> > > > (2) The Commission notes that the previous arm's length negotiations exemption is based on the view that those negotiations can be a substitute for a valuation. An important requirement for the exemption to be available is that the offeror or proponent of the business combination, as the case may be, engages in "reasonable inquiries" to determine whether various circumstances exist. In the Commission's view, if this requirement cannot be satisfied through receipt of representations of the parties directly involved or some other suitable method, the offeror or proponent of the transaction is not entitled to rely on this exemption.
+> > >
+> > > **2.8 Connected Transactions**
+> > >
+> > > > (1) "Connected transactions" is a defined term in the Rule, and reference is made to connected transactions in a number of parts of the Rule. For example, subparagraph 2(c) of section 5.5 of the Rule requires connected transactions to be aggregated, in certain circumstances, for the purpose of determining the availability of the formal valuation exemption for a related party transaction that is not larger than 25 per cent of the issuer's market capitalization. In other circumstances, it is possible for an issuer to rely on an exemption for each of two or more connected transactions. However, the Commission may intervene if it believes that a transaction is being carried out in stages or otherwise divided up for the purpose of avoiding the application of a provision of the Rule.
+> > > >
+> > > > (2) One method of acquiring all the securities of an issuer is through a plan of arrangement or similar process comprised of a series of two or more interrelated steps. The series of steps is the "transaction" for the purposes of the definition of business combination. However, a related party transaction that is carried out in conjunction with a business combination, and that is not simply one of the procedural steps in implementing the acquisition of the affected securities in the business combination, is subject to the Rule's requirements for related party transactions. This applies where, for example, a related party buys some of the issuer's assets that the acquirer in the business combination does not want.
+> > > >
+> > > > (3) An agreement, commitment or understanding that a security holder will tender to a formal bid or vote in favour of a transaction is not, in and of itself, a connected transaction to the bid or to the transaction for purposes of the Rule.
+> > >
+> > > **2.9 Time of Agreement -** A number of provisions in the Rule refer to the time a business combination or related party transaction is agreed to. This should be interpreted as the time the issuer first makes a legally binding commitment to proceed with the transaction, subject to any conditions such as security holder approval. Where the issuer does not technically negotiate the transaction with another party, such as in the case of a share consolidation, the time the transaction is agreed to should be interpreted as the time at which the issuer's board of directors determines to proceed with the transaction, subject to any conditions.
+> > >
+> > > **2.10 "Acquire the Issuer" -** In some definitions and elsewhere in the Rule, reference is made to a transaction in which a related party would "directly or indirectly acquire the issuer ... through an amalgamation, arrangement or otherwise, whether alone or with joint actors". This refers to the acquisition of all of the issuer, not merely the acquisition of a control position. For example, a related party "acquires" an issuer when it acquires all of the securities of the issuer that it does not already own, even if that related party held a control position in the issuer prior to the transaction.
+> >
+> > **PART 3 MINORITY APPROVAL**
+> >
+> > > **3.1 Meeting Requirement -** The definition of minority approval and subsections 4.2(2) and 5.3(2) of the Rule provide that minority approval, if required, must be obtained at a meeting of holders of affected securities. The issuer may be able to demonstrate that holders of a majority of the securities that would be eligible to be voted at a meeting would vote in favour of the transaction under consideration. In this circumstance, the Director will consider granting an exemption under section 9.1 of the Rule from the requirement to hold a meeting, conditional on security holders being provided with disclosure similar to that which would be available to them if a meeting were held.
+> > >
+> > > **3.2 Second Step Business Combination Following an Unsolicited Take-over Bid -** Section 8.2 of the Rule allows the votes attached to securities acquired under a formal bid to be included as votes in favour of a subsequent business combination in determining whether minority approval has been obtained if certain conditions are met. One of the conditions is that the security holder that tendered the securities in the bid not receive an advantage in connection with the bid, such as a collateral benefit, that was not available to other security holders. There may be circumstances where this condition could cause difficulty for an offeror who wishes to acquire all of an issuer through a business combination following a bid that was unsolicited by the issuer. For example, in order to establish that a benefit received by a tendering security holder is not a collateral benefit under the Rule, the offeror may need the cooperation of an independent committee of the offeree issuer during the bid. This cooperation may not be forthcoming if the bid is unfriendly. In this type of circumstance, the fact that the bid was unsolicited would normally be a factor the Director would take into account in considering whether exemptive relief should be granted to allow the securities to be voted.
+> > >
+> > > **3.3 Special Circumstances -** As the purpose of the Rule is to ensure fair treatment of minority security holders, abusive minority tactics in a situation involving a minimal minority position may cause the Director to grant an exemption from the requirement to obtain minority approval. Where an issuer has more than one class of equity securities, exemptive relief may also be appropriate if the Rule's requirement of separate minority approval for each class could result in unfairness to security holders who are not interested parties, or if the policy objectives of the Rule would be accomplished by the exclusion of an interested party's votes in one or more, but not all, of the separate class votes.
+> >
+> > **PART 4 FORM 33 DISCLOSURE**
+> >
+> > > **4.1 Insider Bids - Form 33 Disclosure -** Form 32 of the Regulation (the form for a take-over bid circular) requires, for an insider bid, and subsection 2.2(2) of the Rule requires for a stock exchange insider bid, the disclosure required by Form 33 of the Regulation, appropriately modified. In the view of the Commission, Form 33 disclosure would generally include, in addition to Form 32 disclosure, disclosure for the following items, with necessary modifications, in the context of an insider bid:
+> > >
+> > > > 1. Item 10 - Reasons for Bid
+> > > >
+> > > > 2. Item 14 - Acceptance of Bid
+> > > >
+> > > > 3. Item 15 - Benefits from Bid
+> > > >
+> > > > 4. Item 17 - Other Benefits to Insiders, Affiliates and Associates
+> > > >
+> > > > 5. Item 18 - Arrangements Between Issuer and Security Holder
+> > > >
+> > > > 6. Item 19 - Previous Purchases and Sales
+> > > >
+> > > > 7. Item 21 - Valuation
+> > > >
+> > > > 8. Item 24 - Previous Distribution
+> > > >
+> > > > 9. Item 25 - Dividend Policy
+> > > >
+> > > > 10. Item 26 - Tax Consequences
+> > > >
+> > > > 11. Item 27 - Expenses of Bid
+> > >
+> > > **4.2 Business Combinations and Related Party Transactions - Form 33 Disclosure -** Paragraphs 4.2(3)(a) and 5.3(3)(a) of the Rule require in the information circulars for a business combination and a related party transaction, respectively, the disclosure required by Form 33 of the Regulation, to the extent applicable and with necessary modifications. In the view of the Commission, Form 33 disclosure would generally include disclosure for the following items, with necessary modifications, in the context of those transactions:
+> > >
+> > > > 1. Item 5 - Consideration Offered
+> > > >
+> > > > 2. Item 10 - Reasons for Bid
+> > > >
+> > > > 3. Item 11 - Trading in Securities to be Acquired
+> > > >
+> > > > 4. Item 12 - Ownership of Securities of Issuer
+> > > >
+> > > > 5. Item 13 - Commitments to Acquire Securities of Issuer
+> > > >
+> > > > 6. Item 14 - Acceptance of Bid
+> > > >
+> > > > 7. Item 15 - Benefits from Bid
+> > > >
+> > > > 8. Item 16 - Material Changes in the Affairs of Issuer
+> > > >
+> > > > 9. Item 17 - Other Benefits to Insiders, Affiliates and Associates
+> > > >
+> > > > 10. Item 18 - Arrangements Between Issuer and Security Holder
+> > > >
+> > > > 11. Item 19 - Previous Purchases and Sales
+> > > >
+> > > > 12. Item 20 - Financial Statements
+> > > >
+> > > > 13. Item 21 - Valuation
+> > > >
+> > > > 14. Item 22 - Securities of Issuer to be Exchanged for Others
+> > > >
+> > > > 15. Item 23 - Approval of Bid
+> > > >
+> > > > 16. Item 24 - Previous Distribution
+> > > >
+> > > > 17. Item 25 - Dividend Policy
+> > > >
+> > > > 18. Item 26 - Tax Consequences
+> > > >
+> > > > 19. Item 27 - Expenses of Bid
+> > > >
+> > > > 20. Item 28 - Judicial Developments
+> > > >
+> > > > 21. Item 29 - Other Material Facts
+> > > >
+> > > > 22. Item 30 - Solicitations
+> >
+> > **PART 5 FORMAL VALUATIONS**
+> >
+> > > **5.1 General**
+> > >
+> > > > (1) The Rule requires formal valuations in a number of circumstances. The Commission is of the view that a conclusory statement of opinion as to the value or range of values of the subject matter of a valuation does not by itself fulfil this requirement.
+> > > >
+> > > > (2) The disclosure standards for formal valuations in By-laws 29.14 to 29.23 of the Investment Dealers Association of Canada and Appendix A to Standard No. 110 of the Canadian Institute of Chartered Business Valuators each generally represent a reasonable approach to meeting the applicable legal requirements. Specific disclosure standards, however, cannot be construed as a substitute for the professional judgment and responsibility of the valuator and, on occasion, additional disclosure may be necessary.
+> > > >
+> > > > (3) An issuer that is required to obtain a formal valuation, or the offeree issuer in the case of an insider bid, should work in cooperation with the valuator to ensure that the requirements of the Rule are satisfied. At the valuator's request, the issuer should promptly furnish the valuator with access to the issuer's management and advisers, and to all material information in the issuer's possession relevant to the formal valuation. The valuator is expected to use that access to perform a comprehensive review and analysis of information on which the formal valuation is based. The valuator should form its own independent views of the reasonableness of this information, including any forecasts, projections or other measurements of the expected future performance of the enterprise, and of any of the assumptions on which it is based, and adjust the information accordingly.
+> > > >
+> > > > (4) The disclosure in the valuation of the scope of review should include a description of any limitation on the scope of the review and the implications of the limitation on the valuator's conclusion. Scope limitations should not be imposed by the issuer, an interested party or the valuator, but should be limited to those beyond their control that arise solely as a result of unusual circumstances. In addition, it is inappropriate for any interested party to exercise or attempt to exercise any influence over a valuator.
+> > > >
+> > > > (5) Subsection 2.3(2) of the Rule provides that in the context of an insider bid, an independent committee of the offeree issuer shall, and the offeror shall enable the independent committee to, determine who the valuator will be and supervise the preparation of the formal valuation. Although the subsection also requires the independent committee to use its best efforts to ensure that the valuation is completed and provided to the offeror in a timely manner, the Commission is aware that an independent committee could attempt to use the subsection to delay or impede an insider bid viewed by the committee as unfriendly. In a situation where an offeror is of the view that an independent committee is not acting in a timely manner in having the formal valuation prepared, the offeror may seek relief under section 9.1 of the Rule from the requirement that the offeror obtain a valuation.
+> > > >
+> > > > (6) Similarly, in circumstances where an independent committee is of the view that a bid that has been announced will not actually be made or that the bid is not being made in good faith, the independent committee may apply for relief from the requirements of subsection 2.3(2) of the Rule.
+> > > >
+> > > > (7) National Policy 48 - *Future-Oriented Financial Information* does not apply to a formal valuation for which financial forecasts and projections are relied on and disclosed.
+> > >
+> > > **5.2 Independent Valuators -** While, except in certain prescribed situations, the Rule provides that it is a question of fact as to whether a valuator (which for the purposes of this section includes a person or company providing a liquidity opinion) is independent, situations have been identified in the past that raise serious concerns for the Commission. These situations, which are set out below, must be assessed for materiality by the board or committee responsible for choosing the valuator, and disclosed in the disclosure document for the transaction. In determining the independence of the valuator from an interested party, relevant factors may include whether
+> > >
+> > > > (a) the valuator or an affiliated entity of the valuator has a material financial interest in future business under an agreement, commitment or understanding involving the issuer, the interested party or an associated or affiliated entity of the issuer or interested party;
+> > > >
+> > > > (b) during the 24 months before the valuator was first contacted for the purpose of the formal valuation or opinion, the valuator or an affiliated entity of the valuator
+> > > >
+> > > > > (i) had a material involvement in an evaluation, appraisal or review of the financial condition of the interested party, or an associated or affiliated entity of the interested party, other than the issuer,
+> > > > >
+> > > > > (ii) had a material involvement in an evaluation, appraisal or review of the financial condition of the issuer, or an associated or affiliated entity of the issuer, if the evaluation, appraisal or review was carried out at the direction or request of the interested party or paid for by the interested party, other than the issuer in the case of an issuer bid,
+> > > > >
+> > > > > (iii) acted as a lead or co-lead underwriter of a distribution of securities by the interested party, or acted as a lead or co-lead underwriter of a distribution of securities by the issuer if the retention of the underwriter was carried out at the direction or request of the interested party or paid for by the interested party, other than the issuer in the case of an issuer bid,
+> > > > >
+> > > > > (iv) had a material financial interest in a transaction involving the interested party, other than the issuer in the case of an issuer bid, or
+> > > > >
+> > > > > (v) had a material financial interest in a transaction involving the issuer other than by virtue of performing the services referred to in subparagraph (b)(ii) or (b)(iii); or
+> > > >
+> > > > (c) the valuator or an affiliated entity of the valuator is
+> > > >
+> > > > > (i) a lead or co-lead lender or manager of a lending syndicate in respect of the transaction in question, or
+> > > > >
+> > > > > (ii) a lender of a material amount of indebtedness in a situation where the interested party or the issuer is in financial difficulty, and the transaction would reasonably be expected to have the effect of materially enhancing the lender's position.
+> >
+> > **PART 6 ROLE OF DIRECTORS**
+> >
+> > > **6.1 Role of Directors**
+> > >
+> > > > (1) Paragraphs 2.2(32)(d), 3.2(1)(e), 4.2(3)(ef), 5.2(1)(e) and 5.3(3)(f) of the Rule require that the disclosure for the applicable transaction include a discussion of the review and approval process adopted by the board of directors and the special committee, if any, of the issuer, including any materially contrary view or abstention by a director and any material disagreement between the board and the special committee.
+> > > >
+> > > > (2) An issuer involved in any of the types of transactions regulated by the Rule should provide sufficient information to security holders to enable them to make an informed decision. Accordingly, the directors should disclose their reasonable beliefs as to the desirability or fairness of the proposed transaction and make useful recommendations regarding the transaction. A statement that the directors are unable to make or are not making a recommendation regarding the transaction, without detailed reasons, generally would be viewed as insufficient disclosure.
+> > > >
+> > > > (3) In reaching a conclusion as to the fairness of a transaction, the directors should disclose in reasonable detail the material factors on which their beliefs regarding the transaction are based. Their disclosure should discuss fully the background of deliberations by the directors and any special committee, and any analysis of expert opinions obtained.
+> > > >
+> > > > (4) The factors that are important in determining the fairness of a transaction to security holders and the weight to be given to those factors in a particular context will vary with the circumstances. Normally, the factors considered should include whether the transaction is subject to minority approval, whether the transaction has been reviewed and approved by a special committee and, if there has been a formal valuation, whether the consideration offered is fair in relation to the valuation conclusion arrived at through the application of the valuation methods considered relevant for the subject matter of the formal valuation. A statement that the directors have no reasonable belief as to the desirability or fairness of the transaction or that the transaction is fair in relation to values arrived at through the application of valuation methods considered relevant, without more, generally would be viewed as insufficient disclosure.
+> > > >
+> > > > (5) The directors of an issuer involved in a transaction regulated by the Rule are generally in the best position to assess the formal valuation to be provided to security holders. Accordingly, the Commission is of the view that, in discharging their duty to security holders, the directors should consider the formal valuation and all prior valuations disclosed and discuss them fully in the applicable disclosure document.
+> > > >
+> > > > (6) To safeguard against the potential for an unfair advantage for an interested party as a result of that party's conflict of interest or informational or other advantage in connection with the proposed transaction, it is good practice for negotiations for a transaction involving an interested party to be carried out by or reviewed and reported upon by a special committee of disinterested directors. Following this practice normally would assist in addressing the Commission's interest in maintaining capital markets that operate efficiently, fairly and with integrity. While the Rule only mandates an independent committee in limited circumstances, the Commission is of the view that it generally would be appropriate for issuers involved in a material transaction to which the Rule applies to constitute an independent committee of the board of directors for the transaction. Where a formal valuation is involved, the Commission also would encourage an independent committee to select the valuator, supervise the preparation of the valuation and review the disclosure regarding the valuation.
+> > > >
+> > > > (7) A special committee should, in the Commission's view, include only directors who are independent from the interested party. While a special committee may invite non-independent board members and other persons possessing specialized knowledge to meet with, provide information to, and carry out instructions from, the committee, in the Commission's view non-independent persons should not be present at or participate in the decision-making deliberations of the special committee.

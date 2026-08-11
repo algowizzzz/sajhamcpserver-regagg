@@ -7,6 +7,13 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/press-release-financial-stability-report-december-2017-2017-12-20_en"
 version: "1"
 ---
+[Skip to main content](#main-content)
+
+# Press Release Financial Stability Report December 2017
+
+* News article
+* 20 December 2017
+* 1 min read
 
 Publication date
 :   20 December 2017

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/revenu-negociation-revenu-negociation-titres-du-gouvernement-du-canada-a3"
 version: "1"
 ---
-
 # Revenu de négociation et revenu de négociation des titres du Gouvernement du Canada (A3)
 
 Information

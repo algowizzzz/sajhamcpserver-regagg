@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/advisory-2017-01-restrictions-use-words-bank-banker-banking"
 version: "1"
 ---
-
 # Advisory 2017-01 – Restrictions on the use of the words “bank”, “banker” and “banking”
 
 Information

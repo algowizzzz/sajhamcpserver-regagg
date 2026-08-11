@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/final-report-draft-implementing-technical-standards-certain-tasks-collection-bodies-and-certain_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

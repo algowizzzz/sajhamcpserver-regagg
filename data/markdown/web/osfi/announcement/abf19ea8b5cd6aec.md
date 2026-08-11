@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/transaction-instructions/part-xii-establishment-maintenance-or-acquisition-use-canada-automated-banking-machines"
 version: "1"
 ---
-
 # Part XII: Establishment, maintenance or acquisition for use in Canada of automated banking machines
 
 Information

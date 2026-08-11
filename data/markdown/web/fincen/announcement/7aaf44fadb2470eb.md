@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/state-coordinators-case-example-elder-abuse-financial"
 version: "1"
 ---
-
 # State Coordinator’s Case Example (Elder Abuse-Financial)
 
 [Issue22-story5.pdf](/system/files/case_example/Issue22-story5.pdf "Issue22-story5.pdf")

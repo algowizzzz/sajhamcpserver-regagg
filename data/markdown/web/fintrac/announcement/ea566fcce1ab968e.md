@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/atip-aiprp/infosource-eng.php"
 version: "1"
 ---
-
 # Info Source
 
 ## On this page

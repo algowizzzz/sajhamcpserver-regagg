@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/esas-launch-survey-environmental-andor-social-financial-product-templates-2020-09-21_en"
 version: "1"
 ---
-
 ![EU survey on ESG templates](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-09/adobestock_252168528_coloured_pencils_variety_multicolor-950-550px.png?itok=QKhO7YCw "EU survey on ESG templates")
 
 **The European Supervisory Authorities (EBA, EIOPA and ESMA - ESAs) published today a [survey](https://ec.europa.eu/eusurvey/runner/ESGtemplatesSFDR) seeking public feedback on presentational aspects of product templates**, pursuant to Article 8(3), Article 9(5) and Article 11(4) of the Regulation on sustainability‐related disclosures in the financial services (SFDR). **The survey is open for comments until 16 October 2020.**

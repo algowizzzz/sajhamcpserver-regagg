@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/report-results-mcrcs-ye2017_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

@@ -7,4 +7,162 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/ci-investments-inc-24"
 version: "1"
 ---
+# CI Investments Inc.
 
+Decision
+
+## September 10, 2010
+
+Headnote
+
+National Policy 11-203 Process for Exemptive Relief Applications in Multiple Jurisdictions -- Relief granted from section 12.1 of National Instrument 31-103 Registration Requirements and Exemptions -- Registrant exempted from including full amount of guarantee on Line 11 of Form 31-103F1 Calculation of Excess Working Capital -- Registrant guaranteed debt of parent company prior to the implementation of NI 31-103 -- Among the conditions and restrictions on the exemption are requirements that an alternate amount be included on Line 11 of Form 31-103F1, the registrant continues to be the wholly-owned subsidiary of the debtor, and client assets are custodied with a third party custodian.
+
+**Applicable Legislative Provisions**
+
+Multilateral Instrument 11-102 Passport System, s. 4.7.
+
+National Instrument 31-103 Registration Requirements and Exemptions, ss. 12.1, 15.1, 16.11.
+
+**September 10, 2010**
+
+**IN THE MATTER OF**
+
+**THE SECURITIES LEGISLATION OF**
+
+**ONTARIO**
+
+**(the Jurisdiction)**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**THE PROCESS FOR EXEMPTIVE RELIEF**
+
+**APPLICATIONS IN MULTIPLE JURISDICTIONS**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**CI INVESTMENTS INC.**
+
+**(the Filer)**
+
+**DECISION**
+
+**Background**
+
+The principal regulator in the Jurisdiction has received an application from the Filer for a decision under the securities legislation of the Jurisdiction of the principal regulator (the Legislation) for an exemption under section 15.1 of NI 31-103 from the requirement in section 12.1 of NI 31-103 that the Filer calculate its excess working capital using Form 31-103F1 by deducting the Guarantees (as that term is defined herein) as required by Line 11 of Form 31-103F1 (the Exemption Sought).
+
+Under the Process for Exemptive Relief Applications in Multiple Jurisdictions (for a passport application):
+
+> (a) the OSC is the principal regulator for this application; and
+>
+> (b) the Filer has provided notice that section 4.7(1) of Multilateral Instrument 11-102 *Passport System* (MI 11-102) is intended to be relied upon in all of the provinces and territories of Canada (other than the Jurisdiction).
+
+**Interpretation**
+
+Terms defined in National Instrument 14-101 *Definitions* and MI 11-102 have the same meaning if used in this decision, unless otherwise defined.
+
+The following terms shall have the following meanings:
+
+> (a) "**CIX**" means CI Financial Corp.
+>
+> (b) "**CIX Credit Facility**" means the revolving credit facility of CIX with The Bank of Nova Scotia, which currently permits CIX to draw down amounts to a maximum of $250 million, and includes any increase, replacement or renewal of the CIX Credit Facility during the period that the CIX Debentures are outstanding.
+>
+> (c) "**CIX Debentures**" means an aggregate of $550 million principal amount of debentures issued by CIX comprised of $100 million principal amount of floating rate debentures due December 16, 2011; $250 million principal amount of 3.30% debentures due December 17, 2012; and $200 million principal amount of 4.19% debentures due December 16, 2014.
+>
+> (d) "**CIX Debt**" means the indebtedness of CIX under:
+>
+> > (i) the CIX Credit Facility; and
+> >
+> > (ii) the CIX Debentures.
+>
+> (e) "**Guarantees**" means the full and unconditional guarantees by the Filer of the CIX Debt.
+>
+> (f) "**NI 31-103**" means National Instrument 31-103 *Registration Requirements and Exemptions*.
+>
+> (g) "**OSC**" means the Ontario Securities Commission.
+
+**Representations**
+
+This decision is based on the following facts represented by the Filer:
+
+> 1. The Filer is a corporation established under the laws of Ontario with its head office located in Toronto, Ontario.
+>
+> 2. The Filer is registered with the OSC as an adviser (portfolio manager), exempt market dealer, commodity trading counsel and commodity trading manager. The Filer is also registered as an adviser (portfolio manager) in each of the other provinces of Canada. The Filer may in the future become registered in the territories of Canada.
+>
+> 3. The Filer also acts as an investment fund manager within the meaning of NI 31-103 and therefore will apply to the OSC for registration in that capacity as required by the Legislation before the end of the transition period established by NI 31-103.
+>
+> 4. The Filer is not a reporting issuer in any jurisdiction of Canada and is not, to its knowledge, in default of securities regulation in any jurisdiction of Canada.
+>
+> 5. The Filer is one of Canada's leading investment fund managers. In its capacity as investment fund manager, as of July 31, 2010, the Filer manages approximately 172 publicly distributed mutual funds and 21 closed -- end investment funds, as well as 335 segregated funds. The Filer's managed funds are known collectively as the CI Funds. The Filer's assets under management as of July 31, 2010 were $67.1 billion. All of the Filer's assets under management are held by third party custodians as required by applicable securities legislation.
+>
+> 6. The Filer is a wholly-owned subsidiary of CIX, which is a reporting issuer in each province of Canada and whose common shares are listed on the Toronto Stock Exchange. CIX has a market capitalization of over $5.5 billion. CIX is a financially robust public company, with relatively little indebtedness. The CIX Debentures are favourably rated by DBRS Limited and Standard & Poor's credit rating agencies. CIX is not, and has never been in breach of any of its financial covenants.
+>
+> 7. The Bank of Nova Scotia owns 104.6 million common shares of CIX, which represents 36.3 percent of the outstanding shares. As such, The Bank of Nova Scotia is the largest shareholder of CIX.
+>
+> 8. The Filer generates approximately 95 percent of the revenues of CIX and the market capitalization of CIX is directly related to the value of the Filer.
+>
+> 9. CIX and the Filer have common management and the Board of Directors of the Filer is comprised of members of the CIX senior executive team. There is a commonality of purpose between the two organizations and management has a fiduciary responsibility to ensure that both entities are operated in the best interests of all stakeholders.
+>
+> 10. As the major operating subsidiary of CIX, the Filer is a guarantor of the CIX Debt under the Guarantees.
+>
+> 11. CIX had previously obtained all of its required debt financing through a secured credit facility with certain Canadian chartered banks, which had been in place since December 2003. By 2008, this credit facility permitted CIX to borrow up to $1.25 billion. The Filer was an unconditional guarantor of this credit facility, which fact was disclosed in its financial statements (via the note disclosure required by Canadian Generally Accepted Accounting Principles) filed with the OSC to maintain its registration status. Under the mandated pre-NI 31-103 working capital requirements, the Filer's working capital was unaffected by this guarantee.
+>
+> 12. CIX restructured its long-term debt in December 2009, primarily to reduce its financing costs. During 2009, CIX reduced the amount that could be borrowed under the facility referred to above and in December replaced it with the CIX Debt. The CIX Debt consists of:
+>
+> > (a) The CIX Credit Facility. As of July 31, 2010 CIX had drawn down $121 million under the CIX Credit Facility. The CIX Credit Facility contains covenants that require CIX and its subsidiaries to maintain debt to EBITDA of no more than 2.5:1 and assets under management of not less than $35 billion, calculated based on a rolling thirty day average. CIX is, and always has been in compliance with these covenants. CIX currently has debt to EBITDA of approximately 1:1 and over $67 billion in assets under management. On August 9, 2010, CIX renewed the CIX Credit Facility for a further 364 days.
+> >
+> > (b) The CIX Debentures. On December 16, 2009, CIX completed its first public offering of the CIX Debentures. The proceeds of this offering were used to pay down a portion of CIX's then existing long-term debt. As of July 31, 2010, the CIX Debentures are rated as BBB+ with a "Stable Outlook" by Standard & Poor's and as A (low) with a "Stable" trend by DBRS Limited. CIX is not in default and never has been in default of any of the financial covenants in favour of the holders of the CIX Debentures.
+>
+> 13. The Filer guaranteed the CIX Debentures at the request of CIX who had been advised that in order to obtain the most advantageous financial terms the CIX Debentures should rank *pari passu* to the CIX Credit Facility. The Guarantee was not provided in response to a suggestion that CIX's primary obligation required any support.
+>
+> 14. The Filer currently calculates its working capital as required by the Legislation and the equivalent sections in the other provincial securities regulations and maintains the required working capital.
+>
+> 15. NI 31-103 came into force on September 28, 2009, but provided all existing registrants with a year's transition before registrants must comply with the new working capital requirements and method of calculation required by Form 31-103F1. Under section 12.1 of NI 31-103, as of September 28, 2010, the Filer will be required to maintain minimum capital of at least $100,000 (the highest capital requirement due to its activities as an investment fund manager), and will be required to calculate its excess working capital in accordance with Form 31-103F1. As a result of the Guarantees, Line 11 of Form 31-103F1 would require the Filer to deduct the entire amount of the CIX Debt from its adjusted working capital otherwise calculated.
+>
+> 16. It is not commercially practical for the Filer to maintain the excess working capital otherwise required by Form 31-103F1, nor is it commercially practical for the Filer to cease to be a guarantor of CIX Debt. There is no reasonable indication that CIX will not be able to meet its financial obligations as they become due in the foreseeable future and CIX has agreed with the Filer to use all commercially reasonable efforts to refinance the CIX Debt in order to avoid any lender calling upon the Filer to pay under the Guarantees. Accordingly, it is very unlikely that the Filer will be called to perform under the Guarantees.
+>
+> 17. CIX is confident that even in the event that financial markets were to suffer a significant downturn, the Filer, when combined with CIX's other operations, will generate more than sufficient cash to service the CIX Debt and repay it as it comes due. In any event, CIX expects that, if it were necessary to restructure the CIX Debt, it could complete any necessary restructuring within a 3 month period.
+>
+> 18. The total amount of the CIX Debt is less than 10 percent of CIX's enterprise value and less than 12 percent of its market capitalization.
+>
+> 19. The total aggregate CIX Debt guaranteed by the Filer under the Guarantees will not, at any one time, exceed $800 million. The Filer's Guarantee of the CIX Debentures will end once the last of the CIX Debentures are repaid on or before December 16, 2014. Once the CIX Debentures are repaid, CIX expects that it will be able to negotiate with its lenders to have the Guarantee removed from the CIX Credit Facility as soon as possible thereafter and in any event by June 30, 2015.
+>
+> 20. The Filer will not guarantee any indebtedness other than the CIX Debt without calculating its excess working capital in accordance with Form 31-103F1 with respect to that additional guarantee or obtaining additional regulatory approval in respect of the guarantee and its excess working capital.
+>
+> 21. The Exemption Sought is necessary to permit the Filer to continue to be a registrant with the OSC and the other securities commissions in Canada and to maintain its principal business as a sponsor and manager of investment funds.
+
+**Decision**
+
+The principal regulator is satisfied that the decision meets the test set out in the Legislation for the principal regulator to make the decision.
+
+The decision of the principal regulator under the Legislation is that the Exemption Sought is granted so long as:
+
+> (a) The Filer maintains excess working capital required by NI 31-103 and calculated in accordance with Form 31-103F1, substituting the following deduction for the deduction otherwise required by Line 11 of Form 31-103F1 in respect of the Guarantees, being the greater of:
+>
+> > (i) The amount that CIX will accrue for payment of interest on the CIX Debentures, and if applicable, for payment of interest and principal on the CIX Credit Facility, during the next calendar quarter immediately following any calculation of excess working capital and
+> >
+> > (ii) The amount of any contingent liability that the Filer would be required to record in its financial statements in respect of the Guarantees under Canadian Generally Accepted Accounting Principles and/or International Financial Reporting Standards.
+>
+> (b) The Filer provides the OSC with a covenant from CIX in favour of the Director of the OSC that CIX will provide the Director with:
+>
+> > (i) A copy of each compliance certificate that CIX provides its lender(s) under the CIX Credit Facility, which as of the date of this Decision is provided at the end of each calendar quarter and
+> >
+> > (ii) Notice as soon as commercially practicable, if CIX fails to meet any of its financial covenants under the CIX Debt or if any event occurs that could reasonably be expected to give rise to an event of default under any of its financing arrangements related to the CIX Debt.
+>
+> (c) The total aggregate CIX Debt guaranteed by the Filer under the Guarantees does not, at any one time, exceed $800 million.
+>
+> (d) The Filer continues to be a wholly-owned subsidiary of CIX.
+>
+> (e) CIX continues to provide quarterly financial statements to the OSC, as required under securities legislation and the Filer provides quarterly financial statements to the OSC, as required under securities legislation once the Filer is registered as an investment fund manager.
+>
+> (f) Assets under management by the Filer continue to be held by a third party custodian.
+
+This Decision will have no further force and effect after June 30, 2015.
+
+"Erez Blumberger"
+
+Deputy Director, Registrant Regulation

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/consultations/resume-consultations"
 version: "1"
 ---
-
 # Résumé des consultations
 
 Nous consultons les parties prenantes et les professionnels du secteur afin de veiller à ce que nos lignes directrices soient efficaces et que nos cadres ne représentent pas de fardeau pour eux. Pour faire preuve de transparence, nous résumons et publions les résultats, les réponses et les décisions.

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.bankofcanada.ca/2026/06/bank-canada-publishes-report-monetary-policy-framework-consultations/"
 version: "1"
 ---
-
 # Bank of Canada publishes report on monetary policy framework consultations
 
 FOR IMMEDIATE RELEASE

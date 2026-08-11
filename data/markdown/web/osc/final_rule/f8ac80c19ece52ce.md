@@ -7,4 +7,12 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/11-405/consultation-paper-concept-proposal-11-405-securities-regulatory-proposals-stemming-2007-2008-credit"
 version: "1"
 ---
+# Consultation Paper: Concept Proposal - 11-405 - Securities Regulatory Proposals Stemming from the 2007-2008 Credit Market Turmoil and its Effect on the ABCP Market in Canada
 
+Concept Proposal
+
+## October 6, 2008
+
+[Download document](/sites/default/files/pdfs/irps/csa_20081006_11-405_abcp-con-paper.pdf "Open document in new window")
+
+[Comments received](https://www.osc.ca/en/securities-law/instruments-rules-policies/1/11-405/consultation-paper-concept-proposal-11-405-securities-regulatory-proposals-stemming-2007-2008-credit/comment-letters)

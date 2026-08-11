@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/bsa-information-helps-jury-convict-cocaine-trafficker"
 version: "1"
 ---
-
 # BSA Information Helps Jury Convict Cocaine Trafficker
 
 [Issue16-story6.pdf](/system/files/case_example/Issue16-story6.pdf "Issue16-story6.pdf")

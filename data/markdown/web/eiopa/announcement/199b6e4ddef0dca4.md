@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/impact-variation-margining-eu-insurers-liquidity-analysis-interest-rate-swaps-positions_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

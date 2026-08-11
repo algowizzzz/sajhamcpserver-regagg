@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-calls-experts-join-network-catastrophe-risks-2018-12-07_en"
 version: "1"
 ---
-
 Page Content
 
 The European Insurance and Occupational Pensions Authority (EIOPA) today issued a call for experts to join a Technical Expert Network on Catastrophe Risks with the aim to strengthen and complement EIOPA's expertise with regard to the modelling and mitigation of (natural) catastrophe risks and climate change risks. This initiative is part of EIOPA's work on sustainable finance.

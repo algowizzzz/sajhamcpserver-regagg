@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/re-ed/cheque-eng.php"
 version: "1"
 ---
-
 # Cheque cashers : FINTRAC's requirements
 
 Effective April 1, 2025

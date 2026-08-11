@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/tableaux-supplementaires-du-rapport-lactuaire-designe-2025-pour-assureurs-vie-multirisques"
 version: "1"
 ---
-
 # Tableaux supplémentaires du Rapport de l’actuaire désigné de 2025 pour les assureurs vie, multirisques et hypothécaires
 
 Information

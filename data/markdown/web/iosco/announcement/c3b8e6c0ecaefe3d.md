@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iosco.org/investor_protection/?subsection=relationship_investment_scams"
 version: "1"
 ---
-
 ##### Modal title
 
 Modal body text goes here.

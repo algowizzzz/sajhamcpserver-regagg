@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/final-report-revised-its-lists-regional-governments-and-local-authorities-exposures-solvency-ii_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/risques/risques-climatiques"
 version: "1"
 ---
-
 # Risques climatiques
 
 Les changements climatiques pourraient avoir des répercussions importantes sur les institutions financières fédérales et sur l’ensemble du système financier canadien.

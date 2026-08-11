@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/test-du-capital-minimal-societes-dassurance-multirisques-test-suffisance-lactif-succursales-guide"
 version: "1"
 ---
-
 # Test du capital minimal des sociétés d'assurance multirisques et test de suffisance de l’actif des succursales – Guide de production du relevé PC4
 
 Information

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-seeks-feedback-its-proposed-approach-tackle-greenwashing-insurance-and-occupational-pension-2023-12-12_en"
 version: "1"
 ---
-
 ![AdobeStock_609844816.jpeg](/sites/default/files/styles/oe_theme_medium_no_crop/public/2023-12/AdobeStock_609844816.jpeg?itok=g7a6fzxy)
 
 **The European Insurance and Occupational Pensions Authority (EIOPA) is launching today a public consultation on its draft Opinion on sustainability claims and greenwashing. The principles within the draft Opinion aim to pave the way for a more effective and harmonized supervision of sustainability claims across Europe and thereby limit the risk of greenwashing in the insurance and occupational pensions sectors.**

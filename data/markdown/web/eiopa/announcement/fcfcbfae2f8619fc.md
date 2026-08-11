@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/start-european-wide-comparative-study-diversification-internal-models-2020-10-02_en"
 version: "1"
 ---
-
 ![Diversification models](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-10/adobestock_229266740_puzzle_diversity_coming_together-950x550px.jpg?itok=eJMU-dgY "Diversification models")
 
 Today, the European Insurance and Occupational Pensions Authority (EIOPA) launched a European-wide comparative study on diversification in internal models. The objective of the study is threefold:

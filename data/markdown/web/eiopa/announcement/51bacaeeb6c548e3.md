@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-consults-technical-advice-2020-review-solvency-ii-2019-10-15_en"
 version: "1"
 ---
-
 Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a  The Opinion will respond to the call for advice of the European Commission of 11 February 2019 on the 2020 review of Solvency II.
 
 The call for advice comprises 19 separate topics. Broadly speaking, these can be divided into three parts.

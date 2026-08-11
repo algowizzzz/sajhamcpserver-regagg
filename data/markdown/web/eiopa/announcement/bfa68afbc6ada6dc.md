@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/esas-letter-michel-barnier-review-european-system-financial-supervision-esfs_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

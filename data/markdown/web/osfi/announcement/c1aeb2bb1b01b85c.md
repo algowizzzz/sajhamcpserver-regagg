@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/appel-donnees-relatives-au-risque-credit-du-portefeuille-clientele-detail-approche-fondee-sur"
 version: "1"
 ---
-
 # Appel de données relatives au risque de crédit du portefeuille de la clientèle de détail – Approche fondée sur les notations internes (DT4)
 
 Information

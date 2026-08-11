@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-publicly-consults-its-approaches-regulating-key-aspects-pan-european-personal-pension-product-2019-12-02_en"
 version: "1"
 ---
-
 Frankfurt, 2 December 2019 – Today, the European Insurance and Occupational Pensions Authority (EIOPA) launched the public consultation of its approach to the regulatory and implementing standards, and technical advice to the European Commission on delegated acts, as mandated by the Pan-European Personal Pension Product (PEPP) Regulation.
 
 The Consultation Paper sets out EIOPA's current stances to approach the regulation of key aspects of the PEPP, underpinning the idea of establishing a simple, safe and cost-efficient savings product.

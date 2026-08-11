@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/new-neuf/nr/2021-05-20-fra.php"
 version: "1"
 ---
-
 # CANAFE signe un protocole d'entente avec la Society of Notaries Public of British Columbia
 
 **Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)

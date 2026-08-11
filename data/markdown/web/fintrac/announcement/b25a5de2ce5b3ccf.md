@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/publications/drr-rrm/2022-2023/drr-rrm-fra.php"
 version: "1"
 ---
-
 # Rapport sur les résultats ministériels 2022-2023
 
 Pour la période se terminant le 31 mars 2023

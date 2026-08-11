@@ -7,6 +7,13 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/interview-gabriel-bernardino-chairman-eiopa-conducted-patricia-abreu-jornal-de-negocios-2017-06-09_en"
 version: "1"
 ---
+[Skip to main content](#main-content)
+
+# Interview with Gabriel Bernardino, Chairman of EIOPA, conducted by Patrícia Abreu, Jornal de Negocios
+
+* News article
+* 9 June 2017
+* 1 min read
 
 Page Content
 

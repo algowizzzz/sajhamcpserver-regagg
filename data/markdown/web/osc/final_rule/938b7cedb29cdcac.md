@@ -7,4 +7,38 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/52-304"
 version: "1"
 ---
+# 52-304 - Application of National Policy Statement 31 Change of Auditor of a Reporting Issuer and National Instrument 81-102 Mutual Funds (Withdrawn by CSA Staff Notice 11-309, March 3, 2006)
 
+* [Current](#tabContentcurrent)
+* [All](#tabContentactive)
+
+### There are no results to show.
+
+Results 1 - 2 of 2
+
+## Instruments, rules and policies
+
+Policy #
+
+Document name
+
+Document type
+
+Date
+
+11-309
+
+[CSA Notice 11-309 - Withdrawal of CSA Notices](/en/securities-law/instruments-rules-policies/1/11-309/csa-notice-11-309-withdrawal-csa-notices)
+
+CSA Notice
+Notice of Withdrawal
+
+March 3, 2006
+
+81-309
+
+[CSA Staff Notice: 52-304 and 81-309 - Application of National Policy Statement 31 Change of Auditor of a Reporting Issuer and National Instrument 81-102 Mutual Funds](/en/securities-law/instruments-rules-policies/8/81-309-and-52-304/csa-staff-notice-52-304-and-81-309-application-national-policy-statement-31-change)
+
+CSA Notice
+
+August 9, 2002

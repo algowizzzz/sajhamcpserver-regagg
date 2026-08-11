@@ -8,7 +8,6 @@ source_url: "https://www.bankingsupervision.europa.eu//press/speeches/date/2026/
 published: "2026-06-11"
 version: "1"
 ---
-
 * SPEECH
 
 # Trust is the infrastructure: banking supervision in a changing risk landscape

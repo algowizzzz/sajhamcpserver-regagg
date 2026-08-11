@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfis-intelligence-led-cyber-resilience-testing-crt-framework"
 version: "1"
 ---
-
 # OSFI’s Intelligence-led Cyber Resilience Testing (I-CRT) Framework
 
 Information

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/about/governance-structure_en"
 version: "1"
 ---
-
 EIOPA has two governing bodies: the Board of Supervisors (BoS) which is the main decision-making body and the Management Board (MB), whose role is to ensure the Authority carries out its mission and performs the tasks assigned to it.
 
 EIOPA works closely with the other European Supervisory Authorities (ESAs) in the framework of the Joint Committee on issues of cross-sectoral relevance and cooperates with the European institutions.

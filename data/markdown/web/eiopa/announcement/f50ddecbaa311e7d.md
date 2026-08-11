@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-and-its-members-agree-no-deal-brexit-mous-bank-england-and-financial-conduct-authority-2019-03-05_en"
 version: "1"
 ---
-
 The European Insurance and Occupational Pensions Authority (EIOPA) and all National Competent Authorities (NCAs) of the European Economic Area (EEA) with competencies in insurance have agreed Memoranda of Understanding (MoUs) with the Bank of England in its capacity as the Prudential Regulation Authority (PRA) and the Financial Conduct Authority (FCA) of the United Kingdom (UK).
 
 The MoUs take effect should the UK leave the European Union (EU) without a withdrawal agreement, the so-called "No-deal" Brexit scenario.

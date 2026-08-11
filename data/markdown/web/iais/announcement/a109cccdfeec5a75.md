@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/events/ssc-meeting-march-2026/"
 version: "1"
 ---
-
 # SSC meeting, March 2026
 
 [9 Mar 2026](https://www.iais.org/events/ssc-meeting-march-2026/)

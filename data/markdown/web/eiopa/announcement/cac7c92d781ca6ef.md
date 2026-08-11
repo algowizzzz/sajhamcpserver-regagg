@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/tools-and-data_en"
 version: "1"
 ---
-
 EIOPA’s data framework underpins its capability to securely collect, manage, analyse and report on the data it receives. It has allowed the establishment of a central repository of data on insurance and pensions markets. The data is essential for EIOPA to perform risk analysis at individual, horizontal and market levels in addition to other specific tasks.
 
 EIOPA is committed to contribute to the establishment of international data standards. This includes its participation in the global Legal Entity Identifier (LEI) system, initiated by the Financial Stability Board (FSB), and through interinstitutional cooperation on the development of XBRL (eXtensible Business Reporting Language) taxonomies. Harmonisation and standardisation are elementary tools to increase the quality, accessibility and interoperability of data whilst significantly lowering the burden on industry to provide information.

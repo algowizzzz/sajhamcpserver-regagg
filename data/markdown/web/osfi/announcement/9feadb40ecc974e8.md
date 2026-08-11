@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/demutualization-insurance-companies"
 version: "1"
 ---
-
 # Demutualization of Insurance Companies
 
 The federal and provincial governments share jurisdiction over life and health, and property and casualty insurers. Federal supervision encompasses Canadian-owned insurers and branches of foreign companies. In general, the provinces regulated licensing and marketing, while OSFI conducts prudential reviews of the companies to determine their financial soundness. [PACCIC](http://www.pacicc.com/) and [Assuris](http://www.assuris.ca/) ensure that member companies' policies will be continued, within limits, and generally according to their terms, in the event of an insolvency.

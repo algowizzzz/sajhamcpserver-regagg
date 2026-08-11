@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/consultations/draft-guidance"
 version: "1"
 ---
-
 # Draft guidance
 
 Before publishing a final copy of guidelines and other guidance pieces, we post a draft version for industry partners to review and comment on. These drafts are available for a limited time.

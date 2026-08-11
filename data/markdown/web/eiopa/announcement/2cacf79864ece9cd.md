@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-publishes-updated-technical-rfr-documentation-danish-krone-and-denmark-2018-08-14_en"
 version: "1"
 ---
-
 Today, the European Insurance and Occupational Pensions Authority (EIOPA) published an updated [technical documentation for the calculation of the volatility adjustment to risk-free interest rates (RFR) for the Danish krone and Denmark.](/document/download/05c0bda4-737f-464b-894d-baf0bdfb35fa_en?filename=20180813_technical_documentation_rp_methodology_update.pdf) The risk-free rate methodology includes [updated representative portfolios](/document/download/d504a637-a77a-42f5-aaa4-48a1ce41cecb_en?filename=updated_representative_portfolios_applicable_end-august_2018.xlsx)for the Danish krone and for the country portfolio of Denmark as well as the inclusion of option-adjustments.
 
 The updates are based on the results of an in-depth analysis of the composition of the average Danish undertakings' portfolio and the average Danish krone denominated (sub-)portfolio. The analysis provided further insight on the legal and economic background of the Danish covered bond market and confirmed that these assets dominate the relevant portfolios. To capture the features of Danish covered bonds in the risk-free rate methodology accordingly, henceforth an improved version ("option-adjusted") of yield and duration data of a dedicated index for these contracts, the "Nykredit realkreditindeks", is used in the production process of the risk-free rate.

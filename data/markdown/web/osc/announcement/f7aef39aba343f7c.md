@@ -1,0 +1,335 @@
+---
+title: "Canadian Pacific Railway Limited and Canadian Imperial Bank of Commerce – s. 6.1 of NI 62-104 Take-Over Bids and Issuer Bids | OSC"
+regulator: "osc"
+doc_type: "announcement"
+reference: "62-104"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/canadian-pacific-railway-limited-and-canadian-imperial-bank"
+version: "1"
+---
+# Canadian Pacific Railway Limited and Canadian Imperial Bank of Commerce – s. 6.1 of NI 62-104 Take-Over Bids and Issuer Bids
+
+Order
+
+## December 8, 2017
+
+Headnote
+
+Section 6.1 of NI 62-104 – Issuer bid – relief from the requirements applicable to issuer bids in Part 2 of NI 62-104 – issuer proposes to purchase, pursuant to a repurchase program and at a discounted purchase price, up to a specified number of its common shares under its normal course issuer bid from a third party – the third party will abide by the requirements governing normal course issuer bids as though it was the issuer, subject to certain modifications, including that the third party will not make any purchases under the program pursuant to a pre-arranged trade – common shares delivered to the issuer for cancellation will be common shares from the third party's existing inventory – due to the discounted purchase price, the common shares cannot be acquired through the TSX trading system – but for the fact that the common shares cannot be acquired through the TSX trading system, the Issuer could otherwise acquire such shares in accordance with TSX rules and in reliance upon the issuer bid exemption available under section 4.8 of NI 62-104 – the third party will purchase common shares under the program on the same basis as if the issuer had conducted the bid in reliance on the normal course issuer bid exemptions set out in securities legislation – no adverse economic impact on, or prejudice to the issuer or its security holders – acquisition of securities exempt from the requirements applicable to issuer bids in Part 2 of NI 62-104, subject to conditions, including that the number of common shares transferred by the third party from its existing inventory to the issuer for purchase under the program be equivalent to the number of common shares that the third party has purchased, or had purchased on its behalf, on Canadian markets.
+
+**Statutes Cited**
+
+National Instrument 62-104 Take-Over Bids and Issuer Bids, Part 2 and s. 6.1.
+
+**IN THE MATTER OF**
+
+**THE SECURITIES ACT,**
+
+**R.S.O. 1990, c. S.5, AS AMENDED**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**CANADIAN PACIFIC RAILWAY LIMITED AND**
+
+**CANADIAN IMPERIAL BANK OF COMMERCE**
+
+**ORDER**
+
+**(Section 6.1 of National Instrument 62-104)**
+
+                **UPON** the application (the **Application**) of Canadian Pacific Railway Limited (the **Issuer**) and Canadian Imperial Bank of Commerce (**CIBC**, and together with the Issuer, the **Filers**) to the Ontario Securities Commission (the **Commission**) for an order pursuant to section 6.1 of National Instrument 62-104 *Take-Over Bids and Issuer Bids* (**NI 62-104**) exempting the Issuer from the requirements applicable to issuer bids in Part 2 of NI 62-104 (the **Issuer Bid Requirements**) in respect of the proposed purchases by the Issuer of up to 621,000 (the **Program Maximum**) of its common shares (the **Common Shares**) from CIBC pursuant to a share repurchase program (the **Program**);
+
+**AND UPON** considering the Application and the recommendation of staff of the Commission;
+
+**AND UPON** the Issuer having represented to the Commission the matters set out in paragraphs 1 to 4, inclusive, 10 to 37, inclusive, 39, and 40, as they relate to the Issuer;
+
+                **AND UPON** CIBC and CIBC World Markets Inc. (**CIBC World Markets**, and together with CIBC, the **CIBC Entities**) having represented to the Commission the matters set out in paragraphs 5, 6, 7, 8, 9, 18 to 21, inclusive, 24, 26, 28 to 32, inclusive, 34, 38, 40, and 41, as they relate to the CIBC Entities, as applicable:
+
+1.             The Issuer is a corporation governed by the *Canada Business Corporations Act*.
+
+ 
+
+2.             The registered, executive and head office of the Issuer is located at 7550 Ogden Dale Road S.E., Calgary, Alberta, T2C 4X9.
+
+ 
+
+3.             The Issuer is a reporting issuer in each of the provinces and territories of Canada and the Common Shares are listed for trading on the Toronto Stock Exchange (the **TSX**) and the New York Stock Exchange (the **NYSE**) under the symbol “CP”. The Issuer is not in default of any requirement of securities legislation in the jurisdictions in which it is a reporting issuer.
+
+  
+
+4.             The Issuer's authorized share capital consists of an unlimited number of Common Shares, an unlimited number of First Preferred Shares and an unlimited number of Second Preferred Shares, of which 144,993,338 Common Shares, no First Preferred Shares, and no Second Preferred Shares were issued and outstanding as of November 16, 2017.
+
+ 
+
+5.             CIBC is a Schedule I bank governed by the *Bank Act* (Canada). The registered and head office and corporate headquarters of CIBC are located in Toronto, Ontario.
+
+ 
+
+6.             CIBC World Markets is registered as an investment dealer under the securities legislation of British Columbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, Nova Scotia, Newfoundland and Labrador, New Brunswick, Prince Edward Island, Yukon, the Northwest Territories and Nunavut. It is also registered as: (a) a futures commission merchant under the *Commodity Futures Act* (Ontario); (b) a derivatives dealer under the *Derivatives Act* (Quebec); and (c) a dealer (futures commission merchant) under *The Commodity Futures Act* (Manitoba). CIBC World Markets is a member of the Investment Industry Regulatory Organization of Canada (**IIROC**) and the Canadian Investor Protection Fund, a participating organization or member of the TSX, TSX Venture Exchange and Canadian Securities Exchange, and an approved participant of the Bourse de Montreal. The head office of CIBC World Markets is located in Toronto, Ontario.
+
+ 
+
+7.             CIBC does not own, directly or indirectly, more than 5% of the issued and outstanding Common Shares.
+
+ 
+
+8.             CIBC is the beneficial owner of at least 621,000 Common Shares, none of which were acquired by, or on behalf of, CIBC in anticipation or contemplation of resale to the Issuer (such Common Shares over which CIBC has beneficial ownership, the **Inventory Shares**). All of the Inventory Shares are held by CIBC in the Province of Ontario, and all purchases of Inventory Shares by the Issuer from CIBC will be executed and settled in the Province of Ontario. No Common Shares were purchased by, or on behalf of, CIBC on or after October 18, 2017, being the date that was 30 days prior to the date of the Application, in anticipation or contemplation of a sale of Common Shares by CIBC to the Issuer.
+
+ 
+
+9.             CIBC is at arm's length to the Issuer and is not an "insider" of the Issuer, an "associate" of an "insider" of the Issuer, or an "associate" or "affiliate" of the Issuer, as such terms are defined in the *Securities Act* (Ontario) (the **Act**). CIBC is an "accredited investor" within the meaning of National Instrument 45-106 *Prospectus Exemptions*.
+
+ 
+
+10.          On May 10, 2017, the Issuer announced a normal course issuer bid (the **NCIB**) to purchase for cancellation, during the 12 month period beginning on May 15, 2017 and ending on May 14, 2018, up to 4,384,062 Common Shares, representing approximately 3% of the Issuer’s “public float” as of the date specified in the “Notice of Intention to Make a Normal Course Issuer Bid” submitted to, and accepted by, the TSX (the **Initial Notice**). On November 30, 2017, the TSX accepted an amendment to the Initial Notice (the Initial Notice, as amended, the **Notice**) to specify that purchases under the NCIB may be conducted through the facilities of the TSX, the NYSE and alternative trading systems or by such other means as may be permitted by the TSX, the NYSE or a securities regulatory authority, including under automatic purchase programs and by private agreements or share repurchase programs under issuer bid exemption orders issued by applicable securities regulatory authorities.
+
+ 
+
+11.          The NCIB is being conducted in reliance upon the exemption from the Issuer Bid Requirements set out in subsection 4.8(2) of NI 62-104 (the **Designated Exchange Exemption**).
+
+ 
+
+12.          The NCIB is also being conducted in the normal course on the NYSE and other permitted published markets (collectively with the NYSE, the **Other Published Markets**) in reliance upon the exemption from the Issuer Bid Requirements set out in subsection 4.8(3) of NI 62-104 (the **Other Published Markets Exemption**, and together with the Designated Exchange Exemption, the **Exemptions**).
+
+ 
+
+13.          Pursuant to the rules in respect of normal course issuer bids set out in sections 628 to 629.3 of Part VI of the TSX Company Manual (the **TSX Rules**), the Issuer has appointed RBC Dominion Securities Inc. as its designated broker in respect of the NCIB (the **Responsible Broker**).
+
+ 
+
+14.          On May 10, 2017, the Issuer also announced the implementation of an automatic share repurchase plan (the **ASPP**) to permit the Issuer to make purchases under the NCIB at such times when the Issuer would not be permitted to trade in its securities, including during regularly scheduled quarterly blackout periods and other internal blackout periods (each such time, a **Blackout Period**). The ASPP was approved by the TSX and is in compliance with the TSX Rules and applicable securities laws. The ASPP will not be in effect during the Program Term (as defined below).
+
+ 
+
+15.          To the best of the Issuer's knowledge, the "public float" (calculated in accordance with the TSX Rules) for the Common Shares as at November 16, 2017 consisted of approximately 144.2 million Common Shares. The Common Shares are "highly-liquid securities" as that term is defined in section 1.1 of OSC Rule 48-501 *Trading During Distributions, Formal Bids and Share Exchange Transactions* (**OSC Rule 48-501**) and section 1.1 of the *Universal Market Integrity Rules* (**UMIR**).
+
+  
+
+16.          Concurrently with the Application, the Issuer has filed an additional application with the Commission for exemptive relief from the Issuer Bid Requirements in connection with the proposed purchase by the Issuer of up to 134,000 Common Shares (the **NBC Program Maximum**) from National Bank of Canada (**NBC**) pursuant to a share repurchase program (the **NBC Program**, and together with the Program, the **Programs**). The NBC Program will terminate on the earlier of May 14, 2018 and the date on which the Issuer will have purchased the NBC Program Maximum (the **NBC Program Term**).
+
+ 
+
+17.          As at November 30, 2017, the Issuer has purchased 1,888,100 Common Shares under the NCIB, none of which were purchased pursuant to issuer bid exemption orders issued by securities regulatory authorities.
+
+ 
+
+18.          The Filers wish to participate in the Program during, and as part of, the NCIB to enable the Issuer to purchase from CIBC, and for CIBC to sell to the Issuer, a number of Common Shares up to the Program Maximum.
+
+ 
+
+19.          Pursuant to the terms of the Program Agreement (as defined below), CIBC World Markets has been retained by CIBC to acquire Common Shares through the facilities of the TSX and on Other Published Markets in Canada (each, a **Canadian Other Published Market** and collectively with the TSX, the **Canadian Markets**) under the Program. No Common Shares will be acquired under the Program on a market that is not a Canadian Market.
+
+ 
+
+20.          The Program will be governed by, and conducted in accordance with, the terms and conditions of a Share Repurchase Program Agreement (the **Program Agreement**) that will be entered into among the Filers and CIBC World Markets prior to the commencement of the Program and a copy of which will be delivered by the Filers to the Commission promptly thereafter.
+
+ 
+
+21.          The Program will begin on the Trading Day (as defined below) following the completion or termination of the NBC Program, and will terminate on the earlier of May 14, 2018 and the date on which the Issuer will have purchased the Program Maximum under the Program (the **Program Term**). Neither the Issuer nor any of the CIBC Entities may unilaterally terminate the Program Agreement during the Program Term, except in the case of an event of default by a party thereunder or a change in law or announced change in law that would have adverse consequences to the transactions contemplated thereunder or to the Issuer or either of the CIBC Entities.
+
+ 
+
+22.          At least two clear Trading Days prior to the commencement of the NBC Program, the Issuer will issue and file a press release (the **Commencement Press Release**) that has been pre-cleared by the TSX that (a) describes the material features of the Programs, including the Program Term and the NBC Program Term; (b) discloses the Issuer's intention to participate in the Programs during the NCIB; (c) states that it is the Issuer’s current intention to purchase the Program Maximum and the NBC Program Maximum, but that the number of Common Shares purchased pursuant to the Programs may be less than the Program Maximum and the NBC Program Maximum, respectively; (d) provides an explanation as to why less than the Program Maximum and the NBC Program Maximum may be purchased; and (e) states that, immediately following the completion of the Program, the Issuer will issue and file the Completion Press Release (as defined below).
+
+ 
+
+23.          The Program Maximum, together with the NBC Program Maximum, will not exceed the number of Common Shares remaining that the Issuer is entitled to acquire under the NCIB, calculated as at the date of the Program Agreement.
+
+ 
+
+24.          The Program Term may include a Blackout Period. During a Blackout Period, the Program will:
+
+ 
+
+(a)           be an “automatic securities purchase plan” as defined in National Instrument 55-104 *Insider Reporting Requirements and Exemptions* (as applied, *mutatis mutandis*, to purchases made by an issuer), and CIBC World Markets will conduct the Program in its sole discretion, in accordance with the irrevocable instructions established by the Issuer, and conveyed by the Issuer to CIBC World Markets, at a time when the Issuer was not in a Blackout Period (the **Irrevocable Instructions**); and
+
+ 
+
+(b)           comply with applicable securities regulatory requirements and guidance, including, *inter alia*, clause 175(2) of Regulation 1015 of the Act, OSC Staff Notice 55-701 *Automatic Securities Disposition Plans and Automatic Securities Purchase Plans* and similar rules and regulations regarding automatic acquisitions of securities under Canadian securities laws.
+
+ 
+
+25.          The TSX has (a) been advised of the Issuer's intention to enter into the Program; (b) been provided with a draft of the Program Agreement; and (c) confirmed that it has no objection to the Issuer conducting the Program as part of the NCIB.
+
+ 
+
+26.          At such times during the Program Term when the Issuer is not in a Blackout Period, CIBC World Markets will purchase Common Shares on the applicable Trading Day in accordance with instructions received by CIBC World Markets from the Issuer prior to the opening of trading on such day, which instructions will be the same instructions that the Issuer would give to the Responsible Broker if the Issuer had been conducting the NCIB in the absence of the ASPP in reliance on the Exemptions.
+
+ 
+
+27.          The Issuer will not give purchase instructions in respect of the Program to CIBC World Markets at any time that the Issuer is aware of Undisclosed Information (as defined below).
+
+ 
+
+28.          All Common Shares acquired for the purposes of the Program by CIBC World Markets on a day during the Program Term on which Canadian Markets are open for trading (each, a **Trading Day**) must be acquired on Canadian Markets in accordance with the TSX Rules and any by-laws, rules, regulations or policies of the Canadian Markets upon which purchases are carried out (collectively, the **NCIB Rules**) that would be applicable to the Issuer in connection with the NCIB, provided that:
+
+ 
+
+(a)           the aggregate number of Common Shares to be acquired on Canadian Markets by CIBC World Markets on each Trading Day shall not exceed the maximum daily limit that is imposed upon the NCIB pursuant to the TSX Rules, determined with reference to an average daily trading volume that is based on the trading volume of the Common Shares on all Canadian Markets rather than being limited to the trading volume on the TSX only (the **Modified Maximum Daily Limit**), it being understood that the aggregate number of Common Shares to be acquired on the TSX by CIBC World Markets on each Trading Day will not exceed the maximum daily limit that is imposed on the NCIB pursuant to the TSX Rules; and
+
+ 
+
+(b)           notwithstanding the block purchase exception provided for in the TSX Rules, no purchases will be made by CIBC World Markets on any Canadian Markets pursuant to a pre-arranged trade.
+
+ 
+
+29.          The aggregate number of Common Shares acquired by CIBC World Markets in connection with the Program:
+
+ 
+
+(a)           shall not exceed the Program Maximum; and
+
+ 
+
+(b)           on Canadian Other Published Markets, shall not exceed that number of Common Shares remaining eligible for purchase by the Issuer pursuant to the Other Published Markets Exemption, calculated as at the date of the Program Agreement.
+
+ 
+
+30.          On every Trading Day, CIBC World Markets will purchase the Number of Common Shares. The **Number of Common Shares** will be no greater than the least of:
+
+ 
+
+(a)           the maximum number of Common Shares that can be purchased: (i) as established in the instructions received by CIBC World Markets from the Issuer prior to the opening of trading on such day at such times when the Issuer is not in a Blackout Period; or (ii) pursuant to the Irrevocable Instructions at such times when the Issuer is in a Blackout Period;
+
+ 
+
+(b)           the Program Maximum less the aggregate number of Common Shares previously purchased by CIBC World Markets under the Program;
+
+ 
+
+(c)           on a Trading Day where trading ceases on the TSX or some other event that would impair CIBC World Markets’ ability to acquire Common Shares on Canadian Markets occurs (a **Market Disruption Event**), the number of Common Shares acquired by CIBC World Markets on such Trading Day up until the time of the Market Disruption Event; and
+
+ 
+
+(d)           the Modified Maximum Daily Limit.
+
+ 
+
+The **Discounted Price** per Common Share will be equal to: (a) the volume weighted average price of the Common Shares on the Canadian Markets on the Trading Day on which purchases were made less an agreed upon discount; or (b) upon the occurrence of a Market Disruption Event, the volume weighted average price of the Common Shares on the Canadian Markets at the time of the Market Disruption Event less an agreed upon discount.
+
+ 
+
+31.          CIBC will deliver to the Issuer that number of Inventory Shares equal to the Number of Common Shares purchased by CIBC World Markets on a Trading Day under the Program on the Trading Day immediately thereafter (or such other Trading Day as agreed to between the parties to the Program Agreement), and the Issuer will pay CIBC a purchase price equal to the Discounted Price for each such Inventory Share. Each Inventory Share purchased by the Issuer under the Program will be cancelled upon delivery to the Issuer.
+
+ 
+
+32.          CIBC will not sell any Inventory Shares to the Issuer unless CIBC World Markets has purchased the equivalent number of Common Shares on Canadian Markets under the Program. The number of Common Shares that are purchased by CIBC World Markets on Canadian Markets under the Program on a Trading Day will be equal to the Number of Common Shares for such Trading Day. CIBC World Markets will provide the Issuer with a daily written report of CIBC World Markets' purchases, which report will indicate, *inter alia*, the aggregate number of Common Shares acquired under the Program, the Canadian Market on which such Common Shares were acquired, and the Modified Maximum Daily Limit.
+
+ 
+
+33.          During the Program Term, the Issuer will: (a) not purchase, directly or indirectly, any Common Shares (other than Inventory Shares purchased under the Program); (b) prohibit the Responsible Broker from acquiring any Common Shares on its behalf; and (c) prohibit the designated broker under the ASPP from acquiring any Common Shares on its behalf.
+
+ 
+
+34.          All purchases of Common Shares under the Program will be made by CIBC World Markets and neither of the CIBC Entities will engage in any hedging activity in connection with the conduct of the Program.
+
+ 
+
+35.          The Issuer will report its purchases of Common Shares under the Program to the TSX in accordance with the TSX Rules. In addition, immediately following the completion of the Program, the Issuer will: (a) report the total number of Common Shares acquired under the Program to the TSX and the Commission; and (b) issue and file a press release that announces the completion of the Program and sets out the number of Common Shares acquired under the Program and the aggregate dollar amount paid for such Common Shares (the **Completion Press Release**).
+
+ 
+
+36.          The Issuer is of the view that: (a) it will be able to purchase Common Shares from CIBC at a lower price than the price at which it would be able to purchase an equivalent quantity of Common Shares under the NCIB in reliance on the Exemptions; and (b) the purchase of Common Shares pursuant to the Program is in the best interests of the Issuer and constitutes a desirable use of the Issuer's funds.
+
+ 
+
+37.          The entering into of the Program Agreement, the purchase of Common Shares by CIBC World Markets in connection with the Program, and the sale of Inventory Shares by CIBC to the Issuer will not adversely affect the Issuer or the rights of any of the Issuer's security holders and such actions will not materially affect control of the Issuer.
+
+ 
+
+38.          The sale of Inventory Shares to the Issuer by CIBC will not be a "distribution" (as defined in the Act).
+
+ 
+
+39.          The Issuer will be able to acquire the Inventory Shares from CIBC without the Issuer being subject to the dealer registration requirements of the Act.
+
+ 
+
+40.          At the time that the Issuer and the CIBC Entities enter into the Program Agreement, neither the Issuer, nor any member of the Equity Derivative Trading Group of CIBC, nor any personnel of either of the CIBC Entities that negotiated the Program Agreement or made, participated in the making of, or provided advice in connection with, the decision to enter into the Program Agreement and sell the Common Shares, will be aware of any "material change" or "material fact" (each as defined in the Act) with respect to the Issuer or the Common Shares that has not been generally disclosed (the **Undisclosed Information**).
+
+ 
+
+41.          Each of the CIBC Entities:
+
+ 
+
+(a)           has policies and procedures in place to ensure that the Program will be conducted in accordance with, among other things, the Program Agreement and this Order, and to preclude those persons responsible for administering the Program from acquiring any Undisclosed Information during the conduct of the Program; and
+
+ 
+
+(b)           will, prior to entering into the Program Agreement: (i) ensure that its systems are capable of adhering to, and performing in accordance with, the requirements of the Program, the Program Agreement and this Order; and (ii) provide all necessary training and take all necessary actions to ensure that the persons administering and executing the purchases under the Program are aware of, and understand the terms of, the Program Agreement and this Order.
+
+                **AND UPON** the Commission being satisfied that to do so would not be prejudicial to the public interest;
+
+**IT IS ORDERED** pursuant to section 6.1 of NI 62-104 that the Issuer be exempt from the Issuer Bid Requirements in respect of the purchase of Inventory Shares from CIBC pursuant to the Program, provided that:
+
+ 
+
+(a)           at least two clear Trading Days prior to the commencement of the NBC Program the Issuer issues and files the Commencement Press Release;
+
+ 
+
+(b)           all purchases of Common Shares under the Program are made on Canadian Markets by CIBC World Markets, and are:
+
+  
+
+(i)            made in accordance with the NCIB Rules applicable to the NCIB, as modified by paragraph 28 hereof;
+
+ 
+
+(ii)           taken into account by the Issuer when calculating the maximum annual aggregate limits that are imposed upon the NCIB in accordance with the TSX Rules, with those Common Shares purchased on Canadian Other Published Markets being taken into account by the Issuer when calculating the maximum aggregate limits that are imposed upon the Issuer in accordance with the Other Published Markets Exemption;
+
+ 
+
+(iii)          marked with such designation as would be required by the applicable marketplace and UMIR for trades made by an agent of the Issuer; and
+
+ 
+
+(iv)          monitored by the CIBC Entities on a continual basis for the purposes of ensuring compliance with the terms of this Order, the NCIB Rules, and applicable securities law;
+
+ 
+
+(c)           during the Program Term: (i) the Issuer does not purchase, directly or indirectly, any Common Shares (other than Inventory Shares purchased under the Program); (ii) no Common Shares are purchased on behalf of the Issuer by the Responsible Broker; and (iii) no Common Shares are acquired on behalf of the Issuer by the designated broker under the ASPP;
+
+ 
+
+(d)           the number of Inventory Shares transferred by CIBC to the Issuer for purchase under the Program in respect of a particular Trading Day is equal to the number of Common Shares purchased by CIBC World Markets on Canadian Markets under the Program in respect of the Trading Day;
+
+ 
+
+(e)           no hedging activity is engaged in by the CIBC Entities in connection with the conduct of the Program;
+
+ 
+
+(f)            at the time that the Program Agreement is entered into by the Filers and CIBC World Markets:
+
+ 
+
+(i)            the Common Shares are "highly liquid securities", as that term is defined in section 1.1 of OSC Rule 48-501 and section 1.1 of UMIR; and
+
+ 
+
+(ii)           none of the Issuer, any member of the Equity Derivatives Trading Group of CIBC, or any personnel of either of the CIBC Entities that negotiated the Program Agreement, or made, participated in the making of, or provided advice in connection with, the decision to enter into the Program Agreement and sell the Common Shares, were aware of any Undisclosed Information;
+
+ 
+
+(g)           no purchase instructions in respect of the Program are given by the Issuer to CIBC World Markets at any time that the Issuer is aware of Undisclosed Information;
+
+ 
+
+(h)           the CIBC Entities maintain records of all purchases of Common Shares that are made by CIBC World Markets pursuant to the Program, which will be available to the Commission and IIROC upon request; and
+
+ 
+
+(i)            in addition to reporting its purchases of Common Shares under the Program to the TSX in accordance with the TSX Rules, immediately following the completion of the Program, the Issuer will: (i) report the total number of Common Shares acquired under the Program to the TSX and the Commission; and (ii) issue and file the Completion Press Release.
+
+                **DATED** at Toronto, Ontario this 8th day of December, 2017.
+
+“Naizam Kanji”
+
+Director, Office of Mergers & Acquisitions
+
+Ontario Securities Commission

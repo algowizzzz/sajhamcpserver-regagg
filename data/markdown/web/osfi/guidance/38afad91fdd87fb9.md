@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-summarizes-responses-its-climate-risk-discussion-paper"
 version: "1"
 ---
-
 # OSFI Summarizes Responses to its Climate Risk Discussion Paper
 
 Information

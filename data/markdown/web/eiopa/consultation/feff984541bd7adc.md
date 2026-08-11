@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/irsg-response-com-consultation-document-targeted-consultation-supplementary-pensions_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

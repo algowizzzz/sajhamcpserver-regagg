@@ -1,0 +1,119 @@
+---
+title: "HSBC Securities (Canada) Inc. et al. – s. 147 of the Act and s. 6.1 of OSC Rule 13-502 Fees | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/hsbc-securities-canada-inc-et-al-s-147-act-and-s-61-osc"
+version: "1"
+---
+# HSBC Securities (Canada) Inc. et al. – s. 147 of the Act and s. 6.1 of OSC Rule 13-502 Fees
+
+Order
+
+## July 22, 2009
+
+Headnote
+
+Relief from section 6.5 of OSC Rule 45-501 Ontario Prospectus Exemptions -- Relief granted from s. 6.5 for forward-looking information in offering memoranda provided to accredited investors in connection with private placements by foreign issuer -- such private placements are generally small part of larger distributions of securities by foreign issuers outside Canada pursuant to foreign offering documents - relief subject to conditions -- Relief also granted from section 4.1 of OSC Rule 13-502 Fees.
+
+**Applicable Legislative Provisions**
+
+Securities Act (Ontario), s. 147.
+
+OSC Rule 13-502 Fees, s. 4.1.
+
+OSC Rule 45-501 Ontario Prospectus Exemptions, s. 6.5.
+
+**IN THE MATTER OF**
+
+**THE SECURITIES ACT,**
+
+**R.S.O. 1990, c. S.5, AS AMENDED**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**HSBC SECURITIES (CANADA) INC.,**
+
+**HSBC SECURITIES (USA) INC.**
+
+**AND**
+
+**HSBC GLOBAL ASSET MANAGEMENT (CANADA) LIMITED**
+
+**ORDER**
+
+**(Section 147 of the Act**
+
+**and**
+
+**Section 6.1 of Rule 13-502 Fees)**
+
+**WHEREAS** effective December 31, 2007 Ontario Securities Commission Rule 45-501 -- *Ontario Prospectus Exemptions* ("**Rule 45-501**") was amended to, among other things, require that an offering memorandum used in Ontario which contains forward-looking information comply with certain new provisions of National Instrument 51-102 -- *Continuous Disclosure Obligations* ("**NI 51-102**");
+
+**AND UPON** the application (the "**Application**") of HSBC Securities (Canada) Inc. and its affiliated dealers listed in Schedule "A" attached hereto (each an "**Applicant**"; collectively, the "**Applicants**") to the Ontario Securities Commission (the "**Commission**") for an order pursuant to Section 147 of the *Securities Act*, R.S.O. 1990, c. S.5, as amended (the "**Act**") to provide that Section 6.5 of Rule 45-501 shall not be applicable to an offering memorandum of a non-Canadian issuer that is not a reporting issuer in Ontario (each, a "**Foreign Issuer**") provided to a prospective purchaser in Ontario by the Applicants.
+
+**AND UPON** the Application of the Applicants to the Director for an exemption pursuant to Section 6.1 of OSC Rule 13-502 -- *Fees* ("Rule 13-502") to provide that Section 4.1 of Rule 13-502 shall not be applicable to the Applicants;
+
+**AND UPON** the Applicants having represented to the Commission that:
+
+> 1. Each of the Applicants is incorporated or otherwise organized by under the laws of the jurisdiction shown opposite its name in Appendix "A" hereto.
+>
+> 2. Each of the Applicants is registered with the OSC as a dealer in the category shown opposite its name in Appendix "A" hereto.
+>
+> 3. The Applicants offer and sell securities of Foreign Issuers on a private placement basis to purchasers in Ontario relying on the "accredited investor" prospectus exemption under Section 2.3 of National Instrument 45-106 -- *Prospectus and Registration Exemptions*.
+>
+> 4. The offerings by private placement of securities of a Foreign Issuer (each, a "**Foreign Issuer Private Placement**") in Ontario are part of a distribution of securities of a Foreign Issuer offered primarily outside of Canada pursuant to a prospectus, offering memorandum or other offering document (each, a "**Foreign Offering Document**") prepared in accordance with the requirements of the United States or other non-Canadian jurisdictions.
+>
+> 5. In a Foreign Issuer Private Placement, a Foreign Offering Document is generally accompanied by a "wrapper" or is otherwise supplemented with disclosure prescribed by Ontario securities law and with disclosure of certain additional information for the benefit of Ontario investors and provided by the Applicants to Ontario prospective purchasers as a Foreign Issuer's offering memorandum within the meaning of Section 1(1) of the Act.
+>
+> 6. In a Foreign Issuer Private Placement, a Foreign Issuer that intends to rely on the civil liability safe harbour with respect to forward-looking statements provided by Section 21E of the U.S. Securities Exchange Act of 1934, as amended (the "**Exchange Act**") or Section 27A of the U.S. Securities Act of 1933, as amended (the "**U.S. Securities Act**"), will generally include in its Foreign Offering Document disclosure with respect to "forward-looking statements" within the meaning of Section 21E of the Exchange Act and Section 27A of the U.S. Securities Act to enable the Foreign Issuer to rely on the civil liability safe harbour provided with respect to forward-looking statements.
+>
+> 7. Other Foreign Issuers conducting a Foreign Issuer Private Placement that include forward-looking information in their Foreign Offering Document will generally include disclosure of related material risk factors potentially affecting the forward looking information.
+>
+> 8. The disclosure with respect to forward-looking information contained in a Foreign Offering Document used in a Foreign Issuer Private Placement in Ontario will not necessarily include all of the disclosure prescribed for offering memoranda by section 6.5 of Rule 45-501.
+
+**AND UPON** considering the Application and the recommendation of the staff of the Commission;
+
+**AND UPON** the Commission being satisfied that it would not be prejudicial to the public interest to make this Order;
+
+**IT IS ORDERED**, pursuant to section 147 of the Act, that offering memoranda delivered by or on behalf of the Applicants to prospective purchasers that are accredited investors in connection with Foreign Issuer Private Placements shall not be subject to Section 6.5 of Rule 45-501, provided that a Foreign Offering Document contains or is accompanied by either:
+
+> > (a) the disclosure required in order for an issuer to rely on the safe harbour provided by Section 21E of the Exchange Act or by Section 27A of the U.S. Securities Act with respect to forward looking information, whether or not such safe harbour is applicable; or
+> >
+> > (b) a statement that "This offering is being made by a non-Canadian issuer using disclosure documents prepared in accordance with non-Canadian securities laws. Prospective purchasers should be aware that these requirements may differ significantly from those of Ontario. The forward looking information included or incorporated by reference herein may not be accompanied by the disclosure and explanations that would be required of a Canadian issuer under Ontario securities law."
+
+**DATED** at Toronto, this 22nd day of July, 2009.
+
+"Carol S. Perry"
+
+Commissioner
+
+"Mary Condon"
+
+Commissioner
+
+**AND UPON** the Director being satisfied that it would not be prejudicial to the public interest to make this Order;
+
+**IT IS ORDERED**, pursuant to Section 6.1 of Rule 13-502, that the Application shall not be subject to Section 4.1 of Rule 13-502.
+
+**DATED** at Toronto, this 22nd day of July, 2009.
+
+"Michael Brown"
+
+Assistant Manager, Corporate Finance
+
+**Appendix "A"**
+
+**List of Applicants**
+
+| **APPLICANT** | **AFFILIATED APPLICANT DEALERS** |  | **JURISDICTION** | **OSC REGISTRATION** |
+| --- | --- | --- | --- | --- |
+|  | | | | |
+| HSBC Securities (Canada) Inc. |  |  | Ontario | Broker & Investment Dealer |
+|  | | | | |
+|  | HSBC Securities (USA) Inc. |  | Delaware | International Dealer |
+|  | | | | |
+|  | HSBC Global Asset Management (Canada) Limited |  | British Columbia | Limited Market Dealer, Investment Counsel & Portfolio Manager |

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2022/12/iais-reports-on-diversity-equity-and-inclusion-in-the-insurance-sector-and-planned-future-work/"
 version: "1"
 ---
-
 # IAIS reports on Diversity, Equity and Inclusion in the insurance sector and planned future work
 
 [6 Dec 2022](https://www.iais.org/2022/12/iais-reports-on-diversity-equity-and-inclusion-in-the-insurance-sector-and-planned-future-work/)

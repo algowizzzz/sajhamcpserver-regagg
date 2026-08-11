@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/browse/supervisory-convergence/supervisory-convergence-tools_en"
 version: "1"
 ---
-
 ## Supervisory Handbook
 
 EIOPA is responsible to develop and maintain a [Supervisory Handbook](/document-library/corporate-documents/supervisory-handbook_en) that includes recommendations, best practices, case studies, supervisory questionnaires and examples for the supervision of insurance undertakings.

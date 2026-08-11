@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/media/events/8th-esas-consumer-protection-day-2021-10-07_en"
 version: "1"
 ---
-
 Close
 
 This event has ended.

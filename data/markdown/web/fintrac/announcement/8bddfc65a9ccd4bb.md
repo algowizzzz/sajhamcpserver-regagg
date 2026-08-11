@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/emplo/1-eng.php"
 version: "1"
 ---
-
 # Careers
 
 At the Financial Transactions and Reports Analysis Centre of Canada (FINTRAC), we do work that matters! We help combat money laundering, terrorist activity financing and threats to the security of Canada. If this mandate is of interest – a career at FINTRAC may be right for you! We are looking for passionate, driven individuals from a multitude of backgrounds to support our mandate.

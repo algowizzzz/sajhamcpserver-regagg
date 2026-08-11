@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/training-formation/id/id6-eng.php"
 version: "1"
 ---
-
 # Video 6 – Verifying the identity of an entity
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

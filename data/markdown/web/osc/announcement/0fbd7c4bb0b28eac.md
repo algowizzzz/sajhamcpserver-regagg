@@ -7,4 +7,52 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/halo-resources-ltd-s-110aii"
 version: "1"
 ---
+# Halo Resources Ltd. – s. 1(10)(a)(ii)
 
+Decision
+
+## July 29, 2013
+
+Headnote
+
+National Policy 11-203 Process for Exemptive Relief Applications in Multiple Jurisdictions -- Issuer deemed to no longer be a reporting issuer under securities legislation.
+
+**Applicable Legislative Provisions**
+
+Securities Act, R.S.O. 1990, c. S.5, as am., s. 1(10)(a)(ii).
+
+July 29, 2013
+
+Halo Resources Ltd.
+
+Suite 820, 25 Adelaide Street East
+
+Toronto, ON M5C 3A1
+
+Dear Sirs/Mesdames:
+
+> |  |  |
+> | --- | --- |
+> | **Re:** | **Halo Resources Ltd. (the Applicant) -- application for a decision under the securities legislation of Ontario, Alberta, Saskatchewan, Manitoba and Quebec (the Jurisdictions) that the Applicant is not a Reporting Issuer** |
+
+The Applicant has applied to the local securities regulatory authority or regulator (the Decision Maker) in each of the Jurisdictions for a decision under the securities legislation (the Legislation) of the Jurisdictions that the Applicant is not a reporting issuer.
+
+In this decision, "securityholder" means, for a security, the beneficial owner of the security.
+
+The Applicant has represented to the Decision Makers that:
+
+> (a) the outstanding securities of the Applicant, including debt securities, are beneficially owned, directly or indirectly, by fewer than 15 securityholders in each of the jurisdictions of Canada and fewer than 51 securityholders in total worldwide;
+>
+> (b) no securities of the Applicant, including debt securities, are traded in Canada or another country on a marketplace as defined in National Instrument 21-101 *Marketplace Operation* or any other facility for bringing together buyers and sellers of securities where trading data is publicly reported;
+>
+> (c) the Applicant is applying for a decision that it is not a reporting issuer in all of the jurisdictions of Canada in which it is currently a reporting issuer; and
+>
+> (d) the Applicant is not in default of any of its obligations under the Legislation as a reporting issuer.
+
+Each of the Decision Makers is satisfied that the test contained in the Legislation that provides the Decision Maker with the jurisdiction to make the decision has been met and orders that the Applicant is not a reporting issuer.
+
+"Sonny Randhawa"
+
+Manager, Corporate Finance
+
+Ontario Securities Commission

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/transp/transition/tb-ct-2020-fra.php"
 version: "1"
 ---
-
 # Cahier de transition de la directrice - novembre 2020
 
 ## Sur cette page

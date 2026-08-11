@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/transparency/access-information-privacy/principles-assistance-applicants"
 version: "1"
 ---
-
 # Principles on Assistance to Applicants
 
 With the passing of the *[Federal Accountability Act](https://laws.justice.gc.ca/eng/F-5.5/index.html)*, section 2.1 was added to the *[Access to Information Act](https://laws-lois.justice.gc.ca/eng/acts/a-1/)* which states:

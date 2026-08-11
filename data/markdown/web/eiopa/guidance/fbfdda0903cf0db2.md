@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/final-report-joint-esas-guidelines-esg-stress-testing_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

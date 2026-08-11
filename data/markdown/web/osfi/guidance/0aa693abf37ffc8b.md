@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/net-stable-funding-ratio-disclosure-requirements-letter-2019"
 version: "1"
 ---
-
 # Net Stable Funding Ratio Disclosure Requirements – Letter (2019)
 
 Information

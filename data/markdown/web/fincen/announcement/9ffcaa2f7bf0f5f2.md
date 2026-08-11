@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/definition-money-services-business-money"
 version: "1"
 ---
-
 # Definition of Money Services Business (Money Transmitter/Currency Dealer or Exchanger)
 
 [fincenruling20043.pdf](/system/files/administrative_ruling/fincenruling20043.pdf "fincenruling20043.pdf")

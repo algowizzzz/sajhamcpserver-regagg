@@ -8,7 +8,6 @@ source_url: "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20
 published: "2026-07-16"
 version: "3"
 ---
-
 ![NYSDFS Seal](/themes/custom/b5dfssubtheme/dist/images/DFS-logo_1280x512.svg)
 
 [Back To Newsroom](/node/241971)

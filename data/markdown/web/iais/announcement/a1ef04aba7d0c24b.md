@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2025/11/iais-introduces-additional-ancillary-risk-indicators-for-its-global-monitoring-exercise/"
 version: "1"
 ---
-
 # IAIS introduces additional ancillary risk indicators for its Global Monitoring Exercise
 
 [25 Nov 2025](https://www.iais.org/2025/11/iais-introduces-additional-ancillary-risk-indicators-for-its-global-monitoring-exercise/)

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-opens-public-consultation-revised-guidelines-supervisory-review-process-2025-07-02_en"
 version: "1"
 ---
-
 ![adobestock_259722625](/sites/default/files/styles/oe_theme_medium_no_crop/public/2023-02/adobestock_259722625.jpeg?itok=6CR_gMTu)
 
 **The European Insurance and Occupational Pensions Authority (EIOPA) launched today a** [**public consultation**](https://www.eiopa.europa.eu/consultations/consultation-proposal-revised-guidelines-supervisory-review-process-solvency-ii-review_en) **on its draft revised Guidelines on the Supervisory Review Process, used by supervisors to regularly assess insurers’ and groups’ exposure to risks and the effectiveness of the controls they have in place. The primary objective of the revision is to update the Guidelines by clarifying existing instructions as necessary in light of the Solvency II review and by bringing emerging risks within their scope.**

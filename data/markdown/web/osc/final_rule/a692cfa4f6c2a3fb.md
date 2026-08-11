@@ -8,4 +8,13 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/3/31-103/unofficial-consolidation-ni-31-103-and-its-cp-july-27-2017"
 version: "1"
 ---
+# Unofficial Consolidation of NI 31-103 and its CP as of July 27, 2017
 
+Unofficial Consolidation
+National Instrument
+Companion Policy
+Forms
+
+## August 25, 2017
+
+[Download document](/sites/default/files/pdfs/irps/ni_20150825_31-103_unofficial-consolidated.pdf "Open document in new window")

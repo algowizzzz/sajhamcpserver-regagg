@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-calls-sound-cyber-resilience-framework-2019-09-17_en"
 version: "1"
 ---
-
 The European Insurance and Occupational Pensions Authority (EIOPA) published today the report on "Cyber Risk for Insurers – Challenges and Opportunities".
 
 The increasing frequency and sophistication of cyber attacks, the fast digital transformation and the increased use of big data and cloud computing make insurers increasingly susceptible to cyber threats, in particular considering the amount of confidential policyholder information insurers are possessing. This calls for a sound cyber resilience framework for insurers.

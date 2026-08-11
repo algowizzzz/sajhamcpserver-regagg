@@ -8,7 +8,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/new-neuf/ps-pa/2023-03-10-eng.php"
 version: "1"
 ---
-
 # Speaking Notes for Sarah Paquet Director and Chief Executive Officer As part of a panel on Following the Money: Trends in Financial Crime and the Funding of Illicit Activities at the 91st Annual Ottawa Conference on Security and Defence
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

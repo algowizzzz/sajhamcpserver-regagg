@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-sets-domestic-stability-buffer-level-250-effective-october-31-2021"
 version: "1"
 ---
-
 # OSFI sets the Domestic Stability Buffer level to 2.50% effective October 31, 2021
 
 Information

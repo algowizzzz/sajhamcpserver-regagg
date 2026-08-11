@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.dfs.ny.gov/contact_us/main"
 version: "3"
 ---
-
 ![People at a call center answering calls](/sites/default/files/styles/wide_lead/public/media/2019/02/istock-1027945616_contactus2_cropped.jpg?h=b62dba9f&itok=4m6CyGaW "Contact Us")
 
 ## Contact Us

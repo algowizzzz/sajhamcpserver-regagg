@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-supporting-resilience-canadas-banking-system"
 version: "1"
 ---
-
 # Domestic Stability Buffer – Supporting the resilience of Canada’s banking system
 
 [PDF, 110 KB](/sites/default/files/documents/dsb-bk-eng.pdf)

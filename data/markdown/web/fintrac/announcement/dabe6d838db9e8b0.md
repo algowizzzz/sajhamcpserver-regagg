@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/notices-avis/2022-01-31-fra.php"
 version: "1"
 ---
-
 # Retrait du soutien temporaire aux entités déclarantes lié à la COVID
 
 Cet avis aux entités déclarantes a été mis à jour afin d'offrir plus d'information sur le délai de revérification suite aux changements apportés à l'avis initial sur la flexibilité du 31 janvier 2022. Veuillez noter que CANAFE demeure raisonnable dans son approche d'évaluation et d'application de la loi à l'égard des obligations prévues par la Loi et ses règlements connexes.

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.dfs.ny.gov/consumers/health_insurance/home"
 version: "4"
 ---
-
 ![Doctor and Patient](/sites/default/files/styles/wide_lead/public/media/2024/01/PressRelease_Generic-Heroes_Consumer_HealthInsurance_01.jpg?h=b5f6a62e&itok=IXyA9is_ "Doctor and Patient")
 
 [Information for Consumers](/consumers)

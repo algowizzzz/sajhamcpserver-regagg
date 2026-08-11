@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/propos-du-bsif/progres-nos-projets/fortifier-relations-avec-principaux-acteurs"
 version: "1"
 ---
-
 # Fortifier les relations avec les principaux acteurs
 
 Nous transformons notre façon d’interagir avec nos partenaires et les intervenants grâce à une nouvelle approche qui vise à :

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fca.org.uk/publications/external-research/regional-financial-development-and-growth-uk"
 version: "1"
 ---
-
 Read our independent FCA-commissioned research exploring how UK financial services hubs relate to regional growth, productivity and SME access to finance.
 
 ## Overview

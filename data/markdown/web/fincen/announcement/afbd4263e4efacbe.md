@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/suspicious-activity-reports-help-unravel-complex-fraudulent"
 version: "1"
 ---
-
 # Suspicious Activity Reports Help Unravel Complex Fraudulent Banking Scheme
 
 [117.pdf](/system/files/case_example/117.pdf "117.pdf")

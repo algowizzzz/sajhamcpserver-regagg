@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/supervision/pensions"
 version: "1"
 ---
-
 # Pensions
 
 Employer sponsored private pension plans provide an important source of retirement income for employees and their families. Employers generally set up pension plans voluntarily; however, once a pension plan is established, it must be funded and administered in compliance with applicable tax and pension laws.

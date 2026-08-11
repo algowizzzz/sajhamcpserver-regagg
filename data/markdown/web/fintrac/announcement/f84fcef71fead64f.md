@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/pen/amps/pen-2023-08-17-eng.php"
 version: "1"
 ---
-
 # Administrative monetary penalty imposed on Deshi Foreign Exchange Inc.
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

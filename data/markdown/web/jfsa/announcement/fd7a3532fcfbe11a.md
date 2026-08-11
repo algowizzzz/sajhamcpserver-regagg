@@ -8,7 +8,6 @@ source_url: "https://www.fsa.go.jp/en/policy/bgin/innovationtop.html"
 published: "2023-03-17"
 version: "2"
 ---
-
 * [HOME](/en/index.html)
 
 [Tweet](https://twitter.com/share)

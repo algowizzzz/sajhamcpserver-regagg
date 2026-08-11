@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/prudent-harmonized-reduced-set-scenarios-first-information-request_en"
 version: "1"
 ---
-
 ## Background
 
 As part of the Review of Solvency II, the Commission (subject to agreement from Council and Parliament) has adopted the EIOPA recommendation to allow prudent deterministic valuation of contracts with options and guarantees, where it is proportionate to do so. The criteria for applying proportionality measures are yet to be finalised, but it is expected that the measures will apply automatically to undertakings that are small and non-complex. For example, undertakings with a low risk-profile that currently perform deterministic technical provisions (TP) calculations due to computational constraints.

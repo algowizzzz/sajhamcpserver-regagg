@@ -7,4 +7,30 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/8/81-308"
 version: "1"
 ---
+# 81-308 - Prospectus Filing Matters - Arthur Andersen LLP Consent (Withdrawn by CSA Staff Notice 11-309, March 3, 2006)
 
+* [Current](#tabContentcurrent)
+* [All](#tabContentactive)
+
+### There are no results to show.
+
+Results 1 - 1 of 1
+
+## Instruments, rules and policies
+
+Policy #
+
+Document name
+
+Document type
+
+Date
+
+11-309
+
+[CSA Notice 11-309 - Withdrawal of CSA Notices](/en/securities-law/instruments-rules-policies/1/11-309/csa-notice-11-309-withdrawal-csa-notices)
+
+CSA Notice
+Notice of Withdrawal
+
+March 3, 2006

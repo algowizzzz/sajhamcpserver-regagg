@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/mortgage-insurance"
 version: "1"
 ---
-
 # Mortgage Insurance
 
 Information

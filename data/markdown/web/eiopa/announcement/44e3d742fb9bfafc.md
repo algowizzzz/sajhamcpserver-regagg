@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-statement-solvency-ii-supervisory-reporting-context-covid-19-2020-07-27_en"
 version: "1"
 ---
-
 ![Insurance stress testing](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-06/adobestock_265954158_hand_take_out_file_from_shelf_orange_folder.jpg?itok=T9KOdqkP "Insurance stress testing")
 
 Following EIOPA’s Recommendations of 20 March 2020 on annual and quarterly reporting and publication deadlines, EIOPA considers that **insurance and reinsurance undertakings should now be in condition to comply with the deadlines provided in the Solvency II framework**.

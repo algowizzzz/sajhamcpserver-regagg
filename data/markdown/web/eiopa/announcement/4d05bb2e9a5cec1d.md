@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-consults-increased-proportionality-supervisory-reporting-and-public-disclosure-2019-07-12_en"
 version: "1"
 ---
-
 Today, the European Insurance and Occupational Pension Authority (EIOPA) launched a consultation package on supervisory reporting and public disclosure in the context of its work linked with the 2020 Solvency II Review. EIOPA will be consulting on the review of supervisory reporting and public disclosure in two waves. This consultation is the first wave to respond to the Call for Advice of the European Commission of 11 February 2019 on the part linked with supervisory reporting and public disclosure. Taking into account stakeholders' feedback to the European Commission's public consultation on fitness check on supervisory reporting, EIOPA is asked to assess:
 
 * The **appropriateness of the requirements** related to reporting and disclosure in the light of supervisors and other stakeholders' experience

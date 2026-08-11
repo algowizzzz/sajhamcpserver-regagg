@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/intel/operation/tax-fiscale-eng.php"
 version: "1"
 ---
-
 # Laundering the proceeds of tax evasion in real estate
 
 **Issued in partnership with the Canada Revenue Agency**

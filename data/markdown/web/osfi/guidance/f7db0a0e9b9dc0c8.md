@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/osfi-consults-updates-liquidity-adequacy-requirements-guideline"
 version: "1"
 ---
-
 # OSFI consults on updates to the Liquidity Adequacy Requirements Guideline
 
 Information

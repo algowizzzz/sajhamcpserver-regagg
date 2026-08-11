@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/financial-institutions/insurance"
 version: "1"
 ---
-
 # Important Information for Insurance Industry
 
 ---

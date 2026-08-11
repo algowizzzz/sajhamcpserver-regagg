@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/letter-industry-osfis-policy-plan"
 version: "1"
 ---
-
 # Letter to industry – OSFI’s policy plan
 
 Information

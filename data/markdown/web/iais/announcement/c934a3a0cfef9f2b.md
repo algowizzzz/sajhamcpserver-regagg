@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2023/01/career-opportunity-at-the-iais-head-of-implementation-and-assessment/"
 version: "1"
 ---
-
 # Career opportunity at the IAIS – Head of Implementation and Assessment
 
 [17 Jan 2023](https://www.iais.org/2023/01/career-opportunity-at-the-iais-head-of-implementation-and-assessment/)

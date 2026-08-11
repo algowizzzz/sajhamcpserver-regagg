@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/propos-du-bsif/mediatheque"
 version: "1"
 ---
-
 # Médiathèque
 
 Dans nos infographies et vidéos, vous découvrirez comment nous contribuons au maintien de la confiance du public dans le système financier canadien.

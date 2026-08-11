@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.finra.org/terms-of-use"
 version: "1"
 ---
-
 # Terms of Use
 
 **Last modified: November 9, 2023**

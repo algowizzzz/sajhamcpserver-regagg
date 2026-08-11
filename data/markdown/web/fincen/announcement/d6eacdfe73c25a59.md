@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/bank-secrecy-act-records-track-money-laundering-methods"
 version: "1"
 ---
-
 # Bank Secrecy Act Records Track Money Laundering Methods of Drug Gang
 
 [Issue13-story5.pdf](/system/files/case_example/Issue13-story5.pdf "Issue13-story5.pdf")

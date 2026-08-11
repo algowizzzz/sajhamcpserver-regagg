@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/tools-and-data/supervisory-reporting-dpm-and-xbrl_en"
 version: "1"
 ---
-
 Data reporting
 
 DPM methodology and XBRL are the standard for reporting data submission between EIOPA and national competent authorities.

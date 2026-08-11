@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-consults-draft-opinion-supervision-remuneration-principles-insurance-and-reinsurance-sector-2019-07-25_en"
 version: "1"
 ---
-
 The European Insurance and Occupational Pension Authority (EIOPA) launched today a consultation on the draft Opinion on the supervision of remuneration principles in the insurance and reinsurance sector.
 
 The remuneration principles set out in Article 275 of the European Commission Delegated Regulation (EU) 2015/35 are high level and leave considerable discretion to the undertakings and supervisory authorities. Therefore, divergent practices have emerged across the European Union.

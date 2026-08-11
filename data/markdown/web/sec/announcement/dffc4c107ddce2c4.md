@@ -8,7 +8,6 @@ source_url: "https://www.sec.gov/newsroom/press-releases/2026-57-sec-cftc-seek-p
 published: "2026-06-18"
 version: "1"
 ---
-
 ## More in this Section
 
 Press Release

@@ -8,7 +8,6 @@ source_url: "https://www.bankofengland.co.uk/agents-summary/2026/july-2026"
 published: "2026-07-24"
 version: "1"
 ---
-
 # Agents' summary of business conditions - July 2026
 
 We regularly publish a summary of business conditions based on our Agency network's discussions with many businesses from across the UK every reporting period.

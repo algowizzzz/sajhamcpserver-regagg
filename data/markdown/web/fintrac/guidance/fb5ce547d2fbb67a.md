@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/guidance-directives/exam-examen/vsdonc/1-eng.php"
 version: "1"
 ---
-
 # Voluntary self-declaration of non-compliance
 
 Reporting entities must comply fully with the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (the Act), as this ensures that FINTRAC receives complete, accurate, and timely reports. However, we recognize that when reporting entities periodically review their program, conduct ongoing risk assessment or quality control activities, they may come across instances where they have not met all the requirements of the Act. These shortfalls may be in relation to reporting, client identification, record keeping, or effectively implementing an area of their compliance program.

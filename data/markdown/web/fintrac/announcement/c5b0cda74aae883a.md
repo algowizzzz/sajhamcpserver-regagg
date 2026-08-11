@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/new-neuf/ps-pa/2023-11-16-eng.php"
 version: "1"
 ---
-
 # Speaking points for Sarah Paquet, Director and Chief Executive Officer, Financial Transactions and Reports Analysis Centre of Canada at the ACAMS Assembly Canada Conference
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

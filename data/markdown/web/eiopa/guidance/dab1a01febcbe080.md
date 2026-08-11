@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/guidelines-outsourcing-cloud-service-providers-now-available-national-supervisory-authorities-2020-02-06_en"
 version: "1"
 ---
-
 ![Adobestock_innovation](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_innovation.jpeg?itok=DJau6I-s "Adobestock_innovation")
 
 [Guidelines on outsourcing to cloud service providers](https://www.eiopa.europa.eu/content/guidelines-outsourcing-cloud-service-providers_en) now available for national supervisory authorities. The Guidelines shall provide guidance to market participants on how the outsourcing provisions set forth in the Directive 2009/138/EC, in the Commission's Delegated Regulation 2015/35 and in EIOPA's Guidelines on System of Governance need to be applied in the case of outsourcing to cloud service providers.

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/new-neuf/nr/2021-03-22-fra.php"
 version: "1"
 ---
-
 # CANAFE impose une pénalité administrative pécuniaire à Park Georgia Realty Ltd.
 
 **Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/re-ed/real-eng.php"
 version: "1"
 ---
-
 # Real estate brokers or sales representatives, and real estate developers
 
 [Real estate brokers or sales representatives](/guidance-directives/glossary-glossaire/1-eng#rebsr), and [real estate developers](/guidance-directives/glossary-glossaire/1-eng#red) must fulfill specific obligations as required by the Proceeds of Crime (Money Laundering) and Terrorist Financing Act (PCMLTFA) and associated Regulations, to help combat money laundering and terrorist activity financing in Canada.

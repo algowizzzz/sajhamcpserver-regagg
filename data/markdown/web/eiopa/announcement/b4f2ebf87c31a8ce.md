@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/browse/digitalisation-and-financial-innovation/cyber-insurance_en"
 version: "1"
 ---
-
 The increasing frequency and sophistication of cyber-attacks and the continued digital transformation also make insurers increasingly prone to cyber threats, as more and more insurance undertakings are embracing new technologies and making use of big data.
 
 In the context of cyber risk, many different areas are correlated and interdependent. Digitalisation in Insurance (InsurTech), SupTech and Cyber Underwriting and Resilience are all closely inter-related.

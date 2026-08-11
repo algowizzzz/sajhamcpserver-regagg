@@ -7,6 +7,13 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/guest-commentary-gabriel-bernardino-safe-newsletter-goethe-universitys-house-finance-2017-10-30_en"
 version: "1"
 ---
+[Skip to main content](#main-content)
+
+# Guest Commentary by Gabriel Bernardino in the SAFE Newsletter of Goethe University’s House of Finance
+
+* News article
+* 30 October 2017
+* 1 min read
 
 Page Content
 

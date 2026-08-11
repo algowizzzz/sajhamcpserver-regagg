@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/esas-launch-first-recruitments-set-dora-joint-oversight-team-2024-04-09_en"
 version: "1"
 ---
-
 ![AdobeStock_165665393](/sites/default/files/styles/oe_theme_medium_no_crop/public/2024-04/AdobeStock_165665393.jpeg?itok=Ri4tX2D3)
 
 The European Supervisory Authorities (EBA, EIOPA and ESMA - ESAs) today published three vacancy notices in the context of the Digital Operational Resilience Act (DORA).

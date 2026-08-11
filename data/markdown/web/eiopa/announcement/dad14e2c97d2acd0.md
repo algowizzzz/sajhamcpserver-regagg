@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-outlines-key-financial-stability-risks-2018-12-20_en"
 version: "1"
 ---
-
 Page Content
 
 Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its [December 2018 Financial Stability Report](/document/download/8b6482bc-a475-4f50-bda8-109c1a279f3d_en?filename=Financial%20Stability%20Report%20-%20December%202018.pdf)of the (re)insurance and occupational pensions sectors in the European Economic Area.

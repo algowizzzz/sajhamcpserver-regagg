@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/notices-avis/avs/2024-02-20-eng.php"
 version: "1"
 ---
-
 # Joint financial intelligence advisory: illegal procurement of dual-use goods by Russian end-users
 
 ## Introduction

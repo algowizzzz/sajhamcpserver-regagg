@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.esma.europa.eu/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision"
 version: "2"
 ---
-
 # [EBA, EIOPA and ESMA call for enhanced governance and consistent supervision to mitigate ICT risks from frontier AI models in the EU financial sector](/press-news/esma-news/eba-eiopa-and-esma-call-enhanced-governance-and-consistent-supervision)
 
 Digital Finance and Innovation

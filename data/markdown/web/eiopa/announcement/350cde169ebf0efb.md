@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/media/news_en"
 version: "1"
 ---
-
 Filter by
 
 ## News (1050)

@@ -7,6 +7,13 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-streamlines-reporting-occupational-pensions-information-2017-07-26-0_en"
 version: "1"
 ---
+[Skip to main content](#main-content)
+
+# EIOPA streamlines the reporting of occupational pensions information
+
+* News article
+* 26 July 2017
+* 1 min read
 
 Publication date
 :   26 July 2017

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/events/exco-meeting-october-2026-2/"
 version: "1"
 ---
-
 # ExCo meeting, October 2026
 
 [8 Oct 2026](https://www.iais.org/events/exco-meeting-october-2026-2/)

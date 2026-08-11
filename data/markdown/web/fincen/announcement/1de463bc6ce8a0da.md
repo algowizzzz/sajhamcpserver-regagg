@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/sars-lead-conviction-former-investment-firm-ceo"
 version: "1"
 ---
-
 # SARs Lead to Conviction of Former Investment Firm CEO
 
 [093.pdf](/system/files/case_example/093.pdf "093.pdf")

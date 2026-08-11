@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/consultations/resume-consultations/resultats-consultation-sur-modifications-correlatives-lignes-directrices-du-bsif-du-fait-lifrs-17"
 version: "1"
 ---
-
 # Résultats de la consultation sur les modifications corrélatives des lignes directrices du BSIF du fait de l’IFRS 17
 
 **Type de publication :**Lettre  

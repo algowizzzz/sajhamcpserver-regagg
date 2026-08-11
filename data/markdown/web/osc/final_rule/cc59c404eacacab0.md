@@ -8,4 +8,256 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/4/45-106/proposed-amendments-ni-45-106-prospectus-and-registration-exemptions"
 version: "1"
 ---
+# Proposed Amendments to NI 45-106 Prospectus and Registration Exemptions
 
+Request for Comment
+National Instrument
+
+## April 25, 2013
+
+[Download document](/sites/default/files/pdfs/irps/rule_20130425_45-501_rfc-pro-amend.pdf "Open document in new window")
+
+### NOTICE AND REQUEST FOR COMMENT PROPOSED AMENDMENTS TO ONTARIO SECURITIES COMMISSION RULE 45-501 *ONTARIO PROSPECTUS AND REGISTRATION EXEMPTIONS* AND PROPOSED AMENDMENTS TO *NATIONAL INSTRUMENT 45-106 PROSPECTUS AND REGISTRATION EXEMPTIONS*
+
+  
+  
+
+#### Introduction
+
+The Ontario Securities Commission (OSC) is publishing for a 90-day comment period proposed amendments to:
+
+* OSC Rule 45-501 *Ontario Prospectus and Registration Exemptions* (OSC Rule 45-501), and
+* an Ontario-specific requirement in National Instrument 45-106 *Prospectus and Registration Exemptions* (NI 45-106).
+
+  
+
+#### Objective of the proposed amendments
+
+The purpose of the proposed amendments is to amend specific disclosure requirements that are currently required to be included in an offering memorandum used to distribute securities under a prospectus exemption in the context of foreign private placements offered to sophisticated investors in Ontario.
+
+  
+
+#### Proposed text
+
+We invite comment on the following proposed amendments (the proposed amendments):
+
+* Appendix A sets out the proposed amendments to OSC Rule 45-501, and
+* Appendix B sets out the proposed amendments to NI 45-106.
+
+These amendments are being proposed in Ontario only.
+
+  
+
+#### Background
+
+***Disclosure required in an offering memorandum***
+
+Broadly speaking, the purpose of the proposed amendments is to eliminate the need for a “wrapper” to be prepared when foreign securities are offered to sophisticated Ontario investors under a prospectus exemption.
+
+When a foreign offering document is used to distribute securities in Ontario, it falls under the definition of an “offering memorandum” under the *Securities Act* (Ontario) (the Act). As a result, certain items of Ontario-specific disclosure must be included in the offering document before it can be provided to prospective purchasers. In order to have the prescribed Ontario disclosure included in the foreign offering document, the foreign document may either be amended to include the Ontario disclosure, or more commonly, a supplemental document known as a “wrapper” is prepared and attached to the face of the foreign offering document. The wrapper together with the foreign offering document thus form one Ontario offering memorandum for the purposes of offering securities in Ontario.
+
+Market participants have suggested that, in the context of U.S. and other global offerings of foreign securities, the time and expense associated with retaining counsel and preparing a “wrapper” to meet Ontario disclosure requirements discourages some foreign issuers and underwriters from extending foreign offerings into Ontario.
+
+***Other issues***
+
+The OSC, along with the other members of the Canadian Securities Administrators, is in the process of considering amendments to National Instrument 33-105 *Underwriting Conflicts* to provide relief from connected and related issuer disclosure where offerings by foreign issuers provide comparable alternative disclosure to investors.
+
+  
+
+#### Substance and purpose of the proposed amendments
+
+The proposed amendments will eliminate or clarify specific Ontario disclosure requirements in the context of offerings of securities that qualify as “designated foreign securities”. Designated foreign securities are defined in the proposed amendments as:
+
+* securities offered primarily in a foreign jurisdiction
+* securities that are issued by an issuer that is
+  + incorporated, formed or created under the laws of a foreign jurisdiction
+  + not a reporting issuer in a jurisdiction, and
+  + has its head office or principal executive offices outside of Canada, or
+* securities that are issued or guaranteed by the government of a foreign jurisdiction.
+
+The proposed amendments further provide that the purchaser of the securities must be a permitted client (as defined in National Instrument 31-103 *Registration Requirements, Exemptions and Ongoing Registrant Obligations*).
+
+The proposed amendments will apply to offerings by both non-investment funds and investment funds that meet the above criteria. Non-Canadian issuers that are investment funds are reminded that there are other Canadian regulatory requirements specific to investment funds, such as investment fund manager registration for instance, that may still apply. Permitted clients that are investment funds are reminded that other Canadian regulatory requirements, such as fund on fund restrictions, may restrict a Canadian investment fund’s ability to purchase securities of a non-Canadian issuer that is an investment fund.
+
+  
+
+#### Summary of the proposed amendments
+
+**(a) Amendments to OSC Rule 45-501**
+
+***Disclosure of statutory rights of action***
+
+Currently OSC Rule 45-501 requires that, where an offering memorandum is provided to a prospective purchaser in connection with a distribution to which the rights referred to in section 130.1 of the Act apply, these rights must be described in the offering memorandum.
+
+Section 130.1 of the Act provides that where an offering memorandum contains a misrepresentation, a purchaser who purchased a security offered by the offering memorandum during the period of distribution has a right of action for damages or rescission against the issuer or selling securityholder.
+
+Under the proposed amendments, notice of the rights available under section 130.1 of the Act may be provided to prospective purchasers in alternative ways. For example, the proposed amendments will permit this disclosure to be provided in a one-time notice and acknowledgment form that has been delivered to the permitted client by a registered dealer or international dealer and that is signed by the permitted client in return. This notice will explain that, with respect to future distributions of designated foreign securities, the purchaser will have certain statutory rights in the event of a misrepresentation. In the case of a one-time notice and acknowledgment, a description of such rights will not be provided at the time of each offering of designated foreign securities presented to the purchaser.
+
+The proposed amendments do not remove the statutory rights in section 130.1 of the Act available to any purchaser of securities. Rather, the proposed amendments provide relief from the requirement that Ontario-specific disclosure be included in a foreign offering document by permitting alternative methods of disclosing such statutory rights.
+
+***Prohibition on making a listing representation***
+
+We are also proposing an amendment to OSC Rule 45-501 to address a requirement set out in subsection 38(3) of the Act.
+
+Subsection 38(3) of the Act prohibits a person or company, with the intention of effecting a trade in a security or derivative, from making a representation that the security or derivative will be listed on an exchange or quoted on a quotation and trade reporting system, or that application has been or will be made to list the security or derivative, unless consent from the Director is first obtained.
+
+Certain exceptions to this prohibition are provided for in the Act. These include:
+
+* where an application has already been made to list or quote the securities and other securities of the same issuer are already listed on an exchange or quoted on a quotation and trade reporting system, or
+* the exchange or quotation and trade reporting system has granted approval to the listing or quoting of the securities or derivatives, conditional or otherwise, or has consented to, or indicated that it does not object to, the representation.
+
+We understand that in the context of foreign securities offerings, many foreign exchanges and related foreign securities laws do not prohibit the making of listing representations, provided the representations are factually correct.
+
+Given the typically short timeframe for international offerings, it may be difficult to obtain the express consent of an OSC Director before a foreign offering document can be used in Ontario. Yet a foreign exchange may not have granted an approval, conditional or otherwise, at the time a foreign offering is extended into Canada. In that case, a foreign issuer would have to obtain the consent or an indication of non-objection from the foreign exchange in order to comply with the requirements of subsection 38(3). Each of these steps may add to the time and cost associated with extending a foreign offering to Ontario investors.
+
+A new provision in OSC Rule 45-501 will provide an exemption from subsection 38(3) of the Act in the context of a distribution of a designated foreign security provided that all of the purchasers in Ontario are permitted clients and the listing representation is not a misrepresentation.
+
+**(b) Amendments to National Instrument 45-106 Prospectus and Registration Exemptions**
+
+In Ontario, a report on Form 45-106F1 *Report of Exempt Distribution* (the Report) must be filed with the OSC within 10 days of a distribution of securities made in reliance on certain prospectus exemptions (including the accredited investor exemption).
+
+The Report contains detailed information about each purchaser that participated in the distribution, including the purchaser’s name, address and telephone number.
+
+The Report requires information about the collection of this personal information to be provided to purchasers, including the fact that this information will be delivered to the OSC. It also requires issuers or underwriters to confirm, when filing the Report with the OSC, that the notification was provided to each purchaser and that such purchasers have authorized the indirect collection of personal information by the OSC.
+
+The requirement to provide this notification and obtain authorization from purchasers stems from provisions in the *Freedom of Information and Protection of Privacy Act*, R.S.O. 1990. ch. F.31. These provisions, however, only apply to the collection of “personal information”, which is information relating to individuals. Providing notice and obtaining authorization is not technically required where the purchaser is an institution or otherwise not an individual.
+
+Currently, the Report does not distinguish between purchasers that are individuals and those that are not. The proposed amendments would clarify that the requirement to include the “Authorization of Indirect Collection of Personal Information for Distribution in Ontario” when filing a Report is only applicable if a distribution is made to one or more individuals in Ontario. The proposed amendments contemplate a similar change to Form 45-501F1 *Report of Exempt Distribution*.
+
+This change will be applicable to all distributions made in reliance on a prospectus exemption that require the filing of a Report.
+
+**Alternatives considered**
+
+Time-limited exemptive relief was granted to a number of large institutional Canadian and foreign dealers from Canadian-specific disclosure requirements that must be included in a wrapper. The relief is subject to a “sunset” clause that results in the termination of the decision on the earlier of: (i) three years after the date of the decision, or (ii) the date that amendments to the legislation become effective that provide for substantially the same relief as the decision. In addition, the relief has a 60-day period of delayed effectiveness. The relief will be addressed by making rule amendments that will place all market participants in a similar position.
+
+No other alternatives were considered.
+
+**Impact on investors**
+
+Many institutional investors as well as dealers involved in foreign offerings have expressed frustration at the current requirements, which they believe restrict investor access to foreign investment opportunities.
+
+We anticipate that the proposed amendments will facilitate participation by sophisticated Ontario investors that qualify as permitted clients in foreign securities offerings, including offerings by foreign corporations and governments. As a result, this may provide some investors with a wider range of investment opportunities than were previously available.
+
+**Anticipated costs and benefits**
+
+By implementing the proposed amendments, we aim to simplify the process for offering foreign securities into Canada to permitted clients on an exempt basis. These changes will reduce the regulatory burden associated with these offerings and may expand investment opportunities for sophisticated Ontario investors. As a result, we consider the benefits of the proposed amendments to potentially be significant.
+
+**Unpublished materials**
+
+In proposing the proposed amendments, we have not relied on any significant unpublished study, report or other written materials.
+
+**Rule-making authority**
+
+The following provisions of the Act provide the Commission with authority to adopt the proposed amendments:
+
+* paragraph 143(1)49 authorizes the Commission to make rules permitting or requiring, or varying the Act to permit or require, methods of filing or delivery, to or by the Commission, issuers, registrants, security holders or others, of documents, information, notices, books, records, things, reports, orders, authorizations or other communications required under or governed by Ontario securities laws; and
+* paragraph 143(1)50 authorizes the Commission to make rules providing for exemptions from or varying the requirements set out in Part XIII *Trading in Securities and Derivatives Generally*.
+
+**How to provide your comments**
+
+You must submit your comments in writing by **July 24, 2013**. If you are sending your comments by email, you should also send an electronic file containing the submissions in Microsoft Word.
+
+Please send your comments to the following address:
+
+The Secretary  
+Ontario Securities Commission  
+20 Queen Street West  
+22nd Floor, Box 55  
+Toronto, Ontario M5H 3S8  
+Fax: 416-593-2318  
+Email: **[[email protected]](/cdn-cgi/l/email-protection)**
+
+Please note that all comments received during the comment period will be made publicly available. We will post all comments to the OSC website at www.osc.gov.on.ca to improve the transparency of the policy-making process.
+
+**Questions**
+
+Please refer your questions to any of:
+
+Jo-Anne Matear  
+Manager, Corporate Finance  
+416.593.2323  
+[[email protected]](/cdn-cgi/l/email-protection)  
+  
+Elizabeth Topp  
+Senior Legal Counsel, Corporate Finance  
+416.593.2377  
+[[email protected]](/cdn-cgi/l/email-protection)  
+  
+Darren McKall  
+Manager, Investment Funds  
+416.593.8118  
+[[email protected]](/cdn-cgi/l/email-protection)
+
+**April 25, 2013.**
+
+  
+  
+  
+
+#### APPENDIX A Ontario Securities Commission Rule 45-501 *Ontario Prospectus and Registration Exemptions* Ontario Amendment Instrument
+
+  
+  
+
+***1. Ontario Securities Commission Rule 45-501 Ontario Prospectus and Registration Exemptions is amended by this Instrument.***
+
+***2. Section 1.1 is amended by adding the following definitions:***
+
+> “designated foreign security” means a security offered primarily in a foreign jurisdiction that is
+>
+> > (a) issued by an issuer that
+> >
+> > > (i) is incorporated, formed or created under the laws of a foreign jurisdiction,
+> > >
+> > > (ii) is not a reporting issuer in a jurisdiction, and
+> > >
+> > > (iii) has its head office or principal executive office outside of Canada, or
+> >
+> > (b) issued or guaranteed by the government of a foreign jurisdiction;
+>
+> “permitted client” has the same meaning as in section 1.1 of National Instrument 31-103 *Registration Requirements, Exemptions and Ongoing Registrant Obligations*;
+
+***3. Part 5 is amended by adding the following:***
+
+> **5.5 Exemption from Listing Representation Requirements** – Subsection 38(3) of the Act does not apply to any representation made in an offering memorandum in connection with a distribution of a designated foreign security if all of the purchasers in Ontario are permitted clients and the representation is not a misrepresentation.
+>
+> **5.6 Manner of Disclosure** – If a seller delivers an offering memorandum to a prospective purchaser in connection with a distribution of a designated foreign security to which the rights referred to in section 130.1 of the Act apply and the prospective purchaser is a permitted client, the disclosure required by section 5.3 may be satisfied by disclosure of the rights of the purchaser under section 130.1 of the Act contained in:
+>
+> > (a) an offering memorandum for the distribution that is delivered to the permitted client;
+> >
+> > (b) a separate document which accompanies, but is not part of, the offering memorandum for the distribution that is delivered to the permitted client;
+> >
+> > (c) a representation letter, subscription agreement or other form of written notice delivered to the permitted client in connection with a distribution for which no offering memorandum is being used;
+> >
+> > (d) a notice and acknowledgment that has been delivered to the permitted client by a registered dealer or an international dealer and signed by the permitted client that proposes to make future distributions of securities to the permitted client which contains a statement to the effect that the disclosure will apply to all such future distributions; or
+> >
+> > (e) any combination of the foregoing.
+>
+> **5.7 Application** – Sections 5.5 and 5.6 do not apply to any distribution if a prospectus has been filed with a Canadian securities regulatory authority for the distribution.
+
+***4. Item 9 of Form 45-501F1 is replaced by the following:***
+
+> **Item 9:** If a distribution is made to one or more individuals in Ontario, include the attached “Authorization of Indirect Collection of Personal Information for Distribution in Ontario”.
+
+***5. Part 7 is replaced by the following:***
+
+> **7.1 Exemption** – The Director may grant an exemption to Part 6, in whole or in part, subject to such conditions or restrictions as may be imposed in the exemption.
+
+***6. This Instrument comes into force on •.***
+
+  
+  
+  
+
+#### APPENDIX B Proposed Amendments to National Instrument 45-106 *Prospectus and Registration Exemptions* Ontario Amendment Instrument
+
+  
+  
+
+***1. National Instrument 45-106 Prospectus and Registration Exemptions is amended by this Instrument.***
+
+***2. Item 9 of Form 45-106F1 is replaced by the following:***
+
+> **Item 9:** If a distribution is made to one or more individuals in Ontario, include the attached “Authorization of Indirect Collection of Personal Information for Distribution in Ontario”. The “Authorization of Indirect Collection of Personal Information for Distributions in Ontario” is only required to be filed with the Ontario Securities Commission.
+
+***3. This Instrument comes into force on •.***

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/guidance-directives/cost-cout/regulations-reglements-fra.php"
 version: "1"
 ---
-
 # Changements législatifs et réglementaires : Facturer les entités déclarantes pour le programme de conformité de CANAFE
 
 **Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)

@@ -7,4 +7,510 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/1/13-503/osc-rule-13-503-commodity-futures-act-fees-1"
 version: "1"
 ---
+# OSC Rule: 13-503 - (Commodity Futures Act) Fees
 
+OSC Rule
+
+## January 20, 2006
+
+[Download document](/sites/default/files/pdfs/irps/rule_20060120_13-503_cfa-fee-form-pol.pdf "Open document in new window")
+
+**NOTICE OF**
+
+**REVOCATION AND REPLACEMENT OF OSC RULE 13-503 (COMMODITY FUTURES ACT) FEES**
+
+**AND COMPANION POLICY 13-503CP (COMMODITY FUTURES ACT) FEES**
+
+**Introduction**
+
+On January 10, 2006 the Commission made OSC Rule 13-503 (*Commodity Futures Act*) *Fees* and adopted Companion Policy 13-503CP (*Commodity Futures Act*) *Fees* (collectively, the "Proposed Materials") under the *Commodity Futures Act*. The Proposed Materials were published for a 90-day comment period on August 12, 2005 and are intended to replace the rule and policy currently in force under the same number.
+
+Under section 68 of the Act, the Rule was delivered to the Minister responsible for oversight of the Commission on January 19, 2006. Unless the Minister rejects the Rule or returns it to the Commission for further consideration, it will come into force on April 1, 2006.
+
+**Substance and Purpose of the Rule and Policy**
+
+The Proposed Materials are consistent with the current rule and policy. That is, the proposed Rule requires registrants to pay a "participation fee" each year. This fee is designed to reflect a market participant's proportionate participation in Ontario's capital markets in the upcoming year.
+
+As with the current rule, the proposed Rule also requires the payment of "activity fees". These fees are designed to represent our direct cost where Commission staff has undertaken certain activities for market participants (for example, reviewing a registration application).
+
+While the basic principles of the current rule and policy remain, the Proposed Materials include a number of changes that are intended to:
+
+• ensure that the fees charged are approximately equal to our costs of providing services,
+
+• improve the "readability" and "user-friendliness" of the current rule and policy by employing plain language principles,
+
+• simplify the activity fee schedule, and
+
+• address a number of concerns and comments raised by stakeholders.
+
+The proposed Rule also returns the surplus collected from market participants between April 2003 and March 2006 in the form of reduced participation fees.
+
+Since the end of the comment period, we have made the following non-material changes to the Proposed Materials:
+
+• Given that the capital markets participation fees paid on December 31, 2005 were larger than expected, we have applied these surplus fees to further reduce the capital markets participation fees in the Rule.
+
+• We have changed some language in the materials to further improve their "readability".
+
+For a detailed description of other changes to the current rule and policy, please refer to the request for comment published by the Commission on August 12, 2005.
+
+**Comments**
+
+We did not receive any comments in respect of this Rule.
+
+**Text of the Proposed Materials**
+
+The text of the Proposed Materials follows. The Proposed Materials are also available on the Commission's website along with a blackline showing the changes made to the Proposed Materials after their publication for comment on August 12, 2005.
+
+**Questions**
+
+Please refer your questions to:
+
+Gina Sugden
+
+Project Manager, Capital Markets
+
+(416) 593-8162
+
+[[email protected]](/cdn-cgi/l/email-protection)
+
+January 20, 2006
+
+**ONTARIO SECURITIES COMMISSION**
+
+**RULE 13-503 (COMMODITY FUTURES ACT) FEES**
+
+**PART 1 DEFINITIONS**
+
+> **1.1 Definitions** - In this Rule
+>
+> > "CFA" means the *Commodity Futures Act*;
+> >
+> > "CFA activities" means activities for which registration under the CFA or an exemption from registration is required;
+> >
+> > "IDA" means the Investment Dealers Association of Canada;
+> >
+> > "Ontario percentage" means, for the fiscal year of a registrant firm
+> >
+> > > (a) that has a permanent establishment in Ontario, the percentage of the income of the registrant firm allocated to Ontario for the fiscal year in the corporate tax filings made for the registrant firm under the *Income Tax Act* (Canada), or
+> > >
+> > > (b) that does not have a permanent establishment in Ontario, the percentage of the total revenues of the registrant firm attributable to CFA activities in Ontario;
+> >
+> > "registrant firm" means a person or company registered as a dealer or an adviser under the CFA; and
+> >
+> > "specified Ontario revenues" means the revenues determined in accordance with section 2.4, 2.5 or 2.6.
+
+**PART 2 PARTICIPATION FEES**
+
+> **2.1 Application** -- This Part does not apply to a registrant firm that is registered under the *Securities Act* and that has paid its participation fee under Rule 13-502 *Fees* under the *Securities Act*.
+>
+> **2.2 Participation Fee** -- On December 31, a registrant firm must pay the participation fee shown in Appendix A opposite the registrant firm's specified Ontario revenues, as that revenue is calculated under section 2.4 or 2.5.
+>
+> **2.3 Disclosure of Fee Calculation** -- By December 1, a registrant firm must file a completed Form 13-503F1 showing the information required to determine the participation fee due on December 31.
+>
+> **2.4 Specified Ontario Revenues for IDA Members**
+>
+> > (1) The specified Ontario revenues of a registrant firm that is a member of the IDA is calculated by multiplying
+> >
+> > > (a) the registrant firm's total revenue for its fiscal year ending on or before December 31 of the current year, less revenue not attributable to CFA activities for its fiscal year, by
+> > >
+> > > (b) the registrant firm's Ontario percentage for its fiscal year.
+> >
+> > (2) For the purpose of paragraph (1)(a), "total revenue" means the amount shown as total revenue on Statement E of the Joint Regulatory Financial Questionnaire and Report filed with the IDA by the registrant firm.
+>
+> **2.5 Specified Ontario Revenues for Others**
+>
+> > (1) The specified Ontario revenues of a registrant firm that is not a member of the IDA is calculated by multiplying
+> >
+> > > (a) the registrant firm's gross revenues, as shown in the audited financial statements prepared for its fiscal year ending on or before December 31 of the current year, less deductions permitted under subsection (2), by
+> > >
+> > > (b) the registrant firm's Ontario percentage for its fiscal year.
+> >
+> > (2) For the purpose of paragraph (1)(a), a registrant firm may deduct the following items otherwise included in gross revenues:
+> >
+> > > (a) revenue not attributable to CFA activities for the fiscal year,
+> > >
+> > > (b) advisory or sub-advisory fees paid during the fiscal year by the registrant firm to a person or company registered as a dealer or an adviser under the CFA or under the *Securities Act*.
+>
+> **2.6 Estimating Specified Ontario Revenues for Late Fiscal Year End**
+>
+> > (1) If the annual financial statements of a registrant firm have not been completed by December 1 in a year, the registrant firm must,
+> >
+> > > (a) on December 1, file a completed Form 13-503F1 showing a good faith estimate of the information required to calculate its specified Ontario revenues as at the end of the fiscal year, and
+> > >
+> > > (b) on December 31, pay the participation fee shown in Appendix A opposite the specified Ontario revenues estimated under paragraph (a).
+> >
+> > (2) A registrant firm that estimated its specified Ontario revenues under subsection (1) must, when its annual financial statements for the applicable fiscal year have been completed,
+> >
+> > > (a) calculate its specified Ontario revenues under section 2.4 or 2.5, as applicable,
+> > >
+> > > (b) determine the participation fee shown in Appendix A opposite the specified Ontario revenues calculated under paragraph (a), and
+> > >
+> > > (c) complete a Form 13-503F1 reflecting the annual financial statements.
+> >
+> > (3) If the participation fee determined under subsection (2) differs from the participation fee paid under subsection (1), the registrant firm must, not later than 90 days after the end of its fiscal year,
+> >
+> > > (a) pay the participation fee determined under subsection (2), less the participation fee paid under subsection (1),
+> > >
+> > > (b) file the Form 13-503F1 completed under subsection (2), and
+> > >
+> > > (c) file a completed Form 13-503F2.
+> >
+> > (4) If a registrant firm paid an amount paid under subsection (1) that exceeds the participation fee determined under subsection (2), the registrant firm is entitled to a refund from the Commission of the amount overpaid.
+>
+> **2.7 Late Fee**
+>
+> > (1) Subject to subsection (2), a registrant firm that is late in paying a participation fee under this Part must pay an additional fee of one percent of the participation fee for each business day on which the participation fee remains due and unpaid.
+> >
+> > (2) A registrant firm is not required to pay a fee under subsection (1) in excess of 25 percent of the participation fee payable under this Part.
+
+**PART 3 ACTIVITY FEES**
+
+> **3.1 Activity Fees** -- A person or company that files a document or takes an action listed in Appendix B must, concurrently with filing the document or taking the action, pay the activity fee shown in Appendix B opposite the description of the document or action.
+>
+> **3.2 Late Fee --** A person or company that files a document listed in Appendix C after the document was required to be filed must, concurrently with filing the document, pay the late fee shown in Appendix C opposite the description of the document.
+
+**PART 4 CURRENCY CONVERSION**
+
+> **4.1 Canadian Dollars** - If a calculation under this Rule requires the price of a security, or any other amount, as it was on a particular date and that price or amount is not in Canadian dollars, it must be converted into Canadian dollars using the daily noon exchange rate for that date as posted on the Bank of Canada website.
+
+**PART 5 EXEMPTION**
+
+> **5.1 Exemption** - The Director may grant an exemption from the provisions of this Rule, in whole or in part, subject to such conditions or restrictions as may be imposed in the exemption.
+
+**PART 6 -- REVOCATION AND EFFECTIVE DATE**
+
+> **6.1 Revocation** -- Ontario Securities Commission Rule 13-503 (*Commodity Futures* Act) Fees, which came into force on November 29, 2003, is revoked.
+>
+> **6.2 Effective Date** - This Rule comes into force on April 1, 2006.
+
+**APPENDIX A -- PARTICIPATION FEES**
+
+> | **Specified Ontario Revenues** | **Participation Fee** |
+> | --- | --- |
+> |  | |
+> | under $500,000 | $800 |
+> |  | |
+> | $500,000 to under $1 million | $2,500 |
+> |  | |
+> | $1 million to under $3 million | $5,600 |
+> |  | |
+> | $3 million to under $5 million | $12,600 |
+> |  | |
+> | $5 million to under $10 million | $25,500 |
+> |  | |
+> | $10 million to under $25 million | $52,000 |
+> |  | |
+> | $25 million to under $50 million | $78,000 |
+> |  | |
+> | $50 million to under $100 million | $156,000 |
+> |  | |
+> | $100 million to under $200 million | $259,000 |
+> |  | |
+> | $200 million to under $500 million | $525,000 |
+> |  | |
+> | $500 million to under $1 billion | $678,000 |
+> |  | |
+> | $1 billion to under $2 billion | $855,000 |
+> |  | |
+> | $2 billion and over | $1,435,000 |
+
+**APPENDIX B - ACTIVITY FEES**
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **Document or Activity** | | | |  | **Fee** |
+|  | | | | | |
+| **A.** | **Applications for relief, approval and recognition** | | |  |  |
+|  | | | | | |
+|  | 1. | Any application for relief, regulatory approval or recognition under any section of the CFA, Regulation or any Rule of the Commission made under the CFA not listed in item A.2 or A.3. | |  | $3,000 for each section under which an application is made (plus $2,000 if the applicant is not subject to, and is not reasonably expected to become subject to, a participation fee under this Rule or Rule 13-502 under the *Securities Act*) subject to the overall limitation set out below |
+|  | | | | | |
+|  | *Note:* | *The following are included in the applications that are subject to a fee under this item:* | |  | The maximum fee for an application, regardless of the number of sections under which application is made, shall be $7,500 if the applicant is subject to, or is reasonably expected to become subject to, a participation fee under this Rule or Rule 13-502 under the *Securities Act*, or $9,500 if the applicant is not subject to, and is not reasonably expected to become subject to, a participation fee under this Rule or Rule 13-502 under the *Securities Act*. These limits apply to the application even if the application is made under both the CFA and the *Securities Act*; i.e. an application under both statutes will not be subject to a fee of more than $7,500 or $9,500, as applicable. |
+|  | | | | | |
+|  |  | *(i)* | *recognition of an exchange under section 34 of the CFA, a self-regulatory organization under section 16 of the CFA or a clearing house under section 17 of the CFA;* |  |  |
+|  | | | | | |
+|  |  | *(ii)* | *registration of an exchange under section 15 of the CFA; and* |  |  |
+|  | | | | | |
+|  |  | *(iii)* | *approval of the establishment of a council, committee or ancillary body under section 18 of the CFA.* |  |  |
+|  | | | | | |
+|  | 2. | Application under | |  | Nil |
+|  | | | | | |
+|  |  | (a) | Section 24, 36(1), 40, or 46(2) of the CFA, and |  |  |
+|  | | | | | |
+|  |  | (b) | Subsection 27(1) of the Regulation to the CFA. |  |  |
+|  | | | | | |
+| 3. | An application for relief from any of the following: | | |  | $1,500 |
+|  | | | | | |
+|  | (a) | Rule 13-503 (*Commodity Futures Act*) *Fees*; | |  |  |
+|  | | | | | |
+|  | (b) | OSC Rule 31-509 (*Commodity Futures Act*) *National Registration Database*; | |  |  |
+|  | | | | | |
+|  | (c) | OSC Rule 33-506 (*Commodity Futures Act*) *Registration Information*. | |  |  |
+|  | | | | | |
+| **B.** | **Registration-Related Activity** | | |  |  |
+|  | | | | | |
+|  | 1. | New registration of a firm in any category of registration | |  | $600 |
+|  | | | | | |
+|  | *Note:* | *If a firm is registering as both a dealer and an adviser, it is required to pay two activity fees.* | |  |  |
+|  | | | | | |
+|  | 2. | Change in registration category | |  | $600 |
+|  | | | | | |
+|  | *Note:* | *This includes a dealer becoming an adviser or vice versa, or changing a category of registration within the general category of adviser. A dealer adding a category of registration, such as a dealer becoming both a dealer and an adviser, is covered in the preceding section.* | |  |  |
+|  | | | | | |
+|  | 3. | Registration of a new director, officer or partner (trading or advising), salesperson, floor trader or representative | |  | $200 per person |
+|  | | | | | |
+|  | *Notes:* |  |  |  |  |
+|  | | | | | |
+|  |  | *(i)* | *Registration of a new non-trading or non-advising director, officer or partner does not trigger an activity fee*. |  |  |
+|  | | | | | |
+|  |  | *(ii)* | *An individual registering as both a dealer and an adviser will be required to pay two activity fees.* |  |  |
+|  | | | | | |
+|  |  | *(iii)* | *A registration fee will not be charged if an individual makes application to register with a new registrant firm within three months of terminating employment with his or her previous registrant firm if the individual's category of registration remains unchanged.* |  |  |
+|  | | | | | |
+|  | 4. | Change in status from a non-trading or non-advising capacity to a trading or advising capacity | |  | $200 per person |
+|  | | | | | |
+|  | 5. | Registration of a new registrant firm, or the continuation of registration of an existing registrant firm, resulting from or following an amalgamation of registrant firms | |  | $2,000 |
+|  | | | | | |
+|  | 6. | Application for amending terms and conditions of registration | |  | $500 |
+|  | | | | | |
+| **C.** | **Application for Approval of the Director under Section 9 of the Regulation** | | |  | $1,500 |
+|  | | | | | |
+| **D.** | **Request for Certified Statement from the Commission or the Director under Section 62 of the CFA** | | |  | $100 |
+|  | | | | | |
+| **E.** | **Requests of the Commission** | | |  |  |
+|  | | | | | |
+|  | 1. | Request for a photocopy of Commission records | |  | $0.50 per page |
+|  | | | | | |
+|  | 2. | Request for a search of Commission records | |  | $150 |
+|  | | | | | |
+|  | 3. | Request for one's own Form 7 | |  | $30 |
+
+**APPENDIX C -- ADDITIONAL FEES FOR LATE DOCUMENT FILINGS**
+
+|  |  |  | **Document** | |  | **Late Fee** |
+| --- | --- | --- | --- | --- | --- | --- |
+|  | | | | | | |
+|  | 1. | Fee for late filing of any of the following documents: | | |  | $100 per business day (subject to a maximum of $5,000 for a registrant firm for all documents required to be filed within a calendar year) |
+|  | | | | | | |
+|  |  | (a) | Annual financial statements and interim financial statements; | |  |  |
+|  | | | | | | |
+|  |  | (b) | Report under section 15 of Regulation to the CFA; | |  |  |
+|  | | | | | | |
+|  |  | (c) | Report under section 17 of Regulation to the CFA; | |  |  |
+|  | | | | | | |
+|  |  | (d) | Filings for the purpose of amending Form 5 and Form 7 or Form 33-506F4 under Rule 33-506; | |  |  |
+|  | | | | | | |
+|  |  | (e) | Any document required to be filed by a registrant firm or individual in connection with the registration of the registrant firm or individual under the CFA with respect to | |  |  |
+|  | | | | | | |
+|  |  |  | (i) | terms and conditions imposed on a registrant firm or individual, or |  |  |
+|  | | | | | | |
+|  |  |  | (ii) | an order of the Commission; |  |  |
+|  | | | | | | |
+|  |  | (f) | Form 13-503F1; | |  |  |
+|  | | | | | | |
+|  |  | (g) | Form 13-503F2. | |  |  |
+
+**FORM 13-503F1**
+
+**(COMMODITY FUTURES ACT)**
+
+**PARTICIPATION FEE CALCULATION**
+
+**General Instructions**
+
+> 1. IDA members must complete Part I of this Form. All other registrant firms must complete Part II.
+>
+> 2. The components of revenue reported in this Form should be based on the same principles as the comparative statement of income that is prepared in accordance with generally accepted accounting principles ("GAAP"), or such equivalent principles applicable to the audited financial statements of non-resident advisers, except that revenues should be reported on an unconsolidated basis.
+>
+> 3. Members of the Investment Dealers Association of Canada may refer to Statement E of the Joint Regulatory Financial Questionnaire and Report for guidance.
+>
+> 4. Comparative figures are required for the registrant firm's year end date.
+>
+> 5. Participation fee revenue will be based on the portion of total revenue that can be attributed to Ontario. The percentage attributable to Ontario for the reported year end should be the provincial allocation rate used in the corporate tax return for the same fiscal period. For firms that do not have a permanent establishment in Ontario, the percentage attributable to Ontario will be based on the proportion of total revenues generated from CFA activities in Ontario.
+>
+> 6. All figures must be expressed in Canadian dollars and rounded to the nearest thousand.
+>
+> 7. Information reported on this questionnaire must be certified by two members of senior management in Part IV to attest to its completeness and accuracy.
+
+**Notes for Part II**
+
+> 1. Gross Revenue is defined as the sum of all revenues reported on a gross basis as per the audited financial statements prepared in accordance with GAAP, or such equivalent principles applicable to the audited financial statements of non-resident advisers, except that revenues should be reported on an unconsolidated basis. Items reported on a net basis must be adjusted for purposes of the fee calculation. Gross revenues are reduced by amounts not attributable to CFA activities.
+>
+> 2. Where the advisory or sub-advisory services of another registrant firm are used by the registrant firm to advise on a portion of its assets under management, such advisory or sub-advisory costs are permitted as a deduction on this line.
+
+**Participation Fee Calculation**
+
+|  |  |
+| --- | --- |
+| **Firm Name:** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+|  | |
+| **Fiscal Year End:** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+
+**PART I -- IDA Members**
+
+> |  |  |  |
+> | --- | --- | --- |
+> |  | **Current Year** | **Prior Year** |
+> |  | **$** | **$** |
+> |  | | |
+> | 1. Total revenue from Statement E of the Joint Regulatory Financial Questionnaire and Report | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_ |
+> |  | | |
+> | 2. Less revenue not attributable to CFA activities | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_ |
+> |  | | |
+> | 3. Revenue subject to participation fee (line 1 less line 2) | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_ |
+
+**Part II -- Advisers and Other Dealers**
+
+> |  |  |  |
+> | --- | --- | --- |
+> | 1. Gross revenue as per the audited financial statements (note 1) | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_ |
+> |  | | |
+> | Less the following items: |  |  |
+> |  | | |
+> | 2. Amounts not attributable to CFA activities | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_ |
+> |  | | |
+> | 3. Advisory or sub-advisory fees paid to other registrant firms (note 2) | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_ |
+> |  | | |
+> | 4. Revenue subject to participation fee (line 1 less lines 2 and 3) | \_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_ |
+>
+> > **Part III -- Calculating Specified Ontario Revenues**
+>
+> |  |  |  |
+> | --- | --- | --- |
+> | 1. | Gross revenue subject to participation fee | $\_\_\_\_\_\_\_\_\_\_ |
+> |  | (line 3 from Part I or line 4 from Part II) |  |
+> |  | | |
+> | 2. | Ontario Percentage | \_\_\_\_\_\_\_\_\_\_% |
+> |  | (See definition in Rule) |  |
+> |  | | |
+> | 3. | Specified Ontario revenues | \_\_\_\_\_\_\_\_\_\_ |
+> |  | (line 3 multiplied by line 4) |  |
+> |  | | |
+> | 4. | Participation fee | \_\_\_\_\_\_\_\_\_\_ |
+> |  | (From Appendix A of the Rule, select the participation fee |  |
+> |  | opposite the specified Ontario revenues calculated above) |  |
+
+**Part IV - Management Certification**
+
+We have examined the attached statements and certify that, to the best of our knowledge, they present fairly the revenues of the firm for the period ended \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ and are prepared in agreement with the books of the firm.
+
+We certify that the reported revenues of the firm are complete and accurate and in accordance with generally accepted accounting principles.
+
+|  | **Name and Title** | **Signature** | **Date** |
+| --- | --- | --- | --- |
+|  | | | |
+| 1. | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+|  | | | |
+| 2. | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+
+**FORM 13-503F2**
+
+**(COMMODITY FUTURES ACT)**
+
+**ADJUSTMENT OF FEE PAYMENT**
+
+|  |  |
+| --- | --- |
+| **Firm Name:** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+|  | |
+| **Fiscal Year End:** | \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ |
+
+**Note:** Subsection 2.6(3) of the Rule requires that this Form must be filed concurrent with a completed Form 13-503F1 that shows the firm's actual participation fee calculation.
+
+|  |  |  |
+| --- | --- | --- |
+| 1. | Estimated participation fee paid under subsection 2.6(1) of the Rule: | \_\_\_\_\_\_\_\_\_\_ |
+|  | | |
+| 2. | Actual participation fee calculated under subsection 2.6(2) of the Rule: | \_\_\_\_\_\_\_\_\_\_ |
+|  | | |
+| 3. | Refund due (Balance owing): | \_\_\_\_\_\_\_\_\_\_ |
+|  | (Indicate the difference between lines 1 and 2) |  |
+
+**ONTARIO SECURITIES COMMISSION**
+
+**COMPANION POLICY 13-503CP**
+
+**(COMMODITY FUTURES ACT) FEES**
+
+**PART 1 PURPOSE OF COMPANION POLICY**
+
+> **1.1 Purpose of Companion Policy** -- The purpose of this Companion Policy is to state the views of the Commission on various matters relating to Rule 13-503 (*Commodity Futures Act*) *Fees* (the "Rule"), including an explanation of the overall approach of the Rule and a discussion of various parts of the Rule.
+
+**PART 2 PURPOSE AND GENERAL APPROACH OF THE RULE**
+
+> **2.1 Purpose and General Approach of the Rule**
+>
+> > (1) The general approach of the Rule is to establish a fee regime that is consistent with the approach of Rule 13-502 (the "OSA Fees Rule"), which governs fees paid under the *Securities Act*. Both rules are designed to create a clear and streamlined fee structure and to adopt fees that accurately reflect the Commission's costs of providing services.
+> >
+> > (2) The fee regime of the Rule is based on the concepts of "participation fees" and "activity fees".
+>
+> **2.2 Participation Fees**
+>
+> > (1) Registrant firms are required to pay participation fees annually. Participation fees are designed to cover the Commission's costs of providing services whose costs are not easily attributable to specific market participants. The participation fee required of each market participant is based on a measure of the market participant's size, which is used to approximate its proportionate participation in the Ontario capital markets.
+> >
+> > (2) Over the three year period ending March 2006, the Commission projects that it will have an accumulated surplus of $39.5 million. This surplus will be used to reduce the participation fees that would otherwise have been payable under the Rule. The appendix to this Companion Policy shows how the Commission has applied the surplus to each participation fee level.
+>
+> **2.3 Participation Fees Payable in Advance** -- Although participation fees are determined by using information from a registrant firm's previous fiscal year, participation fees are applied to the costs of the Commission of the firm's participation in Ontario's capital markets in the upcoming year.
+>
+> **2.4 Registered Individuals** -- The participation fee is paid at the firm level under the Rule. That is, a "registrant firm" is required to pay a participation fee, not an individual who is registered as a salesperson, representative, partner, or officer of the firm.
+>
+> **2.5 Activity Fees** -- Activity fees are designed to represent the direct cost of Commission resources expended in undertaking the activities listed in Appendix B of the Rule (e.g., reviewing registration applications and applications for discretionary relief). Activity fees are based on the average cost to the Commission of providing the service.
+>
+> **2.6 Registrants under the CFA and the *Securities Act***
+>
+> > (1) A registrant firm that is registered both under the CFA and the *Securities Act* is exempted by section 2.1 of the Rule from the requirement to pay a participation fee under the Rule if it is current in paying its participation fees under the OSA Fees Rule. The registrant firm will include revenues derived from CFA activities as part of its revenues for purposes of determining its participation fee under the OSA Fees Rule.
+> >
+> > (2) A registrant firm that is registered both under the CFA and the *Securities Act* must pay activity fees under the CFA Rule even though it pays a participation fee under the OSA Fees Rule.
+>
+> **2.7 No Refunds**
+>
+> > (1) Generally speaking, a person or company that pays a fee under the Rule is not entitled to a refund of that fee. For example, there is no refund available for an activity fee paid in connection with an action that is subsequently abandoned by the payor of the fee. Also, there is no refund available for a participation fee paid by a registrant firm whose registration is terminated later in the year for which the fee was paid.
+> >
+> > (2) An exception to this principle is provided in subsection 2.6(4) of the Rule. This provision allows for a refund where a registrant firm overpaid an estimated participation fee.
+> >
+> > (3) The Commission will also consider requests for adjustments to fees paid in the case of incorrect calculations made by fee payors.
+>
+> **2.8 Indirect Avoidance of Rule** -- The Commission may examine arrangements or structures implemented by registrant firms and their affiliates that raise the suspicion of being structured for the purpose of reducing the fees payable under the Rule. For example, the Commission will be interested in circumstances in which revenues from registrable activities carried on by a corporate group are not treated as revenues of a registrant firm, thereby possibly artificially reducing the firm's specified Ontario revenues and, consequently, its participation fee.
+
+**PART 3 PARTICIPATION FEES**
+
+> **3.1 Filing Forms under Section 2.6** -- If the estimated participation fee paid under subsection 2.6(1) by a registrant firm does not differ from its true participation fee determined under subsection 2.6(2), the registrant firm is not required to file either a Form 13-503F1 or a Form 13-503F2 under subsection 2.6(3).
+>
+> **3.2 Late Fees** -- Section 2.7 of the Rule prescribes an additional fee if a participation fee is paid late. The Commission and the Director will, in appropriate circumstances, consider tardiness in the payment of fees as a matter going to the fitness for registration of a registrant firm.
+>
+> **3.3 "CFA Activities"** -- Calculation of the participation fee involves consideration of the CFA activities undertaken by a person or company. The term "CFA activities" is defined in section 1.1 of the Rule to include "activities for which registration under the CFA or an exemption from registration is required". The Commission is of the view that these activities include, without limitation, trading in commodity futures contracts, providing commodity futures contracts-related advice and portfolio management services involving commodity futures contracts.
+
+**APPENDIX -- USE OF SURPLUS TO REDUCE PARTICIPATION FEES**
+
+Over the three year period ending March 2006, the Commission projects that it will have an accumulated surplus of $39.5 million. This surplus will be used to reduce the participation fees that would otherwise have been payable under the Rule. The chart below shows how the Commission has applied the surplus to each participation fee level.
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+|  |  | **Reduction due to** |  |
+|  | **Pre-Surplus** | **Application of** |  |
+| **Specified Ontario Revenues** | **Participation Fee** | **Surplus** | **Participation Fee** |
+|  | | | |
+| under $500,000 | $1,000 | $200 | $800 |
+|  | | | |
+| $500,000 to under $1 million | $3,500 | $1,000 | $2,500 |
+|  | | | |
+| $1 million to under $3 million | $7,500 | $1,900 | $5,600 |
+|  | | | |
+| $3 million to under $5 million | $14,100 | $1,500 | $12,600 |
+|  | | | |
+| $5 million to under $10 million | $29,000 | $3,500 | $25,500 |
+|  | | | |
+| $10 million to under $25 million | $59,000 | $7,000 | $52,000 |
+|  | | | |
+| $25 million to under $50 million | $88,300 | $10,300 | $78,000 |
+|  | | | |
+| $50 million to under $100 million | $177,000 | $21,000 | $156,000 |
+|  | | | |
+| $100 million to under $200 million | $295,000 | $36,000 | $259,000 |
+|  | | | |
+| $200 million to under $500 million | $595,000 | $70,000 | $525,000 |
+|  | | | |
+| $500 million to under $1 billion | $770,000 | $92,000 | $678,000 |
+|  | | | |
+| $1 billion to under $2 billion | $970,000 | $115,000 | $855,000 |
+|  | | | |
+| $2 billion and over | $1,600,000 | $165,000 | $1,435,000 |

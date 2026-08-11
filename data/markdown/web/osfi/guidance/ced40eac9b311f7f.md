@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/unwind-temporary-leverage-ratio-exclusions-effective-april-2023"
 version: "1"
 ---
-
 # Unwind of temporary leverage ratio exclusions, effective April 2023
 
 Information

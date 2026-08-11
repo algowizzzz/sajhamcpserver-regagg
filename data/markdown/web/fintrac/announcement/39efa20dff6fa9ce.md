@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/re-ed/real-fra.php"
 version: "1"
 ---
-
 # Courtiers ou agents immobiliers et promoteurs immobiliers
 
 Les [courtiers ou les agents immobiliers](/guidance-directives/glossary-glossaire/1-fra#cai) et les [promoteurs immobiliers](/guidance-directives/glossary-glossaire/1-fra#immobilier) ont des obligations particulières à remplir en vertu de la Loi sur le recyclage des produits de la criminalité et le financement des activités terroristes (la Loi) et des règlements connexes pour contribuer à la lutte contre le blanchiment d’argent et le financement des activités terroristes au Canada.

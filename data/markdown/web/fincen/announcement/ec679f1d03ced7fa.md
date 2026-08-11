@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/advisories/fincen-advisory-fin-2007-a001"
 version: "1"
 ---
-
 # FinCEN Advisory – FIN-2007-A001
 
 ## Advisory Information

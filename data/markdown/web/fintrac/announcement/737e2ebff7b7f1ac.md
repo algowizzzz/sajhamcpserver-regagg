@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/notices-avis/vsdonc-form-eng.php"
 version: "1"
 ---
-
 # Voluntary self-declaration of non-compliance form
 
 ## Reporting electronic funds transfers as of June 1, 2021

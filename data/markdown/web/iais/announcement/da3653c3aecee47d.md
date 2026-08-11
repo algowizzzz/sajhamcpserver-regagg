@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2022/11/2022-iais-membership-application-form-002/"
 version: "1"
 ---
-
 # 2022 IAIS Membership Application Form (002)
 
 [30 Nov 2022](https://www.iais.org/2022/11/2022-iais-membership-application-form-002/)

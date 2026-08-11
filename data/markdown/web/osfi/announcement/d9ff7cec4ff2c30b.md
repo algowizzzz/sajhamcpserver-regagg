@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/exercice-normalise-danalyse-scenarios-climatiques"
 version: "1"
 ---
-
 # Exercice normalisé d’analyse de scénarios climatiques
 
 [Générer un PDF](/fr/print/pdf/node/2379)

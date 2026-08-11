@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/new-neuf/nr/2024-07-31-fra.php"
 version: "1"
 ---
-
 # CANAFE impose une pénalité administrative pécuniaire à Gestion de Patrimoine Blue Bridge Inc.
 
 **Communiqué de presse**

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.finra.org/rules-guidance/adjudication-decisions/office-hearing-officers-oho/about"
 version: "2"
 ---
-
 # Office of Hearing Officers
 
 Under Section 15A(b)(8) of the Securities Exchange Act of 1934, FINRA must provide a fair and impartial procedure for the disciplining of members, and persons associated with members, and the enforcement of FINRA's rules. Towards this end, FINRA formed the Office of Hearing Officers (OHO), which is an office of impartial adjudicators. OHO serves as FINRA's adjudicatory forum for disciplinary and expedited proceedings.

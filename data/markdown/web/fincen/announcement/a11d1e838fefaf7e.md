@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/advisories/fincen-advisory-fin-2021-a004"
 version: "1"
 ---
-
 # FinCEN Advisory FIN-2021-A004
 
 ## Advisory Information

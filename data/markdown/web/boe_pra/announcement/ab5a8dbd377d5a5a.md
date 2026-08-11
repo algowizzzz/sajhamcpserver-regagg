@@ -8,7 +8,6 @@ source_url: "https://www.bankofengland.co.uk/news/2026/may/boe-fca-and-hm-treasu
 published: "2026-05-15"
 version: "2"
 ---
-
 # The Bank, FCA and HM Treasury joint statement on Frontier AI models and cyber resilience
 
 Statement from the Bank of England, Financial Conduct Authority and HM Treasury

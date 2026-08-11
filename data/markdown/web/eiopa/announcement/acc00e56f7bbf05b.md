@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/esas-highlight-relevance-legislative-changes-key-information-document-priips-2018-10-01_en"
 version: "1"
 ---
-
 Page Content
 
 Today, the European Supervisory Authorities (ESAs) wrote a letter to the European Commission expressing their concerns regarding the possibility of duplicating information requirements for investment funds from 1 January 2020 and the importance of legislative changes to avoid such a situation.

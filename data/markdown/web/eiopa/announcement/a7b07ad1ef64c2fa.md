@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/petra-hielkema-takes-her-role-chairperson-eiopa-2021-09-01_en"
 version: "1"
 ---
-
 ![Petra Hielkema, Chairperson](/sites/default/files/styles/oe_theme_medium_no_crop/public/2021-09/petra_hielkema_2021-05_950x550px.png?itok=2uLhDOBw "Petra Hielkema, Chairperson")
 
 Petra Hielkema started in her new position as Chairperson of the European Insurance and Occupational Pensions Authority (EIOPA) today.

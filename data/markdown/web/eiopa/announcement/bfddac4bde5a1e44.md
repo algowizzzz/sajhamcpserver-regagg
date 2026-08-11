@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/ai-insurance-sector-industry-adoption-and-regulatory-developments_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

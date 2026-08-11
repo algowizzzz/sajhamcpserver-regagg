@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/events/emde-meeting-november-2026/"
 version: "1"
 ---
-
 # EMDE meeting, November 2026
 
 [9 Nov 2026](https://www.iais.org/events/emde-meeting-november-2026/)

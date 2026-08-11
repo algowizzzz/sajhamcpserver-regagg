@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/statutes-regulations/guidance"
 version: "1"
 ---
-
 # Guidance
 
 Guidance is intended to clarify obligations or respond to questions of general applicability that arise under the Bank Secrecy Act and implementing regulations at 31 CFR Chapter X. FinCEN alerts, advisories, notices, bulletins, and fact sheets are located [here](/resources/advisoriesbulletinsfact-sheets#fincen_notices). Guidance regarding beneficial ownership reporting requirements under the Corporate Transparency Act can be found [here](/boi). Other information pertaining to the Anti-Money Laundering Act of 2020 is available [here](/anti-money-laundering-act-2020).

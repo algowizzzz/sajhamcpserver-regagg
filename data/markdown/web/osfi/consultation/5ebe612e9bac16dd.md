@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/consultations/consultation-summaries/osfis-response-draft-guideline-culture-behaviour-risk-management-feedback"
 version: "1"
 ---
-
 # OSFI’s response to draft guideline Culture and Behaviour Risk - Management Feedback
 
 ## Clarify terminology and key concepts

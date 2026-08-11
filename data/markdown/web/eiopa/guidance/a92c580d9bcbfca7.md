@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/guidelines-specify-further-matters-and-criteria-assessment-resolvability-undertakings-or-groups-irrd_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

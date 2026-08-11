@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/surveillance/generalites-sur-surveillance"
 version: "1"
 ---
-
 # Généralités sur la surveillance
 
 La surveillance des institutions financières fédérales et des régimes de retraite fédéraux au Canada vise à protéger la population canadienne. Notre objectif : renforcer la confiance du public dans le système financier canadien.

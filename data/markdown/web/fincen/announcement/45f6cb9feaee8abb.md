@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/fincen-issues-ruling-records-be-made-and"
 version: "1"
 ---
-
 # FinCEN Issues Ruling on Records to be Made and Maintained by Dealers in Foreign Exchange
 
 [FIN-2014-R003.pdf](/system/files/administrative_ruling/FIN-2014-R003.pdf "FIN-2014-R003.pdf")

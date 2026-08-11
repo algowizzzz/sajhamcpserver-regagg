@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/advisories/fincen-advisory-issue-28"
 version: "1"
 ---
-
 # FinCEN Advisory - Issue 28
 
 ## Advisory Information

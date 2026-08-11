@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/emplo/ap-fra.php"
 version: "1"
 ---
-
 # Postuler pour un emploi à CANAFE
 
 À CANAFE, nous trouvons un équilibre entre un processus de recrutement agile et le maintien de notre engagement envers l’intégrité des principes directeurs de CANAFE en matière de dotation, à savoir la compétence, l’impartialité, l’équité, la transparence, l’inclusion et l’efficacité.

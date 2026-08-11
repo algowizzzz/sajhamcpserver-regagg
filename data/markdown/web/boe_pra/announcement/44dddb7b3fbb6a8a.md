@@ -8,7 +8,6 @@ source_url: "https://www.bankofengland.co.uk/minutes/2026/april/banknote-advisor
 published: "2026-06-15"
 version: "2"
 ---
-
 # Banknote imagery expert panel minutes – 15 April 2026
 
 Meeting held 15 April 2026

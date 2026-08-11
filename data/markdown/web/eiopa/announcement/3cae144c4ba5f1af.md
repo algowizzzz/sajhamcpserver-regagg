@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/key-findings-2024-esas-dry-run-exercise-dora_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

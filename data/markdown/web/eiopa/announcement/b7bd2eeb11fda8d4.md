@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/about/careers_en"
 version: "1"
 ---
-
 Work with us
 
 A career at the European Insurance and Occupational Pensions Authority (EIOPA) offers interesting and challenging work that brings value to European citizens and a diverse and stimulating working environment, while enjoying attractive benefits in a vibrant European city.

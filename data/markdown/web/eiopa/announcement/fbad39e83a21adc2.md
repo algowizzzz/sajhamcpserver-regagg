@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/impact-digitalisation-risk-mutualisation-ethical-considerations_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

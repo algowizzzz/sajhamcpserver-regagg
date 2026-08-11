@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/use-ratings-estimates-default-loss-irb-institutions"
 version: "1"
 ---
-
 # The Use of Ratings and Estimates of Default and Loss at IRB Institutions
 
 Information

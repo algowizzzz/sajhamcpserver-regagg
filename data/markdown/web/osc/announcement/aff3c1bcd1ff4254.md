@@ -7,4 +7,33 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/investors/warnings/apex-one-trading-group-doing-business-wwwapexonetgcom"
 version: "1"
 ---
+# Apex One Trading Group doing business as www.apexonetg.com
 
+As part of the Ontario Securities Commission’s (OSC) mandate to protect investors and the integrity of our markets, we issue [investor warnings and alerts](/en/investors/investor-warnings-and-alerts). Investor warnings caution the public about individuals or companies that may pose a risk to investors.
+
+The OSC has issued an investor warning with the following information:
+
+Name:
+
+Apex One Trading Group doing business as www.apexonetg.com
+
+Date:
+
+October 7, 2016
+
+Addresses:
+
+City:
+
+Country: 
+Panama
+
+Other Names Used:
+
+Additional Information:
+
+Apex One Trading Group doing business as www.apexonetg.com is not registered in Ontario, Canada to engage in the business of trading in securities.
+
+If you have been approached by the individual or company above, [contact us](/en/about-us/contact-us) immediately. Please also contact us if you are approached by anyone who is not registered.
+
+[See all Investor Warnings](/en/investors/investor-warnings-and-alerts "Investor warnings and alerts")

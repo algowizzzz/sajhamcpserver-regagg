@@ -1,0 +1,160 @@
+---
+title: "Mellon Bank , N. A. - MRRS Decision | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/mellon-bank-n-mrrs-decision"
+version: "1"
+---
+# Mellon Bank , N. A. - MRRS Decision
+
+MRRS Decision
+
+## December 4, 2000
+
+Headnote
+
+MRRS - Underwriter and advisor registration relief for Schedule III Bank - prospectus and registration relief for tradeswhere Schedule III Bank purchasing as principal and first trade relief for Schedule III Bank - prospectus and registrationrelief for trades of bonds, debentures and other evidences of indebtedness of or guaranteed by Schedule III Bankprovided trades involve only specified purchasers - prospectus and registration relief for evidences of deposits bySchedule III Bank to specified purchasers - fee relief for trades made in reliance on Decision.
+
+**Applicable Ontario Statutory Provisions**
+
+Securities Act, R.S.O. 1990, c.S.5, as am. ss. 25(1)(a)&(c), 34(a), 35(1)(3)(i), 35(2)1(c), 53(i), 72(1)(a)(i), 73(1)(a), 74(1),147.
+
+**Regulations Cited**
+
+Regulation made under the Securities Act, R.R.O. 1990, Reg. 1015, as am. ss. 151, 206, 218, Schedule 1 s. 28.
+
+**IN THE MATTER OF THE SECURITIES LEGISLATION OF**
+
+**BRITISH COLUMBIA, ALBERTA, SASKATCHEWAN, MANITOBA,**
+
+**ONTARIO, QUEBEC, NEW BRUNSWICK, NOVA SCOTIA,**
+
+**PRINCE EDWARD ISLAND, NEWFOUNDLAND, YUKON TERRITORY,**
+
+**NORTHWEST TERRITORIES, AND NUNAVUT TERRITORY**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**THE MUTUAL RELIANCE REVIEW SYSTEM FOR**
+
+**EXEMPTIVE RELIEF APPLICATIONS**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**MELLON BANK, N.A.**
+
+**MRRS DECISION DOCUMENT**
+
+**WHEREAS** the local securities regulatory authority or regulator (the "Decision Maker") in each of BritishColumbia, Alberta, Saskatchewan, Manitoba, Ontario, Quebec, New Brunswick, Nova Scotia, Prince Edward Island,Newfoundland and Labrador, Northwest Territories, Nunavut Territory and Yukon Territory (the "Jurisdictions") hasreceived an application (the "Application") from Mellon Bank, N.A. ("Mellon Bank") for a decision pursuant to thesecurities legislation of the Jurisdictions (the "Legislation") that Mellon Bank is exempt from various registration,prospectus and filing requirements of the Legislation in connection with the banking business to be carried on by MellonBank in the Jurisdictions;
+
+**AND WHEREAS,** pursuant to the Mutual Reliance Review System for Exemptive Relief Applications (the"System"), the Ontario Securities Commission is the principal regulator for this application;
+
+**AND WHEREAS** it has been represented by Mellon Bank to the Decision Makers that:
+
+1. Mellon Bank is the principal bank subsidiary of Mellon Financial Corporation in the United States. Mellon Bankis established under the laws of the United States. Mellon Financial Corporation is a multi-bank holdingcompany whose principal wholly-owned subsidiaries are Mellon Bank, The Boston Company, Inc., Mellon Bank(DE) National Association and Buck Consultants Inc. The Dreyfus Corporation, one of the largest mutual fundmanagement companies in the United States, is a wholly-owned subsidiary of Mellon Bank. Mellon Bank isestablishing a full service branch which will appear on Schedule III of the *Bank Act* (Canada) (the "Bank Act").
+
+2. The businesses of Mellon Bank in Canada will be commercial loans, foreign exchange, current accounts, lock-box and cash management services to companies operating in Canada. Local treasury operations of MellonBank will provide funding and liquidity for commercial lending activity of Mellon Bank and deal in foreignexchange. Mellon Bank is a major participant in the interbank market and accepts terms deposits from majorCanadian and multi-national corporations.
+
+3. Mellon Bank only accepts deposits from the following:
+
+(a) Her Majesty in right of Canada or in right of a province or territory, an agent of Her Majesty in eitherof those rights and includes a municipal or public body empowered to perform a function ofgovernment in Canada, or an entity controlled by Her Majesty in either of those rights;
+
+(b) the government of a foreign country or any political subdivision thereof, an agency of the governmentof a foreign country or any political subdivision thereof, or an entity that is controlled by thegovernment of a foreign country or any political subdivision thereof;
+
+(c) an international agency of which Canada is a member, including an international agency that is amember of the World Bank Group, the Inter American Development Bank, the Asian DevelopmentBank, the Caribbean Development Bank and the European Bank for Reconstruction and Developmentand any other international regional bank;
+
+(d) a financial institution (i.e.: (a) a bank or an authorized foreign bank under the Bank Act; (b) a bodycorporate to which the *Trust and Loan Companies Act* (Canada) applies; (c) an association to whichthe *Cooperative Credit Association Act* (Canada) applies; (d) an insurance company or a fraternalbenefit society to which the *Insurance Companies Act* (Canada) applies; (e) a trust, loan or insurancecorporation incorporated by or under an Act of the legislature of a province or territory in Canada; (f)a cooperative credit society incorporated and regulated by or under an Act of the legislature of aprovince or territory in Canada; (g) an entity that is incorporated or formed by or under an Act ofParliament or of the legislature of a province or territory in Canada and that is primarily engaged indealing in securities, including portfolio management and investment counseling, and is registered toact in such capacity under the applicable Legislation; and (h) a foreign institution that is (i) engagedin the banking, trust, loan or insurance business, the business of a cooperative credit society or thebusiness of dealing in securities or is otherwise engaged primarily in the business of providingfinancial services, and (ii) is incorporated or formed otherwise than by or under an Act of Parliamentor of the legislature of a province or territory in Canada);
+
+(e) a pension fund sponsored by an employer for the benefit of its employees or employees of an affiliatethat is registered and has total plan assets under administration of greater than $100 million;
+
+(f) a mutual fund corporation that is regulated under an Act of the legislature of a province or territory inCanada or under the laws of any other jurisdiction and has total assets under administration of greaterthan $10 million;
+
+(g) an entity (other than an individual) that has, for the fiscal year immediately preceding the initialdeposit, gross revenues on its own books and records of greater than $5 million; or
+
+(h) any other person if the deposit is, in the aggregate, greater than $150,000;
+
+collectively referred to for purposes of this Decision as "Authorized Purchasers".
+
+4. The only advising activities which Mellon Bank will undertake are incidental to its primary business and it hasnot and will not advertise itself as an adviser or allow itself to be advertised as an adviser in the Jurisdictions.
+
+5. In June of 1999 amendments to the Bank Act were proclaimed that permit foreign commercial banks toestablish direct branches in Canada. These amendments have created a new Schedule III listing foreign bankspermitted to carry on banking activities through branches in Canada.
+
+6. Mellon Bank has filed an application under the Bank Act to establish a full service branch under the Bank Actand designating it on Schedule III to the Bank Act.
+
+7. The Legislation applicable in each Jurisdiction refers to either "Schedule I and Schedule II banks", "banks","savings institutions" or "financial institutions" in connection with certain exemptions however no reference ismade in any of the Legislation to entities listed on Schedule III to the Bank Act.
+
+8. In order to ensure that Mellon Bank, as an entity listed on Schedule III to the Bank Act, is able to providebanking services to businesses in the Jurisdictions it requires exemptions under the Legislation that are similarto the exemptions applicable to banking institutions incorporated under the Bank Act to the extent that thecurrent exemptions applicable to such banking institutions are relevant to the banking business beingundertaken by Mellon Bank in the Jurisdictions.
+
+**AND WHEREAS** pursuant to the System this MRRS Decision Document evidences the decision of eachDecision Maker (collectively, the "Decision");
+
+**AND WHEREAS** each of the Decision Makers is satisfied that the test contained in the Legislation that providesthe Decision Maker with the jurisdiction to make the Decision has been met;
+
+**THE DECISION** of the Decision Makers pursuant to the Legislation is that in connection with the bankingbusiness to be carried on by Mellon Bank in the Jurisdictions:
+
+1. Mellon Bank is exempt from the requirement under the Legislation, where applicable, to be registered as anunderwriter with respect to the same types of securities that an entity listed on Schedule I or II to the Bank Actmay act as an underwriter in respect of without being required to be registered under the Legislation as anunderwriter.
+
+2. Mellon Bank is exempt from the requirement under the Legislation to be registered as an adviser where theperformance of the service as an adviser is solely incidental to its primary banking business.
+
+3. A trade of a security to Mellon Bank where Mellon Bank purchases the security as principal shall be exemptfrom the registration and prospectus requirements of the Legislation of the Jurisdiction in which the trade takesplace (the "Applicable Legislation") provided that:
+
+(i) the forms that would have been filed and the fees that would have been paid under the ApplicableLegislation if the trade had been made, on an exempt basis, to an entity listed on Schedule I or II tothe Bank Act purchasing as principal (referred to in this Decision as a "Schedule I or II Bank ExemptTrade") are filed and paid in respect of the trade to Mellon Bank, and
+
+(ii) the first trade in a security acquired by Mellon Bank pursuant to this Decision is deemed a distribution(or primary distribution to the public) under the Applicable Legislation unless:
+
+(a) the issuer of the security is a reporting issuer, or the equivalent, under the ApplicableLegislation and, if Mellon Bank is in a special relationship (where such term is defined in theApplicable Legislation) with such issuer, Mellon Bank has reasonable grounds to believe thatsuch issuer is not in default of any requirements of the Applicable Legislation;
+
+(b) (i) the securities are listed and posted for trading on a stock exchange, that isrecognized by the Decision Maker of the applicable Jurisdiction for purposes of theresale of a security acquired in a Schedule I or II Bank Exempt Trade, and complywith the requirements set out in paragraph (a) or (b) of Appendix A to this Decisionand have been held at least six months from the date of the initial exempt trade toMellon Bank or the date the issuer became a reporting issuer, or the equivalent,under the Applicable Legislation, whichever is the later, or
+
+(ii) the securities are bonds, debentures or other evidences of indebtedness issued orguaranteed by an issuer or are preferred shares of an issuer and comply with therequirements set out in paragraph (a) or (c), of Appendix A to this Decision, andhave been held at least six months from the date of the initial exempt trade toMellon Bank or the date the issuer became a reporting issuer, or the equivalent,under the Applicable Legislation, whichever is the later, or
+
+(iii) the securities are listed and posted for trading on a stock exchange, that isrecognized by the Decision Maker of the applicable Jurisdiction for purposes of theresale of a security acquired in a Schedule I or II Bank Exempt Trade, or are bonds,debentures or other evidences of indebtedness issued or guaranteed by thereporting issuer, or the equivalent, under the Applicable Jurisdiction whosesecurities are so listed, and have been held at least one year from the date of theinitial exempt trade to Mellon Bank or the date the issuer became a reporting issuer,or the equivalent, under the Applicable Legislation, whichever is later, or
+
+(iv) the securities have been held at least eighteen months from the date of the initialexempt trade to Mellon Bank or the date the issuer became a reporting issuer, orthe equivalent, under the Applicable Legislation, whichever is later; and
+
+(c) Mellon Bank files a report within 10 days of the trade prepared and executed in accordancewith the requirements of the Applicable Legislation that would apply to a Schedule I or IIBank Exempt Trade,
+
+provided that no unusual effort is made to prepare the market or to create a demand for suchsecurities and no extraordinary commission or consideration is paid in respect of such trade andprovided Mellon Bank does not hold sufficient number of securities to materially affect the control ofthe issuer of such securities but any holding by Mellon Bank of more than 20 per cent of theoutstanding voting securities of the issuer of such securities shall, in the absence of evidence to thecontrary, be deemed to affect materially the control of such issuer.
+
+4. Provided Mellon Bank only trades the types of securities referred to in this paragraph 4 with AuthorizedPurchasers, trades of bonds, debentures or other evidences of indebtedness of or guaranteed by Mellon Bankshall be exempt from the registration and prospectus requirements of the Legislation.
+
+5. Evidences of deposit issued by Mellon Bank to Authorized Purchasers shall be exempt from the registrationand prospectus requirements of the Legislation.
+
+**THE FURTHER DECISION** of the Decision Maker in Ontario is that in connection with the banking businessto be carried on by Mellon Bank in Ontario:
+
+A. Subsection 25(1)(a) of the *Securities Act* (Ontario) R.S.O. 1990 c. S.5 (as amended) (the "Act") doesnot apply to a trade by Mellon Bank:
+
+(i) of a type described in subsection 35(1) of the Act or section 151 of the Regulations madeunder the Act; or
+
+(ii) in securities described in subsection 35(2) of the Act.
+
+B. Except as provided for in paragraph 3 of this Decision, section 28 of Schedule I to the Regulationsmade under the Act shall not apply to trades made by Mellon Bank in reliance on this Decision.
+
+December 4th, 2000.
+
+"Howard I. Wetston" "Stephen N. Adams"
+
+**APPENDIX A**
+
+(a) are preferred shares of a corporation if,
+
+(i) the corporation has paid a dividend in each of the five years immediately preceding the date of theinitial exempt trade at least equal to the specified annual rate upon all of its preferred shares, or
+
+(ii) the common shares of the corporation are, at the date of the initial exempt trade, in compliance withparagraph (b) of this Appendix A;
+
+(b) are fully paid common shares of a corporation that during a period of five years that ended less than one yearbefore the date of the initial exempt trade has either,
+
+(i) paid a dividend in each such year upon its common shares, or
+
+(ii) had earnings in each such year available for the payment of a dividend upon its common shares ofat least 4% of the average value at which the shares were carried in the capital stock account of thecorporation during the year in which the dividend was paid or in which the corporation had earningsavailable for the payment of dividends as the case may be;
+
+(c) are bonds debentures or other evidences of indebtedness issued or guaranteed by,
+
+(i) a corporation if, at the date of the initial exempt trade, the preferred shares or the common shares ofthe corporation which comply with paragraph (a) or (b) of this Appendix A, or
+
+(ii) a corporation if its earnings in a period of five years ended less than one year before the date of theinitial exempt trade have been equal in sum total to at least ten times and in each of any four of thefive years have been equal to at least 1-1/2 times the annual interest requirements at the date of theinitial exempt trade on all indebtedness of or guaranteed by it, other than indebtedness classified asa current liability in its balance sheet, and, if the corporation at the date of the initial exempt tradesowns directly or indirectly more than 50% of the common shares of another corporation, the earningsof the corporations during the said period of five years may be consolidated with due allowance forminority interests, if any, and in that event the interest requirements of the corporation shall beconsolidated and such consolidated earnings and consolidated interest requirements shall be takenas the earnings and interest requirements of the corporation, and, for the purpose of this subclause,"earnings" mean earnings available to meet interest charges on indebtedness other than indebtednessclassified as a current liability.

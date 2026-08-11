@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/doctor-pleads-guilty-charges-related-failure-comply-bsa"
 version: "1"
 ---
-
 # Doctor Pleads Guilty to Charges Related to Failure to Comply with BSA Reporting Requirements for Overseas Accounts
 
 [Issue17-story6.pdf](/system/files/case_example/Issue17-story6.pdf "Issue17-story6.pdf")

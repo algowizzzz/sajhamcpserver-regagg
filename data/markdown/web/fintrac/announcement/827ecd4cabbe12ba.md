@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/new-neuf/nr/2022-05-12-fra.php"
 version: "1"
 ---
-
 # CANAFE impose une pénalité administrative pécuniaire à Montecristo Jewellers Inc.
 
 ## Communiqué de presse

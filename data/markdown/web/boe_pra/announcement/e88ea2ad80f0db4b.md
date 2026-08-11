@@ -8,7 +8,6 @@ source_url: "https://www.bankofengland.co.uk/credit-conditions-survey/2026/2026-
 published: "2026-07-02"
 version: "1"
 ---
-
 # Credit Conditions Survey - 2026 Q2
 
 This quarterly survey of banks and building societies is aimed at improving our understanding of trends and developments in credit conditions.

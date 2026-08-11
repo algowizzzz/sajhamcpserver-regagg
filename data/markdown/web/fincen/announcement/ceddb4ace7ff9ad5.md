@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/fincen-issues-ruling-fin-2008-r012on-whether"
 version: "1"
 ---
-
 # FinCEN Issues Ruling (FIN-2008-R012)on Whether a Money Services Business Must Establish and Maintain Separate Deposit Accounts for its Separate Check Cashing and Money Transmission Lines of Business
 
 [fin-2008-r012.pdf](/system/files/administrative_ruling/fin-2008-r012.pdf "fin-2008-r012.pdf")

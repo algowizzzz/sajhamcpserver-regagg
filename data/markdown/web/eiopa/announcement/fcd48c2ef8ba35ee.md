@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/consumers_en"
 version: "1"
 ---
-
 ![consumer corner](/sites/default/files/styles/oe_theme_full_width_banner_4_1/public/2023-06/banner-consumer-corner.jpg.webp?itok=zAllwD_a)
 
 For consumers

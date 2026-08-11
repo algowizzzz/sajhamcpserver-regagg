@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/recommendations-insurance-sector-light-united-kingdom-withdrawing-european-union_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

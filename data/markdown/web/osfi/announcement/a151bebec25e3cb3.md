@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/supervision/pensions/administering-pension-plans/guidance-topic/buy-annuity-products/instruction-guide-buy-annuity-products"
 version: "1"
 ---
-
 # Instruction Guide on Buy-in Annuity products
 
 **Type of publication:** Letter  

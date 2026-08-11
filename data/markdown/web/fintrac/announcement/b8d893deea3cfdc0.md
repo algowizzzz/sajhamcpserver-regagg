@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/new-neuf/statement-declaration-24-05-03-eng.php"
 version: "1"
 ---
-
 # Statement on FINTRAC’s use of artificial intelligence
 
 As FINTRAC's Director and CEO has stated [publicly](/new-neuf/ps-pa/2023-11-16-eng), the Centre has embarked on a significant modernization initiative to ensure that it remains a world-leading financial intelligence unit and anti-money laundering and anti-terrorist financing supervisor fully capable of addressing the emerging and evolving threats in the anti-money laundering and anti-terrorist financing landscape.

@@ -7,6 +7,13 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/supervisory-statement-differential-pricing-practices-non-life-insurance-lines-business_en"
 version: "1"
 ---
+[Skip to main content](#main-content)
+
+# Supervisory statement on differential pricing practices in non-life insurance lines of business
+
+The supervisory statement on differential pricing practices aims at eliminating price-setting strategies which lead to the unfair treatment of customers.
+
+* General publications
 
 ## Details
 

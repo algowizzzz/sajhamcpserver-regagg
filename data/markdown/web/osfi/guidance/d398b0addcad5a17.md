@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/consequential-amendments-guidelines-b-10-b-13-related-foreign-branches"
 version: "1"
 ---
-
 # Consequential amendments to Guidelines B-10 and B-13 related to foreign branches
 
 Information

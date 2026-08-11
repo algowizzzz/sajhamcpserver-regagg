@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/asset-securitization-guideline-2018"
 version: "1"
 ---
-
 # Asset Securitization - Guideline (2018)
 
 Information

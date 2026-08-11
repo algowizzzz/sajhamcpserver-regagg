@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/suspicious-activity-report-leads-arrest-and-conviction-us"
 version: "1"
 ---
-
 # Suspicious Activity Report Leads to Arrest and Conviction of U.S. Government Employee for Embezzlement
 
 [Issue 19-story4.pdf](/system/files/case_example/Issue%2019-story4.pdf "Issue 19-story4.pdf")

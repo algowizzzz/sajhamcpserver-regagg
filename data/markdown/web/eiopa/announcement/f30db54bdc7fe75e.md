@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/supervisory-statement-ultra-lownegative-interest-rate-environment-2020-02-20_en"
 version: "1"
 ---
-
 ![Adobestock_Financial_Stability](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-02/adobestock_230874223_skyskrapers_grey_sky.jpg?itok=-8N5JPDR "Adobestock_Financial_Stability")
 
 Today the European Insurance and Occupational Pensions Authority (EIOPA) has published a [Supervisory Statement on the impact of the ultra-low/negative interest rate environment](https://www.eiopa.europa.eu/content/lir-supervisory-statement_en).

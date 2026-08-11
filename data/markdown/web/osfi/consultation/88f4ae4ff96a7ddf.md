@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/consultations/resume-consultations/reponses-du-bsif-commentaires-recus-lors-consultation-sur-ligne-directrice-normes-liquidite-2025"
 version: "1"
 ---
-
 # Réponses du BSIF aux commentaires reçus lors de la consultation sur la Ligne directrice Normes de liquidité (2025)
 
 ## Résumé des commentaires des parties prenantes et de nos réponses

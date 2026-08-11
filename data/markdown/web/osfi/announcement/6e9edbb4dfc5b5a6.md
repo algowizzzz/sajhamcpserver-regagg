@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/demandes-approbations/instructions-relatives-operations/emission-titres-creance-subordonnee-en-contrepartie-dun-bien"
 version: "1"
 ---
-
 # Émission de titres de créance subordonnée en contrepartie d’un bien
 
 Information

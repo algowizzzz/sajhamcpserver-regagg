@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/node/3/rss_en"
 version: "1"
 ---
-
 xml version="1.0" encoding="utf-8"?
 
 European Insurance and Occupational Pensions Authority | Publications

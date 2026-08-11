@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/esas-publish-joint-final-report-draft-technical-standards-subcontracting-under-dora-2024-07-26_en"
 version: "1"
 ---
-
 ![AdobeStock_500572430.jpeg](/sites/default/files/styles/oe_theme_medium_no_crop/public/2024-04/AdobeStock_500572430.jpeg?itok=vieOm29d)
 
 **The three European Supervisory Authorities (EBA, EIOPA and ESMA – the ESAs) today published their joint final Report on the draft Regulatory Technical Standards (RTS) specifying how to determine and assess the conditions for subcontracting information and communication technology (ICT) services that support critical or important functions under the Digital Operational Resilience Act (DORA). These RTS aim at enhancing the digital operational resilience of the EU financial sector by strengthening the financial entities’ ICT risk management over the use of subcontracting.**

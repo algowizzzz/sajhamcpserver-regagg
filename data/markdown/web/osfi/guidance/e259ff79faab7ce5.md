@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/capital-liquidity-treatment-crypto-asset-exposures-guidelines-letter"
 version: "1"
 ---
-
 # Capital and Liquidity Treatment of Crypto-asset Exposures Guidelines – Letter
 
 Information

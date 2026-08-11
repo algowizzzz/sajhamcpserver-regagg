@@ -8,7 +8,6 @@ source_url: "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-
 published: "2026-06-03"
 version: "2"
 ---
-
 # Statistical Notice 2026/05 - Implementation of Bank of England Statistics Taxonomy v1.3.1
 
 Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder

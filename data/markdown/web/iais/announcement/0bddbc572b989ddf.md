@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2025/07/iais-publishes-application-paper-on-fair-treatment-of-a-wide-range-of-consumers/"
 version: "1"
 ---
-
 # IAIS publishes Application Paper on fair treatment of a wide range of consumers
 
 [7 Jul 2025](https://www.iais.org/2025/07/iais-publishes-application-paper-on-fair-treatment-of-a-wide-range-of-consumers/)

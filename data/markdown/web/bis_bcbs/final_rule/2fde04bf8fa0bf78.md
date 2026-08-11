@@ -8,7 +8,6 @@ source_url: "https://www.bis.org/bcbs/publ/d599.htm"
 published: "2025-10-23"
 version: "1"
 ---
-
 [![The Bank for International Settlements](/img/bis-logo-short.gif)](/)
 
 # Basel III monitoring report

@@ -7,4 +7,48 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/news-events/events/registrant-outreach-osc-compliance-review-process-and-effective-compliance-systems-session-b-person"
 version: "1"
 ---
+# Registrant Outreach: The OSC Compliance Review Process and Effective Compliance Systems (Session B: In-Person)
 
+[OSC Registrant Outreach Seminar](/en/news-events/events?type%5B821%5D=821)
+Past Event
+
+Nov 20, 2019 
+
+02:00 pm
+ - 
+04:00 pm
+
+Osgoode Hall 1, Dundas Street West, 26th Floor, Classroom B Toronto, ON M5B 2H1
+
+Event Details
+
+**Description:**
+
+This seminar will provide an overview of:
+
+* The who, what, where, why, when and how of the OSC compliance review process.
+* The roles and responsibilities of the ultimate designated person and the chief compliance officer.
+* The key elements of an effective compliance system including:
+  + internal controls,
+  + day to day monitoring and supervision, and
+  + detailed policies and procedures
+
+**Who should attend:**
+
+Ultimate designated persons, chief compliance officers, individuals involved in the day-to-day compliance functions at registered firms and compliance professionals such as legal counsel and consultants
+
+**Benefits:**
+
+* Develop a better understanding of the OSC compliance review process.
+* Gain insight on the factors to consider when developing or enhancing a firm’s compliance system.
+* Hear from OSC Staff on the steps they perform to assess the overall adequacy of a firm’s compliance system.
+
+**Documents:**
+
+* Webinar: [The OSC Compliance Review Process and Effective Compliance Systems](https://www.youtube.com/watch?v=IsyymuhohFc)
+* Slides: [The OSC Compliance Review Process and Effective Compliance Systems](/sites/default/files/2021-03/ro_20191119_osc-compliance-review.pdf)
+* Slides:  [Exhibit 1 on Slide 59](/sites/default/files/2021-03/ro_20191119_exhibit-slide-59.pdf)
+
+Event Image
+
+![portfolio managers](/sites/default/files/styles/image_ratio_4_3_1200x900/public/images/events/portfolio-managers.jpg?itok=1O3f3ifR)

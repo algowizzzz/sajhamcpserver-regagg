@@ -7,4 +7,149 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/rbc-dominion-securities-inc"
 version: "1"
 ---
+# RBC Dominion Securities Inc.
 
+Decision
+
+## November 30, 2018
+
+**Headnote**
+
+Application for a ruling pursuant to section 74 of the Securities Act granting relief from the dealer registration requirement in section 25 of the OSA to allow the Filer, an investment dealer and member of the Investment Industry Regulatory Organization of Canada (IIROC), to use employees of a Designated Foreign Affiliate of the Filer for After-Hours Trading in securities on the Bourse de Montréal Inc. – Relief granted, subject to terms and conditions
+
+**Statutes Cited**
+
+Securities Act, R.S.O. 1990, c. S.5, as am., subsections 25(1) and 74(1).
+
+**Instruments Cited**
+
+Multilateral Instrument 11-102 Passport System, s. 4.7.
+
+November 30, 2018
+
+**IN THE MATTER OF**  
+**THE SECURITIES LEGISLATION OF**  
+**ONTARIO**  
+**(the Jurisdiction)**
+
+**AND**
+
+**IN THE MATTER OF**  
+**THE PROCESS FOR EXEMPTIVE RELIEF APPLICATIONS**  
+**IN MULTIPLE JURISDICTIONS**
+
+**AND**
+
+**IN THE MATTER OF**  
+**RBC DOMINION SECURITIES INC.**  
+**(the Filer)**
+
+**DECISION**
+
+**Background**
+
+The principal regulator in Ontario has received an application from the Filer for a decision under the securities legislation of the Jurisdiction (the **Legislation**) exempting the Designated Foreign Affiliate Employees (as defined below) of the Filer, when conducting Extended Hours Activities (as defined below) on the Bourse de Montréal Inc. (the **MX**), from the dealer registration requirement in the Legislation, subject to the terms and conditions set out below (the **Exemption Sought**).
+
+Under the Process for Exemptive Relief Applications in Multiple Jurisdictions (for a passport application):
+
+> (a)           the Ontario Securities Commission is principal regulator for this application; and
+>
+> (b)           the Filer has provided notice that Section 4.7(1) of Multilateral Instrument 11-102 *Passport System* (**MI 11-102**) is intended to be relied upon by the Filer in each of the remaining provinces and territories of Canada, other than Québec (together with Ontario, the Jurisdictions).
+
+**Interpretation**
+
+Terms defined in MI 11-102 or National Instrument 14-101 *Definitions* have the same meaning if used in this decision unless otherwise defined herein.
+
+**Representations**
+
+This decision is based upon the following facts represented by the Filer:
+
+*The Filer*
+
+1.             The Filer is a corporation formed under the laws of Canada. The head office of the Filer is located in Toronto, Ontario.
+
+2.             The Filer is registered as an investment dealer under the securities legislation of all the jurisdictions of Canada; is registered as a futures commission merchant under the commodity futures legislation of Ontario and Manitoba; and is registered as a dealer under the derivatives legislation of Québec.
+
+3.             The Filer is a member of the Investment Industry Regulatory Organization of Canada (**IIROC**) and the TSX Venture Exchange, an approved participant of the MX and a participating organization of the Toronto Stock Exchange.
+
+4.             The Filer is not in default of securities or commodity futures legislation in any jurisdiction of Canada.
+
+5.             RBC Capital Markets LLC (**RBCCM** or the **Designated Foreign Affiliate**) is a limited liability company formed under the laws of the State of Minnesota. The head office of RBCCM is located in New York, New York, United States.
+
+6.             The Filer and RBCCM are each a wholly-owned indirect subsidiary of The Royal Bank of Canada.
+
+7.             RBCCM is registered as a broker-dealer with the U.S. Securities and Exchange Commission and a member of the Financial Industry Regulatory Authority. RBCCM is a registered futures commission merchant with the U.S. Commodity Futures Trading Commission and approved as a swap firm and a member of the National Futures Association.
+
+8.             RBCCM holds memberships and/or has third-party clearing relationships with commodity and financial futures exchanges and clearing associations, including the CME Group. It also carries positions reflecting trades executed on other exchanges through affiliates and/or third-party clearing brokers.
+
+*The MX Extended Trading Hours Amendments*
+
+9.             The MX, based in Montréal, Québec, operates an exchange for options, commodity futures contracts and commodity futures options, and offers access to trading in those to market participants in Canada.
+
+10.          On July 9, 2018, the MX announced that the MX had approved amendments to its rules and procedures in order to accommodate the extension of the MX’s trading hours. As a result of these amendments, commencing October 9, 2018, trading of certain products on the MX commenced at 2:00 a.m. Eastern Time (**ET**) rather than the current 6:00 a.m. ET.
+
+11.          As set out in MX Circular 111-18, in order to accommodate this earlier trading, the MX amended its rules to allow participants on the MX to have employees of affiliated corporations, including foreign affiliates, become an approved person of the MX participant and thus be able to handle trading requests originating from the MX participant’s clients or clients of the MX participant’s affiliated corporations or subsidiaries.
+
+*Application of the dealer registration requirement to Designated Foreign Affiliate Employees*
+
+12.          The Filer is an MX approved participant and RBCCM is an affiliated corporation. The Filer wishes to make use of certain designated employees of RBCCM (the **Designated Foreign Affiliate Employees**) to handle trading requests on the MX from the Filer’s clients and clients of the Filer’s affiliated corporations or subsidiaries during the MX’s extended trading hours from 2:00 a.m. ET to 6:00 a.m. ET each day on which the MX is open for trading (the **Extended Hours Activities**).
+
+13.          The dealer registration requirement under the Legislation requires an individual to be registered to act as a dealing representative on behalf of a registered firm. The Exemption Sought is intended to provide the Filer with an exemption from (i) the requirement that the Filer use only registered dealing representatives to conduct the Extended Hours Activities; and (ii) the requirement that the employees of RBCCM who will be conducting the Extended Hours Activities be registered as dealing representatives of the Filer.
+
+14.          The Filer seeks an exemption from the dealer registration requirement because, in the absence of such exemption, each employee of RBCCM who was to trade on behalf of the Filer would be required to become individually registered and licensed in Canada. The Filer believes this would be duplicative since the Designated Foreign Affiliate Employees are certified under applicable US law, would be supervised by the Filer’s designated supervisors and would otherwise be subject to the conditions set forth below. The Filer believes this would be unduly onerous in light of the limited trading activities the Designated Foreign Affiliate Employees would be conducting on behalf of the Filer, namely only handling client orders, and only during the period from 2:00 a.m. ET to 6:00 a.m. ET.
+
+15.          The Filer has also applied to IIROC for an exemption from the registered representative requirements that are found in IIROC Dealer Member Rules 18.2(a) and 18.2(c) and the requirement to enter into an employee or agent relationship with the person conducting securities related business on its behalf that is found in IIROC Dealer Member Rule 39.3 and to register and complete proficiencies of a Trader under IIROC Dealer Member Rule 500.
+
+16.          The Filer anticipates that the IIROC Relief, if granted, will be subject to certain conditions, including:
+
+> (a)           The Designated Foreign Affiliate Employees must be certified under the applicable laws of the US in a category that permits trading the types of products which they will be trading on the MX.
+>
+> (b)           The Designated Foreign Affiliate Employees will be permitted to accept and enter orders from clients of the Filer or clients of the Filer’s affiliated corporations or subsidiaries during the period from 2:00 a.m. ET to 6:00 a.m. ET.
+>
+> (c)           The Filer retains all responsibilities for its client accounts.
+>
+> (d)           The actions of the Designated Foreign Affiliate Employees will be supervised by specific designated supervisors of the Filer (the **Designated Supervisors**), each of whom is qualified to supervise trading in futures contracts, futures contract options and options.
+
+17.          The Exemption Sought would apply to Designated Foreign Affiliate Employees who are designated and recorded on a list maintained by the Designated Supervisors, which list would be subject to review by IIROC upon request.
+
+18.          The Filer and RBCCM will enter into a services agreement pursuant to which
+
+> (a)           RBCCM will, among other things, agree to designate members of its staff to serve as Designated Foreign Affiliate Employees who are properly registered, licensed, certified or authorized in their home jurisdiction and sufficiently skilled and familiar to undertake such trading and front office activity, and further agree that the activities of the Designated Foreign Affiliate Employees permitted under this exemptive relief shall be supervised by the Designated Supervisors of the Filer; and
+>
+> (b)           the Filer will assume all responsibility for the actions of the Designated Foreign Affiliate Employees and of RBCCM that relate to the Filer’s clients regarding this trading on MX, and the Filer will acknowledge that it will be liable under IIROC rules for such actions.
+
+19.          All MX trading rules will apply to orders entered by the Designated Foreign Affiliate Employees.
+
+20.          Other than individual registration, all other existing Canadian regulatory requirements would continue to apply to this arrangement, including without limitation:
+
+> (a)           the Filer’s client accounts would continue to be carried on the books of the Filer;
+>
+> (b)           all communications with the Filer’s clients will continue to be in the name of the Filer; and
+>
+> (c)           the Filer’s client account monies, security and property will continue to be held by the Filer or its approved custodian.
+
+21.          The Filer will establish and maintain written policies and procedures that address the performance and supervision requirements relating to MX extended trading hours.
+
+22.          The Filer will disclose this extended trading hours arrangement to clients for its MX trading services.
+
+**Decision**
+
+The principal regulator is satisfied that the decision meets the test set out in the Legislation for the principal regulator to make the decision.
+
+The decision of the principal regulator under the Legislation is that the Exemption Sought is granted so long as:
+
+> (a)           the Designated Foreign Affiliate and the Designated Foreign Affiliate Employees are registered, licensed, certified or authorized under the applicable laws of the foreign jurisdiction in which the head office or principal place of business of the Designated Foreign Affiliate is located in a category that permits trading the type of products which the Designated Foreign Affiliate Employees will be trading on the MX;
+>
+> (b)           the Designated Foreign Affiliate Employees are permitted to accept and enter orders from clients of the Filer or clients of the Filer’s affiliated corporations or subsidiaries on behalf of the Filer during the period from 2:00 a.m. ET to 6:00 a.m. ET;
+>
+> (c)           the Filer retains all responsibilities for its client accounts;
+>
+> (d)           the actions of the Designated Foreign Affiliate Employees will be supervised by the Designated Supervisors, each of whom is qualified to supervise trading in futures contracts, futures contract options and options;
+>
+> (e)           the Filer and the Designated Foreign Affiliate enter into a services agreement substantially as described in paragraph 18, and such agreement remains in effect; and
+>
+> (f)            the Filer has applied for and obtained from IIROC an exemption from the registered representative requirements that are found in the IIROC Dealer Member Rules, and any other requirements of IIROC that IIROC reasonably determines is applicable to the Firm and the Designated Foreign Affiliate Employees in connection with conducting the Extended Hours Activities (collectively, the **IIROC Relief**) and remains in compliance with the terms and conditions of the IIROC Relief.
+
+“William Furlong”                                                                 “Deborah Leckman”  
+Commissioner                                                                      Commissioner  
+Ontario Securities Commission                                           Ontario Securities Commission

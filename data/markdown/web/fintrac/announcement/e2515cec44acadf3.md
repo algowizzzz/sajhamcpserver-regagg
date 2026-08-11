@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/accessibility-accessibilite/2024-fra.php"
 version: "1"
 ---
-
 # Plan sur l'accessibilité de CANAFE – Rapport d'étape 2024 : Accessibilité
 
 **Rien sans nous**

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library"
 version: "1"
 ---
-
 # Guidance library
 
 As the regulator for federally regulated financial institutions and private pension plans, we set expectations for operating within the Canadian financial industry. You can find our current guidance in the following list. We also have a [list of rescinded guidance](/en/guidance/guidance-library/rescinded-guidance "Rescinded guidance documents").

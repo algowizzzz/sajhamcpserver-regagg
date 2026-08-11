@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/pen/amps/pen-2024-01-17-eng.php"
 version: "1"
 ---
-
 # Administrative monetary penalty imposed on Global West Realty Limited
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

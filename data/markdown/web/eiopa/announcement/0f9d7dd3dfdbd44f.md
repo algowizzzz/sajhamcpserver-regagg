@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/unlocking-potential-pensions-europe-2025-04-01_en"
 version: "1"
 ---
-
 Ladies and gentlemen,
 
 Thank you for inviting me to deliver the keynote speech at the Netspar Anniversary Conference. It is truly a privilege to stand before a community so dedicated to bridging the gap between science and practice to create better pensions for all.

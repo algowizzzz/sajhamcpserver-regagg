@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/joint-guidelines-prudential-assessment-acquisitions-and-increases-qualifying-holdings-banking_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

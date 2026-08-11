@@ -1,0 +1,58 @@
+---
+title: "RedStar Oil & Gas Inc. - s. 1(10) | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/redstar-oil-gas-inc-s-110"
+version: "1"
+---
+# RedStar Oil & Gas Inc. - s. 1(10)
+
+Order
+
+## August 1, 2008
+
+Headnote
+
+National Policy 11-203 Process for Exemptive Relief Applications in Multiple Jurisdictions -- Issuer deemed to no longer be a reporting issuer under securities legislation.
+
+**Applicable Legislative Provisions**
+
+Securities Act, R.S.O. 1990, c. S.5, as am., ss., s. 1(10).
+
+**Citation:** RedStar Oil & Gas Inc., 2008 ABASC 465
+
+August 1, 2008
+
+**Carscallen Leitch LLP**
+
+1500, 407 - 2 Street SW
+
+Calgary, AB T2P 2Y3
+
+**Attention: Sean MacLachlan**
+
+Dear Sir:
+
+|  |  |
+| --- | --- |
+| **Re:** | **RedStar Oil & Gas Inc. (the Applicant) - Application for a decision under the securities legislation of Alberta, Saskatchewan, Manitoba, Ontario and Nova Scotia (the Jurisdictions) that the Applicant is not a reporting issuer** |
+
+The Applicant has applied to the local securities regulatory authority or regulator (the Decision Maker) in each of the Jurisdictions for a decision under the securities legislation (the Legislation) of the Jurisdictions to be deemed to have ceased to be a reporting issuer in the Jurisdictions.
+
+As the Applicant has represented to the Decision Makers that:
+
+> (a) the outstanding securities of the Applicant, including debt securities, are beneficially owned, directly or indirectly, by fewer than 15 security holders in each of the jurisdictions in Canada and fewer than 51 security holders in total in Canada;
+>
+> (b) no securities of the Applicant are traded on a marketplace as defined in National Instrument 21-101 *Marketplace Operation*;
+>
+> (c) the Applicant is applying for a decision that it is not a reporting issuer in all of the jurisdictions in Canada in which it is currently a reporting issuer; and
+>
+> (d) the Applicant is not in default of any of its obligations under the Legislation as a reporting issuer,
+
+each of the Decision Makers is satisfied that the test contained in the Legislation that provides the Decision Maker with the jurisdiction to make the decision has been met and orders that the Applicant is deemed to have ceased to be a reporting issuer and that the Applicant's status as a reporting issue is revoked.
+
+Agnes Lau
+
+Associate Director, Corporate Finance

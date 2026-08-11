@@ -7,4 +7,10 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/8/81-407/dissection-mutual-fund-fees-flows-and-performance-0"
 version: "1"
 ---
+# A Dissection of Mutual Fund Fees, Flows, and Performance
 
+Concept Proposal
+
+## February 9, 2016
+
+[Download document](/sites/default/files/pdfs/irps/rp_20160209_81-407_dissection-mutual-fund-fees.pdf "Open document in new window")

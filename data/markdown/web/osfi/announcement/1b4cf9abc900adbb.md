@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/transaction-instructions/giving-control-entity-while-retaining-substantial-investment"
 version: "1"
 ---
-
 # Giving up control of an entity while retaining a substantial investment
 
 Information

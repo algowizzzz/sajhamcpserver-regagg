@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-1-overview-general-requirements"
 version: "1"
 ---
-
 # Life Insurance Capital Adequacy Test (2025) – Chapter 1 Overview and General Requirements
 
 Information

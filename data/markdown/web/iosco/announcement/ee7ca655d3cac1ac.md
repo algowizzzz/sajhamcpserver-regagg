@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iosco.org/about/?subsection=becoming_a_member"
 version: "2"
 ---
-
 ##### Modal title
 
 Modal body text goes here.

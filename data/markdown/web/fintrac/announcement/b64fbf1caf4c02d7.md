@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/pen/6-eng.php"
 version: "1"
 ---
-
 # Change to public notices for administrative monetary penalties
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

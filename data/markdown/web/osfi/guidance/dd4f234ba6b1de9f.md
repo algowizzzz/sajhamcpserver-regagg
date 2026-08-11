@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/background-checks-directors-senior-management-fres-guideline-2008"
 version: "1"
 ---
-
 # Background Checks on Directors and Senior Management of FREs – Guideline (2008)
 
 Information

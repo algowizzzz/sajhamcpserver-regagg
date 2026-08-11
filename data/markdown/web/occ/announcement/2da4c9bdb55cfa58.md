@@ -8,7 +8,6 @@ source_url: "https://www.occ.gov/news-issuances/news-releases/2026/nr-occ-2026-6
 published: "2026-07-30"
 version: "1"
 ---
-
 News Release 2026-63
 |
 July 30, 2026

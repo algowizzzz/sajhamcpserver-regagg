@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/internal-model-oversight-framework"
 version: "1"
 ---
-
 # Internal Model Oversight Framework
 
 Information

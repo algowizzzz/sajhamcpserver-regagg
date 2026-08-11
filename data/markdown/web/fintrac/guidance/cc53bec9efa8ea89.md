@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/guidance-directives/client-clientele/pep/pep-non-acct-eng.php"
 version: "1"
 ---
-
 # Politically exposed persons and heads of international organizations guidance for non-account-based reporting entity sectors : FINTRAC's compliance guidance
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

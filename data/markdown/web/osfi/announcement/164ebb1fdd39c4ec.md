@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/supervision/financial-institutions/banks/domestic-stability-buffer/domestic-stability-buffer-decision-summary-note-june-2023"
 version: "1"
 ---
-
 # Domestic Stability Buffer - Decision Summary Note - June 2023
 
 * Today, OSFI announced that the Domestic Stability Buffer (DSB) will increase by 0.5% to 3.5% of total risk-weighted assets, effective November 1, 2023.

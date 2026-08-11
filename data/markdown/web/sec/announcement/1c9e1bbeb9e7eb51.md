@@ -8,7 +8,6 @@ source_url: "https://www.sec.gov/newsroom/press-releases/2026-72-sec-establishes
 published: "2026-08-05"
 version: "1"
 ---
-
 ## More in this Section
 
 Press Release

@@ -7,4 +7,30 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/5/51-350"
 version: "1"
 ---
+# 51-350 - Extension of Consultation Period - CSA Consultation Paper 51-404 Considerations for Reducing Regulatory Burden for Non-Investment Fund Reporting Issuers
 
+* [Current](#tabContentcurrent)
+* [All](#tabContentactive)
+
+### There are no results to show.
+
+Results 1 - 1 of 1
+
+## Instruments, rules and policies
+
+Policy #
+
+Document name
+
+Document type
+
+Date
+
+51-350
+
+[[withdrawn by CSA Staff Notice 11-346, September 14, 2023] CSA Staff Notice 51-350 Extension of Consultation Period - CSA Consultation Paper 51-404 Considerations for Reducing Regulatory Burden for Non-Investment Fund Reporting Issuers](/en/securities-law/instruments-rules-policies/5/51-350/withdrawn-csa-staff-notice-11-346-september-14-2023-csa-staff-notice-51-350-extension-consultation)
+
+CSA Notice
+Concept Proposal
+
+June 22, 2017

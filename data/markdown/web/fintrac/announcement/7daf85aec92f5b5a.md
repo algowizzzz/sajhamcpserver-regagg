@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/emplo/glance-apercu-eng.php"
 version: "1"
 ---
-
 # FINTRAC at a glance
 
 FINTRAC is Canada's Financial Intelligence Unit. We assist in the detection, prevention and deterrence of [money laundering](/fintrac-canafe/1-eng#s1) and [terrorist activity financing](/fintrac-canafe/1-eng#s2).

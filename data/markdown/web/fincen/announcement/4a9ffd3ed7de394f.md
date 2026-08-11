@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/edible-delicacies-land-man-prison"
 version: "1"
 ---
-
 # Edible Delicacies Land Man in Prison
 
 [026.pdf](/system/files/case_example/026.pdf "026.pdf")

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/regulatory-simplification-and-competitiveness-challenge-supervisors_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

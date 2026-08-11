@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/suspicious-activity-reports-identify-non-profit"
 version: "1"
 ---
-
 # Suspicious Activity Reports Identify Non-Profit Organizations As Illegal Money Remitters
 
 [119.pdf](/system/files/case_example/119.pdf "119.pdf")

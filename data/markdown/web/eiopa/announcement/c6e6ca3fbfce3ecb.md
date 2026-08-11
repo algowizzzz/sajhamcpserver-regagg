@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/about/accountability-and-transparency/environmental-management_en"
 version: "1"
 ---
-
 EIOPA has started implementing the Eco-Management and Audit Scheme ([EMAS](https://ec.europa.eu/environment/emas/index_en.htm)) and ISO14001 in an effort to reduce and to transparently report on its environmental impact and carbon footprint. We have applied the scope of EMAs to all EIOPA activities and products, from operational activities to core business.
 
 The annual Environmental Statement with detailed information on the indicators and performance can be accessed here below, together with our Environmental Policy that underlines the commitment to improving EIOPAs environmental performance continuously.

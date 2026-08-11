@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/guidance-directives/transaction-operation/cdr/casino-fra.php"
 version: "1"
 ---
-
 # Déclaration de déboursements de casino à CANAFE : Directive de CANAFE en matière de conformité
 
 **Du :** [Centre d'analyse des opérations et déclarations financières du Canada](/intro-fra) (CANAFE)

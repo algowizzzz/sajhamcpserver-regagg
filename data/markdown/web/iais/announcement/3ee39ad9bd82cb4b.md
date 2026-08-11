@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2023/11/last-week-the-2023-iais-annual-conference-welcomed-over-400-participants-from-100-jurisdictions-to-tokyo-japan-we-encourage-you-to-explore-our-event-page-for-an-in-depth-look-at-the-insights-shared/"
 version: "1"
 ---
-
 # Session replays, summaries and photos of the 2023 IAIS Annual Conference are now available
 
 [17 Nov 2023](https://www.iais.org/2023/11/last-week-the-2023-iais-annual-conference-welcomed-over-400-participants-from-100-jurisdictions-to-tokyo-japan-we-encourage-you-to-explore-our-event-page-for-an-in-depth-look-at-the-insights-shared/)

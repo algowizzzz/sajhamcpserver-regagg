@@ -1,0 +1,156 @@
+---
+title: "Economic Investment Trust Limited | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/economic-investment-trust-limited"
+version: "1"
+---
+# Economic Investment Trust Limited
+
+Order
+
+## February 8, 2011
+
+Headnote
+
+Reporting issuer seeking relief so that it can continue to file financial statements in accordance with old Canadian GAAP (rather than IFRS) for periods relating to the issuer's financial year beginning on January 1, 2011 and ending on December 31, 2011 and the issuer's financial year beginning on January 1, 2012 and ending on December 31, 2012 (collectively, the issuer's deferred financial years) -- In particular, the issuer is seeking relief from the requirements in Part 3 of National Instrument 52-107 that would apply to financial statements for periods relating to the issuer's deferred financial years -- The issuer is also seeking relief from the IFRS-related amendments to the continuous disclosure, prospectus, certification and audit committee rules (collectively, the rules) that came into force on January 1, 2011 and that would apply to periods relating to the issuer's deferred financial years -- The issuer is an "investment company" as defined in Accounting Guideline 18 Investment Companies (AcG-18) in the Handbook of the Canadian Institute of Chartered Accountants -- At its meeting on January 12, 2011, the Canadian Accounting Standards Board decided that investment companies, as defined in and applying AcG-18, will only be required to adopt IFRS for annual periods beginning on or after January 1, 2013 -- Since Part 3 of National Instrument 52-107 and the IFRS-related amendments to the rules do not have a provision providing for a two-year deferral of the transition to IFRS for investment companies subject to NI 52-107 and the rules, the issuer has applied for the relief -- Relief granted, subject to a number of conditions.
+
+**Applicable Legislative Provisions**
+
+National Instrument 52-107 Acceptable Accounting Principles and Auditing Standards, Parts 3 and 4.
+
+National Instrument 51-102 Continuous Disclosure Obligations.
+
+National Instrument 41-101 General Prospectus Requirements.
+
+National Instrument 44-101 Short Form Prospectus Distributions.
+
+National Instrument 44-102 Shelf Distributions.
+
+National Instrument 52-109 Certification of Disclosure in Issuers' Annual and Interim Filings.
+
+National Instrument 52-110 Audit Committees.
+
+**IN THE MATTER OF**
+
+**THE SECURITIES ACT,**
+
+**R.S.O. 1990,CHAPTER S.5, AS AMENDED**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**ECONOMIC INVESTMENT TRUST LIMITED**
+
+**ORDER**
+
+**WHEREAS** the Ontario Securities Commission has received an application from Economic Investment Trust Limited (the **"Applicant**") for a decision under Ontario securities legislation for an exemption (the "**Exemption Sought**") from:
+
+> (a) the requirements in Part 3 of National Instrument 52-107 *Acceptable Accounting Principles and Auditing Standards* ("**NI 52-107**") that apply to financial statements, financial information, operating statements and *pro forma* financial statements for periods relating to the Applicant's financial year beginning on January 1, 2011 and ending on December 31, 2011 and the Applicant's financial year beginning on January 1, 2012 and ending on December 31, 2012 (collectively, the "**Applicant's deferred financial years**");
+>
+> (b) the amendments to National Instrument 51-102 *Continuous Disclosure Obligations* ("**NI 51-102**") related to International Financial Reporting Standards ("**IFRS**") that came into force on January 1, 2011 and that apply to documents required to be prepared, filed, delivered, or sent under NI 51-102 for periods relating to the Applicant's deferred financial years;
+>
+> (c) the IFRS-related amendments to National Instrument 41-101 *General Prospectus Requirements* ("**NI 41-101**") that came into force on January 1, 2011 and that apply to a preliminary prospectus, an amendment to a preliminary prospectus, a final prospectus or an amendment to a final prospectus of the Applicant which includes or incorporates by reference financial statements of the Applicant in respect of periods relating to the Applicant's deferred financial years;
+>
+> (d) the IFRS-related amendments to National Instrument 44-101 *Short Form Prospectus Distributions* ("**NI 44-101**") that came into force on January 1, 2011 and that apply to a preliminary short form prospectus, an amendment to a preliminary short form prospectus, a final short form prospectus or an amendment to a final short form prospectus of the Applicant which includes or incorporates by reference financial statements of the Applicant in respect of periods relating to the Applicant's deferred financial years;
+>
+> (e) the IFRS-related amendments to National Instrument 44-102 *Shelf Distributions* ("**NI 44-102**") that came into force on January 1, 2011 and that apply to a preliminary base shelf prospectus, an amendment to a preliminary base shelf prospectus, a base shelf prospectus, an amendment to a base shelf prospectus or a shelf prospectus supplement of the Applicant which includes or incorporates by reference financial statements of the Applicant in respect of periods relating to the Applicant's deferred financial years;
+>
+> (f) the IFRS-related amendments to National Instrument 52-109 *Certification of Disclosure in Issuers' Annual and Interim Filings* ("**NI 52-109**") that came into force on January 1, 2011 and that apply to annual filings and interim filings for periods relating to the Applicant's deferred financial years; and
+>
+> (g) the IFRS-related amendments to National Instrument 52-110 *Audit Committees* ("**NI 52-110**") that came into force on January 1, 2011 and that apply to periods relating to the Applicant's deferred financial years.
+
+**AND WHEREAS** the Applicant has represented to the Commission that:
+
+> 1. The Applicant is a corporation governed by the *Canada Business Corporations Act*, with its registered and head office address located at 165 University Avenue, 10th Floor, Toronto, Ontario, M5H 3B8.
+>
+> 2. The Applicant is a reporting issuer in Ontario and is not in default of Ontario securities legislation. Although the Applicant is not currently qualified to file a short form prospectus under NI 44-101 or a shelf prospectus under NI 44-102, it may wish to become qualified in the future.
+>
+> 3. The Applicant is a closed-end investment company whose common shares trade on the Toronto Stock Exchange under the symbol "EVT".
+>
+> 4. The Applicant's fiscal year end is December 31.
+>
+> 5. The Applicant is an "investment company" as defined in Accounting Guideline 18 *Investment Companies* ("**AcG-18**") in the Handbook of the Canadian Institute of Chartered Accountants (the "**Handbook**"). As such, the Applicant applies AcG-18 in the preparation of its financial statements in accordance with Canadian generally accepted accounting principles ("**Canadian GAAP**") for public enterprises.
+>
+> 6. The Applicant is not an investment fund as that term is defined in the *Securities Act* (Ontario).
+>
+> 7. As part of the changeover to IFRS in Canada, the Canadian Accounting Standards Board ("**AcSB**") has incorporated IFRS into the Handbook as Canadian GAAP for most publicly accountable enterprises. As a result, the Handbook contains two sets of standards for public companies:
+>
+> > (a) Part 1 of the Handbook -- Canadian GAAP for publicly accountable enterprises that applies for financial years beginning on or after January 1, 2011, and
+> >
+> > (b) Part V of the Handbook -- Canadian GAAP for public enterprises that is the pre-changeover accounting standards ("**old Canadian GAAP**").
+>
+> 8. However, on October 1, 2010, the AcSB published amendments to Part 1 of the Handbook that provide a one-year deferral of the transition to IFRS for investment companies. The amendments require investment companies, as defined in and applying AcG-18, to adopt IFRS for annual periods beginning on or after January 1, 2012. Subsequently, at its meeting on January 12, 2011, the AcSB decided to extend the deferral for an additional year. The AcSB expects to issue the required amendments to Part 1 of the Handbook in March 2011 so that investment companies, as defined in and applying AcG-18, will only be required to adopt IFRS for annual periods beginning on or after January 1, 2013.
+>
+> 9. As part of the changeover to IFRS, NI 52-107 was repealed and replaced effective January 1, 2011. In the new version of NI 52-107,
+>
+> > (a) Part 3 contains requirements based on IFRS and applies to financial statements, financial information, operating statements and *pro forma* financial statements for periods relating to financial years beginning on or after January 1, 2011, and
+> >
+> > (b) Part 4 contains requirements based on old Canadian GAAP and applies to financial statements, financial information, operating statements and *pro forma* financial statements for periods relating to financial years beginning before January 1, 2011.
+>
+> 10. Also as part of the changeover to IFRS, IFRS-related amendments were made to NI 51-102, NI 41-101, NI 44-101, NI 44-102, NI 52-109 and NI 52-110 (collectively, the "**Rules**") and these amendments came into force on January 1, 2011. Among other things, the amendments replace old Canadian GAAP terms and phrases with IFRS terms and phrases and contain IFRS-specific requirements. The amendment instruments for the Rules contain transition provisions that provide that the IFRS-related amendments only apply to documents required to be filed under the Rules for periods relating to financial years beginning on or after January 1, 2011. Thus, during the IFRS transition period,
+>
+> > (a) issuers filing financial statements prepared in accordance with old Canadian GAAP will be required to comply with the versions of the Rules that contain old Canadian GAAP terms and phrases, and
+> >
+> > (b) issuers filing financial statements that comply with IFRS will be required to comply with the versions of the Rules that contain IFRS terms and phrases and IFRS-specific requirements.
+>
+> 11. On October 8, 2010, the Canadian Securities Administrators (CSA) published CSA Staff Notice 81-320 *Update on International Financial Reporting Standards for Investment Funds* which indicated that, given the October 1, 2010 amendments to the Handbook that provided for a deferral of the transition to IFRS for investment companies, the CSA would defer finalizing IFRS-related amendments to rules related to investment funds.
+>
+> 12. NI 52-107 and the Rules apply to the Applicant. Since Part 3 of NI 52-107 and the IFRS-related amendments to the Rules do not have a provision providing for a two-year deferral of the transition to IFRS for investment companies subject to NI 52-107 and the Rules, the Applicant has applied for the Exemption Sought.
+>
+> 13. During the Applicant's deferred financial years, the Applicant will comply with section 1.13 of Form 51-102F1 *Management's Discussion and Analysis* ("**MD&A**") by providing an updated discussion of the Applicant's preparations for changeover to IFRS in its annual and interim MD&A. In particular, the Applicant will discuss the expected effect on the financial statements, or state that the effect cannot be reasonably estimated.
+>
+> 14. The Applicant acknowledges that if the Exemption Sought is granted, the Applicant:
+>
+> > (a) will be subject to Part 3 of NI 52-107 and the IFRS-related amendments to the Rules for periods relating to financial years beginning on or after January 1, 2013, and
+> >
+> > (b) will not have the benefit of the 30 day extension to the deadline of filing the first interim financial report in the year of adopting IFRS in respect of an interim period beginning on or after January 1, 2011, as set out in the IFRS-related amendments to NI 51-102, since that extension does not apply if the first interim financial report is in respect of an interim period ending after March 30, 2012.
+
+**AND UPON** considering the application and the recommendation of staff of the Commission;
+
+**AND UPON** being satisfied that to do so would not be prejudicial to the public interest;
+
+**IT IS ORDERED** that the Exemption Sought is granted provided that:
+
+> 1. the Applicant continues to be an investment company, as defined in and applying AcG-18;
+>
+> 2. the Applicant provides the communication as described and in the manner set out in paragraph 13 above;
+>
+> 3. the Applicant complies with the requirements in Part 4 of NI 52-107 for all financial statements (including interim financial statements), financial information, operating statements and *pro forma* financial statements for periods relating to the Applicant's deferred financial years, as if the expression "January 1, 2011" in subsection 4.1(2) were read as "January 1, 2013";
+>
+> 4. the Applicant complies with the version of NI 51-102 that was in effect on December 31, 2010 (together with any amendments to NI 51-102 that are not related to IFRS and that come into force after January 1, 2011) for all documents required to be prepared, filed, delivered, or sent under NI 51-102 for periods relating to the Applicant's deferred financial years;
+>
+> 5. the Applicant complies with the version of NI 41-101 that was in effect on December 31, 2010 (together with any amendments to NI 41-101 that are not related to IFRS and that come into effect after January 1, 2011) for any preliminary prospectus, amendment to a preliminary prospectus, final prospectus or amendment to a final prospectus of the Applicant which includes or incorporates by reference financial statements of the Applicant in respect of periods relating to the Applicant's deferred financial years;
+>
+> 6. the Applicant complies with the version of NI 44-101 that was in effect on December 31, 2010 (together with any amendments to NI 44-101 that are not related to IFRS and that come into effect after January 1, 2011) for any preliminary short form prospectus, amendment to a preliminary short form prospectus, final short form prospectus or amendment to a final short form prospectus of the Applicant which includes or incorporates by reference financial statements of the Applicant in respect of periods relating to the Applicant's deferred financial years;
+>
+> 7. the Applicant complies with the version of NI 44-102 that was in effect on December 31, 2010 (together with any amendments to NI 44-102 that are not related to IFRS and that come into effect after January 1, 2011) for any preliminary base shelf prospectus, amendment to a preliminary base shelf prospectus, base shelf prospectus, amendment to a base shelf prospectus or shelf prospectus supplement of the Applicant which includes or incorporates by reference financial statements of the Applicant in respect of periods relating to the Applicant's deferred financial years;
+>
+> 8. the Applicant complies with the version of NI 52-109 that was in effect on December 31, 2010 (together with any amendments to NI 52-109 that are not related to IFRS and that come into effect after January 1, 2011) for all annual filings and interim filings for periods relating to the Applicant's deferred financial years;
+>
+> 9. the Applicant complies with the version of NI 52-110 that was in effect on December 31, 2010 (together with any amendments to NI 52-110 that are not related to IFRS and that come into effect after January 1, 2011) for periods relating to the Applicant's deferred financial years;
+>
+> 10. if, notwithstanding this order, the Applicant decides not to rely on the Exemption Sought and files an interim financial report prepared in accordance with IFRS for an interim period in a deferred financial year, the Applicant must, at the same time:
+>
+> > (a) restate, in accordance with IFRS, any interim financial statements for any previous interim period in the same deferred financial year (each, a "**Previous Interim Period**") that were originally prepared in accordance with old Canadian GAAP and filed pursuant to this order, and
+> >
+> > (b) file a restated interim financial report prepared in accordance with IFRS for each Previous Interim Period, together with corresponding restated interim MD&A and certificates required by NI 52-109. For greater certainty, any restated interim financial report for a Previous Interim Period must comply with applicable securities legislation (including Part 3 of NI 52-107 and the amendments to Part 4 of NI 51-102 that came into force on January 1, 2011) and any restated interim financial report for the first interim period in the deferred financial year must
+> >
+> > include the opening IFRS statement of financial position at the date of transition to IFRS; and
+>
+> 11. if, notwithstanding this order, the Applicant decides not to rely on the Exemption Sought and files annual financial statements prepared in accordance with IFRS for a deferred financial year, the Applicant must, at the same time (unless previously done pursuant to paragraph 10 immediately above):
+>
+> > (a) restate, in accordance with IFRS, any interim financial statements for any Previous Period that were originally prepared in accordance with old Canadian GAAP and filed pursuant to this order, and
+> >
+> > (b) file a restated interim financial report prepared in accordance with IFRS for each Previous Interim Period, together with corresponding restated interim MD&A and certificates required by NI 52-109. For greater certainty, any restated interim financial report for a Previous Period must comply with applicable securities legislation (including Part 3 of NI 52-107 and the amendments to Part 4 of NI 51-102 that came into force on January 1, 2011) and any restated interim financial report for the first interim period in the deferred financial year must include the opening IFRS statement of financial position at the date of transition to IFRS.
+
+**DATED** this 8th day of February, 2011.
+
+"Michael Brown"
+
+Assistant Manager, Corporate Finance
+
+Ontario Securities Commission

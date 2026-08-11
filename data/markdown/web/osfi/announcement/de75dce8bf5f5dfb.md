@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-corporate-returns/osfi-597-afs-auditors-report-other-shareholders-material"
 version: "1"
 ---
-
 # OSFI-597 – AFS, Auditor’s Report, Other Shareholder’s Material
 
 **Type of Publication:** Instructions  

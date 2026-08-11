@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2025/08/the-event-will-take-place-from-13-14-november-in-the-vibrant-city-of-tirana-albania/"
 version: "1"
 ---
-
 # Registration is now open for the IAIS Annual Conference 2025
 
 [29 Aug 2025](https://www.iais.org/2025/08/the-event-will-take-place-from-13-14-november-in-the-vibrant-city-of-tirana-albania/)

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/reporting-declaration/guide/sys-eng.php"
 version: "1"
 ---
-
 # FINTRAC Web Reporting System overview
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

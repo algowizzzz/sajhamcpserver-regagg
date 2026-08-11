@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/local-municipality-case-example-stolen-cars"
 version: "1"
 ---
-
 # Local Municipality Case Example (Stolen Cars)
 
 [Issue22-story15.pdf](/system/files/case_example/Issue22-story15.pdf "Issue22-story15.pdf")

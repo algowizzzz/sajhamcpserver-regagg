@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/browse/consumer-protection/reports-and-data-consumer-protection_en"
 version: "1"
 ---
-
 EIOPA analyses and reports on different consumer protection related topics and practices.
 
 ## Thematic reviews

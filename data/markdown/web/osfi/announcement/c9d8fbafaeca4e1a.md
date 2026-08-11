@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-corporate-returns/osfi-565-notice-annual-or-special-meeting"
 version: "1"
 ---
-
 # OSFI-565 – Notice of Annual or Special Meeting
 
 **Type of Publication:** Instructions  

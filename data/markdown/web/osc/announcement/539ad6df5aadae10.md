@@ -1,0 +1,148 @@
+---
+title: "Synnex Canada Limited and Synnex Canada Aquisition Limited - MRRS Decision | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/synnex-canada-limited-and-synnex-canada-aquisition-limited"
+version: "1"
+---
+# Synnex Canada Limited and Synnex Canada Aquisition Limited - MRRS Decision
+
+MRRS Decision
+
+## September 13, 2004
+
+Headnote
+
+Mutual Reliance Review System -- take-over bid -- relief from the prohibition against collateral benefits - employment agreement by acquiror with a director and senior officer of the target company who is also a significant shareholder of the target -- option agreements between the target and holders of options to provide for cashless exercise of options issued to employees under target's stock option plan -- agreements entered into with holders of out-of-the-money convertible securities to provide for payment of nominal consideration for waiver of conversion rights - agreements were negotiated at arm's length and on commercially reasonable terms for valid business reasons and not to increase the consideration paid, or to offer a premium for, the shares being acquired - agreements may be entered into despite the prohibition against collateral benefits.
+
+**Statute Cited**
+
+Securities Act, R.S.O. 1990, c. S.5, as amended, ss. 97(2) and 104(2)(a).
+
+**IN THE MATTER OF**
+
+**THE SECURITIES LEGISLATION OF**
+
+**ONTARIO, BRITISH COLUMBIA, ALBERTA AND QUEBEC**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**THE MUTUAL RELIANCE REVIEW SYSTEM**
+
+**FOR EXEMPTIVE RELIEF APPLICATIONS**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**SYNNEX CANADA LIMITED AND**
+
+**SYNNEX CANADA ACQUISITION LIMITED**
+
+**MRRS DECISION DOCUMENT**
+
+**WHEREAS** the local securities regulatory authority or regulator (the "Decision Maker") in each of Ontario, British Columbia, Alberta and Québec (the "Jurisdictions") has received an application from Synnex Canada Limited ("Synnex Canada") and its wholly-owned subsidiary Synnex Canada Acquisition Limited (the "Applicant" or the "Offeror") for a decision under the securities legislation of the Jurisdictions (the "Legislation") that the requirement in the Legislation that an offeror who makes or intends to make a take-over bid or issuer bid and any person or company acting jointly or in concert with the offeror must not enter into any collateral agreement, commitment or understanding with any holder or beneficial owner of securities of the offeree issuer that has the effect of providing to the holder or owner a consideration of greater value than that offered to other holders of the same class of securities (the "Prohibition on Collateral Benefits") will not apply to the following agreements in connection with the take over bid under the Legislation (the "Offer") by the Applicant to purchase all of the issued and outstanding common shares (the "EMJ Shares") of EMJ Data Systems Ltd. ("EMJ"):
+
+> (A) an employment agreement (the "Employment Agreement") between James A. Estill ("Estill"), who is both an officer and director of EMJ and a direct and indirect shareholder of EMJ, and Synnex Canada dated July 14, 2004 and to be effective as of the date (the "Effective Date") on which a majority of the directors comprising the Board of Directors of EMJ are replaced by persons nominated by the Offeror (assuming that the Offeror takes up and pays for more than 50% of the EMJ Shares);
+>
+> (B) agreements (the "EMJ Option Agreements") between EMJ and holders of options ("EMJ Optionholders") to purchase EMJ Shares issued under EMJ's stock option plan ("EMJ Options") pursuant to which such holders shall agree to exercise their EMJ Options and deposit under the Offer the EMJ Shares issued upon such exercise and EMJ shall agree to loan to such holders an amount equal to the aggregate exercise price required to exercise their EMJ Options, such loan to be repaid from the proceeds paid to such holders under the Offer in respect of their EMJ Shares; and
+>
+> (C) agreements (the "Convertible Security Agreements") between EMJ and holders of Convertible Securities (as defined below) of EMJ, pursuant to which such holders shall, among other things, agree to not exercise, convert or exchange their Convertible Securities (or in the case of the warrants forming part of the Convertible Securities, agree to the termination of such warrants) effective from immediately prior to the earlier to occur of the time that the Offeror takes up EMJ Shares under the Offer and the time of expiry of the Offer (provided that the Offeror takes up EMJ Shares under the Offer) in consideration of the payment by EMJ of an amount of cash per underlying EMJ Share.
+
+**AND WHEREAS** under the Mutual Reliance Review System for Exemptive Relief Applications (the "System"), the Ontario Securities Commission is the principle regulator for this application;
+
+**AND WHEREAS** unless otherwise defined, the terms herein have the meaning set out in National Instrument 14-101 Definitions or in Agence nationale d'encadrement du secteur financier Notice 14-101;
+
+**AND WHEREAS** the Applicant has represented to the Decision Makers that:
+
+> 1. The Offeror is a corporation incorporated under the laws of the Province of Ontario and is a wholly-owned subsidiary of Synnex Canada.
+>
+> 2. The Offeror does not beneficially own any EMJ Shares and has no intention of acquiring any EMJ Shares other than pursuant to the Offer prior to the expiry of the Offer.
+>
+> 3. Synnex Canada is a corporation incorporated under the laws of the Province of Ontario.
+>
+> 4. Synnex Canada does not beneficially own any EMJ Shares and has no intention of acquiring any EMJ Shares other than as parent to the Offeror pursuant to the Offer prior to the expiry of the Offer.
+>
+> 5. EMJ is a corporation incorporated under the laws of the Province of Ontario and is a reporting issuer in all provinces and territories of Canada and, to the knowledge of the Offeror, it is not in default of any of the requirements of the securities legislation of such jurisdictions.
+>
+> 6. Based on information provided by EMJ: as of July 14, 2004 the authorized share capital of EMJ consisted of an unlimited number of EMJ Shares, an unlimited number of first preference shares and an unlimited number of second preference shares; and as of the close of business on July 11, 2004 there were issued and outstanding no more than 8,296,584 EMJ Shares, 1,056,500 First Preference Shares Series A of EMJ (the "Series A Shares") (each Series A Share is convertible into one EMJ Share), 306,362 EMJ Options, 109,500 warrants (the "Broker Warrants") (each exercisable to purchase, at the election of the holder, one Series A Share or $8.00 principal amount of Convertible Debentures (defined below)), 75,000 purchase warrants (the "Purchase Warrants") (each exercisable to purchase one EMJ Share at a price of $7.00 per share), a debenture in the aggregate principal amount of $1,000,000 (the "Debenture") pursuant to which the holder may effectively acquire 200,000 EMJ Shares upon conversion thereof, and $11,148,000 aggregate principal amount of convertible unsecured subordinated debentures of EMJ (the "Convertible Debentures") convertible into EMJ Shares at a conversion price of $8.00 per share. The Series A Shares, the EMJ Options, the Convertible Debentures, the Broker Warrants, the Purchase Warrants and the Debenture referred to above are referred to as the "Convertible Securities" and holders of Convertible Securities are referred to as "Convertible Securityholders".
+>
+> 7. The EMJ Shares are listed on the Toronto Stock Exchange (the "TSX") and trade under the symbol, "EMJ".
+>
+> 8. Estill Holdings Limited ("Holdings") is the largest shareholder of EMJ. Based on information provided by Holdings, it holds 3,844,500 EMJ Shares. Based on information provided by EMJ, Holdings is owned by the Don Estill Family Trust as to 19.87%; Estill as to 69.34%; and Glen R. Estill, the Chief Financial Officer of EMJ, as to 10.78%. Estill and Glen R. Estill each have a 25% interest in the Don Estill Family Trust.
+>
+> 9. Estill is the President, Chief Executive Officer and a director of EMJ. Based on information provided by Estill, Estill directly owns 26,667 EMJ Shares, 80,000 EMJ Options and 375,000 Series A Shares, and controls the EMJ Shares held by Holdings. Estill is the controlling shareholder of Holdings.
+>
+> 10. The Offer has been made by way of a single offer and take-over bid circular dated August 9, 2004 mailed simultaneously to all holders of EMJ Shares and holders of securities exercisable or convertible into EMJ Shares, and prepared in accordance with applicable securities legislation and such other terms and conditions as are required by law.
+>
+> 11. The Offeror has offered under the Offer to pay $6.60 in cash per EMJ Share.
+>
+> 12. The Offeror, Synnex Canada, Synnex Corporation (the parent of Synnex Canada) and EMJ have entered into a support agreement dated July 14, 2004 (the "Support Agreement") pursuant to which, and subject to the conditions set forth therein, the Offeror has agreed to make the Offer and EMJ has represented to the Offeror that the Board of Directors of EMJ has: determined unanimously that the Offer is fair to the holders of EMJ Shares and is in the best interests of EMJ and has resolved unanimously to recommend to the holders of EMJ Shares that they deposit their EMJ Shares under the Offer.
+>
+> 13. Each of the Offeror and Synnex Canada has entered into lock-up agreements with Estill and Holdings pursuant to which such EMJ shareholders have agreed to deposit under the Offer their EMJ Shares, representing approximately 46.7% of the issued and outstanding EMJ Shares or approximately 33.8% of the EMJ Shares on a fully-diluted basis, and not withdraw them, except in limited circumstances.
+>
+> 14. Based on an Offer price of $6.60 per EMJ Share, Estill will receive an aggregate of $176,002.20 for his outstanding EMJ Shares sold under the Offer and Holdings will receive an aggregate of $25,373,700.00 for its outstanding EMJ Shares sold under the Offer. Assuming that Estill exercises his EMJ Options and sells under the Offer the 80,000 EMJ Shares issuable upon such exercise, Estill will receive an aggregate of $528,000.00 for such EMJ Shares, of which $373,600.00 will be used to repay the loan that Estill will receive pursuant to the EMJ Option Agreement relating to his EMJ Options.
+>
+> 15. Under the Employment Agreement, Estill shall serve as President and Chief Executive Officer of Synnex Canada and is entitled to receive a base salary of $110,000 per annum, plus a discretionary bonus. In this capacity, Estill shall perform such duties and have such authority as may from time to time be assigned, delegated or limited by Synnex Canada's board of directors or the President and Chief Executive Officer of Synnex Corporation. This agreement also provides that, during Estill's employment with Synnex Canada and for a period of two years thereafter, Estill shall not engage in any activity which is in competition with Synnex Canada in Canada provided that if Estill is terminated following a change in control of Synnex Canada such two year non-competition period shall be reduced to nil.
+>
+> 16. EMJ currently has an employment contract with Estill, dated September 25, 2003. The Employment Agreement is not substantially different from EMJ's current employment agreement with Estill.
+>
+> 17. The purpose of entering the Employment Agreement is to ensure that Estill will continue his involvement with the combined business of EMJ and Synnex Canada.
+>
+> 18. The Employment Agreement has been negotiated at arm's length and on terms and conditions that are commercially reasonable.
+>
+> 19. The Employment Agreement has been made for valid business reasons unrelated to Estill's holdings of EMJ Shares or other EMJ securities and not for the purpose of increasing the value of the consideration to be paid to him for his EMJ Shares under the Offer.
+>
+> 20. The receipt by Estill of compensation under the Employment Agreement is not conditional upon his support of the Offer.
+>
+> 21. The payments under the Employment Agreement are not greater than the total annual compensation of employees of Synnex Canada with a similar level of seniority and/or responsibility.
+>
+> 22. The value of the collateral benefit to Estill under the Employment Agreement is minimal in comparison to the value that each is entitled to receive under the Offer.
+>
+> 23. Synnex Canada required Estill to enter into the Employment Agreement as a precondition to making the Offer because he has been critical to the operation of the business of EMJ to date and will be critical to the operations of Synnex Canada and EMJ following completion of the Offer.
+>
+> 24. Particulars of the Employment Agreement have been disclosed in the take-over bid circular of the Offeror and the directors' circular of EMJ relating to the Offer.
+>
+> 25. Under the EMJ Option Agreements, holders of EMJ Options shall agree to exercise their EMJ Options and deposit under the Offer the EMJ Shares issued upon such exercise and EMJ shall agree to loan, effective immediately prior to the expiry time of the Offer (provided that the Offeror takes up EMJ Shares under the Offer), to such holders an amount equal to the aggregate exercise price required to exercise their EMJ Options, such loan to be repaid from the proceeds paid to such holders under the Offer in respect of their EMJ Shares.
+>
+> 26. It is expected that the loans from EMJ to holders of EMJ Options under the EMJ Optionholder Agreements will be outstanding from immediately prior to the expiry time of the Offer until the time the Offeror pays for the EMJ Shares that it has acquired from such holders under the Offer.
+>
+> 27. EMJ has accelerated the vesting of unvested EMJ Options so that they may be exercised and the underlying EMJ Shares may be deposited under the Offer. All EMJ Options not exercised prior to the expiry of the Offer shall be terminated pursuant to written agreements between EMJ and the optionholders on terms acceptable to the Offeror.
+>
+> 28. It is a condition to the Offeror's obligations to take up and pay for EMJ Shares under the Offer that EMJ shall use its commercially reasonable efforts to enter into EMJ Option Agreements with all holders of EMJ Options.
+>
+> 29. The purpose of the EMJ Option Agreements is to facilitate the exercise of EMJ Options and the deposit under the Offer of the EMJ Shares issuable upon such exercise.
+>
+> 30. The EMJ Option Agreements have been made for valid business reasons unrelated to the holdings by EMJ Optionholders of EMJ Shares or other EMJ securities (other than EMJ Options) and not for the purpose of increasing the value of the consideration to be paid to EMJ Optionholders for their EMJ Shares under the Offer.
+>
+> 31. Particulars of the EMJ Option Agreement have been disclosed in the take-over bid circular of the Offeror and the directors' circular of EMJ relating to the Offer.
+>
+> 32. Under the Convertible Security Agreements, holders of Convertible Securities shall, among other things, agree to not exercise, convert or exchange their Convertible Securities (or in the case of the Broker Warrants and Purchase Warrants, agree to the termination of such securities) effective from immediately prior to the earlier to occur of the time that the Offeror takes up EMJ Shares under the Offer and the time of expiry of the Offer (provided that the Offeror takes up EMJ Shares under the Offer) in consideration of the payment by EMJ of an amount of cash per underlying EMJ Share.
+>
+> 33. The Convertible Securities that are subject to the Convertible Security Agreements are currently out-of-the-money.
+>
+> 34. The purpose of the Convertible Security Agreements is to eliminate conversion rights of the Convertible Securities covered by such agreements.
+>
+> 35. Under the Convertible Security Agreements, Convertible Securityholders are foregoing the right to the underlying EMJ Shares and the opportunity to participate in the Offer pursuant to such EMJ Shares.
+>
+> 36. The Convertible Security Agreements have been made for valid business reasons unrelated to the holdings by Convertible Securityholders of EMJ Shares or other EMJ securities (other than the Convertible Securities) and not for the purpose of increasing the value of the consideration to be paid to Convertible Securityholders for their EMJ Shares under the Offer.
+>
+> 37. The receipt by Convertible Securityholders of compensation under the Convertible Security Agreements is not conditional upon their support of the Offer.
+>
+> 38. Particulars of the Convertible Security Agreements have been disclosed in the take-over bid circular of the Offeror and the directors' circular of EMJ relating to the Offer.
+
+**AND WHEREAS** pursuant to the System, this MRRS Decision Document evidences the decision of each Decision Maker (collectively, the "Decision");
+
+**AND WHEREAS** each of the Decision Makers is satisfied that the test contained in the Legislation that provides the Decision Maker with the jurisdiction to make the Decision has been met;
+
+**THE DECISION** of the Decision Makers under the Legislation is that the Employment Agreement, the EMJ Option Agreements and the Convertible Security Agreements are being made for reasons other than to increase the value of the consideration to be paid for the EMJ Shares to holders of EMJ Shares who are parties to such agreements and may be entered into or paid notwithstanding the Prohibition on Collateral Benefits.
+
+September 13, 2004.
+
+|  |  |
+| --- | --- |
+| "Robert L. Shirriff" | "Wendell S. Wigle" |

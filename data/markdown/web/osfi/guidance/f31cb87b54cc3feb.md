@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/total-loss-absorbing-capacity-tlac-guideline-2018/canadian-imperial-bank-commerce-order-providing-minimum-total-loss-absorbing-capacity-tlac"
 version: "1"
 ---
-
 # Canadian Imperial Bank of Commerce - Order Providing for Minimum Total Loss Absorbing Capacity (TLAC)
 
 Pursuant to subsection 485(1.2) of the Bank Act, I, on behalf of the Superintendent of Financial Institutions, provide that Canadian Imperial Bank of Commerce’s minimum capacity to absorb losses is as follows. Canadian Imperial Bank of Commerce shall maintain capital and prescribed shares and prescribed liabilities that equal at least:

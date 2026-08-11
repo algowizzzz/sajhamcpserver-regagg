@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/liquidity-principles-guideline-2020"
 version: "1"
 ---
-
 # Liquidity Principles – Guideline (2020)
 
 Information

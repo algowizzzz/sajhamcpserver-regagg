@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/applications-approvals/transaction-instructions/extension-divestiture-period-control-or-holding-substantial-investment-obtained-result-loan-default"
 version: "1"
 ---
-
 # Extension of divestiture period for control or holding of a substantial investment obtained as a result of a loan default-minister’s approval
 
 Information

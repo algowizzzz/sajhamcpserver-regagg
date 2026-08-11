@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/expert-opinions-report-canadian-company-demutualizations"
 version: "1"
 ---
-
 # Expert Opinions and Report - Canadian Company Demutualizations
 
 Information

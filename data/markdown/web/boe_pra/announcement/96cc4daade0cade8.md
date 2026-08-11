@@ -8,7 +8,6 @@ source_url: "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes
 published: "2026-06-18"
 version: "1"
 ---
-
 # Bank Rate maintained at 3.75% - June 2026 Monetary Policy Summary and Minutes
 
 The Bank of England’s Monetary Policy Committee is responsible for making decisions about Bank Rate.

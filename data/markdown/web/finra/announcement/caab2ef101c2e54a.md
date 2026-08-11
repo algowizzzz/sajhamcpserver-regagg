@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.finra.org/rules-guidance/rulemaking-process/regulatory-policy-agenda"
 version: "1"
 ---
-
 # FINRA Quarterly Regulatory Policy Agenda
 
 **The quarterly regulatory policy agenda includes the four tables below:**

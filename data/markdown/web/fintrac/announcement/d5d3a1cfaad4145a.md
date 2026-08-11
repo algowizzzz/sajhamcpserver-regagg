@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/intel/operation/taf-eng.php"
 version: "1"
 ---
-
 # Operational alert: Terrorist activity financing
 
 Reference number: FINTRAC-2022-OA001  

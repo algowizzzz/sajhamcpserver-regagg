@@ -8,7 +8,6 @@ source_url: "https://www.bankofengland.co.uk/working-paper/2026/anchors-aweigh-t
 published: "2026-07-17"
 version: "2"
 ---
-
 # Anchors aweigh? The effect of communicating forecast uncertainty
 
 Staff working papers set out research in progress by our staff, with the aim of encouraging comments and debate.

@@ -7,6 +7,11 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/joint-final-report-draft-rts-subcontracting-ict-services-supporting-critical-or-important-functions_en"
 version: "1"
 ---
+[Skip to main content](#main-content)
+
+# Joint Final Report on draft RTS on subcontracting ICT services supporting critical or important functions under DORA
+
+* General publications
 
 ## Details
 

@@ -8,7 +8,6 @@ source_url: "https://www.bankofengland.co.uk/statistics/notice/2026/statistical-
 published: "2026-07-08"
 version: "2"
 ---
-
 # Statistical Notice 2026/07 - Bank of England Levy: Notification Document Levy Year 2026/27
 
 Statistical Notices update the definitions and guidance contained in the Banking Statistics Yellow Folder

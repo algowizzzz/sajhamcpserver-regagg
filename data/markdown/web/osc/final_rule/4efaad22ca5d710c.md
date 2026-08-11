@@ -7,4 +7,224 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/2/23-101/amendments-ni-21-101-marketplace-operation-companion-policy-forms-21-101f1-21-101f2-21-101f3-and"
 version: "1"
 ---
+# Amendments: NI - 21-101 - Marketplace Operation, Companion Policy, Forms 21-101F1, 21-101F2, 21-101F3 and 21-101F4
 
+Amendments to National Instrument
+
+## September 5, 2008
+
+[Download document](/sites/default/files/pdfs/irps/rule_20080905_21-101_amendments.pdf "Open document in new window")
+
+**AMENDMENTS TO NATIONAL INSTRUMENT 21-101**
+
+**MARKETPLACE OPERATION**
+
+**PART 1 AMENDMENT**
+
+> 1.1 Amendment
+>
+> > (1) This Instrument amends National Instrument 21-101 *Marketplace Operation*.
+> >
+> > (2) Section 1.1 is amended:
+> >
+> > > (a) in the definition of "foreign exchange-traded security":
+> > >
+> > > > (i) by striking out "only" wherever it appears; and
+> > > >
+> > > > (ii) by adding "and is not listed on an exchange or quoted on a quotation and trade reporting system in Canada" after "International Organization of Securities Commissions";
+> > >
+> > > (b) by repealing the definition of "member" and substituting the following:
+> > >
+> > > > ""member" means, for a recognized exchange, a person or company
+> > > >
+> > > > > (a) holding at least one seat on the exchange, or
+> > > > >
+> > > > > (b) that has been granted direct trading access rights by the exchange and is subject to regulatory oversight by the exchange,
+> > > >
+> > > > and the person or company's representatives;";
+> > >
+> > > (c) in paragraph (b) of the definition of "recognized exchange" by adding "or authorized by the securities regulatory authority" after "as a self-regulatory organization";
+> > >
+> > > (d) in the definition of "subscriber" by adding ", and the person or company's representatives" after "orders on the ATS";
+> > >
+> > > (e) in the definition of "transaction fee" by striking out "transaction" and substituting "trading"; and
+> > >
+> > > (f) in the definition of "user" by adding ", and the person or company's representatives" after "on the recognized quotation and trade reporting system".
+> >
+> > (3) Section 7.5 is amended by striking out "and timely" and by adding "in real-time" after "consolidated feed".
+> >
+> > (4) Part 8 is amended:
+> >
+> > > (a) in section 8.3 by striking out "a" after "produce" and substituting "an accurate"; and
+> > >
+> > > (b) by repealing section 8.5 and substituting:
+> > >
+> > > > "8.5 Filing Requirements for the Information Processor
+> > > >
+> > > > (1) The information processor shall file, within 30 days after the end of each calendar quarter, the process and criteria for the selection of government debt securities, as applicable, and designated corporate debt securities and the list of government debt securities, as applicable, and designated corporate debt securities.
+> > > >
+> > > > (2) The information processor shall file, within 30 days after the end of each calendar year, the process to communicate the designated securities to the marketplaces, inter-dealer bond brokers and dealers providing the information as required by the Instrument, including where the list of designated securities can be found."
+> >
+> > (5) Part 10 is amended:
+> >
+> > > (a) in the title by striking out "Transaction Fees" and substituting "Trading Fees", and
+> > >
+> > > (b) by repealing section 10.1 and substituting the following:
+> > >
+> > > > 10.1 Disclosure of Trading Fees by Marketplaces -- A marketplace shall make its schedule of trading fees publicly available.
+> >
+> > (6) Part 11 is amended:
+> >
+> > > (a) in section 11.1 by adding "in electronic form" after "business";
+> > >
+> > > (b) in subsection 11.2(1),
+> > >
+> > > > (i) by striking out "In addition to" and substituting "As part of";
+> > > >
+> > > > (ii) by striking out "keep" and substituting "include"; and
+> > > >
+> > > > (iii) by adding "in electronic form" after "information";
+> > >
+> > > (c) in paragraph 11.2(1)(b) by striking out ", in electronic form,";
+> > >
+> > > (d) by repealing subsections 11.2(2) and 11.2(3); and
+> > >
+> > > (e) by adding the following section after section 11.2:
+> > >
+> > > > "11.2.1 Transmission in Electronic Form -- A marketplace shall transmit
+> > > >
+> > > > (a) to a regulation services provider, if it has entered into an agreement with a regulation services provider in accordance with NI 23-101, the information required by the regulation services provider, within ten business days, in electronic form; and
+> > > >
+> > > > (b) to the securities regulatory authority the information required by the securities regulatory authority under securities legislation, within ten business days, in electronic form.".
+> >
+> > (7) Section 12.2 is amended by striking out "Paragraphs 12.1(b) and 12.1(c) do" and substituting "Paragraph 12.1(b) does".
+>
+> 1.2 Effective Date -- This Instrument comes into effect on September 12, 2008.
+
+**AMENDMENTS TO COMPANION POLICY 21-101CP -- TO NATIONAL INSTRUMENT 21-101**
+
+**MARKETPLACE OPERATION**
+
+**PART 1 AMENDMENT**
+
+> 1.1 Amendment
+>
+> > (1) This amends Companion Policy 21-101CP -- to National Instrument 21-101 *Marketplace Operation*.
+> >
+> > (2) Section 1.2 is amended by striking out the last sentence and substituting "A security that is listed on a foreign exchange or quoted on a foreign quotation and trade reporting system, and is not listed or quoted on a domestic exchange or quotation and trade reporting system, falls within the definition of "foreign exchange-traded security".".
+> >
+> > (3) Subsection 5.1(3) is amended by striking out the last sentence and substituting the following:
+> >
+> > > "For the purpose of sections 7.1, 7.3, 8.1 and 8.2 of the Instrument, the Canadian securities regulatory authorities do not consider special terms orders that are not immediately executable or that trade in special terms books, such as all-or-none, minimum fill or cash or delayed delivery, to be orders that must be provided to an information processor or, if there is no information processor, to an information vendor for consolidation.".
+> >
+> > (4) Part 9 is amended by repealing subsections 9.1(3) and 9.1(4).
+> >
+> > (5) Section 12.1 is amended by:
+> >
+> > > (a) striking out all references to "transaction fees" and substituting "trading fees"; and
+> > >
+> > > (b) adding after the first sentence "The schedule should include all trading fees and provide the minimum and maximum fees payable for certain representative transactions.".
+>
+> 1.2 Effective Date -- This policy comes into effect on September 12, 2008..
+
+**AMENDMENTS TO NATIONAL INSTRUMENT 23-101**
+
+**TRADING RULES**
+
+**PART 1 AMENDMENT**
+
+> 1.1 Amendment
+>
+> > (1) This Instrument amends National Instrument 23-101 *Trading Rules.*
+> >
+> > (2) Section 1.1 is amended by adding the following definition:
+> >
+> > > ""best execution" means the most advantageous execution terms reasonably available under the circumstances;".
+> >
+> > (3) Section 4.2 is repealed and the following is substituted:
+> >
+> > > "4.2 Best Execution -- A dealer and an adviser must make reasonable efforts to achieve best execution when acting for a client.
+> > >
+> > > 4.3 Order and Trade Information -- To satisfy the requirements in section 4.2, a dealer or adviser shall make reasonable efforts to use facilities providing information regarding orders and trades.".
+> >
+> > (4) Section 5.1 is amended by adding "for a regulatory purpose" after "trading in a particular security".
+> >
+> > (5) Part 11 is amended by:
+> >
+> > > (a) repealing subsections 11.2(5) and (6); and
+> > >
+> > > (b) adding the following after section 11.2:
+> > >
+> > > > "11.3 Transmission in Electronic Form -- A dealer and inter-dealer bond broker shall transmit
+> > > >
+> > > > (a) to a regulation services provider the information required by the regulation services provider, within ten business days, in electronic form; and
+> > > >
+> > > > (b) to the securities regulatory authority the information required by the securities regulatory authority under securities legislation, within ten business days, in electronic form.".
+>
+> 1.2 Effective Date -- This Instrument comes into effect on September 12, 2008.
+
+**AMENDMENTS TO COMPANION POLICY 23-101CP -- TO NATIONAL INSTRUMENT 23-101**
+
+**TRADING RULES**
+
+**PART 1 AMENDMENT**
+
+> 1.1 Amendment
+>
+> > (1) This amends Companion Policy 23-101CP -- to National Instrument 23-101 *Trading Rules*.
+> >
+> > (2) The Policy is amended by adding the following Part after Part 1:
+
+**"Part 1.1 -- Definitions**
+
+> > > 1.1.1 Definition of best execution --
+> > >
+> > > > (1) In the Instrument, best execution is defined as the "most advantageous execution terms reasonably available under the circumstances". In seeking best execution, a dealer or adviser may consider a number of elements, including:
+> > > >
+> > > > > a. price;
+> > > > >
+> > > > > b. speed of execution;
+> > > > >
+> > > > > c. certainty of execution; and
+> > > > >
+> > > > > d. the overall cost of the transaction.
+> > > >
+> > > > These four broad elements encompass more specific considerations, such as order size, reliability of quotes, liquidity, market impact (i.e. the price movement that occurs when executing an order) and opportunity cost (i.e. the missed opportunity to obtain a better price when an order is not completed at the most advantageous time). The overall cost of the transaction is meant to include, where appropriate, all costs associated with accessing an order and/or executing a trade that are passed on to a client, including fees arising from trading on a particular marketplace, jitney fees (i.e. any fees charged by one dealer to another for providing trading access) and settlement costs. The commission fees charged by a dealer would also be a cost of the transaction.
+> > > >
+> > > > (2) The elements to be considered in determining "the most advantageous execution terms reasonably available" (i.e. best execution) and the weight given to each will vary depending on the instructions and needs of the client, the particular security, the prevailing market conditions and whether the dealer or adviser is responsible for best execution under the circumstances. Please see a detailed discussion below in Part 4.".
+> >
+> > (3) Part 4 is amended by repealing subsections 4.1(1) to 4.1(8) and substituting the following:
+> >
+> > > "4.1 Best Execution --
+> > >
+> > > > (1) The best execution obligation in Part 4 of the Instrument does not apply to an ATS that is registered as a dealer provided that it is carrying on business as a marketplace and is not handling any client orders other than accepting them to allow them to execute on the system. However, the best execution obligation does otherwise apply to an ATS acting as an agent for a client.
+> > > >
+> > > > (2) Section 4.2 of the Instrument requires a dealer or adviser to make reasonable efforts to achieve best execution (the most advantageous execution terms reasonably available under the circumstances) when acting for a client. The obligation applies to all securities.
+> > > >
+> > > > (3) Although what constitutes "best execution" varies depending on the particular circumstances, to meet the "reasonable efforts" test, a dealer or adviser should be able to demonstrate that it has, and has abided by, its policies and procedures that (i) require it to follow the client's instructions and the objectives set, and (ii) outline a process designed to achieve best execution. The policies and procedures should describe how the dealer or adviser evaluates whether best execution was obtained and should be regularly and rigorously reviewed. The policies outlining the obligations of the dealer or adviser will be dependent on the role it is playing in an execution. For example, in making reasonable efforts to achieve best execution, the dealer should consider the client's instructions and a number of factors, including the client's investment objectives and the dealer's knowledge of markets and trading patterns. An adviser should consider a number of factors, including assessing a particular client's requirements or portfolio objectives, selecting appropriate dealers and marketplaces and monitoring the results on a regular basis. In addition, if an adviser is directly accessing a marketplace, the factors to be considered by dealers may also be applicable.
+> > > >
+> > > > (4) Where securities listed on a Canadian exchange or quoted on a Canadian quotation and trade reporting system are inter-listed either within Canada or on a foreign exchange or quotation and trade reporting system, in making reasonable efforts to achieve best execution, the dealer should assess whether it is appropriate to consider all marketplaces upon which the security is listed or quoted and where the security is traded, both within and outside of Canada.
+> > > >
+> > > > (5) In order to meet best execution obligations where securities trade on multiple marketplaces in Canada, a dealer should consider information from all appropriate marketplaces (not just marketplaces where the dealer is a participant). This does not mean that a dealer must have access to real-time data feeds from each marketplace. However, its policies and procedures for seeking best execution should include the process for taking into account order and/or trade information from all appropriate marketplaces and the requirement to evaluate whether taking steps to access orders is appropriate under the circumstances. The steps to access orders may include making arrangements with another dealer who is a participant of a particular marketplace or routing an order to a particular marketplace.
+> > > >
+> > > > (6) For foreign exchange-traded securities, if they are traded on an ATS in Canada, dealers should include in their best execution policies and procedures a regular assessment of whether it is appropriate to consider the ATS as well as the foreign markets upon which the securities trade.
+> > > >
+> > > > (7) Section 4.2 of the Instrument applies to registered advisers as well as registered dealers that carry out advisory functions but are exempt from registration as advisers.
+> > > >
+> > > > (8) Section 4.3 of the Instrument requires that a dealer or adviser make reasonable efforts to use facilities providing information regarding orders and trades. These reasonable efforts refer to the use of the information displayed by the information processor or, if there is no information processor, an information vendor.".
+> >
+> > (4) Section 5.1 is amended by adding the following sentences before the first sentence:
+> >
+> > > "Section 5.1 of the Instrument applies when a regulatory halt has been imposed by a regulation services provider, a recognized exchange, recognized quotation and trade reporting system or an exchange or quotation and trade reporting system that has been recognized for the purposes of the Instrument and NI 21-101. A regulatory halt, as referred to in section 5.1 of the Instrument, is one that is imposed to maintain a fair and orderly market, including halts related to a timely disclosure policy, or because there has been a violation of regulatory requirements.".
+> >
+> > (5) Part 8 is amended by:
+> >
+> > > (a) repealing section 8.2 and substituting the following:
+> > >
+> > > > "8.2 Transmission of Information to a Regulation Services Provider -- Section 11.3 of the Instrument requires that a dealer and an inter-dealer bond broker provide to the regulation services provider information required by the regulation services provider*,* within ten business days, in electronic form*.* This requirement is triggered only when the regulation services provider sets requirements to transmit information."; and
+> > >
+> > > (b) repealing section 8.3 and substituting the following:
+> > >
+> > > > "8.3 Electronic Form -- Subsection 11.3 of the Instrument requires any information required to be transmitted to the regulation services provider and securities regulatory authority in electronic form. Dealers and inter-dealer bond brokers are required to provide information in a form that is accessible to the securities regulatory authorities and the regulation services provider (for example, in SELECTR format).".
+>
+> 1.2 Effective Date -- This Policy comes into effect on September 12, 2008.

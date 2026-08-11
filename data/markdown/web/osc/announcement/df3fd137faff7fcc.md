@@ -7,4 +7,50 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/rutter-inc-s-110"
 version: "1"
 ---
+# Rutter Inc. s. 1(10)
 
+Decision
+
+## June 5, 2014
+
+Headnote
+
+National Policy 11-203 Process for Exemptive Relief Applications in Multiple Jurisdictions -- application for an order that the issuer is not a reporting issuer.
+
+Ontario Statutes
+
+Securities Act, R.S.O. 1990, c. S.5, as am., s. 1(10).
+
+June 5, 2014
+
+Rutter Inc.
+
+63 Thorburn Road
+
+St. John's, NL A1B 3M2
+
+Dear Sirs/Mesdames:
+
+Re: Rutter Inc. (the Applicant) -- application for a decision under the securities legislation of Ontario, Alberta, Quebec, and Newfoundland and Labrador (the Jurisdictions) that the Applicant is not a reporting issuer
+
+The Applicant has applied to the local securities regulatory authority or regulator (the Decision Maker) in each of the Jurisdictions for a decision under the securities legislation (the Legislation) of the Jurisdictions that the Applicant is not a reporting issuer.
+
+In this decision, "securityholder" means, for a security, the beneficial owner of the security.
+
+The Applicant has represented to the Decision Makers that:
+
+> (a) the outstanding securities of the Applicant, including debt securities, are beneficially owned, directly or indirectly, by fewer than 15 securityholders in each of the jurisdictions of Canada and fewer than 51 securityholders in total worldwide;
+>
+> (b) no securities of the Applicant, including debt securities, are traded in Canada or another country on a marketplace as defined in National Instrument 21-101 *Marketplace Operation* or any other facility for bringing together buyers and sellers of securities where trading data is publicly reported;
+>
+> (c) the Applicant is applying for a decision that it is not a reporting issuer in all of the jurisdictions of Canada in which it is currently a reporting issuer; and
+>
+> (d) the Applicant is not in default of any of its obligations under the Legislation as a reporting issuer.
+
+Each of the Decision Makers is satisfied that the test contained in the Legislation that provides the Decision Maker with the jurisdiction to make the decision has been met and orders that the Applicant is not a reporting issuer.
+
+"Kathryn Daniels"
+
+Deputy Director, Corporate Finance
+
+Ontario Securities Commission

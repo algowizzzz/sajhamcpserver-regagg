@@ -8,7 +8,6 @@ source_url: "https://www.bankofengland.co.uk/annual-report/2026"
 published: "2026-06-25"
 version: "1"
 ---
-
 # Bank of England Annual Report and Accounts - 2026
 
 The Bank of England and the Prudential Regulation Authority (PRA) publish separate Annual Reports and Accounts. The reports provide information on our activities and finances for the preceding year.

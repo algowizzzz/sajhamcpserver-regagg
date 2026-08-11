@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/rapport-sur-principaux-parametres-devaluation-societes-dassurances-multirisques-0"
 version: "1"
 ---
-
 # Rapport sur les principaux paramètres d’évaluation – Sociétés d’assurances multirisques
 
 Information

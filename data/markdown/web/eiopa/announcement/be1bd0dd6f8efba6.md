@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publication-list-internationally-active-insurance-groups-iaig-eu-2020-05-12_en"
 version: "1"
 ---
-
 ![Adobestock_274988892-frankfurt-am-main-view-buildings-finance-insurance](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-06/adobestock_274988892-frankfurt-am-main-view-buildings-finance-insurance_0.jpg?itok=bbtygdjc "Adobestock_274988892-frankfurt-am-main-view-buildings-finance-insurance")
 
 The European Insurance and Occupational Pensions Authority (EIOPA) has published the list of Internationally Active Insurance Groups (IAIGs) headquartered in the EU.

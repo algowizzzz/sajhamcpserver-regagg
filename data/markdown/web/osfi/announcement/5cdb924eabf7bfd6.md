@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/data-forms/reporting-returns/filing-financial-returns/financial-reporting-instructions/mortgage-insurance-return-section-iii-definitions"
 version: "1"
 ---
-
 # Mortgage Insurance Return – Section III – Definitions
 
 Information

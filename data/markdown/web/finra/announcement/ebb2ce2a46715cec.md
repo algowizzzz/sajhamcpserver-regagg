@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.finra.org/registration-exams-ce/continuing-education"
 version: "6"
 ---
-
 # Continuing Education (CE)
 
 Overview

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fca.org.uk/data/previous-general-insurance-value-measures-data"
 version: "1"
 ---
-
 We publish value measures data for a wide range of general insurance (GI) products.
 
 * [General insurance value measures data 2024](/data/general-insurance-value-measures-data-2024)

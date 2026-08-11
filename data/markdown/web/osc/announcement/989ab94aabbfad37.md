@@ -1,0 +1,10 @@
+---
+title: "DTCC Data Repository (U.S.) LLC – s. 42 of OSC Rule 91-507 Trade Repositories and Derivatives Data Reporting | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/dtcc-data-repository-us-llc-s-42-osc-rule-91-507-trade-0"
+version: "1"
+---
+

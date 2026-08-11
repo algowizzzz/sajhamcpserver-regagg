@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/suspicious-activity-reports-document-international-payments"
 version: "1"
 ---
-
 # Suspicious Activity Reports Document International Payments Underlying Illicit Human Growth Hormone Trafficking
 
 [Issue 21-story6.pdf](/system/files/case_example/Issue%2021-story6.pdf "Issue 21-story6.pdf")

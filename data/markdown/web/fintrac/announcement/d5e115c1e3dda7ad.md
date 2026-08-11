@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/new-neuf/nr/2022-03-22-eng.php"
 version: "1"
 ---
-
 # FINTRAC imposes an administrative monetary penalty on Forest Hill Real Estate Inc.
 
 **From:** [Financial Transactions and Reports Analysis Centre of Canada](/intro-eng) (FINTRAC)

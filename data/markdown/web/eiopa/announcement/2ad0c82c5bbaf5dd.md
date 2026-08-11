@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/europes-insurance-and-pension-fund-sectors-stay-resilient-amid-tense-risk-landscape-2024-06-27_en"
 version: "1"
 ---
-
 ![AdobeStock_511518953.jpeg](/sites/default/files/styles/oe_theme_medium_no_crop/public/2024-06/AdobeStock_511518953.jpeg?itok=gMZPyCrL)
 
 The European Insurance and Occupational Pensions Authority (EIOPA) published today its [June 2024 Financial Stability Report](https://www.eiopa.europa.eu/publications/financial-stability-report-june-2024_en), which offers a stocktake of key developments and risks in Europe’s insurance and occupational pensions sectors.

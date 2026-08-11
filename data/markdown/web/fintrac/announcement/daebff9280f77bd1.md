@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/new-neuf/nr/2025-05-01-fra.php"
 version: "1"
 ---
-
 # CANAFE impose une pénalité administrative pécuniaire à Immeubles Jack Sera Inc.
 
 **Communiqué de presse**

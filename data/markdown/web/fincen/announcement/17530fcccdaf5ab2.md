@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/check-cashing-worker-convicted-money-laundering"
 version: "1"
 ---
-
 # Check Cashing Worker Convicted of Money Laundering
 
 [022.pdf](/system/files/case_example/022.pdf "022.pdf")

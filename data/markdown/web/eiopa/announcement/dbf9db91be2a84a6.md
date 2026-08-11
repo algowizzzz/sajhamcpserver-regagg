@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-ecb-and-national-authorities-agree-common-minimum-standards-supervisory-and-statistical-2019-06-13_en"
 version: "1"
 ---
-
 Today, the European Insurance and Occupational Pensions Authority (EIOPA) and the European Central Bank (ECB) published Common Minimum Standards for Data Revisions agreed between the ECB, EIOPA, the National Central Banks (NCBs) and the National Competent Authorities (NCAs).  
 Given the integrated reporting approach followed for supervisory and statistical reporting to EIOPA and the ECB, a common understanding of the minimum level of data quality is required as well as of when a revision of data is considered necessary.  
 While information reported should be of good quality at the time of its first submission, at a later stage revisions may be needed upon request by the European or national authorities or upon financial institutions' own initiative.  

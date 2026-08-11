@@ -1,0 +1,60 @@
+---
+title: "UTS Energy Corporation -- s. 1(10) | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/uts-energy-corporation-s-110"
+version: "1"
+---
+# UTS Energy Corporation -- s. 1(10)
+
+Decision
+
+## October 25, 2010
+
+Headnote
+
+National Policy 11-203 Process for Exemptive Relief Applications in Multiple Jurisdictions -- Issuer deemed to no longer be a reporting issuer under securities legislation.
+
+**Applicable Legislative Provisions**
+
+Securities Act, R.S.O. 1990, c. S.5, as am., s. 1(10).
+
+**Citation:** UTS Energy Corporation, Re, 2010 ABASC 497
+
+October 25, 2010
+
+Goodmans LLP
+
+Bay Adelaide Centre
+
+333 Bay Street, Suite 3400
+
+Toronto, ON M5H 2S7
+
+**Attention: Mark Spiro**
+
+Dear Sir:
+
+|  |  |
+| --- | --- |
+| **Re:** | **UTS Energy Corporation (the Applicant) -- Application for a decision under the securities legislation of Alberta, Saskatchewan, Manitoba, Ontario, Québec, Nova Scotia, New Brunswick, Prince Edward Island and Newfoundland and Labrador (the Jurisdictions) that the Applicant is not a reporting issuer** |
+
+The Applicant has applied to the local securities regulatory authority or regulator (the **Decision Maker**) in each of the Jurisdictions for a decision under the securities legislation (the **Legislation**) of the Jurisdictions to be deemed to have ceased to be a reporting issuer in the Jurisdictions.
+
+As the Applicant has represented to the Decision Makers that:
+
+> (a) the outstanding securities of the Applicant, including debt securities, are beneficially owned, directly or indirectly, by fewer than 15 security holders in each of the jurisdictions in Canada and fewer than 51 security holders in total in Canada;
+>
+> (b) no securities of the Applicant are traded on a marketplace as defined in National Instrument 21-101 *Marketplace Operation*;
+>
+> (c) the Applicant is applying for a decision that it is not a reporting issuer in all of the jurisdictions in Canada in which it is currently a reporting issuer; and
+>
+> (d) the Applicant is not in default of any of its obligations under the Legislation as a reporting issuer,
+
+each of the Decision Makers is satisfied that the test contained in the Legislation that provides the Decision Maker with the jurisdiction to make the decision has been met and orders that the Applicant is deemed to have ceased to be a reporting issuer and that the Applicant's status as a reporting issuer is revoked.
+
+"Blaine Young"
+
+Associate Director, Corporate Finance

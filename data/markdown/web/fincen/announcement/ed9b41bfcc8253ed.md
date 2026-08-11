@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/sars-help-bust-1-million-drug-ring-led-significantly-older"
 version: "1"
 ---
-
 # SARs Help Bust $1 Million Drug Ring Led by Significantly Older Student
 
 [Issue 23-story6.pdf](/system/files/case_example/Issue%2023-story6.pdf "Issue 23-story6.pdf")

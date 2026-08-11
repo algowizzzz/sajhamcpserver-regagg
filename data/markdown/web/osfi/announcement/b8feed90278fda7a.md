@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/careers/job-opportunities-osfi/supervisory-career-management-program"
 version: "1"
 ---
-
 # Supervisory Career Management Program
 
 We offer a management program to train people who are early in their career how to supervise financial institutions. This program offers challenging and rewarding work assignments.

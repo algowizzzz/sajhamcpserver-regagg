@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iais.org/2025/11/public-consultation-on-ics-related-comframe-standards/"
 version: "1"
 ---
-
 # Public consultation on ICS-related ComFrame standards
 
 [21 Nov 2025](https://www.iais.org/2025/11/public-consultation-on-ics-related-comframe-standards/)

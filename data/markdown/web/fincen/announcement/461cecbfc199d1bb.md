@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/financial-institutions"
 version: "1"
 ---
-
 # Financial Institutions
 
 ![Money and Ionic columns](/system/files/shared/FinancialInstitutions_large.jpg)

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/scams"
 version: "1"
 ---
-
 # Recognizing Imposter Scams
 
 **Did you get a message from FinCEN? It could be a scammer!**

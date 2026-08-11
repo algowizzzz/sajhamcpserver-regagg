@@ -1,0 +1,10 @@
+---
+title: "Augustine Ventures Inc. – s. 1(6) of the OBCA | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/augustine-ventures-inc-s-16-obca"
+version: "1"
+---
+

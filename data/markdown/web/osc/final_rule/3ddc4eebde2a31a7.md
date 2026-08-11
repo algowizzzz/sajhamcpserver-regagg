@@ -8,4 +8,13 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/2/21-101/unofficial-consolidation-ni-21-101-forms-and-companion-policy-effective-october-1-2015"
 version: "1"
 ---
+# Unofficial consolidation of NI 21-101, Forms and Companion Policy, effective October 1, 2015
 
+Unofficial Consolidation
+National Instrument
+Companion Policy
+Forms
+
+## October 1, 2015
+
+[Download document](/sites/default/files/pdfs/irps/ni_20151001_21-101_unofficial-consolidation-forms-cp.pdf "Open document in new window")

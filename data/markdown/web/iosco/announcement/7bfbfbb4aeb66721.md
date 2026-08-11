@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.iosco.org/members_area/file.cfm?file=members-area\training\pdf\2025-GCP-Phase-II-Agenda.pdf"
 version: "1"
 ---
-
 ##### Modal title
 
 Modal body text goes here.

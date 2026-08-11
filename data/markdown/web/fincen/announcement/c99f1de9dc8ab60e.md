@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/sars-connect-multiple-subjects-large-scale-investment-scam"
 version: "1"
 ---
-
 # SARs Connect Multiple Subjects to Large Scale Investment Scam
 
 [088.pdf](/system/files/case_example/088.pdf "088.pdf")

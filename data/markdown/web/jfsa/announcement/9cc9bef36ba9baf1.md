@@ -8,7 +8,6 @@ source_url: "https://www.fsa.go.jp/en/announce/state/index.html"
 published: "2021-04-23"
 version: "2"
 ---
-
 * [HOME](/en/index.html)
 
 [Tweet](https://twitter.com/share)

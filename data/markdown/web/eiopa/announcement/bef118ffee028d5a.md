@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/european-insurers-face-stable-risk-exposures-macro-and-market-risks-remain-high-2020-01-29_en"
 version: "1"
 ---
-
 ![Adobestock_news_insurances_statistics](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_news_insurances_statistics.jpg?itok=6atSLr2x "Adobestock_news_insurances_statistics")
 
 Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its updated Risk Dashboard based on the third quarter 2019 Solvency II data.   

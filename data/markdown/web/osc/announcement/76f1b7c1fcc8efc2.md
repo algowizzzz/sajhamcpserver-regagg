@@ -7,4 +7,218 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/rbc-dominion-securities-inc-et-al-3"
 version: "1"
 ---
+# RBC Dominion Securities Inc. et al.
 
+Decision
+
+## February 17, 2011
+
+Headnote
+
+National Policy 11-203 Process for Exemptive Relief Applications in Multiple Jurisdictions -- offering of corporate strip securities; exemption granted from the eligibility requirements of National Instrument 44-102 Shelf Distributions and National Instrument 44-101 Short Form Prospectus Distributions to permit the filing of a shelf prospectus and prospectus supplements qualifying for distribution strip residuals, strip coupons and strip packages to be derived from debt obligations of Canadian corporations and trusts; exemption also granted from the requirements that the prospectus contain a certificate of the issuer and that it incorporate by reference documents of the underlying issuer.
+
+**Applicable Ontario Statutory Provisions**
+
+Securities Act, R.S.O. 1990, c. S.5, as am., s. 58(1).
+
+**Applicable National Instruments**
+
+National Instrument 44-101 Short Form Prospectus Distributions, ss. 2.1, 8.1.
+
+National Instrument 44-102 Shelf Distributionsn, ss. 2.1, 11.1.
+
+**February 17, 2011**
+
+**IN THE MATTER OF**
+
+**THE SECURITIES LEGISLATION OF**
+
+**ONTARIO**
+
+**(the JURISDICTION)**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**THE PROCESS FOR EXEMPTIVE RELIEF**
+
+**APPLICATIONS IN MULTIPLE JURISDICTIONS**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**RBC DOMINION SECURITIES INC.,**
+
+**BMO NESBITT BURNS INC.,**
+
+**CIBC WORLD MARKETS INC.,**
+
+**NATIONAL BANK FINANCIAL INC.,**
+
+**SCOTIA CAPITAL INC. AND TD SECURITIES INC.**
+
+**(the FILERS)**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**THE CARS AND PARS PROGRAMME™**
+
+**OF THE FILERS**
+
+**DECISION**
+
+**Background**
+
+The principal regulator in the Jurisdiction has received an application from the Filers for a decision under the securities legislation of the Jurisdiction of the principal regulator (the **Legislation**) for the following exemptions (the **Exemption Sought**):
+
+> 1. an exemption from Section 2.1 of National Instrument 44-102 -- *Shelf Distributions* and Section 2.1 of National Instrument 44-101 -- *Short Form Prospectus Distributions* so that a Prospectus can be filed by the Filers to renew the CARS and PARS Programme and offer Strip Securities in the Jurisdictions; and
+>
+> 2. an exemption from the following requirements in respect of any Underlying Issuer whose Underlying Obligations are purchased by any one or more of the Filers on the secondary market, and Strip Securities derived therefrom and sold under the CARS and PARS Programme:
+>
+> > (a) the requirements of the Legislation that the Prospectus contain a certificate of the Underlying Issuer; and
+> >
+> > (b) the requirements of the Legislation that the Prospectus incorporate by reference documents of an Underlying Issuer.
+
+Under the Process for Exemptive Relief Applications in Multiple Jurisdictions (for a passport application):
+
+> (a) the Ontario Securities Commission is the principal regulator for this application, and
+>
+> (b) the Filers have provided notice that Section 4.7(1) of Multilateral Instrument 11-102 -- *Passport System* (**MI 11-102**) is intended to be relied upon in British Columbia, Alberta, Saskatchewan, Manitoba, Quebec, Newfoundland and Labrador, New Brunswick, Prince Edward Island, Nova Scotia, Newfoundland and Labrador, Yukon Territory Northwest Territories and Nunavut (collectively with Ontario, the **Jurisdictions**).
+
+**Interpretation**
+
+Terms defined in National Instrument 14-101 - *Definitions* and MI 11-102 have the same meaning if used in this decision, unless otherwise defined.
+
+**CARS™** means strips coupons and strips residuals.
+
+**CARS and PARS Programme™** means the strip bond product programme of the Filers to be offered by Prospectus.
+
+**CDS** means CDS Clearing and Depository Services Inc.
+
+**NI 44-101** means National Instrument 44-101 -- *Short Form Prospectus Distributions*.
+
+**NI 44-102** means National Instrument 44-102 -- *Shelf Distributions*.
+
+**Offering Date** means the time of the closing of the discrete offering in respect of the related Strip Securities.
+
+**PARS™** means par adjusted rate strips, comprising an entitlement to receive the principal amount of, and a portion, equal to a market rate (at the time of issuance of thereof) of the interest payable under the Underlying Obligations.
+
+**Participants** means participants in the depository system of CDS.
+
+**Prospectus** means a short form prospectus which is a base shelf prospectus together with the appropriate prospectus supplements.
+
+**SEDAR** means the System for Electronic Document Analysis and Retrieval.
+
+**Strip Coupons** means separate components of interest derived from an Underlying Obligation.
+
+**Strip Packages** means packages of Strip Securities, including packages of Strip Coupons and packages of PARS.
+
+**Strip Residuals** means separate components of principal derived from an Underlying Obligation.
+
+**Strip Securities** means separate components of interest, principal or combined principal and interest components derived from Underlying Obligations and sold under the CARS and PARS Programme, including Strip Residuals, Strip Coupons and Strip Packages.
+
+**Underlying Issuers** means Canadian corporate, trust and/or partnership issuers.
+
+**Underlying Obligations** means publicly-issued debt obligations of Underlying Issuers, which obligations will carry an "approved rating" as such term is defined in NI 44-101 at the Offering Date.
+
+**Underlying Obligations Prospectus** means a prospectus for which a receipt was issued by the securities regulatory authorities in British Columbia, Alberta, Ontario and Quebec.
+
+**Representations**
+
+This decision is based on the following facts represented by the Filers:
+
+> 1. Each of the Filers is a corporation incorporated under the laws of Canada, and all the Filers, except National Bank Financial Inc. have their head offices in Toronto. National Bank Financial Inc.'s head office is in Montreal.
+>
+> 2. None of the Filers are in default of securities legislation in the Jurisdictions;
+>
+> 3. The CARS and PARS Programme has been in effect since November 19, 2002 in reliance on a MRRS decision documents dated October 31, 2002, and has subsequently been renewed and continued in reliance on decision documents dated March 6, 2003, November 19, 2004, December 18, 2006 and January 18, 2008;
+>
+> 4. The Filers propose to continue to operate the CARS and PARS Programme;
+>
+> 5. The CARS and PARS Programme will continue to be operated by purchasing, on the secondary market, Underlying Obligations of Underlying Issuers, and deriving separate components therefrom, being Strip Residuals, Strip Coupons, and/or Strip Packages;
+>
+> 6. The relevant Underlying Issuer will, to the best of the knowledge of each Filer participating in the relevant offering under the CARS and PARS Programme, be eligible to file a short form prospectus under NI 44-101 (whether such eligibility results from the specific qualification criteria of NI 44-101 or from the granting of an exemption from those criteria) at the Offering Date;
+>
+> 7. The Underlying Obligations will have been distributed under a prospectus for which a receipt was granted by the regulator in British Columbia, Alberta, Ontario, and Quebec;
+>
+> 8. A single short form base shelf prospectus will be established for the renewed CARS and PARS Programme as a whole, with a separate series of Strip Securities being offered under a discrete prospectus supplement for each distinct series or class of Underlying Obligations;
+>
+> 9. It is expected that the Strip Securities will continue to be predominantly sold to retail customers;
+>
+> 10. It is expected that the Filers, or certain of them, will continue to periodically identify, as demand indicates, series of outstanding debt obligations of Canadian corporations or trusts and will purchase and "repackage" individual series of these for sale under the CARS and PARS Programme as discrete series of Strip Securities. In purchasing the Underlying Obligations and creating the Strip Securities, the Filers will not enter into any agreement or other arrangements with the Underlying Issuers;
+>
+> 11. The Prospectus will refer purchasers of the Strip Securities to the SEDAR website maintained by CDS (currently located at www.sedar.com) where they can obtain the continuous disclosure materials of the Underlying Issuer;
+>
+> 12. The Filers, or certain of them, may, from time to time, form and manage a selling group consisting of other registered securities dealers to solicit purchases of, and sell to the public, the Strip Securities;
+>
+> 13. The Strip Securities will be sold in series, each such series relating to separate Underlying Obligations of an Underlying Issuer. The base shelf prospectus for use with the CARS and PARS Programme will describe the CARS and PARS Programme in detail. The shelf prospectus supplement for any series of Strip Securities that are offered will describe the specific terms of the Strip Securities;
+>
+> 14. Each offering of Strip Securities will be derived from one or more Underlying Obligations of a single class or series of an Underlying Issuer. The Filer(s) participating in each offering under the CARS and PARS Programme intend to separate the Underlying Obligations for such series into separate principal and interest components, or strip bonds. These components will, in connection with each series, be re-packaged if and as necessary to create the Strip Securities;
+>
+> 15. The Strip Residuals of a particular series, if any, will consist of the entitlement to receive payments of a portion of the principal amounts payable under the Underlying Obligations, if, as and when paid by the Underlying Issuer on the Underlying Obligations, in accordance with their respective terms;
+>
+> 16. The Strip Coupons of a particular series will consist of the entitlement to receive a payment of a portion of the interest payable under the Underlying Obligations, if, as and when paid by the Underlying Issuer on the Underlying Obligations, in accordance with their respective terms;
+>
+> 17. The Strip Packages will consist of the entitlement to receive (a) in the case of PARS, both payments of a portion of the principal amounts payable and periodic payments of a portion equal to a market rate (at the time of issuance of the PARS) of the interest payable under the Underlying Obligations, and/or (b) in the case of packages consisting of Strip Coupons, periodic payments of portions of the interest payable, or the principal amounts payable, under the Underlying Obligations, in each case, if, as and when paid by the Underlying Issuer on the Underlying Obligations, in accordance with their respective terms;
+>
+> 18. Holders of a series of Strip Securities will be entitled to payments from cash flows from the related Underlying Obligations if, as and when made by the respective Underlying Issuer. The Strip Securities of one series will not be entitled to receive any payments from the cash flows of Underlying Obligations related to any other series. As the Underlying Issuers will be the sole obligors under the respective Underlying Obligations, holders of Strip Securities will be entirely dependent upon the Underlying Issuers' ability to perform their respective obligations under their respective Underlying Obligations;
+>
+> 19. The Strip Securities will be sold at prices determined by the Filers from time to time and, as such, these may vary as between purchasers of the same series and during the offering period of Strip Securities of the same series. In quoting a price for the Strip Securities, the Filers will advise the purchaser of the annual yield to maturity thereof based on such price;
+>
+> 20. The Underlying Issuers will not receive any proceeds, and the Filers will not be entitled to be paid any fee or commission by the Underlying Issuers, in respect of the sale by the Filers or the members of any selling group of the Strip Securities. Each Filer's overall compensation will be increased or decreased by the amount by which the aggregate price paid for a series of the Strip Securities by purchasers exceeds or is less than the aggregate price paid by such Filer for the related Underlying Obligations;
+>
+> 21. The maturity dates of any particular series of Strip Coupons and the interest component of Strip Packages will be coincident with the interest payment dates for the Underlying Obligations for the Series, with terms of up to 30 years or longer. The maturity date of a particular series of Strip Residuals and the principal component of Strip Packages, if any, will be the maturity date of the Underlying Obligations for the series;
+>
+> 22. The Strip Securities will be issuable in Canadian and U.S. dollars and in such minimum denomination(s) and with such maturities as may be described in the applicable shelf prospectus supplement;
+>
+> 23. The Underlying Issuers will be Canadian, corporations, trusts or partnerships. The Underlying Obligations are securities of the Underlying Issuers. The Strip Securities will be derived without regard, except as to ratings and eligibility to file a short form prospectus under NI 44-101, for the value, price, performance, volatility, investment merit or creditworthiness of the Underlying Issuers historically or prospectively;
+>
+> 24. To be eligible for inclusion in the CARS and PARS Programme, the Underlying Obligations must have been qualified for distribution under a prospectus for which a receipt was issued by the regulators in British Columbia, Alberta, Ontario and Quebec, at least four months must have passed from the date of closing of the original issue of the relevant class or series of Underlying Obligations and the distribution of the Underlying Obligations must be complete;
+>
+> 25. The Filers will cause all Underlying Obligations from which the Strip Securities will be derived and which are not already in the CDS system to be delivered to CDS and registered in the name of CDS. The Underlying Obligations from which the Strip Securities will be derived will, except in very limited circumstances, be held by CDS until their maturity and will not otherwise be released or removed from the segregated account used by CDS to maintain the Underlying Obligations. A separate security identification number or ISIN will be assigned by CDS to each series of Strip Securities;
+>
+> 26. Pursuant to the operating rules and procedures of its CDSX Procedures and User Guide, or any successor operating rules and procedures, CDS will maintain book based records of ownership for the Strip Securities, entering in such records only the names of Participants. No purchaser of Strip Securities will be entitled to any certificate or other instrument from the Underlying Issuer, the Filers or CDS evidencing the Strip Securities or the ownership thereof, and no purchaser of Strip Securities will be shown on the records maintained by CDS except through the book entry account of a Participant. Upon the purchase of Strip Securities, the purchaser will receive only the customary confirmation slip that will be sent to such purchaser by one of the Filers or another Participant;
+>
+> 27. Transfers of beneficial ownership in Strip Securities will be effected through records maintained for Strip Securities by CDS or its nominee (with respect to interests of Participants) and on the records of Participants (with respect to interests of persons other than Participants). Beneficial holders who are not Participants, but who desire to purchase, sell or otherwise transfer beneficial ownership of, or any other interest in, such Strip Securities of a series, may do so only through Participants;
+>
+> 28. Payments in respect of a principal component (if any), interest component(s) (if any), or other amounts (if any) owing under a series of Strip Securities will be made from payments received by CDS in respect of the related Underlying Obligations from the relevant Underlying Issuer. Amounts payable on the maturity of the Strip Securities will be payable by the Underlying Issuer to CDS as the registered holder of the Underlying Obligations. Following receipt thereof, CDS will pay to each of its Participants shown on its records as holding matured Strip Securities the amount to which such Participant is entitled. The Filers will, and the Filers understand that each other Participant, who holds such Strip Securities on behalf of a purchaser thereof will, pay or otherwise account to such purchaser for the amounts received by it in accordance with the instructions of the purchaser to such Participant. Holders of a series of Strip Securities will not have any entitlement to receive payments under any Underlying Obligations acquired in connection with the issue of any other series of Strip Securities;
+>
+> 29. As the registered holder of the Underlying Securities, CDS will receive any voting rights in respect of the Underlying Obligations for the Strip Securities. CDS will allocate these rights to the holders of the Strip Securities in accordance with the operating rules and procedures of its CDSX Procedures and User Guide, or any successor operating rules and procedures, in effect at the time. These procedures currently provide for the distribution of the voting rights based on the "proportionate economic interest", determined as to be described in the base shelf prospectus for use with the CARS and PARS Programme. Such voting rights will be vested on a series by series basis. In order for a holder of Strip Securities to have a legal right to attend a meeting of holders of Underlying Obligations, or to vote in person, such holder of Strip Securities must be appointed as proxyholder for the purposes of the meeting by the CDS Participant through whom he or she holds Strip Securities;
+>
+> 30. In the event that an Underlying Issuer repays a callable Underlying Obligation prior to maturity in accordance with its terms, CDS will allocate the amount of proceeds it receives as the registered holder of the Underlying Obligations to the holders of the Strip Securities in accordance with the operating rules and procedures of its CDSX Procedures and User Guide, or any successor operating rules and procedures, in effect at the time. These procedures currently provide for the distribution of proceeds on the repayment of a callable Underlying Obligation based on the "proportionate economic interest"; and
+>
+> 31. Any other entitlements received by CDS with respect to the Underlying Obligations upon the occurrence of an event other than in respect of maturity, including entitlements on the insolvency or winding-up of an Underlying Issuer, the non-payment of interest or principal when due, or a default of the Underlying Issuer under any trust indenture or other agreement governing the Underlying Obligations, will be processed by CDS in accordance with the operating rules and procedures of its CDSX Procedures and User Guide, or any successor operating rules and procedures, in effect at the time. These procedures also currently provide for CDS to distribute the resulting cash and/or securities to the holders of the Strip Securities based on "proportionate economic interest". In addition, if the Underlying Issuer offers an option to CDS as the registered holder of the Underlying Obligations in connection with the event, the Filers understand that CDS will attempt to offer the same option to the holders of the Strip Securities, where feasible.
+
+**Decision**
+
+The principal regulator is satisfied that the decision meets the test set out in the Legislation for the principal regulator to make the decision.
+
+The decision of the principal regulator under the Legislation is that the Exemption Sought is granted provided that:
+
+> 1. The Underlying Obligations were qualified for distribution under the Underlying Obligations Prospectus, at least four months have passed from the date of closing of the original issue of the relevant class or series of Underlying Obligations and the distribution of the Underlying Obligations is complete;
+>
+> 2. If the Underlying Obligations Prospectus is not available through the SEDAR website, the prospectus supplement for the series of Strip Securities derived from the Underlying Obligations for which the prospectus is not available states that a copy of the Underlying Obligations Prospectus may be obtained, upon request, without charge, from each Filer who is participating in the offering of the series of Strip Securities derived from these Underlying Obligations;
+>
+> 3. To the best of the knowledge of the Filer(s) participating in a relevant offering under the CARS and PARS Programme, the relevant Underlying Issuer is eligible to file a short form prospectus under NI 44-101 (whether such eligibility results from the specific qualification criteria of NI 44-101 or from the granting of an exemption from those criteria) at the Offering Date;
+>
+> 4. A receipt issued for the Prospectus issued in reliance on this decision document is not effective after April 18, 2013;
+>
+> 5. The offering and sale of the Strip Securities complies with all the requirements of NI 44-102 and NI 44-101 as varied by NI 44-102, other than those from which an exemption is granted by this decision document or from which an exemption is granted in accordance with Part 11 of NI 44-102 by the securities regulatory authority or regulator in each of the Jurisdictions as evidenced by a receipt for the Prospectus;
+>
+> 6. The Filers issue a press release and file a material change report in respect of:
+>
+> > (a) a material change to the CARS and PARS Programme which affects any of the Strip Securities other than a change which is a material change to an Underlying Issuer; and
+> >
+> > (b) a change in the operating rules and procedures of the CDSX Procedures and User Guide of CDS, or any successor operating rules and procedures in effect at the time, which may have a significant effect on a holder of Strip Securities; and
+>
+> 7. The Filers file the Prospectus, the material change reports referred to above, and all documents related thereto on SEDAR under a SEDAR profile for the Strip Securities and pay all filing fees applicable to such filings.
+
+"Michael Brown"
+
+Assistant Manager, Corporate Finance
+
+Ontario Securities Commission

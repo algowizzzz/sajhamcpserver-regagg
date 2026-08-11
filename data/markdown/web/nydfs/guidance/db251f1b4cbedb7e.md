@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.dfs.ny.gov/industry_guidance/innovation"
 version: "4"
 ---
-
 ![Innovation - Partnerships](/sites/default/files/styles/wide_lead/public/media/2020/06/dfs_next_partnerships_1280x512.jpg?h=b5f6a62e&itok=6HBAcDhK "Innovation - Partnerships")
 
 ## Innovation at DFS

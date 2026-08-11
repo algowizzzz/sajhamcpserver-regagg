@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/mortgage-broker-pleads-guilty-structuring-charges"
 version: "1"
 ---
-
 # Mortgage Broker Pleads Guilty to Structuring Charges
 
 [Issue16-story4.pdf](/system/files/case_example/Issue16-story4.pdf "Issue16-story4.pdf")

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.hkma.gov.hk/eng/news-and-media/press-releases/2026/08/20260806-6/"
 version: "1"
 ---
-
 [Skip to main content](#skip-to-content "Skip to main content")
 
 [Home](/eng "Home")

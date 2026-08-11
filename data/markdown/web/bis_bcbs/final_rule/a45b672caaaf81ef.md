@@ -8,7 +8,6 @@ source_url: "https://www.bis.org/bcbs/publ/d601.htm"
 published: "2025-12-03"
 version: "1"
 ---
-
 [![The Bank for International Settlements](/img/bis-logo-short.gif)](/)
 
 # Regulatory Consistency Assessment Programme (RCAP) - Handbook for jurisdictional assessments

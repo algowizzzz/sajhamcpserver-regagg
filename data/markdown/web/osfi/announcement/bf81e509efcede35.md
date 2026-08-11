@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/releves-societes-dassurance-vie"
 version: "1"
 ---
-
 # Relevés des sociétés d’assurance vie
 
 Information

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/advisories/fincen-advisory-fin-2018-a003"
 version: "1"
 ---
-
 # FinCEN Advisory FIN-2018-A003
 
 ## Advisory Information

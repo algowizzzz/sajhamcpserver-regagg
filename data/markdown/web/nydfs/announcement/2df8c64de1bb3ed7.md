@@ -8,7 +8,6 @@ source_url: "https://www.dfs.ny.gov/reports_and_publications/press_releases/pr20
 published: "2025-05-09"
 version: "3"
 ---
-
 ![Payment method](/sites/default/files/styles/wide_lead/public/media/2025/08/payment-online.jpg?h=b5f6a62e&itok=Alufh47U "payment with phone")
 
 [Back To Newsroom](/node/241971)

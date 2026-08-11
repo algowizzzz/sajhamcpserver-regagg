@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopas-risk-dashboard-assesses-risks-european-union-insurance-sector-2017-05-16_en"
 version: "1"
 ---
-
 Today, the European Insurance and Occupational Pensions Authority (EIOPA) published its updated [Risk Dashboard](/browse/financial-stability/risk-dashboard?prefLang=en) based on the fourth-quarter 2016 data.
 
 The results show the risk exposure of the insurance sector in the European Union remained overall stable and some positive market developments were identified. Solvency II ratios are stronger due to higher market values of assets and the increase of the risk free curve used for discounting the technical provisions. Volatility has decreased and inflation rates have slowly started to converge to desired target levels.

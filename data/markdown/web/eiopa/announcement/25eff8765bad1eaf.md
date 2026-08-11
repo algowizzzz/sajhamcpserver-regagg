@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/digital-operational-resilience-challenge-supervisory-community_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

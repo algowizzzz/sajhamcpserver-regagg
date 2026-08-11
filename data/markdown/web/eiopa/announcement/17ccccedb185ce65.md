@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/media_en"
 version: "1"
 ---
-
 ## LATEST NEWS
 
 ![Accountants looking at reports](https://www.eiopa.europa.eu/sites/default/files/styles/oe_theme_ratio_3_2_medium/public/2026-03/AdobeStock_575877541.jpeg?h=680f2db0&itok=iZb24bqE)

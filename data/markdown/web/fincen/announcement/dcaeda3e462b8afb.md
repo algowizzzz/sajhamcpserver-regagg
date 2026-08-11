@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/sars-lead-3-million-being-seized-unlicensed-money-remitter"
 version: "1"
 ---
-
 # SARs Lead to $3 Million Being Seized from an Unlicensed Money Remitter
 
 [091.pdf](/system/files/case_example/091.pdf "091.pdf")

@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/pillar-3-disclosure-expectations"
 version: "1"
 ---
-
 # Pillar 3 Disclosure Expectations
 
 Information

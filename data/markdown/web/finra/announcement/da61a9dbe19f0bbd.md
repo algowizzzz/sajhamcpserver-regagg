@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.finra.org/investors/protect-your-money/avoid-fraud"
 version: "1"
 ---
-
 # Avoid Fraud
 
 Investment fraud is nothing new, and chances are good that a scammer has targeted you or someone you know. Advances in technology have made investing more accessible than ever. Unfortunately, those same advances not only have made it easier for bad actors to reach a wider audience, but they can also make it harder for investors to distinguish legitimate investment products and platforms from those that are fraudulent.

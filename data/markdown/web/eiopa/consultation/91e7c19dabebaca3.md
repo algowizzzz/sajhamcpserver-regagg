@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/consultations/call-advice-ec-identification-and-calibration-infrastructure-investment-risk-categories_en"
 version: "1"
 ---
-
 ## Details
 
 Status

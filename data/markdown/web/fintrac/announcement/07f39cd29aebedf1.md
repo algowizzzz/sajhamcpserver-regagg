@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/intel/operation/dpms-fra.php"
 version: "1"
 ---
-
 # Rapport opérationnel : Risques et indicateurs pour les négociants en métaux précieux et pierres précieuses
 
 [![](/images/download.png)

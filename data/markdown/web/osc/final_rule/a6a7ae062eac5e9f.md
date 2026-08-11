@@ -8,4 +8,12 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/instruments-rules-policies/2/23-101/unofficial-consolidation-ni-23-101-and-companion-policy-effective-october-1-2015"
 version: "1"
 ---
+# Unofficial consolidation of NI 23-101 and Companion Policy, effective October 1, 2015
 
+Unofficial Consolidation
+National Instrument
+Companion Policy
+
+## October 1, 2015
+
+[Download document](/sites/default/files/pdfs/irps/ni_20151001_23-101_unofficial-consolidatation-cp.pdf "Open document in new window")

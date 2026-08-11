@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/rapports-sur-lutte-contre-recyclage-produits-criminalite-sur-lutte-contre-financement-activites/directives-rapport-bsif-590"
 version: "1"
 ---
-
 # Directives - Rapport BSIF-590
 
 [PDF, 165 Ko](/sites/default/files/2023-11/osfi590_instr%20%281%29.pdf)

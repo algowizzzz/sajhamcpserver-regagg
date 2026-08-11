@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/publications/eu-should-build-past-initiatives-address-growing-pension-gaps_en"
 version: "1"
 ---
-
 ## Details
 
 Publication date

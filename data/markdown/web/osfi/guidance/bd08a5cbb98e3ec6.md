@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/technology-cyber-security-incident-reporting"
 version: "1"
 ---
-
 # Technology and Cyber Security Incident Reporting
 
 Information

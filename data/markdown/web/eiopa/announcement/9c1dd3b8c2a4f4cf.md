@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/esas-joint-board-appeal-dismissed-appeal-scope-ratings-gmbh-against-european-securities-and-markets-2021-01-11_en"
 version: "1"
 ---
-
 The Joint Board of Appeal of the European Supervisory Authorities (ESAs – European Banking Authority, European Insurance and Occupational Pensions Authority, and European Securities and Markets Authority) unanimously decided to dismiss the appeal brought by the credit rating agency Scope Ratings GmbH against the European Securities and Markets Authority (ESMA) in relation to the interpretation of the applicable legal provisions of the Credit Rating Agencies (CRA) Regulation.
 
 Central to this appeal is the appellant’s 2015 covered bond methodology, its application in the context of unsolicited ratings issued by the Appellant in 2015, and the Appellant’s subsequent amendment of this methodology in 2016.   

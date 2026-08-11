@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://fintrac-canafe.canada.ca/pen/4-fra.php"
 version: "1"
 ---
-
 # Avis public des pénalités administratives pécuniaires
 
 Voici une liste des personnes ou entités qui se sont vu imposer une pénalité administrative pécuniaire. Les avis demeureront sur le site Web de CANAFE pendant 5 ans.

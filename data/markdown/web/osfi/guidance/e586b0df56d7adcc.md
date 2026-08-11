@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/life-insurance-capital-adequacy-test-2025-chapter-10-credit-reinsurance"
 version: "1"
 ---
-
 # Life Insurance Capital Adequacy Test (2025) – Chapter 10 Credit for Reinsurance
 
 Information

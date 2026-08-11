@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/law-enforcement/case-examples/fincen-information-helps-jury-convict-cocaine-trafficker"
 version: "1"
 ---
-
 # FinCEN Information Helps Jury Convict Cocaine Trafficker
 
 [Issue 21-story4.pdf](/system/files/case_example/Issue%2021-story4.pdf "Issue 21-story4.pdf")

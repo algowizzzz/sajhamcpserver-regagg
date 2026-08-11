@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/fr/donnees-formulaires/rapports-releves/produire-releve-financier/guides-production-releves-financiers/provisions-pour-pertes-credit-attendues-e3"
 version: "1"
 ---
-
 # Provisions pour pertes de credit attendues (E3)
 
 Information

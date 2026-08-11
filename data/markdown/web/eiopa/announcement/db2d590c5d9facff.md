@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/agenda-eu-us-public-forum-13-march-2020-now-available-2020-02-17_en"
 version: "1"
 ---
-
 ![Adobestock_international](/sites/default/files/styles/oe_theme_medium_no_crop/public/2020-01/adobestock_international.jpeg?itok=GIZ2Tm9S "Adobestock_international")
 
 **The** [Agenda](https://www.eiopa.europa.eu/content/agenda-eu-us-insurance-project-public-forum-13-march-2020-washington)****of the EU - U.S. Public Forum is now available on EIOPA website.****

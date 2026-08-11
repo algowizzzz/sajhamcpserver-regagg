@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.eiopa.europa.eu/eiopa-analyses-trends-cross-border-iorps-2021-12-03_en"
 version: "1"
 ---
-
 ![Occupational pensions statistics](/sites/default/files/styles/oe_theme_medium_no_crop/public/2021-06/adobestock_293444662-pensions-statistics.jpg?itok=Kte3JcUk "Occupational pensions statistics")
 
 The European Insurance and Occupational Pensions Authority (EIOPA) published today a report on developments in cross-border arrangements of Institutions for Occupational Retirement Provision (IORPs).

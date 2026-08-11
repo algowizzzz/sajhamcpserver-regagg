@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "https://www.fincen.gov/resources/statutes-regulations/administrative-rulings/fincen-issues-ruling-fin-2008-r003-whether"
 version: "1"
 ---
-
 # FinCEN Issues Ruling (FIN-2008-R003) on Whether a Person That is Engaged in the Business of Foreign Exchange Risk Management is a Currency Dealer or Exchanger or Money Transmitter
 
 [fin-2008-r003.pdf](/system/files/guidance/fin-2008-r003.pdf "fin-2008-r003.pdf")

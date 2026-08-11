@@ -7,7 +7,6 @@ source_kind: "web"
 source_url: "http://www.osfi-bsif.gc.ca/en/guidance/guidance-library/securities-lending-deposit-taking-institutions-guideline-1996"
 version: "1"
 ---
-
 # Securities Lending Deposit-taking institutions - Guideline (1996)
 
 Information
