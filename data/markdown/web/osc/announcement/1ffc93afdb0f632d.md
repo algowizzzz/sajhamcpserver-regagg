@@ -7,4 +7,18 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/purpose-us-dividend-fund-et-al"
 version: "1"
 ---
+# Purpose US Dividend Fund et al.
 
+Order
+
+## October 24, 2014
+
+Headnote
+
+Certain mutual funds designated as exchange-traded funds for the purposes of OSC Rule 48-501.
+
+Rules Cited
+
+Ontario Securities Commission Rule 48-501 Trading During Distributions, Formal Bids and Share Exchange Transactions, s. 1.1.
+
+### IN THE MATTER OF ONTARIO SECURITIES COMMISSION RULE 48-501 -- TRADING DURING DISTRIBUTIONS, FORMAL BIDS AND SHARE EXCHANGE TRANSACTIONS (Rule) AND IN THE MATTER OF PURPOSE US DIVIDEND FUND (ETF units and ETF non-currency hedged units), PURPOSE INTERNATIONAL DIVIDEND FUND (ETF units), PURPOSE INTERNATIONAL TACTICAL HEDGED EQUITY FUND (ETF shares) (the Funds)DESIGNATION ORDER (Section 1.1) **WHEREAS** each of the Funds is or will be listed on the Toronto Stock Exchange; **AND WHEREAS** under the Universal Market Integrity Rules (UMIR), each Fund is considered an Exempt Exchange-traded Fund that is not subject to prohibitions related to trading during certain securities transactions; **AND WHEREAS** the definition of "exchange-traded fund" in the Rule is substantially similar to the definition of Exempt Exchange-traded Fund in UMIR, and the purpose of the Rule and UMIR are substantially similar; **THE DIRECTOR HEREBY DESIGNATES** each of the Funds as an exchange-traded fund for the purposes of the Rule. **DATED** October 24, 2014 "Susan Greenglass" Director, Market Regulation

@@ -1,0 +1,24 @@
+---
+title: "Mega Precious Metals Inc. – s. 1(6) of the OBCA | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/mega-precious-metals-inc-s-16-obca"
+version: "1"
+---
+# Mega Precious Metals Inc. – s. 1(6) of the OBCA
+
+Order
+
+## August 18, 2015
+
+Headnote
+
+Applicant deemed to have ceased to be offering its securities to the public under the OBCA.
+
+Statutes Cited
+
+Business Corporations Act, R.S.O. 1990, c. B.16, as am., s. 1(6).
+
+#### IN THE MATTER OF THE BUSINESS CORPORATIONS ACT (ONTARIO), R.S.O. 1990, c. B.16, AS AMENDED (the "OBCA") AND IN THE MATTER OF MEGA PRECIOUS METALS INC. (the "Applicant" or "Mega")ORDER (Subsection 1(6) of the OBCA) **UPON** the application of the Applicant to the Ontario Securities Commission (the "**Commission**") for an order pursuant to subsection 1(6) of the OBCA to be deemed to have ceased to be offering its securities to the public; **AND UPON** the Applicant representing to the Commission that: 1. The Applicant is an "offering corporation" as defined in the OBCA, and has an authorized capital consisting of an unlimited number of common shares (the "**Mega Shares**"). 2. The head office of the Applicant is located at Royal Bank Plaza, North Tower, 200 Bay Street, Suite 2200, Toronto, ON M5J 2J3. 3. On June 22, 2015, Yamana Gold Inc. ("**Yamana**") completed the acquisition of Mega by way of plan of arrangement in accordance with Section 182 of the *Business Corporations Act* (Ontario) (the "**Arrangement**"). Pursuant to the Arrangement, Yamana acquired all of the issued and outstanding Mega Shares for consideration of 0.02092 of a common share of Yamana (each whole common share, a "**Yamana Share**") and C$0.001 in cash per Mega Share. Pursuant to the Arrangement, each option to acquire a Mega Share (a "**Mega Option**") outstanding immediately prior to the effective time of the Arrangement (the "**Effective Time**") will be exercisable following the Effective Time for 0.02122 of a Yamana Share in lieu of one Mega Share. Pursuant to the Arrangement, each holder of a warrant (a "**Mega Warrant**") of Mega outstanding immediately prior to the Effective Time will receive, upon the subsequent exercise or conversion of such holder's Mega Warrant(s) following the Effective Time: (A) 0.02092 of a Yamana Share, and (B) $0.001 in cash for each Mega Share such holder was otherwise entitled to receive under the Mega Warrant(s). The Arrangement was approved by the shareholders of Mega on June 17, 2015. Final court approval was received on June 19, 2015. 4. The only outstanding securities of the Applicant held by persons other than Yamana are the Mega Options and the Mega Warrants. 5. The outstanding securities of the Applicant, including debt securities, are beneficially owned, directly or indirectly, by fewer than 15 securityholders in each of the jurisdictions in Canada and fewer than 51 securityholders in total worldwide. 6. The Applicant does not have any debt securities outstanding. 7. The Mega Shares were delisted from the TSX Venture Exchange on June 24, 2015. 8. No securities of the Applicant, including debt securities, are traded in Canada or another country on a marketplace as defined in National Instrument 21-101 *Marketplace Operation* or any other facility for bringing together buyers and sellers of securities where trading data is publicly reported. 9. Pursuant to BC Instrument 11-502 *Voluntary Surrender of Reporting Issuer Status*, the British Columbia Securities Commission confirmed the Applicant's non-reporting issuer status in British Columbia effective July 13, 2015. 10. The Applicant is not in default of securities legislation in any jurisdiction. 11. The Applicant has no intention to seek public financing by way of an offering of securities. 12. On June 30, 2015, the Applicant made an application to the Ontario Securities Commission, as principal regulator on behalf of the securities regulatory authorities in Alberta, Saskatchewan, Manitoba, Ontario, Québec, New Brunswick, Nova Scotia, Prince Edward Island, and Newfoundland and Labrador for a decision that the Applicant is not a reporting issuer (the "**Reporting Issuer Relief Requested**"). 13. The Reporting Issuer Relief Requested was granted on July 22, 2015. As a result, the Applicant is not a reporting issuer or equivalent in any jurisdiction of Canada. **AND UPON** the Commission being satisfied that to do so would not be prejudicial to the public interest; **IT IS HEREBY ORDERED** by the Commission pursuant to subsection 1(6) of the OBCA that the Applicant be deemed to have ceased to be offering its securities to the public for the purpose of the OBCA. **DATED** at Toronto on this 18th day of August 2015. "Christopher Portner" Ontario Securities Commission "Judith Robertson" Ontario Securities Commission

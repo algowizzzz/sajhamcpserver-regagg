@@ -7,4 +7,48 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/authorization-order-s-353-8"
 version: "1"
 ---
+# Authorization Order - s. 3.5(3)
 
+Authorization Order
+
+## April 1, 2008
+
+**IN THE MATTER OF**
+
+**THE SECURITIES ACT,**
+
+**R.S.O. 1990, CHAPTER S.5, AS AMENDED**
+
+**(the "Act")**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**AN AUTHORIZATION PURSUANT**
+
+**TO SUBSECTION 3.5(3) OF THE ACT**
+
+**AUTHORIZATION ORDER**
+
+**(Subsection 3.5(3))**
+
+**WHEREAS** a quorum of the Ontario Securities Commission (the "Commission") may, pursuant to subsection 3.5(3) of the Act, in writing authorize any member of the Commission to exercise any of the powers and perform any of the duties of the Commission, except the power to conduct contested hearings on the merits.
+
+**AND WHEREAS,** by an authorization order made on April 4, 2007, pursuant to subsection 3.5(3) of the Act (the "Authorization") the Commission authorized each of W. David Wilson, James E. A. Turner, Lawrence E. Ritchie, Robert L. Shirriff, Harold P. Hands, Paul K. Bates and David L. Knight, acting alone, to exercise, subject to subsection 3.5(4) of the Act, the powers of the Commission to grant adjournments and set dates for hearings, to hear and determine procedural matters, and to make and give any orders, directions, appointments, applications and consents under sections 5, 11, 12, 17, 19, 20, 122, 126, 127, 128, 129, 144, 146 and 152 of the Act that the Commission is authorized to make and give, except the power to conduct contested hearings on the merits.
+
+**NOW, THEREFORE, IT IS ORDERED** that the Authorization is hereby revoked as of 5:00 p.m. on April 1, 2008; and
+
+**THE COMMISSION HEREBY AUTHORIZES**, pursuant to subsection 3.5(3) of the Act, each of W. David Wilson, James E. A. Turner, Lawrence E. Ritchie, Paul K. Bates and David L. Knight, acting alone, to exercise, subject to subsection 3.5(4) of the Act, the powers of the Commission to grant adjournments and set dates for hearings, to hear and determine procedural matters, and to make and give any orders, directions, appointments, applications and consents under sections 5, 11, 12, 17, 19, 20, 122, 126, 127, 128, 129, 144, 146 and 152 of the Act that the Commission is authorized to make and give, except the power to conduct contested hearings on the merits; and
+
+**THE COMMISSION FURTHER ORDERS** that this Authorization Order shall have full force and effect as at 5:00 p.m. on April 1, 2008 until revoked or such further amendment may be made.
+
+**DATED** at Toronto, this first day of April, 2008.
+
+"W. David Wilson"
+
+Chair
+
+"James E. A. Turner"
+
+Vice-Chair

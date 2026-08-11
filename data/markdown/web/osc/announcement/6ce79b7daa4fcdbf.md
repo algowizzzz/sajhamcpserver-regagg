@@ -1,0 +1,108 @@
+---
+title: "Dexit Inc. (formerly Posera -- HDX Inc.) -- s. 4(b) of the Regulation | OSC"
+regulator: "osc"
+doc_type: "announcement"
+status: "final"
+source_kind: "web"
+source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/dexit-inc-formerly-posera-hdx-inc-s-4b-regulation"
+version: "1"
+---
+# Dexit Inc. (formerly Posera -- HDX Inc.) -- s. 4(b) of the Regulation
+
+Consent
+
+## October 21, 2011
+
+Headnote
+
+Consent given to an offering corporation under the Business Corporations Act (Ontario) to continue under the Business Corporations Act (Alberta).
+
+**Statutes Cited**
+
+Business Corporations Act, R.S.O. 1990, c. B.16, as am., s. 181.
+
+Securities Act, R.S.O. 1990, c. S.5, as am.
+
+**Regulations Cited**
+
+Regulation made under the Business Corporations Act, O. Reg. 289/00, as am., s. 4(b).
+
+**IN THE MATTER OF**
+
+**R.R.O. 1990, REGULATION 289/00,**
+
+**AS AMENDED (THE "REGULATION")**
+
+**MADE UNDER THE**
+
+**BUSINESS CORPORATIONS ACT (ONTARIO)**
+
+**R.S.O. 1990, c. B.16, AS AMENDED**
+
+**(THE "OBCA")**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**DEXIT INC. (Formerly POSERA -- HDX INC.)**
+
+**CONSENT**
+
+**(Subsection 4(b) of the Regulation)**
+
+**UPON** the application of Dexit Inc. (formerly Posera -- DX Inc.) (the "**Applicant**") to the Ontario Securities Commission (the "**Commission**") requesting the consent of the Commission, pursuant to subsection 4(b) of the Regulation, for the Applicant to continue into the Province of Alberta pursuant to Section 181 of the OBCA;
+
+**AND UPON** considering the application and the recommendation of the staff of the Commission;
+
+**AND UPON** the Applicant having represented to the Commission that:
+
+> 1. The Applicant was formed by articles of amalgamation under the OBCA on January 1, 2010 pursuant to the amalgamation of Host Data Transaction Solutions Inc., Sabrepoint Inc., Sabrepoint Services Inc. and Biz-Pro Ltd. The Applicant's name was changed to Posera -- HDX Inc. pursuant to articles of amendment dated September 17, 2010. The Applicant's name was further changed to Dexit Inc. pursuant to articles of arrangement dated October 7, 2011.
+>
+> 2. The registered office of the Applicant is located at 350 Bay Street Suite 700, Toronto, Ontario, M5H 2S6.
+>
+> 3. The Applicant is authorized to issue an unlimited number of class A voting common shares (the "**Common Shares**") and class B non-voting common shares, of which 46,384,934 Common Shares were issued and outstanding at the close of business on August 18, 2011.
+>
+> 4. Until October 11, 2011, the Common Shares of the Applicant were listed and posted for trading on the Toronto Stock Exchange under the symbol "HDX".
+>
+> 5. The Applicant intends to apply (the "**Application for Continuance**") to the Director under the OBCA for authorization to continue under the *Business Corporations Act* (Alberta), B-9 RSA 2000, as amended (the "**ABCA**") pursuant to section 181 of the OBCA (the "**Continuance**").
+>
+> 6. Pursuant to subsection 4(b) of the Regulation, where an applicant corporation is an "offering corporation" (as defined in the OBCA), the Application for Continuance must be accompanied by a consent from the Commission.
+>
+> 7. The Applicant is an offering corporation under the OBCA and is a reporting issuer under the *Securities Act*, R.S.O. 1990, c. S.5, as amended (the "**Act**"). The Applicant is also a reporting issuer or its equivalent under the securities legislation of the provinces of British Columbia, Alberta, Saskatchewan, Manitoba, Quebec, New Brunswick, Nova Scotia, Prince Edward Island and Newfoundland (collectively, the "**Legislation**").
+>
+> 8. The Applicant is not in default under any provision of the OBCA and the Act, or any of the regulations or rules made thereunder, and is not in default under the securities legislation of any other jurisdiction in which it is a reporting issuer.
+>
+> 9. The Applicant is not a party to any proceeding or, to the best of its knowledge, information and belief, pending proceeding under the OBCA or under the Act.
+>
+> 10. A special meeting of the shareholders of the Applicant was held on September 20, 2011 (the "**Meeting**") to consider a special resolution in connection with the Continuance (the "**Continuance Resolution**"). The Continuance Resolution required the approval of not less than two-thirds of the aggregate votes cast by the shareholders present in person or by proxy at the Meeting, and was approved by 99.9% of the shareholders present in person or by proxy at the Meeting.
+>
+> 11. The management information circular of the Applicant dated August 19, 2011 (the "Circular"), which was provided to all securityholders of the Applicant in connection with the Meeting, advised the shareholders of their dissent rights in connection with the Continuance Resolution pursuant to section 185 of the OBCA and included a summary comparison of the differences between the OBCA and the ABCA. The Circular was mailed to securityholders of record at the close of business on August 9, 2011 and was filed on SEDAR on August 19, 2011.
+>
+> 12. The Continuance has been proposed in connection with a plan of arrangement (the "**Plan of Arrangement**") of the Applicant providing for a reorganization of the Applicant in anticipation of the sale of the shares of the Applicant, the particulars of which are set out in the Circular. The Plan of Arrangement was effected by articles of arrangement filed on October 7, 2011. Pursuant to the Plan of Arrangement on that date, each of the securityholders of the Applicant exchanged their securities of the Applicant for securities of a new corporation ("**New Posera -- HDX**") which became an offering corporation under the OBCA and became a "reporting issuer" under the Legislation in accordance with the Plan of Arrangement, such that the Applicant became a wholly owned subsidiary of New Posera -- HDX and the securityholders will not be affected by the continuance to the ABCA.
+>
+> 13. The Plan of Arrangement was also approved by shareholders at the Meeting. No shareholder exercised a right of dissent.
+>
+> 14. In order to complete the sale of the Applicant to the proposed purchaser following the completion of the Plan of Arrangement, the Applicant is expected to be required to have taken all necessary action to apply to be continued into Alberta immediately following the closing of such sale. The Continuance is necessary as following the implementation of the Plan of Arrangement and the subsequent sale of the Applicant, the proposed purchaser intends to immediately amalgamate the Applicant with an ABCA incorporated entity.
+>
+> 15. The material rights, duties and obligations of a corporation governed by the ABCA are substantially similar to those of a corporation governed by OBCA.
+>
+> 16. On October 4, 2011, the Commission previously consented to the continuance of Posera -- HDX Inc. as a corporation under the ABCA pursuant to section 181 of the OBCA (the "**Previous Consent**"). Since the Applicant's name was changed from Posera -- HDX Inc. to Dexit Inc. subsequent to the issuance of the Previous Consent, the Applicant has determined that it must now seek another consent to continue as a corporation into the Province of Alberta under its new name.
+
+**AND UPON** the Commission being satisfied that to do so would not be prejudicial to the public interest;
+
+**THE COMMISSION HEREBY CONSENTS** to the continuance of the Applicant as a corporation under the ABCA.
+
+**DATED** at Toronto, Ontario this 21st day of October, 2011.
+
+"Edward P. Kerwin"
+
+Commissioner
+
+Ontario Securities Commission
+
+"Judith Robertson"
+
+Commissioner
+
+Ontario Securities Commission

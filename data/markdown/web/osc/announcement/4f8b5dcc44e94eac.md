@@ -7,4 +7,114 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/kensington-apartments-limited-order"
 version: "1"
 ---
+# Kensington Apartments Limited - Order
 
+Order
+
+## February 18, 2005
+
+Headnote
+
+Owner of apartment building deemed to have ceased to be a reporting issuer under the Securities Act (Ontario) and deemed to have ceased to be offering its securities to the public under the Business Corporations Act (Ontario) - Occupants of apartments must purchase shares and enter into occupancy agreement - Shares not quoted or listed on a marketplace - Primary reason to own shares is to secure personal living space and not for investment purpose.
+
+**Applicable Ontario Statutory Provisions**
+
+Securities Act, R.S.O. 1990, c. S.5, as am., s. 83.
+
+Business Corporations Act, R.S.O. 1990, c. B.16, as am., s. 1(6).
+
+**IN THE MATTER OF**
+
+**THE SECURITIES ACT**
+
+**R.S.O 1990, CHAPTER S.5, AS AMENDED (the Act)**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**THE BUSINESS CORPORATIONS ACT**
+
+**R.S.O. 1990, CHAPTER B.16, AS AMENDED (the OBCA)**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**KENSINGTON APARTMENTS LIMITED**
+
+**ORDER**
+
+**UPON** the application of Kensington Apartments Limited (the Applicant) to the Ontario Securities Commission (the Commission) for an order pursuant to section 83 of the Act that the Applicant be deemed to have ceased to be a reporting issuer under the Act, and for an order pursuant to subsection 1(6) of the OBCA that the Applicant be deemed to have ceased to be offering its securities to the public for the purposes of the OBCA;
+
+**AND UPON** considering the application and the recommendation of the staff of the Commission;
+
+**AND UPON** the Applicant having represented to the Commission as follows:
+
+> 1. The Applicant is a corporation existing under the OBCA and was incorporated on September 4, 1970.
+>
+> 2. The Applicant was incorporated for the purpose of taking title to, and holding as bare trustee for the beneficial owners, the lands, premises and apartment building erected at 21 Dale Avenue, Toronto, Ontario (the Building).
+>
+> 3. The Applicant became a reporting issuer in Ontario on November 20, 1970 as a result of filing a prospectus qualifying the initial distribution of its shares to apartment occupants (the Original Prospectus).
+>
+> 4. The Applicant is not a reporting issuer in any other jurisdiction in Canada.
+>
+> 5. The authorized capital of the Applicant is fixed at 2,452 shares without par value (the Kensington Shares). There are currently 2,452 Kensington Shares issued and outstanding.
+>
+> 6. The Applicant originally offered all 2,452 authorized Kensington Shares pursuant to the Original Prospectus. The Applicant sold 1,862 Kensington Shares in this initial offering. The Applicant sold the remaining 590 Kensington Shares pursuant to an amended prospectus dated October 26, 1973 (the Amended Prospectus). As a result, all 2,452 authorized Kensington Shares were issued pursuant to offerings under either the Original Prospectus or the Amended Prospectus.
+>
+> 7. Other than the Kensington Shares, the Applicant does not have any securities, including debt securities, outstanding.
+>
+> 8. The Building is made up of 225 suites (the Apartment Suites). The Applicant maintains the common elements and provides common services for the benefit of owner occupants of the Apartment Suites (the Owner Occupants). The beneficial ownership of the Apartment Suites and the common elements are vested in the holders of the Kensington Shares, being the Owner Occupants.
+>
+> 9. There are currently 224 shareholders holding Kensington Shares, each of whom is an Owner Occupant of one of the 225 Apartment Suites. The Applicant holds eleven shares in trust, and as a result retains control over a two-bedroom suite which is occupied by the Superintendent of Kensington Towers.
+>
+> 10. The Applicant does not intend to seek financing by way of a future offering of securities of the Applicant.
+>
+> 11. The Kensington Shares are not quoted or listed on a marketplace as defined in National Instrument 21-101 *Marketplace Operation*.
+>
+> 12. There is no market for the Kensington Shares in and of themselves, and any market for the Kensington Shares is incidental to the real estate value associated with the right to occupy the Apartment Suites. The Applicant does not anticipate any market for the Kensington Shares themselves developing.
+>
+> 13. Pursuant to the standard form occupancy agreement entered into between each Owner Occupant and the Applicant (the Occupancy Agreement), the Owner Occupants covenant that they will not allow any person other than their own immediate family to use and enjoy the Apartment Suite. The Owner Occupants further agree to be bound by and comply with regulations established by the Applicant from time to time (the Regulations).
+>
+> 14. The Regulations place strict limits on the ability of Owner Occupants to assign or lease their Apartment Suites. Section 13 of the Regulations states that assignments of the right to occupy an Apartment Suite will only be permitted in exceptional circumstances, and empowers the Board of Directors to approve occupancy by someone other than the Owner Occupant where such occupancy is for a specific period of time and for a justifiable purpose. Such approval is rarely given, but has been given in the past, for example, where an individual is taking sabbatical leave from work and will be living away from the Building for a specific period of time. The purchase of the Kensington Shares by Owner Occupants is to secure personal living space, and not for the purpose of investment.
+>
+> 15. Secondary trades in Kensington Shares occur only in the event that that an Owner Occupant transfers his or her right to occupy an Apartment Suite to a new occupant. Purchasers of Kensington Shares, therefore, are restricted to those persons who will be Owner Occupants of an Apartment Suite. Consequently, the purchase price paid by the subsequent purchasers reflects the value of the right to occupy an Apartment Suite and is, therefore, essentially an investment in real estate. Pursuant to the Occupancy Agreement an Owner Occupant cannot assign, sell or pledge his or her Kensington Shares unless such Owner Occupant also assigns to the purchaser of such Kensington Shares the rights and obligations under the Occupancy Agreement. Pursuant to clause 10 of the Occupancy Agreement, in order to assign his or her rights and obligations under an Occupancy Agreement, the Owner Occupant must, among other things, obtain the consent of the majority of Directors of the Applicant.
+>
+> 16. In the event that an existing Owner Occupant chooses to sell his or her Apartment Suite, the Owner Occupant will market the Apartment Suite privately, likely through a real estate agent. Once the existing Owner Occupant has entered into an agreement of purchase and sale with a potential Owner Occupant, two members of the Board of Directors meet with the potential Owner Occupant to pre-approve the potential Owner Occupant. If the potential Owner Occupant is granted pre-approval, a Board meeting is called at which the Board of Directors may grant approval to the sale of the Apartment Suite to the potential Owner Occupant, and pass a resolution approving the transfer of Kensington Shares from the existing Owner Occupant to the potential Owner Occupant. At the closing of the purchase and sale transaction: (a) the existing Owner Occupant and potential Owner Occupant enter into an assignment agreement pursuant to which the potential Owner Occupant acquires all of the rights and obligations of the existing Owner Occupant; (b) the potential Owner Occupant executes an Occupancy Agreement; and (c) the existing Owner Occupant endorses his/her Kensington Shares and returns them to Kensington. Upon completion of the transaction, Kensington makes the required changes to the share register and issues a share certificate in respect of the transferred Kensington Shares in the name of the new Owner Occupant.
+>
+> 17. Kensington acknowledges that all secondary trades of Kensington Shares must be made either in reliance upon a registration exemption or through a registered dealer, and that the Owner Occupants are responsible for ensuring that subsequent trades are made in compliance with the Act.
+>
+> 18. Kensington will provide every Owner Occupant with a copy of this Order, and will draw the attention of the Owner Occupants to paragraph 17 of the Order, such that all Owner Occupants are aware that it is their responsibility to ensure that secondary trades of Kensington Shares are made either in reliance upon a registration exemption or through a registered dealer.
+>
+> 19. Pursuant to the Applicant's corporate by-laws, and as described in the Original Prospectus and Amended Prospectus, the Applicant is run as a non-profit cooperative. The anticipated yearly expenses of the Apartment Suites, including all taxes, insurance premiums, janitor wages, repairs to common elements, reserves, etc. are determined by the Board of Directors. Thereafter, the Board of Directors sets monthly carrying charges to be paid by the Owner Occupants in an amount sufficient to cover the anticipated yearly expenses. The Applicant carries on no other business activity other than the asset management of the Building and has no other sources of revenue other than the carrying charges paid by Owner Occupants.
+>
+> 20. Pursuant to subsection 22(3) of the OBCA, the holders of the Kensington Shares have the right to vote at all meetings of shareholders, and the right to receive the remaining property of the Applicant upon dissolution.
+>
+> 21. Pursuant to the OBCA, the Applicant is subject to various disclosure obligations in respect of its shareholders, including the obligation:
+>
+> > (a) to hold annual shareholders' meetings pursuant to subsection 94(1) of the OBCA;
+> >
+> > (b) to provide the shareholders with financial statements, prior to any annual shareholders' meeting, pursuant to subsection 154(1) of the OBCA; and
+> >
+> > (c) to allow the shareholders to examine the Applicant's records, including its articles and by-laws, minutes of meetings and resolutions of shareholders, the register of directors and securities register, pursuant to subsection 145(1) of the OBCA.
+>
+> 22. The Applicant is in default of the requirements of the Act or rules and regulations made thereunder. In particular the Applicant:
+>
+> > (a) has not filed certain interim certificates pursuant to Multilateral Instrument 52-109 *Certification of Disclosure in Issuers' Annual and Interim Filings* or certain MD&A pursuant to securities legislation; and
+> >
+> > (b) has not filed all interim financial statements as required by National Instrument 51-102 *Continuous Disclosure Obligations*.
+>
+> 23. Except as disclosed to the Commission by the Applicant in the representations, the Applicant is not in default of any requirement of the Act or the rules and regulations made thereunder.
+
+**AND UPON** the Commission being satisfied that to do so would not be prejudicial to the public interest.
+
+**IT IS ORDERED**, pursuant to section 83 of the Act, that the Applicant is deemed to have ceased to be a reporting issuer under the Act.
+
+**AND IT IS ORDERED**, pursuant to subsection 1(6) of the OBCA, that the Applicant is deemed to have ceased to be offering its securities to the public for the purposes of the OBCA.
+
+February 18, 2005.
+
+|  |  |
+| --- | --- |
+| "Paul Moore" | "David Knight" |

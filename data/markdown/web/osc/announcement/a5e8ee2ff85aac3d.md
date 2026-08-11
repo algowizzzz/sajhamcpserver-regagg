@@ -7,4 +7,24 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/mexican-gold-corp-s-4b-regulation"
 version: "1"
 ---
+# Mexican Gold Corp. – s. 4(b) of the Regulation
 
+Consent
+
+## January 14, 2020
+
+Headnote
+
+Consent given to an offering corporation under the Business Corporations Act (Ontario) to continue under Business Corporations Act (British Columbia).
+
+Statutes Cited
+
+Business Corporations Act, R.S.O. 1990, c.B.16, as am., s. 181.
+
+Securities Act, R.S.O. 1990, c.S.5, as am.
+
+Regulations Cited
+
+Regulation made under the Business Corporations Act, Ont. Reg. 289/00.
+
+#### IN THE MATTER OF R.R.O. 1990, REGULATION 289/00, AS AMENDED (the Regulation) UNDER THE *BUSINESS CORPORATIONS ACT* (ONTARIO), R.S.O. 1990 c. B.16, AS AMENDED (the OBCA) AND IN THE MATTER OF MEXICAN GOLD CORP.CONSENT (Subsection 4(b) of the Regulation) **UPON** the application of Mexican Gold Corp. (the **Applicant**) to the Ontario Securities Commission (the **Commission**) requesting the Commission's consent to the Applicant continuing in another jurisdiction pursuant to section 181 of the OBCA (the **Continuance**); **AND UPON** considering the application and the recommendation of the staff of the Commission; **AND UPON** the Applicant having represented to the Commission that: 1. The Applicant is an offering corporation under the OBCA. 2. The Applicant's common shares (the **Common Shares**) are listed and posted for trading on the TSX Venture Exchange (the **TSXV**) under the symbol "MEX". As at October 8, 2019, the Applicant's authorized capital consists of an unlimited number of Common Shares and an unlimited number of Preference Shares, of which 103,341,758 Common Shares are issued and outstanding. 3. The Applicant intends to apply to the Director pursuant to section 181 of the OBCA (the **Application for Continuance**) for authorization to continue as a corporation under the *Business Corporations Act* (British Columbia), S.B.C. 2002, c.57, as amended (the **BCBCA**). 4. The principal reason for the Application for Continuance is that the Applicant's principal place of business and half of its directors are located in British Columbia. In addition, management of the Applicant has determined that the Continuance will generate cost efficiencies to the operations of the Applicant. Following the Continuance, the Applicant's registered office, which is currently located in Ontario, will be relocated to British Columbia. 5. The material rights, duties and obligations of a corporation governed by the BCBCA are substantially similar to those of a corporation governed by the OBCA. 6. The Applicant is a reporting issuer under the *Securities Act*, R.S.O. 1990, c. S.5, as amended (the **Act**), the *Securities Act* (Alberta), R.S.A. 2000, c. S-4 and the *Securities Act* (British Columbia), R.S.B.C. 1996, C.418 (collectively, the **Legislation**) and will remain a reporting issuer in these jurisdictions following the Continuance. 7. The Applicant is not in default of any of the provisions of the OBCA, the Act or the Legislation, including the regulations made thereunder; 8. The Applicant is not subject to any proceeding under the OBCA, the Act or the Legislation. 9. The Applicant is not in default of any provision of the rules, regulations or policies of the TSXV. 10. Following the Continuance, the Applicant intends to change its principal regulator from the Commission to the British Columbia Securities Commission. 11. The Applicant's management information circular dated November 18, 2019 for its annual and special meeting of shareholders held on December 18, 2019 (the **Shareholders' Meeting**), described the proposed Continuance, the reasons for it and its implications as well as full particulars of the dissent rights of the Applicant's shareholders under section 185 of the OBCA and included a comparison of the corporate law differences between the OBCA and BCBCA. 12. The Applicant's shareholders authorized the Continuance at the Shareholders' Meeting by a special resolution approved by 99.23% of the votes cast. No shareholders exercised dissent rights pursuant to section 185 of the OBCA. 13. Subsection 4(b) of the Regulation requires the Application for Continuance be accompanied by a consent from the Commission. **AND UPON** the Commission being satisfied that to do so would not be prejudicial to the public interest; **THE COMMISSION CONSENTS** to the Continuance of the Applicant under the BCBCA. **DATED** at Toronto on this 14th day of January, 2020. "Heather Zordel" Commissioner Ontario Securities Commission "Mary Anne De Monte-Whelan" Commissioner Ontario Securities Commission

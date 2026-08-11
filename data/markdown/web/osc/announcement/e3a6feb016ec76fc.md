@@ -8,4 +8,80 @@ source_kind: "web"
 source_url: "https://www.osc.ca/en/securities-law/orders-rulings-decisions/alpha-ats-lp-s-151-ni-21-101-marketplace-operations-and-s"
 version: "1"
 ---
+# Alpha ATS LP -- s. 15.1 of NI 21-101 Marketplace Operations and s. 6.1 of Rule 13-502 Fees
 
+Order
+
+## February 24, 2011
+
+Headnote
+
+Section 15.1 of National Instrument 21-101 Marketplace Operation (NI 21-101) -- exemption granted from the requirement in subsection 6.4(2) of ni 21-101 to file an amendment to Form 21-101F2 45 days prior to the implementation of changes made to Form 21-101F2 regarding Exhibit G (Fees).
+
+**Applicable Legislative Provision**
+
+Securities Act, R.S.O. 1990, c. S.5, as am.
+
+National Instrument 21-101 Marketplace Operation, s. 15.1.
+
+Rule 13-502 Fees, s. 6.1.
+
+**IN THE MATTER OF**
+
+**THE SECURITIES ACT,**
+
+**R.S.O. 1990, c. S.5, AS AMENDED**
+
+**AND**
+
+**IN THE MATTER OF**
+
+**ALPHA ATS LP**
+
+**ORDER**
+
+**(Section 15.1 of National Instrument 21-101 *Marketplace Operation***
+
+**(NI 21-101) and section 6.1 of Rule 13-502 *Fees*)**
+
+**UPON** the application (the "Application") of Alpha ATS LP (the "Applicant") to the Director for an order pursuant to section 15.1 of NI 21-101 exempting the Applicant from the requirement in paragraph 6.4(2) to file an amendment to the information previously provided in Form 21-101F2 (the "Form") regarding Exhibit G (Fees) 45 days before implementation of the fee changes (the "45 day filing requirement");
+
+**AND UPON** the Applicant filing an updated Form F2 on February 15, 2011, describing a fee change to be implemented March 1, 2011 (the "Fee Change");
+
+**AND UPON** the application by the Applicant (the "Fee Exemption Application") to the Director for an order pursuant to section 6.1 of Rule 13-502 exempting the Applicant from the requirement to pay an activity fee of (a) $3,250 in connection with the Application in accordance with section 4.1 and item E(1) of Appendix C of OSC Rule13-502, and (b) $1,500 in connection with the Fee Exemption Application (Appendix C, item E(2)(a));
+
+**AND UPON** considering the Application and the Fee Exemption Application and the recommendation of staff of the Commission;
+
+**AND UPON** the Applicant having represented to the Director as follows.
+
+> 1. Alpha ATS LP is carrying on business as an alternative trading system and is registered as a dealer with the Ontario Securities Commission. It has received an exemption from registration in Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland, Nova Scotia, Prince Edward Island, Quebec, and Saskatchewan.
+>
+> 2. The Filer would like to implement changes to its fee schedule on March 1, 2011.
+>
+> 3. These changes are being implemented after consultation with subscribers of Alpha ATS and the notice required in the Subscriber Agreement.
+>
+> 4. The current multi-market trading environment requires frequent changes to the fees and fee model to remain competitive and it has become unduly burdensome to delay 45 days before responding to participants' needs and/or competitors' initiatives.
+>
+> 5. The policy rationale behind the 45 day filing requirement, which the Applicant understands is to provide Commission staff with an opportunity to analyze the changes and determine if any objections should be raised prior to implementation, can be met in a shorter period.
+>
+> 6. Given that the notice period was created prior to multi-marketplaces becoming a reality, and in light of the current competitive environment and the limited and highly technical nature of the exemption being sought, it would be unduly onerous to pay fees in these circumstances;
+
+**AND UPON** the Director being satisfied to do so would not be prejudicial to the public interest;
+
+**IT IS ORDERED** by the Director:
+
+> (a) pursuant to section 15.1 of NI 21-101 that the Applicant is exempted from the 45 day filing period for the Fee Change, and
+>
+> (b) pursuant to section 6.1 of OSC Rule 13-502 that the Applicant is exempted from:
+>
+> > (i) paying an activity fee of $3,250 in connection with the Application, and
+> >
+> > (ii) paying an activity fee of $1,500 in connection with the Fee Exemption Application.
+
+**DATED** this 24th day of February, 2011
+
+"Susan Greenglass"
+
+Director of Market Regulation
+
+Ontario Securities Commission
