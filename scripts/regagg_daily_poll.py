@@ -36,7 +36,12 @@ from pathlib import Path
 REPO = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(REPO))
 
-GIANTS = "fincen,osfi,csa,iais,fintrac"
+# Sources with huge sitemaps: run LAST and capped, so the daily pass stays a
+# daily pass. osc was missing from this list — it is the single biggest source
+# (~29k URLs) and ran UNCAPPED at its polite 0.5 rps, which turned the
+# 2026-08-10 scheduled run into a 14-hour crawl. Issue 7's design (500/day
+# slices that accrue) only works if osc is actually in the capped set.
+GIANTS = "fincen,osfi,csa,iais,fintrac,osc"
 
 
 def main() -> int:
