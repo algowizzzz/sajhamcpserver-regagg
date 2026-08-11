@@ -148,7 +148,8 @@ class SajhaMCPServerWebApp:
         from sajha.routes.mcp_routes import router as mcp_router
         from sajha.routes.health_routes import router as health_router
         from sajha.routes.prompts_routes import router as prompts_router
-        from sajha.routes.studio_routes import router as studio_router
+        # studio (tool-generator UI) removed in the webagg cleanup — this fork
+        # ships the Regulatory Intelligence Aggregator, not the SAJHA studio
         from sajha.routes.apikeys_routes import router as apikeys_router
         from sajha.routes.misc_routes import router as misc_router
         from sajha.routes.a2a_routes import router as a2a_router
@@ -177,7 +178,7 @@ class SajhaMCPServerWebApp:
         routers = [
             auth_router, dashboard_router, api_router, tools_router,
             admin_router, reporting_router, mcp_router, health_router,
-            prompts_router, studio_router, apikeys_router, misc_router,
+            prompts_router, apikeys_router, misc_router,
             a2a_router,
             ai_router,
             composite_router,
@@ -263,17 +264,6 @@ class SajhaMCPServerWebApp:
             'tool_execute': '/tools/{tool_name}/execute',
             'tool_schema': '/tools/{tool_name}/schema',
             'tool_config_page': '/tools/{tool_name}/config',
-            'studio_home': '/studio',
-            'studio.studio_home': '/studio',
-            'studio_rest': '/studio/rest',
-            'studio_dbquery': '/studio/dbquery',
-            'studio_script': '/studio/script',
-            'studio_livelink': '/studio/livelink',
-            'studio_olap': '/studio/olap',
-            'studio_powerbi': '/studio/powerbi',
-            'studio_powerbidax': '/studio/powerbidax',
-            'studio_sharepoint': '/studio/sharepoint',
-            'studio_examples': '/studio/examples',
             'reports_dashboard': '/reports',
         }
 

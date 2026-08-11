@@ -21,7 +21,7 @@ kb/
   09_BUILD_HISTORY.md           chronological, epic by epic
   10_DEPLOYMENT.md              on-prem deployment
   testing/
-    README.md                   index — 449 tests, how to run them
+    README.md                   index — 453 tests, how to run them
     01_PYTEST_SUITES.md         all 28 Python files, what each protects
     02_UI_SUITE.md              6 browser specs and the harness
     03_RESULTS.md               recorded runs and measurements
@@ -30,7 +30,10 @@ kb/
 
 ## Anything else in this repo
 
-`docs/` outside this folder, `test/`, and most of `sajha/tools/impl/` belong to
-the upstream **SAJHA MCP server** that this product is embedded in. They are not
-part of riskGPT and are left alone deliberately — `tools_registry.py` imports
-several of those implementations directly.
+As of the 2026-08-10 cleanup, there is no "anything else": the upstream SAJHA
+scaffolding this fork carried (examples, IR scrapers, OLAP engines, the studio,
+29 unregistered tool implementations, upstream docs/tests/clientsdk/deployment
+— 97 unreachable modules in all, measured by AST reachability from the server
+entrypoint) has been deleted. What remains is the webagg application plus the
+SAJHA runtime it actually uses: the FastAPI app, live routes, DB engine, tool
+registry, and `sajha/web/` templates (used by filesystem path, not import).
