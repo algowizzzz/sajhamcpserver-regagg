@@ -2,9 +2,9 @@
 
 **Audience:** the next developer or AI coding agent picking this up. Read this
 file, then the numbered files in order. You are **not** starting from scratch —
-this is a working, tested system holding 7,353 real documents.
+this is a working, tested system holding 26,368 real documents.
 
-Everything here was verified against the running system on **2026-08-09**. Where
+Everything here was verified against the running system on **2026-08-11**. Where
 a number appears, it came from the database or a test run, not from memory. If
 you find a claim that no longer holds, the claim is wrong — fix it here.
 
@@ -25,10 +25,10 @@ traces to a row you can open.
 
 | Dimension | Value |
 |---|---|
-| Corpus | **7,353** documents · 100% extracted · 63% carry a publication date |
+| Corpus | **26,368** documents — tripled by the 2026-08-10 scheduled run. **Enrichment is diluted**: 28% extracted, 19% dated. The backfill scripts (`regagg_extract_backfill.py`, `regagg_backfill_dates.py`) were run to 100%/63% on the pre-existing 7k and must be re-run over the ~19k new documents |
 | Sources | **55** — 30 regulators + 25 news wires |
-| Versions on file | 7,536 (append-only history) |
-| Collection runs recorded | 157 |
+| Versions on file | 27,789 (append-only history) |
+| Collection runs recorded | 221 |
 | Personas | 12 |
 | Database tables | 15 `reg_*` tables, SQLite dev / Postgres on-prem |
 | Python tests | **377**, `./.venv/bin/python -m pytest tests/regagg -q` (~8s) |
@@ -36,7 +36,7 @@ traces to a row you can open.
 | MCP tools | 24 — 12 `reg_*` + 10 `corpus_*` + 2 `notepad_*` |
 | Server | `./.venv/bin/python run_server.py --port 3005` → UI at `/api/regagg/ui` |
 | Branch | `feat/regagg-aggregator`, pushed · remote `mine` = algowizzzz/sajhamcpserver-regagg |
-| Last pushed | `1c37f559` — 2026-08-09. `main` on the fork tracks the same commit |
+| Last pushed | 2026-08-11; local branch `feat/regagg-aggregator` pushes to `main` on the fork |
 
 > **Two remotes.** `mine` is the fork this work lives on. `origin` is the
 > upstream SAJHA project (ajsinha/sajhamcpserver) — **never push there**; this
