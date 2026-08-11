@@ -1,4 +1,4 @@
-# Python suites — 373 tests
+# Python suites — 377 tests
 
 ```bash
 ./.venv/bin/python -m pytest tests/regagg -q        # all, ~7s
@@ -26,7 +26,7 @@ over `tests/fixtures/`.
 *Protects:* a source silently changing its HTML and yielding zero documents
 while the run still reports success.
 
-### `test_fetch.py` — 4
+### `test_fetch.py` — 8
 html→md; **PDF detected by magic bytes** (a bot block page served as `.pdf`
 regressed this once); URL-title humaniser.
 

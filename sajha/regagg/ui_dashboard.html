@@ -2042,11 +2042,12 @@ function renderAskMsg(m,mi){
   const cite=n=>{used.add(n);
     return `<span class="cite" onclick="askOpenSrc(${mi},${n})"
       title="${esc((srcs[n-1]||{}).title||"open source")}">${n}</span>`;};
-  let html=esc(m.text)
-    .replace(/^#{2,3} (.+)$/gm,'<b>$1</b>')
-    .replace(/\*\*(.+?)\*\*/g,'<b>$1</b>')
-    .replace(/^- /gm,'· ')
-    .replace(/\n/g,'<br>')
+  // The answer is markdown and the worker writes real markdown — tables of
+  // risk weights, numbered paragraphs, code. This used to be bold-and-<br>
+  // only, so a table arrived as a wall of raw pipes and the reader had to
+  // parse it by eye. md2html is the same renderer the document drawer uses:
+  // one implementation, so the two cannot drift.
+  let html=md2html(m.text)
     .replace(/\[(\d+)\]/g,(s,n)=>srcs[+n-1]?cite(+n):s)
     // A citation we cannot resolve still means the sentence was grounded, so
     // it degrades to a marker that opens the document by id rather than being

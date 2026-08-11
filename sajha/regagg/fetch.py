@@ -42,15 +42,58 @@ class FetchResult:
     ocr: bool = False
 
 
+def _best_container(soup):
+    """The element that actually holds the document — chosen by content.
+
+    This was `soup.find("main") or soup.find("article") or soup.body`, which
+    takes the FIRST matching tag regardless of what is in it. On OSC the first
+    `<article>` is a search widget holding the word "Search", so every OSC page
+    converted to six characters and was stored with an empty body: **10,560
+    documents, 100% of the source**, each with 280 KB of perfectly good
+    `raw.html` sitting beside it. RBI was the same, and the corpus reported
+    19,761 documents when more than half were titles with nothing under them.
+
+    Tag order is not evidence. How much of the page an element actually holds
+    is. A semantic container is preferred — it is the one that drops the
+    sidebars — but only when it carries most of the text; `<body>` trivially
+    contains everything, so raw length alone would always pick it and every
+    page would come back with its chrome attached.
+    """
+    body = soup.body or soup
+    body_len = len(body.get_text(" ", strip=True))
+    if not body_len:
+        return body
+
+    best, best_len = None, 0
+    for el in soup.find_all(["main", "article"]):
+        n = len(el.get_text(" ", strip=True))
+        if n > best_len:
+            best, best_len = el, n
+
+    # A container holding under half the page is a widget, not the document.
+    return best if best is not None and best_len >= body_len * 0.5 else body
+
+
 def html_to_md(html: str) -> Tuple[str, Optional[str]]:
     """Convert HTML to markdown, stripping boilerplate. Returns (md, title)."""
     soup = BeautifulSoup(html, "html.parser")
     title = soup.title.get_text(strip=True) if soup.title else None
     for tag in soup(["script", "style", "noscript", "nav", "header", "footer", "form"]):
         tag.decompose()
-    main = soup.find("main") or soup.find("article") or soup.body or soup
+    main = _best_container(soup)
     md = _md(str(main), heading_style="ATX", strip=["a"] if False else None)
     md = re.sub(r"\n{3,}", "\n\n", md).strip()
+
+    # Last line of defence. Storing nothing when the page plainly had text is
+    # the failure that hid for 10,560 documents: an empty body is
+    # indistinguishable from a page that genuinely had none, and nothing
+    # downstream can tell the difference.
+    if not md:
+        whole = BeautifulSoup(html, "html.parser")
+        for tag in whole(["script", "style", "noscript"]):
+            tag.decompose()
+        md = re.sub(r"\n{3,}", "\n\n",
+                    _md(str(whole.body or whole), heading_style="ATX")).strip()
     return md, title
 
 
