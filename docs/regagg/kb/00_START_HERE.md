@@ -112,11 +112,23 @@ Each of these cost a real bug. `08_KNOWN_ISSUES_AND_ROADMAP.md` has the stories.
 
 ```bash
 cd <repo>
+python3 -m venv .venv                                 # fresh machine: no venv in git
+./.venv/bin/pip install -r requirements.txt
 ./.venv/bin/python -m scripts.regagg_migrate          # ensure reg_* tables
 DEEPSEEK_API_KEY=<key> REGAGG_SECRET=<secret> \
   ./.venv/bin/python run_server.py --port 3005
 open http://localhost:3005/api/regagg/ui
 ```
+
+**On a fresh machine there are no accounts** — `data/sajha.db` is not in git.
+Click "Create one" and sign up; **the first account becomes admin**. Ignore
+the legacy SAJHA login at `/` (admin/admin123 from `config/users.json`) — that
+is the shell this app is embedded in, not the app.
+
+Fresh-clone state: chat and document reading work immediately (the markdown
+corpus is tracked); dashboard counts start near zero until the first
+collection run fills the SQLite index; the raw archive (~5 GB) is not in git
+and rebuilds by re-collecting.
 
 Then `./.venv/bin/python -m pytest tests/regagg -q` should print **377 passed**.
 
